@@ -1,4 +1,4 @@
-﻿using Celeste;
+using Celeste;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
@@ -201,19 +201,31 @@ namespace TAS {
 		private void ReadFile(string extraFile, int lines) {
 			int index = extraFile.IndexOf(',');
 			string filePath = index > 0 ? extraFile.Substring(0, index) : extraFile;
+			if (!File.Exists(filePath)) {
+				string[] files = Directory.GetFiles(Directory.GetCurrentDirectory(), $"{filePath}*.tas");
+				filePath = (files.GetValue(0)).ToString();
+				if (!File.Exists(filePath)) { return; }
+			}
 			int skipLines = 0;
 			int lineLen = int.MaxValue;
 			if (index > 0) {
 				int indexLen = extraFile.IndexOf(',', index + 1);
 				if (indexLen > 0) {
-					int.TryParse(extraFile.Substring(index + 1, indexLen - index - 1), out skipLines);
-					int.TryParse(extraFile.Substring(indexLen + 1), out lineLen);
+					string startLine = extraFile.Substring(index + 1, indexLen - index - 1);
+					string endLine = extraFile.Substring(indexLen + 1);
+					if (!int.TryParse(startLine, out skipLines)) {
+						skipLines = GetLine(startLine, filePath);
+					}
+					if (!int.TryParse(endLine, out lineLen)) {
+						lineLen = GetLine(endLine, filePath);
+					}
 				} else {
-					int.TryParse(extraFile.Substring(index + 1), out skipLines);
+					string startLine = extraFile.Substring(index + 1);
+					if (!int.TryParse(startLine, out skipLines)) {
+						skipLines = GetLine(startLine, filePath);
+					}
 				}
 			}
-
-			if (!File.Exists(filePath)) { return; }
 
 			int subLine = 0;
 			using (StreamReader sr = new StreamReader(filePath)) {
@@ -240,6 +252,19 @@ namespace TAS {
 						inputs.Add(input);
 					}
 				}
+			}
+		}
+		private int GetLine(string label, string path) {
+			int curLine = 0;
+			using (StreamReader sr = new StreamReader(path)) {
+				while (!sr.EndOfStream) {
+					curLine++;
+					string line = sr.ReadLine();
+					if (line.StartsWith("#" + label)) {
+						return curLine;
+					}
+				}
+				return int.MaxValue;
 			}
 		}
 	}

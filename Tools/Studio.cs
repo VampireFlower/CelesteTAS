@@ -56,16 +56,6 @@ namespace CelesteStudio {
 					tasText.OpenFile();
 				} else if (e.Modifiers == Keys.Control && e.KeyCode == Keys.K) {
 					CommentText();
-				} else if (e.Modifiers == Keys.Control && e.KeyCode == Keys.T) {
-					int height = statusBar.Height;
-					int increase = 18;
-					if (height == 44) {
-						statusBar.Height += increase;
-						tasText.Height -= increase;
-					} else {
-						statusBar.Height -= increase;
-						tasText.Height += increase;
-					}
 				}
 			} catch (Exception ex) {
 				MessageBox.Show(this, ex.ToString(), "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -158,6 +148,8 @@ namespace CelesteStudio {
 				tasText.Focus();
 			} else {
 				lblStatus.Text = "Searching...";
+				tasText.Height += statusBar.Height - 22;
+				statusBar.Height = 22;
 			}
 		}
 		public void UpdateValues() {
@@ -229,6 +221,21 @@ namespace CelesteStudio {
 				lblStatus.Text = "(" + (currentFrame > 0 ? currentFrame + "/" : "") + totalFrames + ") " + memory.TASPlayerOutput() + '[' + memory.LevelName() + ']';
 			} else {
 				lblStatus.Text = "(" + totalFrames + ")\r\nSearching...";
+			}
+			string text = lblStatus.Text;
+			int totalLines = 0;
+			int index = 0;
+			while ((index = text.IndexOf('\n', index) + 1) > 0) {
+				totalLines++;
+			}
+			if (text.LastIndexOf('\n') + 1 < text.Length) {
+				totalLines++;
+			}
+			totalLines = totalLines * 18;
+			totalLines = totalLines < 22 ? 22 : totalLines;
+			if (statusBar.Height - totalLines != 0) {
+				tasText.Height += statusBar.Height - totalLines;
+				statusBar.Height = totalLines;
 			}
 		}
 		private void tasText_TextChanged(object sender, TextChangedEventArgs e) {

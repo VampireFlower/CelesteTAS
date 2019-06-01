@@ -96,7 +96,9 @@ public static void Start(Action method, string name, bool highPriority = false)
 ---------------------------------------------------------------------------------
 Changed a few fields/methods to public vs private.
 Celeste.Player.dashCooldownTimer
+Celeste.Player.JumpGraceTimer
 Celeste.Player.WallJumpCheck(int dir)
+Celeste.Strawberry.collectTimer
 Celeste.SummitVignette.ready
 Monocle.MInput.UpdateVirtualInputs()
 ----------------------------------------------------------------------------------

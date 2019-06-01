@@ -1,10 +1,11 @@
-﻿using Celeste;
+using Celeste;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Input;
 using Monocle;
 using System;
 using System.Globalization;
 using System.Text;
+using System.Collections.Generic;
 namespace TAS {
 	[Flags]
 	public enum State {
@@ -54,9 +55,15 @@ namespace TAS {
 				if (player != null) {
 					chapterTime = level.Session.Time;
 					if (chapterTime != lastTimer || lastPos != player.ExactPosition) {
-						string statuses = ((int)(player.dashCooldownTimer * 60f) < 1 && player.Dashes > 0 ? "Dash " : string.Empty) + (player.LoseShards ? "Ground " : string.Empty) + (player.WallJumpCheck(1) ? "Wall-R " : string.Empty) + (player.WallJumpCheck(-1) ? "Wall-L " : string.Empty);
+						string pos = ("Pos: ") + player.ExactPosition.X.ToString("0.00") + (',') + player.ExactPosition.Y.ToString("0.00");
+						string speed = ("Speed: ") + (player.Speed.X.ToString("0.00")) + (',') + (player.Speed.Y.ToString("0.00"));
 						Vector2 diff = (player.ExactPosition - lastPos) * 60;
+						string vel = ("Vel: ") + (diff.X.ToString("0.00")) + (',') + (diff.Y.ToString("0.00"));
+						string polarvel = ("     ") + (diff.Length().ToString("0.00")) + (',') + (GetAngle(diff).ToString("0.00")) + "°";
+						string miscstats = ("Stamina: ") + (player.Stamina.ToString("0")) + (" Timer: ") + (((double)chapterTime / (double)10000000).ToString("0.000"));
 
+						string statuses = ((int)(player.dashCooldownTimer * 60f) < 1 && player.Dashes > 0 ? "Dash " : string.Empty) + (player.LoseShards ? "Ground " : string.Empty) + (player.WallJumpCheck(1) ? "Wall-R " : string.Empty) + (player.WallJumpCheck(-1) ? "Wall-L " : string.Empty) + (!player.LoseShards && player.jumpGraceTimer > 0 ? "Coyote " : string.Empty);
+						statuses = ((player.InControl && !level.Transitioning ? statuses : "NoControl ") + (player.TimePaused ? "Paused " : string.Empty) + (level.InCutscene ? "Cutscene " : string.Empty));
 						if (player.Holding == null) {
 							foreach (Component component in level.Tracker.GetComponents<Holdable>()) {
 								Holdable holdable = (Holdable)component;
@@ -67,13 +74,27 @@ namespace TAS {
 							}
 						}
 
+						int berryTimer = -10;
+						Follower firstRedBerryFollower =
+							player.Leader.Followers.Find(follower => follower.Entity is Strawberry berry && !berry.Golden);
+						if (firstRedBerryFollower?.Entity is Strawberry firstRedBerry) {
+							berryTimer = (int)Math.Round(60f * firstRedBerry.collectTimer);
+						}
+						string timers = (berryTimer != -10 ? $"BerryTimer: {berryTimer.ToString()} " : string.Empty) + ((int)(player.dashCooldownTimer * 60f) != 0 ? $"DashTimer: {((int)Math.Round(player.dashCooldownTimer * 60f)-1).ToString()} " : string.Empty);
+
 						StringBuilder sb = new StringBuilder();
-						sb.Append("Pos: ").Append(player.ExactPosition.X.ToString("0.0", enUS)).Append(',').AppendLine(player.ExactPosition.Y.ToString("0.0", enUS));
-						sb.Append("Speed: ").Append(player.Speed.X.ToString("0.00", enUS)).Append(',').Append(player.Speed.Y.ToString("0.00", enUS)).Append(',').AppendLine(player.Speed.Length().ToString("0.00", enUS));
-						sb.Append("Vel: ").Append(diff.X.ToString("0.00", enUS)).Append(',').Append(diff.Y.ToString("0.00", enUS)).Append(',').AppendLine(diff.Length().ToString("0.00", enUS));
-						sb.Append("Stamina: ").Append(player.Stamina.ToString("0")).Append(" Timer: ").AppendLine(((double)chapterTime / (double)10000000).ToString("0.000", enUS));
-						sb.Append(player.InControl && !level.Transitioning ? statuses : "NoControl ").Append(player.TimePaused ? "Paused " : string.Empty).Append(level.InCutscene ? "Cutscene " : string.Empty);
-						PlayerStatus = sb.ToString();
+						sb.AppendLine(pos);
+						sb.AppendLine(speed);
+						sb.AppendLine(vel);
+						if (player.StateMachine.State == 19 || SaveData.Instance.Assists.ThreeSixtyDashing || SaveData.Instance.Assists.SuperDashing) {
+							sb.AppendLine(polarvel);
+						}
+						sb.AppendLine(miscstats);
+						if (!string.IsNullOrEmpty(statuses)) {
+							sb.AppendLine(statuses);
+						}
+						sb.Append(timers);
+						PlayerStatus = sb.ToString().TrimEnd();
 						lastPos = player.ExactPosition;
 						lastTimer = chapterTime;
 					}
@@ -86,6 +107,14 @@ namespace TAS {
 				PlayerStatus = string.Concat("Overworld ", overworld.ShowInputUI);
 			} else if (Engine.Scene != null) {
 				PlayerStatus = Engine.Scene.GetType().Name;
+			}
+		}
+		public static float GetAngle(Vector2 vector) {
+			float angle = 360f/6.283186f*Calc.Angle(vector);
+			if (angle < -90.01f) {
+				return 450f + angle;
+			} else {
+				return 90f + angle;
 			}
 		}
 		public static void UpdateInputs() {
@@ -301,13 +330,13 @@ namespace TAS {
 				MInput.GamePads[0].Attached = true;
 			}
 
-            if (input.HasActions(Actions.Confirm)) {
-                MInput.Keyboard.CurrentState = new KeyboardState(Keys.Enter);
-            } else {
-                MInput.Keyboard.CurrentState = new KeyboardState();
-            }
+			if (input.HasActions(Actions.Confirm)) {
+				MInput.Keyboard.CurrentState = new KeyboardState(Keys.Enter);
+			} else {
+				MInput.Keyboard.CurrentState = new KeyboardState();
+			}
 
-            MInput.UpdateVirtualInputs();
+			MInput.UpdateVirtualInputs();
 		}
 	}
 }
