@@ -124,6 +124,7 @@ namespace TAS {
 				currentFrame++;
 			}
 			Manager.SetInputs(Current);
+			Manager.serial.Update();
 		}
 		public void RecordPlayer() {
 			InputRecord input = new InputRecord() { Line = inputIndex + 1, Frames = currentFrame };

@@ -50,6 +50,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Serial.cs" />
     <Compile Include="InputController.cs" />
     <Compile Include="InputRecord.cs" />
     <Compile Include="Manager.cs" />

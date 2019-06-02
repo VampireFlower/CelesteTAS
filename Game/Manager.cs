@@ -18,6 +18,7 @@ namespace TAS {
 	public class Manager {
 		public static bool Running, Recording;
 		private static InputController controller = new InputController("Celeste.tas");
+		public static Serial serial = new Serial(0x0B07, 0x07A5);
 		public static State state, nextState;
 		public static string CurrentStatus, PlayerStatus;
 		public static int FrameStepCooldown, FrameLoops = 1;
