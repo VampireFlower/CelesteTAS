@@ -8,27 +8,30 @@
    1,D
    1,J
   70
+   1,J
    1,D
-   1,F,180
+   1,L
    1,J
+   1,L
+   1,F,270
+   1,L
    1,U
-   1,R
-   1,U
-   1,R
-   1,F,90
-   1,R
-   1,F,90
-   1,R
-   1,J
    1,L
    1,F,270
    1,L
    1,J
    1,R
    1,F,90
-   1,D
    1,R
    1,F,90
+   1,R
+   1,J
+   1,R
+   1,J
+   1,L
+   1,F,270
+   1,L
+   1,F,270
    1,J
    1,S
   49
@@ -51,40 +54,12 @@ Read,0 - Prologue.tas,lvl_0
    1,J
  136
 
-Read,1SH0,lvl_1
+Read,1SH,lvl_1
 
-#Reenter City
+#Old Site
  165
    1,J
  275
-   1,L
-  12
-   1,J
-  41
-   1,J
-  30
-   1,R
-   1,J
-  46
-
-Read,1SH1,lvl_6
-
-  52
-   1,J
-  30
-   1,R
-   1,F,90
-   1,J
-  46
-
-Read,1SH2,lvl_9b
-
-#Old Site
-  52
-   1,X
-  40
-   1,R
-  12
    1,J
   41
    1,J
