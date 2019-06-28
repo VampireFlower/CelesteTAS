@@ -1,33 +1,45 @@
 ﻿using System;
+using System.IO;
 using Celeste;
 using System.IO.Ports;
 
 namespace TAS {
 	public enum SerialButtons {
-		R = 0x10,
+		//These should be ascending from 0x10 to 0x8000, but somehow the data sent to TAStm32 is completely out of order
+		R = 0x40,
 		L = 0x20,
-		X = 0x40,
-		A = 0x80,
-		Right = 0x100,
-		Left = 0x200,
-		Down = 0x400,
-		Up = 0x800,
-		Start = 0x1000,
-		Select = 0x2000,
-		Y = 0x4000,
-		B = 0x8000
+		X = 0x100,
+		A = 0x10,
+		Right = 0x200,
+		Left = 0x400,
+		Down = 0x800,
+		Up = 0x1000,
+		Start = 0x2000,
+		Select = 0x4000,
+		Y = 0x80,
+		B = 0x8
 	}
 	public class Serial {
 		public static SerialPort serialPort;
-		private readonly char[] setupData = new char[] { 'S', 'A', 'S', (char)0x80, (char)0x00 };
-		private readonly char[] frameAdvance = new char[] { 'L', 'A' };
+		private readonly byte[] setupData = new byte[] { (byte)'R', (byte)'S', (byte)'A', (byte)'S', 0x80, 0x00 };
+		private readonly byte[] frameAdvance = new byte[] { (byte)'L', (byte)'A' };
+		private readonly byte[] startFrame = new byte[] { (byte)'A' };
 		public int device_vid;
 		public int device_pid;
 		private bool initialized;
 		private bool portExists = true;
+		private InputRecord currentInputs;
 		public Serial(int vid, int pid) {
 			device_vid = vid;
 			device_pid = pid;
+		}
+		public void Update(InputRecord inputs) {
+			this.currentInputs = inputs;
+			//This shouldn't ever fail but we can't have it crashing the game if it does
+			try {
+				this.Update();
+			}
+			catch { }
 		}
 		public void Update() {
 			if (!portExists)
@@ -42,39 +54,45 @@ namespace TAS {
 					return;
 				}
 			if (!this.initialized) {
-				serialPort.Write("R");
-				serialPort.Write(setupData, 0, 5);
+				byte[] setup = new byte[] { (byte)'R', (byte)'S', (byte)'A', (byte)'S', 0x80, 0x00 };
+				serialPort.Write(setup, 0, 6);
 				this.initialized = true;
 			}
 			else
 				serialPort.Write(frameAdvance, 0, 2);
-
-			serialPort.Write(ConvertCurrentInputs(), 0, 3);	
+			serialPort.Write(startFrame, 0, 1);
+			serialPort.Write(ConvertCurrentInputs(currentInputs), 0, 2);
 		}
 		private void PortSetup() {
-			serialPort = new SerialPort();
-			serialPort.PortName = "COM1";
-			serialPort.BaudRate = 9600;
-			serialPort.StopBits = (StopBits)1;
-			serialPort.Parity = 0;
-			serialPort.DataBits = 8;
+			//Yeah we shouldn't manually specify a COM port
+			//I tried the obvious solution of just connecting to whatever COM port exists, but that broke TAStm32 for some reason
+			serialPort = new SerialPort("COM3");
 			serialPort.Open();
-
 		}
-		private byte[] ConvertCurrentInputs() {
+		private byte[] ConvertCurrentInputs(InputRecord input) {
 			ushort frameInputs = 0;
-			if (Input.Jump.Check || Input.MenuConfirm.Check) { frameInputs += (ushort)SerialButtons.A; }
-			if (Input.Dash.Check || Input.MenuCancel.Check || Input.Talk.Check) { frameInputs += (ushort)SerialButtons.B; }
-			if (Input.Grab.Check) { frameInputs += (ushort)SerialButtons.Y; }
-			if (Input.Pause.Check) { frameInputs += (ushort)SerialButtons.Start; }
-			if (Input.MenuLeft.Check || Input.MoveX.Value < 0) { frameInputs += (ushort)SerialButtons.Left; }
-			if (Input.MenuRight.Check || Input.MoveX.Value > 0) { frameInputs += (ushort)SerialButtons.Right; }
-			if (Input.MenuUp.Check || Input.MoveY.Value < 0) { frameInputs += (ushort)SerialButtons.Up; }
-			if (Input.MenuDown.Check || Input.MoveY.Value > 0) { frameInputs += (ushort)SerialButtons.Down; }
-			byte[] inputBytes = new byte[3];
-			inputBytes[0] = (byte)'A';
-			Array.Copy(BitConverter.GetBytes(frameInputs), 0, inputBytes, 1, 2);
-			return inputBytes;
+			if (input.HasActions(Actions.Jump))
+				frameInputs += (ushort)SerialButtons.A;
+			if (input.HasActions(Actions.Jump2))
+				frameInputs += (ushort)SerialButtons.X;
+			if (input.HasActions(Actions.Dash) || input.HasActions(Actions.Dash2))
+				frameInputs += (ushort)SerialButtons.B;
+			if (input.HasActions(Actions.Grab))
+				frameInputs += (ushort)SerialButtons.Y;
+			if (input.HasActions(Actions.Start))
+				frameInputs += (ushort)SerialButtons.Start;
+			if (input.HasActions(Actions.Left))
+				frameInputs += (ushort)SerialButtons.Left;
+			if (input.HasActions(Actions.Right))
+				frameInputs += (ushort)SerialButtons.Right;
+			if (input.HasActions(Actions.Up))
+				frameInputs += (ushort)SerialButtons.Up;
+			if (input.HasActions(Actions.Down))
+				frameInputs += (ushort)SerialButtons.Down;
+
+			byte[] bytes = BitConverter.GetBytes(frameInputs);
+			//BitConverter gets bytes in little endian
+			return new byte[] { bytes[1], bytes[0] };
 		}
 	}
 }
