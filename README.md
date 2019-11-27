@@ -14,6 +14,7 @@ The easiest version to install is the [Everest version](https://github.com/Evere
 
 ### Syncing the 100% TAS
 - Copy the contents of the LevelFiles folder into the main Celeste directory.
+- If you haven't unlocked Variants (completed 8C), uncomment the read command on line 161 of 0 - 100%.tas
 - Either rename 0 - 100%.tas to Celeste.tas or open 0 - 100%.tas in Celeste Studio. (Ctrl + O)
 - Use Celeste version 1.3.1.2 (current patch as of writing)
 - Any build of Celeste should work, although we have not tested on Mac.
