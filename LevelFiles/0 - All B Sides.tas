@@ -2,37 +2,37 @@
 
 Read,StartFullGameFile
 
-Read,LoadEnableCheatMode,Start
+Read,LoadEnableCheatMode
 
 Read,LoadBCheatMode,SelectB
 
 Read,1B,Start
 
-Read,LoadBCheatMode,Start
+Read,LoadBCheatMode
 
 Read,2B,Start
 
-Read,LoadBCheatMode,Start
+Read,LoadBCheatMode
 
 Read,3B,Start
 
-Read,LoadBCheatMode,Start
+Read,LoadBCheatMode
 
 Read,4B,Start
 
-Read,LoadBCheatMode,Start
+Read,LoadBCheatMode
 
 Read,5B,Start
 
-Read,LoadBCheatMode,Start
+Read,LoadBCheatMode
 
 Read,6B,Start
 
-Read,LoadBCheatMode,Start
+Read,LoadBCheatMode
 
 Read,7B,Start
 
-Read,LoadBCheatMode,Start,Core
+Read,LoadBCheatMode,0,Core
    1,R
    9
 Read,LoadBCheatMode,Core
