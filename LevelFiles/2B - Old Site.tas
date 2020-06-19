@@ -56,9 +56,10 @@ console hard 2
  
 #lvl_02b
    1,K
-  11,L,J
-  12,R,K
-  10,R,X
+  10,L,J
+  11,R,U,X
+   1,R,J,G
+   9,R
    7,R,J
   22,R,X
    4,R,J
@@ -72,6 +73,7 @@ console hard 2
   20,R,K
   35,U,X
   40
+ 
  
 #lvl_02
    7
