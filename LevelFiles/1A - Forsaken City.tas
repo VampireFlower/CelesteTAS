@@ -31,14 +31,14 @@ console load 1
    1,R,J
    2
    4,R
-   7,R,J
-   1,J
+   7,R,D,J
+   1,R,J
    1,R,K,G
   13,R,U,X
-   5,R,J,G
+   4,R,J,G
   18,R
-   4,R,J
-  16,U,X
+   5,R,J
+  15,U,X
   18,J
    1,R,K,G
    3,L,K
