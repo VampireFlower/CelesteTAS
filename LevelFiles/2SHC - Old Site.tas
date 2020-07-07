@@ -10,15 +10,20 @@ Read,2HC,Start,Restart
   31
 Add 52
 
-Read,2S,Start,lvl_d0 (2)
+Read,2S,Start,ugly fix remove later
+
+  23,L,D,X
+   1,L,J
+   4,D,C
+   2,L,J
+  40
 
 #lvl_d0
-   4,L,D,X
-   2,L,J
+   6,L,J
    3,L
   35,L,D,X
    1,R,D
-  25,D
+  26,D
   43,D,X
   40
 
