@@ -6,20 +6,19 @@ console rmx2 9
 #lvl_intro
   61
    4,R,D,X
-   5,R,J
-   6,R
-  14,R,U,X
-  26,R
-   7,R,J
+  33,R,J
+  12,K
+  14,R,X
+   1,L,J
+  14,U,X
+   1,R,J
+  15,R,D,X
+  34,R,D
+   5,J
   15,U,X
    1,J
   15,L,X
   51,R
-   6,R,J
-  14,U,C
-   2,L,J
-  15,D,X
-  35
   12,R,J
   11,K,G
    1,L,K

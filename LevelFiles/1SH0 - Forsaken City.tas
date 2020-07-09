@@ -1,5 +1,8 @@
 #By EuniverseCat
 console load 1
+
+#console load 1 1336 -1576
+#play,Section Post Heart,37
    1
 
 #Start
@@ -395,6 +398,7 @@ Read,SaveandQuit
 
 #lvl_s1
   37
+#Section Post Heart
   11,L,D,X
    2,R,J
    2,R
@@ -403,19 +407,19 @@ Read,SaveandQuit
    5,R,K,G
   15,R,D,X
   14,R,D
-   4,R,D,X
-   3,R,J
+   1,R,J
+   2,R,D
   40
  
 #lvl_s0 (2)
-  27,R,D
+  25,R,D
   15,R,D,X
    4,R,J
   14,U,X
    9,J
    5
    6,R
-   4,R,D,X
+   4,D,X
    2,R,X
    1,R,J
    7,R
@@ -535,23 +539,30 @@ Read,SaveandQuit
 #lvl_8 (1)
    3,R,X
    5,J
-  25,R,D
-  12,R,D,X
-   4,R,J
-  10,R
-   6,R,J,G
-   3,R
-  19,R,D,X
+  17,R,D
+   7,R
+  15,R,D,X
+   1,R
+   4,D,C
+   5,R,J
+   4,R,K,G
+  20,R
+   6,R,D
   40
-
+ 
 #lvl_7a
-  13,R,D
+  10,R,D
+   1,D
   14,R,D,X
-   3,R,J
-  29,R,D,X
-   8,R,J
+   1,R,J
+  18,R,D,X
+   8,R,D
+   2,R
+   7,R,K
+   1,R,J,G
    1,K,G
-  10,R,K,G
+   5,R,K,G
+   5,K
    4,L,K
   13,L,D,X
    2,L,J
@@ -592,18 +603,16 @@ Read,SaveandQuit
    6,L
    2,L,J
   18,L,D
-  23,R,D,X
-   6,R
+  19,R,D,X
+   4,D
+   6
   10,R,C
-   6,R,J
-   8,R,K,G
-   4,R,D,X
-   9,R,X
-   1,R,J
-   1,R
+   7,R,J
+   7,R,K,G
+  11,R
   15,D,X
   40
-
+ 
 #lvl_8 (3)
   11,D
   10,L,D,X
@@ -623,8 +632,8 @@ Read,SaveandQuit
    6
    6,R
    5,L,J
-  11,R,K
-   4,R
+  10,R,K
+   5,R
   15,D,X
   19,R,D
   13,R
@@ -872,16 +881,18 @@ Read,SaveandQuit
   10,U,X
   10,L,J
   40
- 
+
 #lvl_end
   11,L
-  10,R,D,X
-   5,R,J
+  11,R,D,X
+   4,R,J
   12,R,U,X
    1,R,J,G
-  11,R
+   1,R
+   1
+   7,R
    1,R,J
-  12,R,D,X
+  13,R,D,X
    1,S
    1,D,J
   18

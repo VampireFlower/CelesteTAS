@@ -357,8 +357,9 @@ console hard 6
    3
    5,L,D,X
   51
-  30,G
+  29,G
    2,D,G
+   1,G
    1,J,G
    1,L,K,G
   15,R,K
@@ -368,7 +369,8 @@ console hard 6
    7
   15,U,X
    1,R,J,G
-   9,R
+   1,L
+   7,R
    5,R,X
    4,R,J
   40
