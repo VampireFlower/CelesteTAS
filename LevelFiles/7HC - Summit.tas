@@ -5,7 +5,7 @@ console load 7
 #Start
 Read,7A,Start,lvl_a-06
 #lvl_a-06
-   2,R
+   2,R,D
    1,R,J
   14,R,D,X
    7,R,J
@@ -260,14 +260,16 @@ Read,7A,lvl_b-03,lvl_c-04
    1,R,J
   15,R,D,C
   30,R,U,X
-   4,R,J,O
-  17,R,D,K,X
-  14,R,D,C
-   1,R,J
-   2,R
+   4,R,J
+   4,D,X
+   1,R,X
+  10,R,J
    8,R,D,X
-   1,R,J
-  43,R
+   1,R,J,G
+  12,R
+   7,R,J
+   5,R,D,X
+  40
 
 #lvl_c-08
 Read,7A,lvl_c-08,lvl_d-03
@@ -873,8 +875,9 @@ Read,SaveandQuit
    2,R,X
    1,L,J
    3
-   1,J
-  12,J
+   1,K
+   5,J
+   7,L,J
 #7SHC5
 
-Read,7A,7HC?
+Read,7A,7HC1

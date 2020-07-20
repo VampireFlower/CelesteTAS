@@ -1,7 +1,7 @@
 #By DevilSquirrel, EuniverseCat
 console rmx2 3
    1
-
+ 
 #Start
 #lvl_00
   76
@@ -56,9 +56,10 @@ console rmx2 3
    1,R,J
   11,R,D,X
    1,R,J
-  11,R
-  11,R,J
-   6,U,X
+   9,R,D
+  10,R,J
+   3,R
+   5,U,X
    6,J
    6,R,J
    4,R
@@ -75,68 +76,52 @@ console rmx2 3
   10,U,X
   12,R,J
    1,R,K,G
-   4,R,J,G
-  30,R
-   5,R,D
-   1,D
-   4,D,X
-  13,R,X
-   4,L
-   5,J,G
-   7,R,J
-   8,R,X
    1,R,J,G
-   1
-   5,R
-  21,R,D,X
-   2,R
+  30,R,D
+   4,R,D
+   4,R
    1,R,D
-   1,R,D
-  18,R,U,C
-   1,D,X
-  12,R,X
+  10,R,X
+   1,R,J,G
+   1,J
    1,R,J
+   7,R
+  13,R,U,X
+   1,R,J,G
+   4
+  22,R,D
    5,R
-   1
+   7,R,U,X
+   1,L
+   1,K,G
+   8,K
+   4,R,K
+   4,D,X
+  10,R,X
+   1,R,J
+   6,R
    1,R,J
   12,R,D,X
   11,R,J
    1,R
    2,R,J
-   4,R
-   1,R,J
-   6,R
-  15,R,U,X
-  14,R,C
-  29
-  15,D,X
-   4,R,D,C
-   1,R,J
-   7,R
-  22,R,J
-  14,U,X
-  26,R
-   3
-   9,D
-   4,L,U,G
-   1,L,J
-   1,R,J
-   1,R,J
-   1,R
-   1,R
-   1,R
-   1
-   1,L
-   1,L,K,G
-   1,J,G
-   1,L,K,G
-  35,R,J
-  57,L,D,X
+   2,R
+  12,R,J
+  18,R,X
    4,D,C
-  56,L,U,C
+  11,R,C
+   1,R,J
+   3,R
+  23,R,U,X
+  29,R,J
+  19,L,D
+  14,L,G
+   9,L,K,G
+   3,L
    1,J
-   1,L,K,G
-   1,J,G
-   1,K,G
-   1,L,J,G
-  20,R
+   4,D,X
+   5,R,X
+  24,R,J
+   1,L
+  56,L,D,X
+  86,L,D,C

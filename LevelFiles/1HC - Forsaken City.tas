@@ -8,19 +8,21 @@ Read,1A,Start,lvl_6b
 Read,1SH0,lvl_6b (1),lvl_6b (2)
 
 #lvl_6b (2)
-   3,R,D,X
-   7,R,J
+   4,R,J
+   6,R
   15,R,D,X
    8,R,J
+   4,K
+   3,J
    1,K
-   7,R,K
-   2,J
+   2,R,K
    4,D,X
    1,R,X
    1,R,J
-   7,R
-   1,R,J
-   2,R
+   3,R
+   1,R,K
+   3,R
+   2,R,J
   15,R,D,X
    6,R,J
   40
@@ -28,8 +30,9 @@ Read,1SH0,lvl_6b (1),lvl_6b (2)
 Read,1A,lvl_6c,lvl_9b
 
 #lvl_9b
+   1,R,D
    4,D,X
-   7,R,U,X
+   6,R,U,X
    2,J
    1,L,K,G
    3,L,J,G

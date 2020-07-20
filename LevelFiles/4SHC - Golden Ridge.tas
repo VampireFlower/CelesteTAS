@@ -25,7 +25,7 @@ read,4SH,4SHC1,4SHC2
 
 read,4HC,lvl_a-11,lvl_a-10 (2)
 
-#lvl_a-11
+#lvl_a-10
    2,R
   10,R,D,X
    1,R,J
@@ -34,12 +34,15 @@ read,4HC,lvl_a-11,lvl_a-10 (2)
    6,U,X
    2,R,J
   34,R,D
-  11,R,J
-   4,D,X
-   5,R,X
    1,R,J
-  14,R,D
-  38
+  10,J
+   4,D,X
+   6,R,X
+   1,J
+   4,L
+  11,R,D,C
+  40
 
-read,4SH,lvl_a-08 (2)
-#
+#lvl_a-08
+   3,R,D,C
+read,4SH,4SHC3

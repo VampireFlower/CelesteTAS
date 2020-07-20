@@ -1,5 +1,4 @@
 console load 7 
-   1
 
 #console load 7 3088 -1768
 #play,Section 500m,37
@@ -7,8 +6,8 @@ console load 7
 #console load 7 5912 -4327
 #play,Section 1000m,37
 
-#console load 7 10047 -6221
-#play,Section 1500m,38
+#console load 7 10045 -6218
+#play,Section 1500m,37
 
 #console load 7 14640 -8400
 #play,Section 2000m,37
@@ -263,11 +262,9 @@ console load 7
    1,J
    1,R,J
    3,R
-  24,R,J,G
-  29,R
-   1,R,D
-   1,D
-   1,R,D
+  26,R,J,G
+  19,R
+  10,R,D
   28,R
   15,R,U,X
    4,D,C
@@ -277,7 +274,7 @@ console load 7
   40
 
 #lvl_a-06
-   2,R
+   2,R,D
    1,R,J
   14,R,D,X
    7,R,J
@@ -291,11 +288,12 @@ console load 7
   29,L,D
   16,L,X
 #7SHC1
-  52,L
-  11,R,J
+  51,L
+   9,R,J
+   3,R
    4,D,X
   11,R,X
-  15,R,C
+  14,R,C
  158
    1,S
    1,D,J
@@ -1042,7 +1040,7 @@ console load 7
    6,R
   30,R,U,X
    4,R,J
-   4,R,D,X
+   4,D,X
    1,R,J
   15,R,D
    1,D,X
@@ -1053,47 +1051,51 @@ console load 7
   30,R,U,X
    4,R,J
    4,D,X
-  12,R,J
-  14,R,D,C
-   3,R,J
-   9,R,D,X
-   1,R,J
-   3,R
+   1,R,X
+  10,R,J
+   8,R,D,X
+   1,R,J,G
+  12,R
+   7,R,J
+   5,R,D,X
   40
 
 #lvl_c-08
-   4,R
-   5,R,J
-  15,R,D,X
-  17,R,C
+   9,R,D,X
+   1,R,J
+  25,R,X
    4,R,J
    4,D,X
    3,R,X
    6,R,J
-   1,R
-   5,R,J
-  23,R,X
-   7,R,J
-  11,R,K
-   1,L,K
-   5,J,G
-  10,U,X
-  17,L,J
+  13,R
    4,D,X
-  10,L,X
+  12,R,X
+   4,R,J
+   4,R
+  15,R,K
+   9,U,X
+   9,L,J
+   2,R,J
+   7,L,J
+   4,D,X
+   6,L,X
    1,L,J
-   4,L,D,X
-#Berry1-1
-   7,L,X
+#Berry1-1 ?
+#Berry1-2 ?
+   1
+   7,L
    1,R,J
-   3
-#Berry1-2
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   8,D
    4,D,X
-  14,R,X
+   2,R,X
+   1,R,J
+   7,R
+   1,R,J
+  15,R,D,X
+   5,R,D
+   2,R
+   4,D,X
+  16,R,X
    4,R,J
    1,R,K
   21,R,X
@@ -1110,16 +1112,19 @@ console load 7
    9,R,D,X
   40
 
+
 #lvl_c-09
+#143
    5,R,D,X
    1,R,J
    9,R,D,X
-  16,R,J
-   4,R
-  20,R,U,C
-   5,R,J
+  15,R,J
+   5,R
+   4,D,C
+  15,R,U,C
+   4,R,J
 #Section 1500m
-  14,R,U,X
+  15,R,U,X
   37,L
   15,L,U,X
   19,L,U,C
@@ -1148,6 +1153,7 @@ console load 7
    1,S
    1,D,J
  141
+
 
 #lvl_d-00
   78
@@ -1693,18 +1699,20 @@ console load 7
    2,R,X
    2,R,J
    2,R,K,G
-  12,R,J,G
-  14,R,D,X
-  17,R,J
+   5,R
+  11,R,D,X
+   4,R,J
+   4,R
+   9,R,D,X
+  12,R,J
   14,R,D,X
    1,R,J
   15,R,U,X
    4,D,C
    6,R,C
   11,R,J
-  11,U,X
-   4,J
-#7SHC5
+  12,U,X
+   3,J
    4,D,X
    1,L,X
    1,R,J
@@ -3294,8 +3302,8 @@ console load 7
   19,R,D
   24,L
   15,U,X
-  25,R,U,C
-   7,R,U,X
+  24,R,U,C
+   6,R,U,X
   21,L
   15,U,X
    5,L

@@ -10,22 +10,30 @@ console load 0
   14,R
    1,R,J
   14,R
-   5,R,J
+   4,R,J
+   1,R
    1,R,K,G
    1,R,J,G
-  10,R
-   1,R,J
-   5,R
-   1,R,J
-  19,R
+   1,R
+   1
+   1,R
+   6,R
+   2,R,J
+  17,R
+   1
+   3,R
+   4,R,D
    1,R,K,G
    9,R,J,G
    1,R
    1,R,K,G
    1,R,J,G
-   9,R
+   1,R
+   1
+   1,R
+   6,R
    1,R,J
-  18,R,D
+  18,R
    1,R,J
   13,R
    1
@@ -38,32 +46,42 @@ console load 0
    2,R
    1,R,K,G
    1,R,J,G
-   9,R
+   1,R
+   1
+   1,R
+   6,R
    1,R,J
   26,R,D
-   1,R
-   1,R,J
+   2,R
   40
 
 #lvl_1
-  14,R
    1,R,J
   14,R
-   8,R,J
-  16,R
+   5,R,J
+  18,R
+   1,R,J
+   3,R,K
+  10,R
   17,R,J
    1,R,K,G
+   1,K
+   1,R,K
+   4,L,K
+   1,K
+   1,L,K
+   3,K
    1,R,J,G
-   4,L,J
-   8,R,J
    1,R,K,G
    2,R,J,G
-  13,R
+   1
+  11,R
    1,R,J
-  15,R
-   1,R,J
-  24,R,D
-   7,R
+  14,R
+   6,R,J
+  26,R,D
+   1,R
+   1,R,D
   20,R,J
    1,R,K,G
    1,R,J,G
@@ -76,8 +94,7 @@ console load 0
   36,R
    7,R,D
    1,R
-   1,R
-   1,R,D
+   2,R,D
    1,R,J
    3,R
    1,R,K,G
@@ -89,28 +106,33 @@ console load 0
    9,R
   14,R,J
    1,R,K,G
+   1,K
+   1,R,K
+   4,L,K
+   1,K
+   1,L,K
+   4,K
    1,R,J,G
-   4,L,J,G
-   8,R,J,G
    1,R,K,G
    1,R,J,G
    9,R
-   7,R,J
+   6,R,J
   40
 
 #lvl_2
-   6,R
-   2,R,J
-   1,R
-   1,R,J
-  10,R
-  13,R,J
+   8,R
+   3,R,J
+   8,R
+  11,R,J
+   3,R
    1,R,K,G
-   4,K
-   5,R,K
+   5,K
+   4,R,K
    1,R,J,G
    1,R,K,G
-  11,R
+   8,R
+   2,R,K
+   1,R
    1,R,J
    1,S
    1,D,J
@@ -119,11 +141,11 @@ console load 0
    1,R,J
   14,R
    1,R,J
-   9,R
+   8,R
   40
 
 #lvl_3
-   5,R
+   6,R
    1,R,J
   14,R
    1,R,J
@@ -154,36 +176,38 @@ console load 0
   14,R
    1,R,J
   14,R
-   3,R,J
-  18,R
-   4,R,J
-  18,R
-   1,R,J
-  14,R
-   1,R,J
-  15,R
    1,R,J
   14,R
    1,R,J
   14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-  12,R,J
+   8,R,J
+   7,R
+   2,R,K
   16,R
+   5,R,J
+   9,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   9,R,J
+  15,R
    1,S
    1,D,J
  232

@@ -106,5 +106,5 @@ Read,LoadAFromB,Start,SkipExit
 Add 1
  115
 
-Read,0 - Epilogue.tas
+Read,0 - Epilogue.tas,Start
 #

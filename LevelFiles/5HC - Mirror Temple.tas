@@ -344,6 +344,8 @@ read,5S,lvl_b-19,5SHC3
   12,L
    1,L,J
   14,L
+#wait
+  10
 #5SHC3
   14,L,D,X
    6,R,J

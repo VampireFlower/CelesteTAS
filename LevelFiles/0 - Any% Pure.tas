@@ -2,4 +2,4 @@
 
 Read,StartFullGameFile
 
-Read,LoadEnableCheatMode,Start
+Read,LoadEnableCheatMode

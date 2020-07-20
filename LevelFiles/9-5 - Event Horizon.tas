@@ -212,7 +212,6 @@ console load 10 18559 -6184
    3,R
    4,D,X
   11,R,X
-
   20,R,D
    7,D
    4,R,D
@@ -291,32 +290,24 @@ console load 10 18559 -6184
    7,R
    1
    2,R
-  13,L,D,G
-  19,L,G
-   2,L,U,G
-   1,L,G
-   8,L,J,G
-  10,L,D,X
-   4,R,J
+  42,L,D,G
+  91,L,G
+   3,L,D
+   1,J,G
    1,R
-  29,R,J
-   1
+   3,L
+   1,L
+   6,L,K
    4,D,X
-  10,R,X
-   4
-  15,L,J,G
-   6,L,K,G
-   6
-   6,L,J,G
-   6
-   5,L,K,G
-  41,L
-   4,L,D
-   1,R,J
-   1,J
+  11,L,X
+  10,L,J,G
+   3,L
+   7,L,K,G
+   6,L
+   2,R,J
    1,R,K
   15,R,J
-  24,U,X
+  22,U,X
    4,D,C
    2,L,D,C
    1,R,J

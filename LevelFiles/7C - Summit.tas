@@ -57,18 +57,25 @@ console rmx2 7
   40
  
 #lvl_02
-   6,R
-   5
-  15,U,X
-  14,U,C
+   9,L
+   1,L,K,G
+   1,L,J,G
+   5,L,D,X
+   1,R,J
+   4,R
+  10,R,J
+   1,J
+   4,R,J
+  15,R,U,X
+  14,R,U,C
+   4,R,J,G
+  11
   11,R
-  15,R,X
-  44,R,C
-  18,R,X
-  15,R,U,C
+  15,R,C
+  15,R,U,X
   29,R
-   4,D,X
-  11,R,X
+   4,D,C
+  11,R,C
    2,R
    4,D,X
    9,R,X
@@ -76,10 +83,9 @@ console rmx2 7
    4,R
    1,R,J
    1,R
-  15,R,D,X
-  13,R,D,C
+  24,R,D,X
  180
-
+ 
 #lvl_03
    8,R,J
   15,R,U,X

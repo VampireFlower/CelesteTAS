@@ -110,11 +110,11 @@ Read,4SH,lvl_a-07,+1f berry
    7,R
    7,R,J
   11,R
-  14,R,X
+   4,D,X
+  10,R,X
    3,R,J
-  14,R,D,X
-  40,R
-   1,R,J
+  12,R,D,X
+  40
 
 read,4SH,lvl_a-08 (2),lvl_a-09
 
