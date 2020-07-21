@@ -171,6 +171,7 @@ console load 9
   12,R,U,X
    1,L
    6,J,G
+#8A1
   12,R,K,G
   12,R,J
    7,K,G
@@ -800,6 +801,7 @@ console load 9
    1,R,J,G
    6,R
   26,R,J
+#8A2
   15,U,X
   21,L,J
    6,L,K
