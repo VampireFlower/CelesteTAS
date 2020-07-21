@@ -23,15 +23,24 @@ console rmx2 1
    4,R,G
   12,U,X
    2,R,J
-   4,R,K,G
-  16,R,D,X
-  16,R,G
-  31,R,U,G
-  10,U,X
-  25,L,U,G
-   9,L,D,G
-   1,G
+   1,K,G
+   3,R,K
+   1,R
+   1,L
+  18,R,D,X
    4
+   1,R
+   1,R,J,G
+   5,R
+   1,R,J
+   2,R
+   5
+   4,D,X
+  11,R,X
+   6
+   8,L,J,G
+  22,L,G
+   7,L,U,G
   16,U,X
    1,R,K
    1,R

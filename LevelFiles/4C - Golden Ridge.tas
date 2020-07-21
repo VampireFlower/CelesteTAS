@@ -164,25 +164,24 @@ console rmx2 4
    4,R,K,G
    6,R,J,G
   15,R,D,X
-  11,R
-   5,L
-   5,D,C
-  11,R
-  10,R,X
-  11,R,J
-  19,R
-   4,R,J,G
-  17,R,D,X
   15,R
+   1
+  16,R,J
+  10,R,X
+   8,J
+  15,R,U,X
+   1,R,J,G
+  35,R,D
    4,D,X
    1,R,X
    1,R,J
    2,R
-   2,R,J
+   1,J
+   2
+   1,R,J
+   1,R,J
    1,R
    1,R,J
-   2,R
-   1
    4,R,D,X
    1,R,J
    6,R
