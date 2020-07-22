@@ -68,24 +68,24 @@ console rmx2 2
    7,R,K
   12,R,X
    4,R,J
-  15,R,K
-  42,R,X
+   1,R,K
+  12,R
+  14,R,U,X
    4,R,J
-   9,R,K
-   1,K
-   4,R,K
+   1,R,K
+  33,R,X
+   4,R,J
+  11,R,K
   15,R,D,X
-   2,R
+   4,R
    6,R,J,G
    5,R
-   3,R,J
+   4,R,J
   11,R
-  44,R,X
+  42,R,X
    4,L,G
   22,D
-   5,R,D
-   6,R
-   3,R,D
+  13,R,D
   32,R,X
    4,R,J
    1,R,K
