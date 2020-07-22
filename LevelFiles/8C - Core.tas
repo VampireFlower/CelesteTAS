@@ -95,18 +95,19 @@ console rmx2 9
   17,L,D
    2,L
    1
-  38,R
-   7,L,U,X
+  35,R
+   4,D,X
+   2,U,X
   31,R
    4,D,X
-   7,U,X
+   6,U,X
   47,R,D
    5,L,D
   10,R,D
    1,D
    4,R,D
    1,R,J
-  11,R
+  10,R
   40
 
 #lvl_02
