@@ -3,21 +3,8 @@ console load 5
    1
 
 #Start
-read,5S,Start,+1f berry (1)
 
-   6,R
-   1
-  10,R,D,X
-   5,L,J
-  14,L
-  14,L,U,X
-   1,L,J,G
-  10,L
-   2,R,J
-  14,U,X
-  40
-
-read,5S,lvl_b-20 (1),+1f berry (2)
+read,5S,Start,+1f berry (2)
 
    1,R,J
    1,R
@@ -35,10 +22,9 @@ read,5S,lvl_b-20 (1),+1f berry (2)
 
 read,5S,lvl_b-17 (1),5SHC1
 
-  10,R,D
-   8,D
-   6,L,D
-  19,R,D
+  19,D
+   2,L,D
+  21,R,D
    4,R,D,X
    2,R,X
    1,R,J
@@ -110,14 +96,13 @@ read,5S,lvl_b-05,5SHC3
   12,R,D
    4,D,X
    1,R,J
-  17,R
-  10,L,X
-   1,L,J
-   5,L
-   1,L,J,G
+   7,R
+   5
+   4,D,X
+   5,L,J
+   2,L,K,G
   13,L
    4,L,J
-   8,L
 
 read,5HC,5SHC3,lvl_b-16
 
