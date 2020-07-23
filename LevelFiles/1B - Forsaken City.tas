@@ -79,9 +79,9 @@ console hard 1
    1,K
    9,R,K
    1,R,J,G
-   2,R,K,G
+   1,R,K,G
    8,R
-  22,L,D
+  21,L,D
    4,R,D
    1,R,J
    5,R
@@ -97,8 +97,9 @@ console hard 1
   12,R,J
    1,R,K,G
    1,J
-  40,R
- 
+  40
+
+
 #lvl_02b
    1,R
    1,R,J,G
@@ -208,7 +209,7 @@ console hard 1
    7,R
   10,R,D,X
   21,R,J
-  28,R,U,X
+  27,R,U,X
   11,U,C
    5,R,J
    4,R
@@ -225,8 +226,8 @@ console hard 1
   10,R,J
   15,U,X
   18,R,J
-  40,R
- 
+  40
+
 #lvl_06
   11,R
   15,R,X
@@ -238,7 +239,7 @@ console hard 1
   12,R,K
    2,R,J
    9,R
-   2,R,K,G
+   1,R,K,G
    1,R
    5,R,K
   19,R

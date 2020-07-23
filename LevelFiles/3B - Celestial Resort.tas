@@ -148,6 +148,7 @@ console hard 3
    5,R
   40
 
+***
 #lvl_06
    1,R
    5,R,J
@@ -156,7 +157,7 @@ console hard 3
    6,R
   22,U,X
    2
-   3,R
+   2,R
   14,R,D,C
    9,R,J
   14,R,D,X
@@ -170,7 +171,8 @@ console hard 3
    4,R,D,X
    4,R,X
    1,R,J
-  41,R
+   1,R
+  40
 
 #lvl_07
   11,R,D

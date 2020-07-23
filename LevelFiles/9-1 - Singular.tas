@@ -445,7 +445,7 @@ console load 10
   15,D,X
    6,R,D
   19,L,D
-  18,D
+  17,D
   16,R,D
    5,R,X
    9,R,J
@@ -453,7 +453,7 @@ console load 10
   18,R,U,X
   15,R,C
   17,R,D
-   2,R
+   1,R
   15,R,D
   33,R
   18,R,U,X
