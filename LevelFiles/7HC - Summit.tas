@@ -869,7 +869,7 @@ Read,7A,lvl_f-05 (2),lvl_g-00b
 
 Read,SaveandQuit
 
-#lvl_g-00b
+#lvl_g-00b (2)
   37
    4,D,X
    2,R,X
@@ -878,6 +878,5 @@ Read,SaveandQuit
    1,K
    5,J
    7,L,J
-#7SHC5
 
 Read,7A,7HC1

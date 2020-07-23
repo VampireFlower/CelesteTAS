@@ -1081,8 +1081,7 @@ console load 7
    4,D,X
    6,L,X
    1,L,J
-#Berry1-1 ?
-#Berry1-2 ?
+#Berry1-1
    1
    7,L
    1,R,J
@@ -1096,6 +1095,7 @@ console load 7
    2,R
    4,D,X
   16,R,X
+#Berry1-2
    4,R,J
    1,R,K
   21,R,X
@@ -1111,7 +1111,6 @@ console load 7
    1,R,J
    9,R,D,X
   40
-
 
 #lvl_c-09
 #143
@@ -1607,7 +1606,6 @@ console load 7
    4,D,X
   11,R,U,X
   13,R,U,C
-
    8,R,J,G
   24,R,D,X
    1,R,G
@@ -2525,12 +2523,12 @@ console load 7
 #lvl_f-08c
    2,R,J
   18,R
+#Berry3-2
    8,R,D,X
    1,R,J
    7,L
    1,L,J
   10,R,J
-#Berry3-2
    6,R
    1,R,J
    6,R
@@ -2581,8 +2579,8 @@ console load 7
    4,R
   26,R,U,X
   25,R,U,C
+#Berry4-1
    6,R,D,X
-#Berry4
    1,R,J
    3,R
    4
@@ -2604,6 +2602,7 @@ console load 7
    5,L,J
   15,L,U,X
    7,U,C
+#Berry4-2
   37,L
   12,L,X
   23,R
@@ -2649,7 +2648,6 @@ console load 7
    6,L
   15,D,X
   14,R,D,C
-#Berry5-1
    1,R,J
   14,R,D,X
    1,R,J
@@ -2660,11 +2658,9 @@ console load 7
    2,J
    9,R,K
    2,R
-#Berry5-2
    1,R,K,G
    1,R,J,G
   13,R
-
    1,R,J
    5,R
    1,R,J

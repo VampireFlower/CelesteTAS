@@ -1,5 +1,9 @@
 #By EuniverseCat
 console load 7
+
+#console load 7 14706 -8797
+#play,Section 2000m,37
+
    1
 
 #Start
@@ -200,9 +204,18 @@ read,7HC,lvl_c-06c,lvl_c-06b (2)
 
 read,7S,7SHC3,Berry1-1
 
-   8,L,X
+#berry +5f
+   4,L
+  12,L,D,X
    1,R,J
    2,R
+  14,R,D,X
+   1,R,J
+  15,R,D,X
+   5,R,D
+   2,R
+   4,D,X
+  14,R,X
 
 read,7S,Berry1-2,lvl_d-03
 
@@ -303,6 +316,7 @@ read,7HC,lvl_e-00 (1),lvl_e-02
 #lvl_e-02
    8,R,J
    1,R
+#Section 2000m
    3,R,K,G
    1,R
    4,D,X
@@ -318,11 +332,17 @@ read,7HC,lvl_e-00 (1),lvl_e-02
   15,R,U,X
    4,D,C
    6,R,C
-  10,R,J
+  11,R,J
   12,U,X
-   4,R,J
+   3,J
+   4,D,X
+   1,L,X
+   1,R,J
+   7,R
+   1,R,J
+  40
 
-read,7S,7SHC5,Berry2-1
+read,7S,lvl_e-03,Berry2-1
 
    4,D,X
   10,R,X
@@ -405,17 +425,39 @@ read,7S,Berry2-2,lvl_f-00 (1)
    1,R,J
    1,L,K,G
   17,L,U,X
-   4,D,C
-   2,L,C
+   5,L,D,C
    1,L,J
    7,L
-   2,L,J
-   1,L
+   4,L,D,J
   40
 
-read,7S,lvl_f-01,7SHC6
-
-  32,R,C
+#lvl_f-01
+   1,L,J
+   3,L
+   8,U,X
+  12,L,J
+  14,L,U,X
+  15,L,C
+   4,D,X
+  10,L,U,X
+   1,J
+  11,R,J
+   6,R
+   1,R,J
+   5,L,K
+   6,L
+   1,L,J,G
+  26,L,K,G
+   3,L
+   7,R
+  26,R,J,G
+  23,R,D
+   5,D
+   4,D,X
+   1,R,X
+   1,R,J,G
+  21,R,D
+  32,R,X
   40
 
 read,7HC,lvl_f-00 (2),7SHC4
@@ -452,18 +494,53 @@ read,7HC,lvl_f-00 (2),7SHC4
   15,R,D,C
    1,R
   15,R,D,X
-   5,R,D
-  14,R,D,X
-   4,R
-   7,D,X
+   3,R,D
+   1,R
+   2,R,K,G
+  20,R,D,X
   40
 
-read,7S,lvl_f-05 (2),lvl_f-05 (3)
+#lvl_f-05 (2)
+   9,R,D
+   4,D,X
+  11,R,X
+   1,R
+   4,D,X
+  11,R,X
+   1,R
+   1,L
+  19,L,J,G
+   8,L,K,G
+  40
+
+#lvl_f-07 (2)
+  10
+  14,J
+   1,K
+  13,R,K
+  16,U,X
+  16,U,C
+   3,R,J
+  11,R
+   4,R,D,X
+   1,R,J
+  15,R,D
+  11,D,X
+   9,L,J,G
+  15,D,X
+  15,L,D,C
+   1,L
+  15,L,D,X
+   2,L,D
+   2,L
+   1,L,D
+   2,L,J,G
+  18,L,D,X
+   7,R,D,C
+  40
 
 #lvl_f-05 (2)
-   8,R,D
-  24,R,D,X
-   7,D
+  30,R,D
    2,L,D
    2,R,D
    2,L,D
@@ -478,33 +555,28 @@ read,7S,lvl_f-05 (2),lvl_f-05 (3)
    2,R,D
    2,L,D
    2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
+   3,L,D
+   2,R
+   3,L,D
+   2,R
+   3,L,D
+   2,R
+   3,L,D
+   2,R
+   3,L,D
+   2,L
+   3,R,D
+   2,L
+   3,R,D
+   2,L
+   3,R,D
+   2,L
+   3,R,D
+   2,R
+   3,R,D
+   2,L
+   3,R,D
+   2,R
   14,L,D,X
    1,R,J
    6,R,D,X
@@ -514,41 +586,67 @@ read,7S,lvl_f-05 (2),lvl_f-05 (3)
    2,J
   40
 
-read,7S,lvl_f-08,Berry3-1
+#lvl_f-08
+   3,J
+  15,R,D,X
+   7,L,D,C
+  47,U,X
+  40
 
-   4,R,D,C
-   9,R,C
+read,7S,lvl_f-08b,Berry3-1
+#berry +2f
+
+   4,D,X
+   8,R,X
    1,R,J
-   1,R
   40
 
 #lvl_f-08c
-   2,R,J
-  18,R
-   8,R,D,X
-   1,R,J
-   7,L
-   1,L,J
-  10,R,J
+  20,R,D
 
-read,7S,Berry3-2,Berry4
+read,7S,Berry3-2,Berry4-1
 
-  10,R,X
-   1,R,J
+#berry +0f (lol ?)
+#could just change arb to this
+#but im not gonna bother rn
+
    4,D,X
+   7,R,X
    1,R,J
+   3,R
   40
 
-read,7S,lvl_f-11,Berry5-1
+#lvl_f-11
+  13,R,D,X
+   3,R,J
+  13,R
+  14,R,K,G
+  15,R,U,X
+  14,R,U,C
+   8,R,K,G
+   8,L
+  15,L,X
+   1,D,C
+   9,L,C
+   5,L,J
+  15,L,U,X
+   7,U,C
 
-   4,R,J
-   1,J
-  14,R,D,X
-   1,J
+read,7S,Berry4-2,lvl_g-00b
 
-read,7S,Berry5-2,lvl_g-00b
+read,7HC,lvl_g-00b,lvl_g-00b (2)
 
-read,7HC,lvl_g-00b,7SHC5
+#lvl_g-00b (2)
+  37
+   4,D,X
+   2,R,X
+   1,L,J
+   1
+   1,K
+   2
+   6,J
+   4,L,J
+   2,J
 
 read,7S,7SHC7
 #
