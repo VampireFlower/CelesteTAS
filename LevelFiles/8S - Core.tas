@@ -820,8 +820,6 @@ console load 9
    3,K,G
    2,R,K
   16,U,X
-
-#42.279 -5454.54
    8,L,J
   15,U,X
    1,L
@@ -830,8 +828,6 @@ console load 9
   24,R,J,G
   15,U,X
    5,R
-
-#43.537 clip
   11,R,K
    1,L,J
    8,L,K
@@ -844,13 +840,9 @@ console load 9
    1,L,J
   20,L,K
    2,K
-
-#45.288 clip
   13,R,J,G
    2,K,G
    2,L,K
-
-#45.577
   40
 
 #lvl_d-07
@@ -1009,27 +1001,29 @@ console load 9
    4,R,D,X
    1,R,J
    3,L
-   4,R
+   1,R
+   3,R
    9,R,J
   19,R
-  15,R,X
-  23,R,D,K
-   6,R,K
-  24,R,J
+  18,R,X
+  20,R,D
+   2,R
+  28,R,J
    2,R,K,G
    3,L,K,G
-   4,K
-   2,R,K
+   2,K
+   1,L,K
+   2,K
    1,R,J,G
-   2,R,K,G
+   1,R,K,G
+   2,R,J,G
    8,R
-   1,R,J
+   1,R,K
    5,R
+  10,L,D
    1,L
-   8,L,D
-   2
-   2,L
-   4,L
+   1,L,D
+   4
    1,J
    3,K,G
   32,R,K
