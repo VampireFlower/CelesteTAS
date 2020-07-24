@@ -1,0 +1,15 @@
+console load 6
+   1
+
+#Start
+Read,6HC,Start,lvl_04e
+
+#lvl_04e
+   1,R,J,G
+   9,L,J
+  18,L,D,X
+   1,L,J
+  11,L
+  14,L,U,X
+ 257
+   1,J

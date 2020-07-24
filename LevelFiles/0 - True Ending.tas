@@ -37,7 +37,7 @@ Read,5B,Start
 
 Read,LoadAFromB
 
-Read,6HC,Start,Return
+Read,6AC,Start
 
 Read,LoadBFromA
 

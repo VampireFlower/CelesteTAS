@@ -70,7 +70,7 @@ Read,5S,Start
 
 Read,LoadA
 
-Read,6HC,Start,Return
+Read,6AC,Start
 
 Read,LoadBFromA
 
