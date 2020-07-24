@@ -490,35 +490,33 @@ console hard 9
 #lvl_b-05
    4,D,X
   10,R,X
-  18,R,J
+  20,R,J
   20,R,U,X
-  16,R,U,C
-  18,R,X
-  15,R,C
-  15,R,D,X
-   1
-   2
-   1,D
-   7,R,D
-  21,R,U,X
-  49,R,U,C
-  12,R,J
-  76,R,D
-  14,R,X
-   3,J
-  18,R,J
-  22,R,U,X
-  12,R
+  17,R,U,C
+  26,R,X
+  15,R,D,C
+  10,R
+  18,R,U,X
+  15,R,U,C
+  29,R,D
+  13,R,X
+   8,R,J
+  40,R
+  44,R,J
+  15,R,U,X
+  18,R,C
+  19,R
    4,D,X
-  11,R,U,X
-  43,R,D
-   9,R,X
-  42,R,J
-   1,J
-   1
-   6,R
-   2,R,J
-  12,R
+  15,R,X
+  13,R,D
+  13,R,J
+   4,R,X
+   6,R,J
+  21,R,D
+  10,R,J
+  11,R
+   2,R,K
+  13,R
    1,R,J,G
    1,R,K,G
    9,R
