@@ -2208,52 +2208,65 @@ console load 7
 
 #lvl_f-01
    1,L,J
-   3,L
-   8,U,X
-  12,L,J
+   1,L
+   1,R
+   1,J,G
+   1,L,J
+   7,U,X
+  11,L,J
   14,L,U,X
   15,L,C
    4,D,X
-  11,L,U,X
+  10,L,U,X
    1,J
-  20,R,J
-   4,L,K
-   5,L
-   3,L,K
-   2,L,J,G
-   8,L
-   4,L,K
+  11,R,J
+   6,R
+   1,R,J
+   5,L,K
+   6,L
    1,L,J,G
-   3,L,K,G
-  16,L
+   1,L,K,G
+   5,L
+   1,L,K
+   3,L,D
+   3,L,J,G
+   8,L
+   1,L,K
+   7,L
    5,R,X
    1,R,J,G
-   8,R,D
-  17,D
-  33,R,D
-   6,D
+   3,R,D
+  10,D
+  46,R,D
+   5,R
   10,R,D,X
-   2,R,J
+   1,R,J
    4,R,K,G
   12,R,U,X
-   1,R,J,G
-   2,R
+   3,R,J,G
   15,R,D,X
   43
 
 #lvl_f-00 (2)
-   2,R
-  10,R,D,J
-  22,R,D,X
-   8,R,D,J
-   2,R
-  13,R,D,C
+   3,R,D,J
+   5,R
+   6,R,K
+  20,R,D,X
+   9,R,J
+  13,R,D,X
   20,R,J,G
+   3,R
+   1,R,K
+   9,R
+   1,R,D
    1,R
-   1,R,J
-  19,R
-   9,U,X
-  23,R,J
+   1,R,D
+   3,R
+   4,D,X
+   4,U,X
+  14,R,J
+   3,R
+   5,R,J,G
   23,R,X
   15,D,C
   11,R,D

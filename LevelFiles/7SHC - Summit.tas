@@ -433,9 +433,12 @@ read,7S,Berry2-2,lvl_f-00 (1)
 
 #lvl_f-01
    1,L,J
-   3,L
-   8,U,X
-  12,L,J
+   1,L
+   1,R
+   1,J,G
+   1,L,J
+   7,U,X
+  11,L,J
   14,L,U,X
   15,L,C
    4,D,X
