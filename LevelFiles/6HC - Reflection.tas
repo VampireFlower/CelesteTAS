@@ -50,14 +50,13 @@ Read,6A,Start,lvl_04
 
 #lvl_04e
    1,R,J,G
-   7,L,J
-   3,L
-  17,L,D,X
+   9,L,J
+  18,L,D,X
    1,L
    1,L,J
   17,L,U,X
    1,L,J,G
-  14,L,X
+  11,L
  257
    1,J
 #Return
