@@ -142,17 +142,26 @@ console load 1
    4,R
   14,R,X
    1,L,J
-  25,D,C
-  10,R,D,X
-   1,R,J,G
-   9,R,K,G
-   2,R
-   3,R,J,G
-   7,R
-   4,D,X
   10,R,X
-  17,R
-  12,L,J
+  10,L,J
+   4,D,X
+   8,R,X
+   2,R,J
+   1,R,K,G
+   1,K
+   2,R,K
+   4,D,X
+   4,R,U,X
+   1,R,K,G
+   2,K
+   1
+   1,R
+   1,R,J,G
+   1,R
+  14,R,K
+   2,R
+  18,R
+  11,L,J
    1,K,G
    3,R,K
   15,U,X
