@@ -696,11 +696,11 @@ console load 7
   14,U,X
    5,R
   14,U,X
-  10,R
+   8,R
   22,R,X
-  16,R,U,C
-  13,R,J
-   2,R,K,G
+  17,R,U,C
+  12,R,J
+   3,R,K,G
    1,J
    1,R,K,G
   40
