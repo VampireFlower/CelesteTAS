@@ -60,14 +60,16 @@ console rmx2 1
    6,R,J
   32,R
   10,R,J,G
-  14,R,G
-   6,U,X
-  19,J
+  13,R,G
+   1,D,G
+   5,U,X
+  20,J
    1,R,K
    7,R
    4,D,X
-   4,R,X
-   7,R,J
+   1,R,J
+   6,R
+   3,R,J
    9,R,D
    1,L,D
    8,R,D
