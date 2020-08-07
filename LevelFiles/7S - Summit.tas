@@ -659,10 +659,12 @@ console load 7
    6,J
    8,L,G
    5,L,J,G
-  18,L,G
+  15,L,U,G
+   2,D,G
+   1,L,K,G
    1,J
    1,K,G
-   8,R,U,X
+   7,R,U,X
    1,L
    1,J,G
    5
@@ -672,8 +674,9 @@ console load 7
   15,L,U,X
    4,L
    6,J
-   5,L,J
-   8,L,G
+   4,L,J
+   3,L,G
+   5,G
   14,L,D
   15,D
   50,R
@@ -2292,45 +2295,48 @@ console load 7
   17,R,D
    1,L,D
    3,D
-  10,R,D
+   4,R,D
+   3,R
+   3
    4,D,X
   10,R,X
-   4,R,J,G
+   1,J,G
+   1,L,J
   10,R,D,X
    6,R,J
   14,R,U,X
    4,R,J,G
    8,R,D,X
+  43
 
 #lvl_f-04
-  43
    1,R,D,X
    1,R,J
   15,R
    5,R,D,X
    1,R,J
    7,L
-   8,R,J
-  14,R,U,X
+  18,R,J
+  10,K,G
+   1,L,K
    1,R,J,G
-   3,L,J
-   1,R,J
    1,R,K,G
-   1,R,J,G
-   6,R,K,G
-  21,R
-   1,R,J
-  19,R
-   6,R,D
+   3,R,J,G
+   7,R,K,G
+   1,R
+  10,R,K
+  15,R,D,X
+  10,R
    4,R,D,X
   10,R,X
    1,R,J
+   1,R
    9,R,D,X
   40
 
 #lvl_f-03
-   4,R,D,X
-  10,R,J
+   5,R,D,X
+   9,R,J
   14,R,D,X
   10,R,J
   15,R,D,X
@@ -2338,9 +2344,9 @@ console load 7
    1,R
   13,R,J
    1,L,K,G
-   6,R,K,G
-   3,R
-  12,R,U,X
+   4,R,K,G
+   4,R
+  13,R,U,X
    1,L
    7,J,G
    1,R,J
@@ -2379,31 +2385,32 @@ console load 7
    1,R,J
   14,R,D
   11,D,X
-   9,L,J,G
-  15,D,X
+   5,L,J,G
+   4
+  16,D,X
   15,L,D,C
-   1,L
-  15,L,D,X
-   2,L,D
-   2,L
-   1,L,D
-   2,L,J,G
-  18,L,D,X
+   4,L
+  15,D,X
+   5,L,D
+   6,L,D,C
+   1,L,J
+   8
    7,R,D,C
   40
 
 #lvl_f-05 (2)
   14,R,D
-   9,R
-   4,D,X
-  10,R,X
-   1,L,J
-  21,L,D,X
+  15,R,D,X
    4,D,C
-   5,L,C
-  20,L,U,X
+   6,R,C
+
+#359.652
+   1,L,J
+   4,L
+  23,L,D,X
+  20,L,U,C
+  15,U,X
   15,U,C
-  14,U,X
    2,L,J
    1,L,K,G
    1,J
@@ -2598,11 +2605,13 @@ console load 7
 #lvl_f-11
   14,R,D,X
    2,R,J
-  13,R
+   5,R
+   1,R,J
+   7,R
   13,R,K,G
   15,R,U,X
   14,R,U,C
-   9,R,K,G
+   8,R,K,G
    8,L
   15,L,X
    1,D,C
@@ -2623,22 +2632,20 @@ console load 7
    6,L,C
    1,L,J
    6,L
-  27,L,J
-  14,L,U,X
-  12,L,J,G
-  12,L,K,G
-   1,L,J,G
-   4,R,J
-   1,J
-  28,R,K
-   4,D,X
-  10,R,X
-  14,D
-   4
-   1,R
-   4,D,X
-  20,R,X
-  17,R,U,C
+  10,L,J
+  16,L
+  15,L,U,X
+  15,U,C
+   5,L
+  51,R,J
+   5,G
+   2,U,G
+   6,G
+  25,U,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+  11,R,K,G
   37
   15,U,X
   14,L,U,C
