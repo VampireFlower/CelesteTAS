@@ -237,32 +237,30 @@ console load 10 10470 -2264
 #lvl_e-00z
    1,R,J,G
   10,R,K,G
-  11,R,U,X
-   1,R,J,G
-   7,R
-   6,R,J
+  10,U,X
+  18,L,J
+   8,R,K,G
+   7,L
+   5,L,K
+   1,L
+  15,L,U,X
+   6,L,J,G
+   7,L
+  11,L,J
   15,U,X
-   1,R,J,G
+   2,J,G
+   4
    1,R
-   1,R,J,G
-   4,L
-   3,R
-   7,R,K
-   8,R,J,G
+   1
+   1,R
+   9,R,J
+   3,J
   15,U,X
-   7,R,J
-  12,R,K,G
-   2,R,J,G
-   8,R
-   4,J
-   7,L,J
-  14,U,X
-   2,L,J
-   1,R
-   1,K,G
-   5
-   9,R,J,G
+   1,J
+   6,R,K,G
    7,R
-  14,U,X
-  18,R,J
+   2,R,J
+   4,D,X
+  10,U,X
+  17,R,J
   40
