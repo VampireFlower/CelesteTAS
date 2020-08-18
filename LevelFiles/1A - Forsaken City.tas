@@ -271,19 +271,22 @@ console load 1
    1,R
    2,R,K,G
    3,R
-  12,R,K,G
-  11,R,X
-  15,R,J
-  15,U,X
-   2,R
-   1,L
-   1,L,J,G
-   1,L,K,G
+  13,R,K,G
+  10,R,X
+  13,R,J
+   5,U,X
+  10,L,U
+   6,L,J,G
    7,L
+   2,L,J
    4,D,X
   10,U,X
-  11,L,J
-   3,R,J
+   7,L,J
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+   1,R,J
   40
 
 #lvl_8
