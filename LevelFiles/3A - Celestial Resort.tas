@@ -448,7 +448,7 @@ console load 3
   27,R,D
   40
 
-#lvl_07-a
+#lvl_07-a (2)
    4,R,D
    9,L,D
    8,R,D
@@ -851,7 +851,6 @@ console load 3
    3,R,K,G
    5,R
   15,R,K
-
   40
 
 #lvl_11-c
@@ -1082,7 +1081,6 @@ console load 3
 
 #lvl_13-x
    3,L
-
   22,L,D,X
    2,D
    4,R,D
