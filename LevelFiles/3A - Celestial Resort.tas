@@ -1,4 +1,3 @@
-
 #console load 3 4279 -20
 #play,Section Huge Mess,37
 
@@ -91,34 +90,36 @@ console load 3
    1,L,J
   14,L
    1,J
-   8
-  14,R,D,X
-   2,R,J
-   1,R
-   2,R,J
-   1,R
+   7
+   9,R,D,X
    1,R,J
-   5,R
-   4,D,X
-   3,R,X
-   1,R,J
-   6,R
-   2,R,J
-   5,R,K,G
-   2,R
-   1,R,J,G
-  15,R,D,X
    7,R
    1,R,J
+   9,R,D,X
+   1,R,J
+   7,R
+   2,R,J
+   5,R,D,X
+   6,R,J,G
+   5,R
+   1,R,J
+   5,R
+   1,R,J
+   6,R,D,X
+   1,R,J
+   9,R
+   1,R,J
    4,D,X
-   1,R,U,X
+   1,R,U
   40
 
 #lvl_0x-a
-   6,R,U,X
-   1,L,J,G
-   5,R,J
-   4,R,K,G
+   5,R,U,X
+   1,L,U
+   1,J,G
+   5,L,J,G
+   2,R,K,G
+   1,K
   15,R,D,X
    2,R,D
    1,R,X
@@ -372,21 +373,21 @@ console load 3
    3,R,K,G
   38,R,D
    4,D,X
+   1,R,X
    1,R,J
    7,R
-   3,R,J
-   4,D,X
-  10,R,X
+   6,R,J
+  10,R,D,X
   43
 
 #lvl_08-c
-   1,R,J
-   7,R,D,X
-  13,L
+   3,R
+  14,L
    2
    1,L
    6,J
-  14,R,K
+  13,R,K
+   1,K
   14,R,J
   22,R,X
    2,R,K,G
@@ -430,29 +431,32 @@ console load 3
    1,L
    1,L,J,G
    1
-  17,L
-   2,L,D
+  19,L,D
    4,D,X
-   2,L,X
-   1,L,J
+   2,L,J
+   1,L
   40
 
 #lvl_07-b (3)
    7,L
    1,L,J
-  14,L,D,X
+  11,L,D,X
    1,L,J
-  12,L,U,X
-   4,L,J,G
-   7,L
-  27,R,D
+   3,L
+   4,D,X
+  10,L,U,X
+   1,L,J,G
+   5,L
+   2,L,J
+   2,L
+  25,R,D
   40
 
 #lvl_07-a (2)
-   4,R,D
+   3,R,D
    9,L,D
-   8,R,D
-   6,R
+   3,R,D
+  14,R
    2,L,J
    1,R,J
    2,L,J
@@ -466,7 +470,6 @@ console load 3
    4,R
    5,R,J,G
    8,R
-   2,D
    5,L,D
    5,R,D
    5,L,D
@@ -483,10 +486,9 @@ console load 3
    2,R,D
    1,L,J
    3,L
-  15,D,X
-   1
-   4,D,X
-  10,L,X
+  16,D,X
+   4,D,C
+  10,L,C
    1,R,J
    5,R,D,X
    1,R,J
