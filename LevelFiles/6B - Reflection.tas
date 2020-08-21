@@ -1,6 +1,15 @@
-#By DevilSquirrel, Higashi Dong, EuniverseCat, Kilaye, fishmcmuffins, and buhbai
+#console hard 6 3544 -1016
+#play,Section Reflection,37
+
+#console hard 6 7477 4444
+#play,Section Rock Bottom,37
+
+#console hard 6 10913 4956
+#play,Section Reprieve,37
+
 console hard 6
    1
+
 
 #Start
 #lvl_a-00
@@ -270,16 +279,17 @@ console hard 6
    3,R,K,G
   48,R,J,G
    9,K,G
-  23,D
-   5,L,X
-   1,J
-   5,L
-  20,R,G
+  22,D
+   5,L,D,X
+   1,R,J,G
+  14
+  10,R,G
    1,L
    6,L,G
-  30,R,G
-   8,R,J
-  10,R
+  31,R,G
+   1,R,J
+   7,L,J
+  10,L
    6,L,K
   16,L,X
   45,L,G
@@ -365,6 +375,7 @@ console hard 6
    1,R,J,G
    1,L
    7,R
+#Section Reflection
    5,R,X
    4,R,J
   40
@@ -588,12 +599,10 @@ console hard 6
    7,R,D,C
   16,R,D
   15,D
-   6,L
-  11,R,D
-   2,R,G
-   1,R,J,G
+  12,L
+   1,J
    1,R,K,G
-  44,L,D
+  47,L,D
    1,D
    1,L,D
    2,R,D
@@ -719,7 +728,7 @@ console hard 6
    1,R,J,G
    7,R
   40
-
+ 
 #lvl_b-10
    5,R
    7,R,J
@@ -730,13 +739,13 @@ console hard 6
   10,R,U,C
    3,R
   15,R,D,X
-  10,R,D
-   1,R
-  22,R,C
-  15,R,U,X
-  26,R,U
-  70,F,92
-  32,F,90
+   3,R,D
+  21,R,C
+  18,R,X
+  27,R,U
+  51,F,83
+  54,F,90
+#Section Rock Bottom
    4,D,X
   10,R,X
    8,R,J
@@ -756,14 +765,13 @@ console hard 6
   15,R,U,X
   38,L
    1,J
-   5,R,J
-   2,R
+   1,R,J
+   6,R
    4,D,X
    6,L,X
    1,R,J
-  26,R
-   4,D,X
-  20,R,U,X
+  27,R
+  22,R,U,X
   42,L
    1,R,J
   43,R,D
@@ -975,6 +983,7 @@ console hard 6
 
 #lvl_d-00
    7,R,J
+#Section Reprieve
    4,D,X
    8,R,X
    3,R,J
@@ -1111,18 +1120,17 @@ console hard 6
    3,R,J
   10,R
   14,R,X
-  71,R,D
-   5,L,D
+  65,R,D
+   3,D
+   2
+
+  43,L
+   4,D,X
+  10,L,X
    1,L,J
-   5,L
-  15,L,D,X
-  28,L
-   4,L,C
-   6,L,J
-   7,L
-   1,L,J
-   7,L,D,X
-  12,L,J
+   1,L
+   9,L,U,X
+  17,L,K,G
   56,R,D
   19,L,D
    3,D
@@ -1153,9 +1161,9 @@ console hard 6
    5,L
    5,L,D
    1,L
-  31,L,D
+  32,L,D
    5,D,X
-  20,L
+  21,L
   11,L,D,X
   27,L,D
    1,L,J,G
@@ -1259,17 +1267,3 @@ console hard 6
    3,R,J
   15,R,D,X
  134,R,G
-
-
-
-
-
-
-
-
-
-
-
-
-
-
