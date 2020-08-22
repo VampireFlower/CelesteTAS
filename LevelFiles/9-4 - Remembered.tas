@@ -393,20 +393,24 @@ console load 10 e-00z 1
   17,R
   15,R,D,X
   12,J
-   5,R,J
-   6,R,D,X
-  50,R
+   8,J
+   2
+   1,R
+   1
+   2,R
+   2,R,K
+   2,R
+   1
+  51,R
    4,D,X
-  26,R,U,X
-  37,R,U,C
-  13,R,D
+  22,R,U,X
+  38,R,U,C
    4,D,X
   11,R,X
-  15,R,D
+  27,R,D
    4,D,X
-   2,R,X
-   1,R,J
-   7,R
+   2,R,J
+   8,R
    1,R,J
    5,R,D,X
    1,R,J
