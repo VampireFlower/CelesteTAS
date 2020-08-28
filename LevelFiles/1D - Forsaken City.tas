@@ -111,17 +111,21 @@ console load 1
    2,R
    1,R,J,G
    1,R,K,G
-  11,R
-  13,R,J,G
-   5,K
-   9,L,J,G
+  10,R
+  17,R,D,J
+   1,L,J
    1,K,G
-   1
-  33,R,U,G
+   2,R,K
+   1,R
+   1,L
    1,J,G
    9,R,J
-   3,L,J
-  10,L,K,G
+   1,R
+  12,R,J
+   1,L,J
+   7,L,K,G
+  16,R,J
+  12,L,K,G
    6,J,G
    1,R,J
    1,L,J
@@ -599,8 +603,8 @@ console load 1
   22,L
    1,L,D,J
    3,L
-   1,L,K,G
-   9,L,J,G
+   1,L,D,K,G
+   9,L,D,J,G
    3,L
    7,L,K
    6,R,J
