@@ -591,19 +591,14 @@ console hard 5
   16,R,G
   44,R,J,G
    1,R
-  15,R,D,X
    9,R,D
-   3,R,D
-   2,R,J
-  10,R,D,X
-   1,R,J
-   3,R,K,G
-   1,J
+  15,R,D,X
+   6,R,D
+   5,R,J
   15,U,X
-   1,R,J,G
-   1,R,K,G
    2,R,J,G
-  32,R,D
+   3,R,K,G
+  34,R,D
   14,L,D,X
    1,R,J
    6,R,D,X
@@ -772,14 +767,11 @@ console hard 5
    5,R,D,X
   13,R,G
   51,R,J,G
-   4,R,K,G
-  11,R,G
+   8,R,K,G
+  16,R,G
+   1,R,D,J
    1,R
-   4,D,X
-   9,R,X
-   2,R,J
-   1,R
-  11,R,D,X
+  12,R,D,X
    1,R,J
    7,R
    2,R,J
