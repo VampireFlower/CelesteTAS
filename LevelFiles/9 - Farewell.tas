@@ -15,7 +15,7 @@ read,9-4,Start
 #Event Horizon
 read,9-5,Start,spike cycle
 
-   1
+   0
 
 read,9-5,Resume
 
