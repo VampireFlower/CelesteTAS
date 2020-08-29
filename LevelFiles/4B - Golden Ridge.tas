@@ -120,32 +120,37 @@ console hard 4
 #lvl_a-03
    7,R,J
   24,R,U,X
-  10,R,J,G
-  11,R
-  10,R,X
-   8,R,J
-   6,R,K,G
-   8,R,J,G
-  12,R
-  20,L
-   7
-  16,L
-   6
-   4
-   4,D,X
-   1,R
-   4,D
+   9,R,J,G
    4,R
-   6,R,J
-   3,R,K,G
-   5,R
+   2
+   1,R
+  16,D
+  14,R,D,X
+   1,L,J
+  14,L,D,X
    1,R,J
-  20,R
-   8,K,G
+   7,R,D,X
+   1,R,K,G
+   1,R
+   1,S
+  10,J
+   5,R,J
+   2,R
+   4,R,D
+   9,J
+   1,R,K,G
+  13,R
+  10
+   6,R,J,G
+   1,R,K,G
+   5,L,K
+   1,R,K
    1,L,K
-  14,R,J,G
-   9,R,K,G
-  22,R,D
+   2,R,K
+   2,K
+   2,J,G
+   9,R,J
+  23,R,D
   10,L,D,X
    1,R,J
   26,R,D
