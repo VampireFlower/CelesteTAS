@@ -1,4 +1,4 @@
-#e
+#a
 console load 1
    1
 
@@ -96,17 +96,16 @@ console load 1
    4,D,X
    1,R,J
    6,R
-   2,R,D
-   3,R,J
-   5,R
+   3,R,D
    4,R,J
+   5,R
+   2,R,J
+   1,L,J
+   1,K,G
   12,U,X
-   2,J
-   6,R,J
-   1,R
+   7,R,J
    1,R,K,G
-   1,R,J,G
-   1,K
+   1,J
   40
  
 #lvl_3b
@@ -115,14 +114,11 @@ console load 1
    8,R,K
   10,R,X
    8,R,J
-   1,J
    1,R,J
-   1,J
+   3,R,J
   14,U,X
    8,R,J
-   5,R,K,G
-   1,K
-   2,R,K
+   7,R,K,G
    1,R
    1,R,J,G
    1,R,K,G
