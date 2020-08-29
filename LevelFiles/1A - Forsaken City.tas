@@ -66,19 +66,23 @@ console load 1
    3,J
   15,R,U,X
    1
-   2,J
-   5,R,J
-   7,R
-   2,R,J
-  12,R,D,X
-   7,R,J
-  14,R,U,X
-   1,R,J,G
-   2,L,J
-   2,R,J
-   7,R
-  10,R,J
-  15,U,X
+   1,J
+   6,R,J
+   1,R
+   5,L
+   3,L,J
+   3,L
+   4,D,X
+   1,L,X
+   1,R,J
+   2
+   2,R
+  17,R,J
+   1,J
+   3,R,J
+   9,K,G
+   3,R,K
+  16,U,X
   40
 
 #lvl_4
@@ -151,15 +155,14 @@ console load 1
    9,R,K,G
    1,R,J,G
    1,J
-   3,R,J
+   1,R,J
+   2,R
    1,R,K,G
-  13,R
-   5,R,K
-  12,R
-   4
-  12,L,J
+  17,R
+  18,R
+  11,L,J
    1,K,G
-   3,R,K
+   2,R,K
   16,U,X
   43
 
