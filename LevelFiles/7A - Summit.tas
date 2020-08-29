@@ -99,15 +99,19 @@ console load 7
    3,R,D,X
    1,R,J
    7,R
-   1,R,J
-   4,R
+   3,R,J
+   2,R
   15,R,U,X
   13,R,U,C
-   3,R,J,G
-   5,R
-  11,L,D
-   5,L
+   2,R,J,G
+   4,R
+   4,L
    1,R
+   6,L
+   1,L,D
+   2,L
+   1,L,D
+   3,L
   30,R
   26,R,X
   26,R,C
