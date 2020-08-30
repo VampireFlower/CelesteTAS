@@ -117,17 +117,23 @@ console hard 7
   13,U,C
   43,L
   15,L,X
-  19,L,D
-  14,L,X
-  40,L
+  15,L,D
+   2,L
   15,L,X
-   5,L
+   2,L
+  40,L
+   4
    4,D,X
-   9,L,X
-  12,L,J,G
-   4,L,K,G
+  11,L,X
+   1
+   4,D,C
+  11,L,C
+   1
+   7,J,G
    1,R,J
-  13,R,K
+   1,L,J
+  10,R,K
+   3,R
   45,R
   15,R,X
   18,R,C
