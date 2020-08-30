@@ -135,18 +135,16 @@ console load 4
    1,R,J
    5,R
    6,R,J
-   1,R,K,G
-   4,K
-  11,R,K
+  16,R,K,G
   13,R,U,X
    1,R,J,G
   22,R,D
-   1,R,J
-   9,R,D,X
-   4,R,J
+   4,D,X
+   2,R,X
+   8,R,J
    5,R
-   2,R,J
-   3,R
+   2,R,K
+   5,R
    4,D,X
    3,R,X
    1,R,J
