@@ -70,30 +70,22 @@ console load 5
 #lvl_a-00
    6,R
    4,R,J
-  83,R,C
+  90,R,C
   14,R,D,X
    1,R,J
-  11,L,D,C
+   9,R,D,X
    1,R,J
-   3,R
-   7,R,D,X
-   1,R,J
-   5,R
+   6,R
   40
 
 #lvl_a-01 (1)
    1,R
    1,R,J
-  27,R,D
-   4,R
-  15,R,D
-   4,D,X
-   9,R,U,X
-   1,L
-   1,L,J,G
-  15,R,K
-   1,R,J
-  11,R,K
+  24,R,D
+  28,R
+   9,U,X
+  13,R,J
+  10,R,K
   96,U,C
   43
 
