@@ -127,17 +127,17 @@ console load 3
    1,D,J
   34
    6,R,J
-   3,R
-   1
+   4,R
    4,D,X
    4,R,X
   40
 
 #lvl_00-a
    6,R,X
-   6,R,J,G
-   1,R
-   1
+   1,R,J,G
+   2,J
+   3,R,J
+   2,R
    5,R,K,G
    5,R
    1,R,K
@@ -147,8 +147,7 @@ console load 3
    8,R,J
   15,R,D,X
    1,R,J
-  10,R,D
-   2,R
+  12,R,D
    4,D,X
    1,R,U,X
   40
@@ -1689,18 +1688,18 @@ console load 3
 #lvl_roof06b
    1,R,J,G
   14,R
-   3,R
   33,R,J
-  18,R,D,X
+  15,R,D,X
+   3,R
   18,R,U,C
   18,R,X
-   6,R
+   7,R
   18,R,C
    4,D,X
-  12,R,X
-   1,R,J
+   9,R,X
+   4,R,J
    2
-  14,L,D,X
+  14,L,D,C
    1,R,J
    5,R,D,X
    1,R,K,G
