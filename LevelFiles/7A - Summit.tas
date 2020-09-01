@@ -765,35 +765,38 @@ console load 7
 #lvl_d-02
    8,R,D,X
    1,R,J
-   8,R
-  18,R,U,X
+   7,R
+   1
+  15,R,U,X
   15,R,D,C
-  10,R
-  11,J
-   2
-   6,R
+  13,L,D
+   8,L,D,X
+   4,R,J
+   3,R,K,G
+   1,R
    4,R,D,X
-  10,R,X
-   1,R,K
+   7,R,U,X
+   1,R,K,G
+   3,R
    1,R,J
    2,R
    1,R,J
-   6,R,D,X
+   7,R,D,X
   40
 
 #lvl_d-03
-   8,R,D,X
-  11,R,J
-   2,R
+   7,R,D,X
+  13,R,J
   17,R,D,X
    1,R,J
-   1,R
   15,R,U,X
-  14,R,U,C
-   1,R,J,G
-  12,R
-   6,R,X
-   6,R,J
+   4,D,C
+  10,R,U,C
+   2,R,J,G
+   1
+  10,R
+   5,R,X
+   7,R,J
   10,R
   10,L,D,X
    9,R,J
@@ -833,11 +836,13 @@ console load 7
    4,D,X
    6,L,X
    1,R,J
-   7,R
+   1,R
+   1,R,K
+   4,R
   15,R,U,X
   10,R,D,C
    1,R,J
-   6,R
+   7,R
   40
 
 #lvl_d-04
