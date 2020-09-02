@@ -980,16 +980,21 @@ console load 7
    4,L,J
   37,R,D
   15,R,D,X
-  13,D
-   7,R,J
+  12,D
+   1,R,D
+   1,R,J
+   4,J
+   1,R
+   1
    4,D,X
-  14,R,X
-  36,R,U,C
+  23,R,X
+  26,R,U,C
    2,R,J
    4,D,X
-  11,R,X
-  41,L
-  18,L,X
+  10,R,X
+  38,L
+   4,D,X
+  14,L,X
   19,L,C
  216
    1,S
