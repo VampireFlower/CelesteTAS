@@ -888,10 +888,10 @@ console hard 6
    2,R,J
   14,R,D,X
   20,R,D
-  37,L
-  10,R,J
-  34,R,X
-   6,R,C
+  44,R
+  14,L,D,X
+  18,R,J
+  10,R,X
    2,R,J
   40
 
