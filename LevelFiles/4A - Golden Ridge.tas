@@ -1,8 +1,8 @@
-console load 4
 
 #console load 4 9390 -4360
 #play,Section Cliff Face,37
 
+console load 4
    1
 
 #Start
@@ -12,14 +12,13 @@ console load 4
    3,R,J
    9,R,K,G
    3,R
-   9,L
-  10,L,D,X
+   5,R
    1,R,J
-   7,L
-   9,R,J
-   9,R,K,G
+  12
+  11,L,X
+  18,R,J
    4,D,X
-   8,R,X
+   5,R,X
    1,R,J
    6,R
   17,R,K
@@ -514,13 +513,11 @@ console load 4
 
 #lvl_c-06
   11,R,J
+   1,J
   15,R,X
-   1,L
+   3
    1,R
-   1,L
-   1,R,J
-   1,R
-   7,L,D,X
+   6,L,D,X
    1,R,J
    8,R
   25,R,J
