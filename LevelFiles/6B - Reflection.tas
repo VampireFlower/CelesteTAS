@@ -228,37 +228,34 @@ console hard 6
   32,R
   14,R,D,X
    9,R,J
-   2,R
-   1,R,J
-  13,R
-   5,D,X
-  20,R
+   1,R
+   2,R,J
+  15,R
+   6,L,D,X
+  19,R
   14,R,U,X
-  11,R,J,G
-   1,R
-   4,R,K,G
-   7,R
+   4,R
+   1,L
+   5,R
+   1
   10,R,D,X
-   8,R,J
-  23,R,D
-   7,R
-   3,R,D
-   1,R
-  24,R,U,X
-  10,R,C
-   1,R,J
-  10,L,D
+  16,R,J
   11,R,D
-   1,L,D
-   5,R,D
-   3,R
-   1,R,D
-   1,R
+   3,D
+   6,D,X
+  24,R
+   4,D,X
+  10,R,X
+   1,R,J
+   3,J
+  13,D
+  13,R,D
+   2,R
   15,R,X
    3,R
-  16,L
-  20,U,X
-   7,R
+  17,L
+  15,U,X
+  10,R
    4,D,C
    1,R,J
    6,R,K,G
@@ -415,39 +412,30 @@ console hard 6
    5,R
   18,R,D,X
   15,D,C
-  10,L,D
-   1,D
-   3,R,D
-   6,L,D
+  20,R,D
   40
 
 #lvl_b-01
-   1,D
+   4,D
+   4,R,D
   15,R,D,X
-   1,R
-  46,R,D
-  24,R,D,X
-  15,L,D,C
-   2,L,D
-   4,R,D
-   6,L,D
-   1,L,D
-  22,R,D,X
-   4,R,D
-  32,R,D,C
-  27,L,D,X
-  14,D
-   2,R,D
-   1,D
-   1,R,D
-  12,L,D
-  32,R,D
-   1,R
-   1,R,D
-   1,R
-   1,R,D
-   1,R
+  11,D
    3,R,D
+   1,D
+  27,R,D
+  21,R,D,X
+  19,L,D,C
+   9,R,D
+  25,R,D,X
+  32,R,D,C
+  44,L,D,X
+  15,D
+  13,R,D
+   1,D
+   2,R
+   2,R,D
+   3,R
+  18,R,D
    1,R,K
    1,R,J
    1,R,K
@@ -464,53 +452,54 @@ console hard 6
 #lvl_b-02
    5,R,D
   34,L,D
-   2,D
-   5,R,D
-  15,R,D,X
-   9,R,D
-  15,R,D,X
-   4,R,D
-   1,R
-   1,R,D
-   9,R
-   5
+   3,R,D
+   1,D
+   3,R,D
+  24,R,D,X
+  34,R,D,C
   10,R,X
-  15,R
-  19,D
-   1,L
-   8,R,D
-   2,J,G
+  10,R,J,G
+   2,R
+   7
+   1,R,J
+   7
+   7,L
+  10,R,G
+   1,J,G
    1,K,G
    1,R,J,G
-   6,L
+   9,L
    1,L,J
-  19,L
+  16,L
   15,D,X
    5,R,D
-  21,L,D
-   2,L
-   1
+  18,L,D
+   6,L
    5,L,X
   15,L,D
   19,D
    1,R
-   3,L,D
-   4,L
-   2,J,G
+   1,R
+   2
+   1,L
+   1
+   1,L
+   3,L,G
+   1,J,G
    1,K,G
    1,L,J,G
-   8,R,J,G
+   6,R,J
    5,R
    1,R,J
-   1,R
-   1,R,J
+  13,R,D
+   7,D
+  32,L,D,X
   20,R,D
-  34,L,D,X
-  20,R,D
-   3,D
-   7,R,D
-   5,R,D
-   1,R,D
+   2
+   2,R,D
+   1
+   4,D
+  10,R,D
    1,R,J
    1,R,K
    1,R,J
@@ -587,7 +576,7 @@ console hard 6
    9,D
    1,L,D
   27,R,D
-   4,R
+   4,R,D
    4,D,X
    5,R,X
    1,R,J
@@ -595,34 +584,34 @@ console hard 6
    1,R,J
    1,R,K
    1,R,J
-   2,R,K
-   2,R
+   1,R,K
+   1,R,J
+   1,R
   14,R,X
    1,R,J,G
-   3,R,D
+   4,R
   40
 
 #lvl_b-05
-   8,R,D
-  52,D
-   2,R,D
-   2,R
-   1
-   1,D
+#-1f here
+  58,D
+   7,R
    4,D,X
   14,L,X
    7,R,D,C
-  16,R,D
-  15,D
-  12,L
+  18,R,D
+  10,D
+   6,L,D
+   8,R
    1,J
    1,R,K,G
-  47,L,D
-   1,D
-   1,L,D
-   2,R,D
+  19,L
+  20,L,D
+   9,L,D
+   3,R,D
   81,R,D,X
-   6,R,D
+   4,R
+   1,R,D
    4,R,D,C
    1,R,J
    1,R,K
@@ -638,9 +627,9 @@ console hard 6
    5,L,D
   48,L,D
   23,R,D
-   1,D
-   4,L,D
-   7,L,J
+   4,L
+   1
+   6,L,J
   65,L,D
    1,D
    4,R,D
@@ -668,19 +657,27 @@ console hard 6
    1,R,J
   28,R,D,X
   15,L,D,C
-  35,R,D
-  17,R,X
-  26,L,D
-   8,F,277
-  31,F,276
+  25,R,D
+   6,R
+   3
+   1,R,D
+  15,R,X
+  28,L,D
+  37,F,273
+   1,F,274
   10,F,210
   10,F,160
-  28,F,107
-   9,F,170
+  20,F,105
+   8,F,106
+   8,F,166
   28,L,D,X
   32,R,D,C
   15,L,D
-  22,R,D
+  11,R,D
+   3,R
+   3,R,D
+   3,R
+   3,R,D
    5,R
    1,R,J
    1,R,K
@@ -697,69 +694,69 @@ console hard 6
   40
 
 #lvl_b-08
-   7,R
-  37,L,D
-   9,R,D
-   3,D
-  15,R,D,X
+   3,R
+  36,D
+  17,R,D
    2,L,D
-   8,R,D
-   5,R
+  15,R,D,X
+  13,L,D
    4,D,X
-  11,L,X
-  13,L
-  15,L,X
-  12,L,D
-  16,R,D
-  14,L,D
-  24,R,D
-  22,R,X
-  21,R,C
-  20,R,X
-  23,R,D
-  22,D
+  21,L,X
+  15,L,C
+  17,L,D
+  13,R,D
+   6,D
+   7,L,D
+   8,D
+  12,R,D
+   4,R
+  21,R,X
+  22,R,C
+  15,R,X
+  26,R,D
+  24,D
    7,L,D
   15,L,X
-  13,D
-   7,L,D
+  14,D
+   5,L,D
   15,L,X
   23,D
   11,L,D
-   5
+   4
+   1,D
    1,L
    4,D,X
-   1,R,X
    1,R,J
-   8,R
+  10,R,D
+   1,R
+   1,R,D
+   1,R,J
+   1,R,K
+   1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
    1,R,K
-   1,R,J
-   4,R,K
+   2,R,J
    2,R
-   7,R,D,X
+   5,R,D,X
    1,R,J,G
-   7,R
-  40
- 
-#lvl_b-10
    5,R
-   7,R,J
+  40
+
+#lvl_b-10
+   1
    6,R
-   1,R,J
-  10,R
-   4,D,C
-  10,R,U,C
-   3,R
-  15,R,D,X
-   3,R,D
-  21,R,C
-  18,R,X
+   5,R,J
+  15,R
+  16,R,U,X
+  15,R,D,C
+  21,R,X
+  15,R,C
   27,R,U
   51,F,83
-  54,F,90
+  53,F,90
 #Section Rock Bottom
    4,D,X
   10,R,X
