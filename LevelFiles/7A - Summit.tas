@@ -1502,11 +1502,12 @@ console load 7
    3,K
    5,R,X
    1,R,J,G
-   1
-  26,R,D
-   4,D,X
-  10,R,X
+   1,J
+   9,R,J
+   5,R,D,X
+  21,R
    1,R,J
+   4,R
   14,L,D,X
    1,R,J
    5,R,D,X
