@@ -229,31 +229,33 @@ console hard 6
   14,R,D,X
    9,R,J
    1,R
-   2,R,J
-  15,R
-   6,L,D,X
-  19,R
-  14,R,U,X
-   4,R
-   1,L
-   5,R
-   1
+   1,R,K
+  14,R
+   5,D,X
+  23,R
+  11,R,U,X
+   1,R,K,G
+   7,R
   10,R,D,X
-  16,R,J
-  11,R,D
-   3,D
-   6,D,X
-  24,R
-   4,D,X
-  10,R,X
    1,R,J
-   3,J
-  13,D
-  13,R,D
-   2,R
+  19,R,D
+   3,D
+   1,R,D
+   4,D,X
+   5,R,U,X
+  28,R
+   4,D,X
+   6,R,X
+   1,R,J
+   2,J
+   1
+   2,J
+   8,D
+  17,R,D
+   1,R
   15,R,X
-   3,R
-  17,L
+   2,R
+  17,R
   15,U,X
   10,R
    4,D,C
@@ -593,7 +595,6 @@ console hard 6
   40
 
 #lvl_b-05
-#-1f here
   58,D
    7,R
    4,D,X
@@ -750,17 +751,18 @@ console hard 6
    6,R
    5,R,J
   15,R
-  16,R,U,X
-  15,R,D,C
-  21,R,X
+  19,R,U,X
+  16,R,D,C
+  19,R,X
   15,R,C
   27,R,U
   51,F,83
-  53,F,90
+  48,F,90
 #Section Rock Bottom
    4,D,X
   10,R,X
-   8,R,J
+   6,R,J
+   2,R
   16,R,D,X
    2,R,J
   16,R,D,X
