@@ -1054,13 +1054,13 @@ console load 3
    1,R,J,G
    1,J
   17,R,J
-  11,R
+   2,R
+   1,R,J
+   8,R
    2
-   2,K,G
-   1,R,K
-   2
-   7
-  25,L,D
+   1,K,G
+  11
+  22,L,D
    6,L
    4,D,X
   10,L,X
@@ -1135,24 +1135,26 @@ console load 3
   40
 
 #lvl_12-x
-   2,L,D,X
-   3,L,J
-   3,L,K,G
-  14,L,U,X
+   2,L,J
+   1,R,J
+   1,K,G
    3,L,J,G
-   7,L
-   1,L,J
+   1,L
+  12,L,U,X
+   5,L,J,G
+   4,L
+   1
    2,L
+   1,L,J
+   1,L
    5,L,D,X
  104
-   4,D,X
-   6,L,X
-  10,L,J
-   8,L,K,G
-   4,D,X
-  11,U,X
+  14,L,X
+   8,L,J
+   7,L,K,G
+  15,U,X
   18,L,J
-  11,L,K,G
+   9,L,K,G
   40
 
 #lvl_11-a
@@ -1460,23 +1462,21 @@ console load 3
   24,L,X
 #Section Rooftop
    4,L,D,C
-   1,L,J
-   4,L
+   2,L,J
+   3,L
   40
 
 #lvl_00-d
-   3,L
+   5,L
    1,L,J
-   2,L
   14,L,D,X
    1,S
    1,D,J
   37
   11,L,J
-   7,L,J
-  14,U,X
+   6,L,J
+  15,U,X
   18,L,J
-   1,K,G
   40
 
 #lvl_roof00
