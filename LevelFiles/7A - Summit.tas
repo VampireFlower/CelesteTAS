@@ -1585,35 +1585,35 @@ console load 7
   40
 
 #lvl_f-05 (2)
-  29,R,D
+  26,R,D
+   3,L,D
+   2,L
+   1,L,J
    4,D,X
    1,L,J
   18,L,D
-  27,L,X
-  14,L,D,C
-   1,R,J
-   3
-   1,K
-   2
-   1,R
-   7,R,J
+  16,L,X
+  15,L,U,C
+   2,L
+  13,L,D,X
+   3,R,J
   15,R,D,X
-   6,R,D,J
-   3,R,K,G
+   7,R,D
+   9,R,J
   14,R,U,X
    2,R,J,G
    9,R,D,X
    1,R,J
-   4,R
-   2,R,K
+   6,R
   40
 
 #lvl_f-08
-   1,R,K
-   6,R,J
+   1,R
+   1,R,J
+   2,R
   15,R,D,X
-  16,R
-   4,D,X
+  15,R
+   4,D,C
   10,R,U,C
   21,R,X
   15,U,C
