@@ -1,6 +1,18 @@
 console hard 7
    1
 
+#console hard 7 2080 -1624
+#play,Section 500m,37
+
+#console hard 7 3568 -4336
+#play,Section 1000m,37
+
+#console hard 7 8424 -7864
+#play,Section 2000m,37
+
+#console hard 7 10632 -9384
+#play,Section 2500m,37
+
 #Start
 #lvl_a-00-intro
  246
@@ -22,8 +34,8 @@ console hard 7
    4,D,X
   16,R,X
   41,R,C
-   1,D,X
-  13,R,X
+   4,D,X
+  10,R,X
    1,R,J,G
    2,J
    9,R,J,G
@@ -61,10 +73,10 @@ console hard 7
    4,R
   19,R,X
    4,D,C
-  10,R,C
-  12,D
+  11,R,C
+  11,D
   22,R,D
-   4,R,D,X
+   4,D,X
    1,R,X
    1,R,J
    1,R
@@ -83,17 +95,15 @@ console hard 7
   32,R,C
   22,L
   18,U,X
-  15,R,C
-   1,R
+  16,R,C
   16,L,D
   11,R
   15,R,X
    3
    5,R
    4,D,C
-  17,R,C
-   1,L
-   6,L,U,C
+  18,R,C
+   6,L,U,X
   43,R,D
   15,R,X
   18,R
@@ -121,8 +131,7 @@ console hard 7
    2,L
   15,L,X
    2,L
-  40,L
-   4
+  44
    4,D,X
   11,L,X
    1
@@ -150,6 +159,7 @@ console hard 7
 
 #lvl_b-00
   76
+#Section 500m
   15,R,U,X
   10,R,C
   12,R,K
@@ -172,12 +182,11 @@ console hard 7
   10,L,J
   15,U,X
   25,R,J
-  14,U,X
-   3,L
-   4,L,J
+  15,U,X
    2,L
-   2,L,J
-   4,R,J
+   4,L,J
+   4,L
+   4,R
    5,R,K,G
    1,L,K
    1,R,K
@@ -276,13 +285,13 @@ console hard 7
    2,R,J
   19,R,D
    1,L,D
-   1,D,X
-  13,R,X
+   4,D,X
+  10,R,X
    1,J,G
   14,D
    6,R,D
-   1,D,X
-   7,R,U,X
+   4,D,X
+   4,R,U,X
    9,R
   17,R,D,X
   19,R,D,C
@@ -298,8 +307,8 @@ console hard 7
   35,R
   16,R,X
   14,R,D
-   1,D,X
-  17,R,X
+   4,D,X
+  14,R,X
    1,R,G
    3,R,J,G
    2,R
@@ -374,9 +383,12 @@ console hard 7
   11,R,J
   12,L,K
   16,U,X
- 373
+ 297
 
 #lvl_c-01
+
+  76
+#Section 1000m
    5,R,J
    2,R
    4,D,X
@@ -429,13 +441,14 @@ console hard 7
   11,R,J,G
    7,R,X
    7,R,J,G
-  25,R,U,C
+   1,R
+  24,R,U,C
    4,R,J
    4,D,X
   13,R,D,J
   29,R,D,C
    4,D,X
-   1,R,D,J
+   1,R,J
    2,R
   11,R,K
    4,D,X
@@ -448,18 +461,18 @@ console hard 7
 
 #lvl_c-02
   11,R,J
-  17,U,X
+  18,U,X
    1,R
    6,R,X
-   8,R,J,G
+   6,R,J,G
   29,R,D
   20,R,U,C
    4,L,G
   15,R,D
    4,D,X
   11,R,X
-  10,U,C
-   5,R,J
+  14,U,C
+   1,R,J
    2,R,K
   24,R,D
    4,D,X
@@ -478,7 +491,8 @@ console hard 7
   10,R,X
    1,R,J
   12,R,D,X
-  41,R,J
+   1,R,J
+  40
 
 #lvl_c-03
    7,R
@@ -541,14 +555,14 @@ console hard 7
   15,U,X
    3,R,J
    3,L,J
-   1,D,X
-   5,R,X
+   4,D,X
+   2,R,X
    1,R,J
    7,R
    1,R,J
   19,R,D,X
-   1,D,C
-   9,R,C
+   4,D,C
+   6,R,C
   11,R,J,G
    1,R
    1
@@ -645,8 +659,7 @@ console hard 7
    1,R,J
    1,K,G
   12,R,K,G
-   2,R,J,G
-   2,R,K,G
+   4,R,J,G
    9,R
    4,D,X
    3,L,X
@@ -688,15 +701,15 @@ console hard 7
 
 #lvl_e-00
   78
+#Section 2000m
    4,D,X
    1,R,J
    7,R
    3,R,J
-   3,R,K,G
-   7,R
-   8,R,J
+   5,R,K,G
+  11,R,J,G
   15,R,U,X
-  13,U,C
+  12,U,C
    7,R,J
   15,R,X
   30,R,D,C
@@ -797,8 +810,8 @@ console hard 7
   14,R,D,C
    9,R
   15,R,U,X
-   1,D,C
-  13,R,C
+   4,D,C
+  10,R,C
    1,R,J
   11,R,D,X
   15,R,J
@@ -842,8 +855,7 @@ console hard 7
   15,L,X
   23,R,D
   15,R,X
-   6,R,D
-  14,R
+  20,R
   12
   10,J
    9,L,J
@@ -855,28 +867,27 @@ console hard 7
 
 #lvl_f-00
   76
+#Section 2500m
   12,R,J
-   3,R,K,G
-   7,R,J,G
-  15,U,X
-   1,R,J
-   1,L,K,G
-   2,R,K
-   5,R
-  20,R,D,X
-   1,R,J
-   7,R
-  15,U,X
-   1,D,C
-   4,R,C
+  10,R,K,G
+  14,U,X
+   1,L
+   1,J,G
+   1,K,G
+   1,J,G
+   5
+  17,R,D,X
+   8,R,J
+  15,R,U,X
+   4,D,C
+   1,R,C
    1,R,J
    1,R
-   1,R,J
-   6,R
+   2,R,J
+   5,R
    1,R,J
    8,R,D,X
   40
-
 
 #lvl_f-01
    6,R
@@ -891,8 +902,8 @@ console hard 7
   15,R,C
   10,U,X
   17,R,D,C
-  19,R,X
-  17,R,U,C
+  20,R,X
+  16,R,U,C
   23,R,U,X
    9,R,C
    1,J,G
@@ -904,14 +915,14 @@ console hard 7
   15,R,X
   22,R,C
   15,U,X
-   1,D,C
-  12,L,C
+   4,D,C
+   9,L,C
   17,U,X
-   6,R,C
-   9,R,J,G
+   7,R,C
+   8,R,J,G
    7,R
-  10,R,D,X
-  25,L
+  15,R,D,X
+  20,L
   14,L,D
    4,D,X
    1,R,J
@@ -924,8 +935,8 @@ console hard 7
    5,R
    1,R,J
    3,R
-   1,D,X
-  13,R,U,X
+   4,D,X
+  10,R,U,X
    4,R,J,G
    4,R,J
    5,R
@@ -982,9 +993,8 @@ console hard 7
 #lvl_f-03
    4,R,J
    9,U,X
-   1,R,J
-   1,L,K,G
-   4,R,K
+   1,L,J
+   5,K,G
   14,R,U,X
   48,L
   10,L,J,G
@@ -992,13 +1002,12 @@ console hard 7
    1,L,K,G
   11,L
    5,L,D,X
-   1,L
-   1,J
-   1,R,K,G
-   7,L,K
-  11,L,U,X
+   1,R
+   1,J,G
+   8,K,G
+  10,L,U,X
   38,R
-  12,R,U,X
+  13,R,U,X
   25,R,C
   15,R,D,X
   12,R,U,C
