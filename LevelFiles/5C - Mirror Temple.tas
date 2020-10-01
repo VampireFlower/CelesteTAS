@@ -60,23 +60,29 @@ console rmx2 5
   11,U,X
   25,R,J
   25,R,X
-  41,R,D,C
-  14,U,X
-  24,L,J
-   8,L,K,G
-   8,R,J
-   7,R
-  52,R,J
+  32,R,D,C
    4,D,X
-   8,U,X
-  10,R,J
+  11,R,U,X
+   1,L,J,G
+   5,L,K,G
+   1,L
+  13,J
+  12,L,K,G
+   3,L,J,G
+   8,R,K
+   4,R
+  55,R,J
+   4,D,X
+  10,U,X
+   9,R,J
   19,R,D
-  20,D
+  19,D
+   4,R,D
+  42,R,J
    2,R,D
-  41,R,J
-   3,R,D
    1,D,X
-  19,R,X
+  15,R,X
+   4,R
   24,R,C
    4,D,X
    7,U,X
@@ -84,8 +90,7 @@ console rmx2 5
    1,J
   19,R,J
   12,R,D
-  12,L,D
-   1,L,D
+  13,L,D
    1,D
    7,R,J
   15,R
@@ -112,5 +117,9 @@ console rmx2 5
   26,R,U,X
    5,U,C
   35,R,J
-   5,L,U,X
- 134,L,D,G
+  15,L,U,X
+  34,R,D
+  37,L,D
+   5,D
+   1,L,G
+  47,L,J,G
