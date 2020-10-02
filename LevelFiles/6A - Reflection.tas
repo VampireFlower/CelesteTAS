@@ -659,55 +659,67 @@ console load 6
   38,F,88
   10,F,87
   16,F,24
+  16,F,27
    5,R,D,X
   27,R,D
-  40,F,65.2
-  60,F,107.8
-  42,F,86.5
+   7,F,90
+  31,F,63
+  39,F,108
+  23,F,107
+  28,F,89
+  11,F,90
    4,D,X
-   4,R,U,X
-  21,R
-  26,R,U,X
-  12
-   1,L
-  25,R,D
+   7,R,U,X
+  20,R
+  15,R,U,X
    4,R
-   2,R,D
+   1
+   8,R
+   9
+   1,D
+   1,L,D
+  25,R,D
+   3,D
+   1,R,D
+   1,D
    4,D,X
-   4,R,U,X
-  26,R
+   6,R,U,X
+  25,R
   12,R,D,X
    1,R,J,G
-  12,R
+  11,R
+   1,R,J
   40
 
-#lvl_b-00   
-   3,R,K
+#lvl_b-00  
+   2,J
   15,R,D,X
-   4,R,K
-   1,R,J,G
-   4,J
-   7,R,J
+   1,R
+   3,R,D,J
+   1,J
+  12,R,K,G
   15,R,D,X
    1,R,J
-   4,R,K,G
-   2,K
-   5,R,J,G
-   2,R,K,G
+  12,R,K,G
+   1
   12,R,D,X
    1,S
    1,D,J
   34
-   3,R,J
-#libTAS syncing
-Skip
    2,R,J
-Add 1,J
-Add 1,R,J
-  11,R,D,X
-   3,R,J,G
    1,R
-   5,R,J
+#libTAS syncing
+#probably broken
+Skip
+   2,R
+Add 1
+Add 1,R
+  11,R,D,X
+   1,R,J,G
+   1,R
+   2,R,J,G
+   1,R
+   5,R,K
    3,R
    1,R,J
   40
@@ -716,15 +728,14 @@ Add 1,R,J
    4,R,J
    6,R,D,X
    4,R,J,G
+   5,R
+   1,R,K
+   3,R
+   3,R,J
    1,R
-   5,R,J
-   3,R
-   1,R,J
-   3,R
   10,R,D,X
-   4,R,K,G
-  10,R
-   9,R
+   3,R,J,G
+  19,R
   15,D,C
   25,R,D
   40
@@ -753,9 +764,9 @@ Add 5,L,D
    1,L,D,J
   16,L,D
   30,R,D
-   8,D
-   5,L,D
-   1,D
+   7,D
+   1,R,D
+   2,D
   32,R
    8,R,U,X
    1,J,G
