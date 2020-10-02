@@ -578,15 +578,14 @@ console load 6
    4,R
   27,R,D,X
    6,R
-   2,R,D
+   1,R,D
    2,R,D,J
    2,R
    1,R,J
    6,R
    1
-   1,D,X
-  10,R,U,X
-   1,L
+   4,D,X
+   8,R,U,X
    4,R,J
    7,R
   15,U,X
@@ -1065,7 +1064,7 @@ Add 5,L,D
    9,R,K,G
    3,R
   14,R,U,X
-   5,R,J,G
+   4,R,J,G
   44
   25,R,D,X
    4,D,C
@@ -1309,34 +1308,34 @@ Add 5,L,D
 
 #lvl_boss-12
   13,R,D
-  14,R,D,X
+  10,R,D,X
   11,R,J
-  14,R,D,X
+  17,R,D,X
   37
   14,L,D,X
-  28,L,D
-  18,L,X
+  31,L,D
+  15,L,X
   36,L
    1,R,J
    6,R
   33,R,D,X
-  30
+  29
    1,L,J
    5,L
   14,L,D,X
   15,L,D
-   5,L
+   6,L
    4,L,X
-  15,L,J
+  14,L,J
   37
   15,R,D,X
   36,L,D
-  11,L,D,X
+  10,L,D,X
    1,R,J
-   3,R
+   4,R
   19,R,D,X
-  20,R,J
-  34
+  19,R,J
+  33
    1,L,J
    9,L
   14,D,X
@@ -1362,7 +1361,7 @@ Add 5,L,D
   14,R,U,X
    6,R,J,G
    2,R,K,G
-  37
+  36
   15,D,X
   14,R,D
    2,R,J
@@ -1630,7 +1629,7 @@ Add 5,L,D
    1,S
    1,D,J
   34,R,J
-   5,R,J
+   4,R,J
   16,U,X
   12,L,J,G
   11,L,K,G
