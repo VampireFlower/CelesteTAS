@@ -86,43 +86,36 @@ console load 0
    1,R,J,G
    1,R,K,G
   13,R
-  23,R,J
-   1,R,K,G
-   3,L,K
-   1,K
-   2,L,K
-   3,K
-   2
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   1,R
-   1
+  12,R,J
    7,R
-   1,R,J
-  28,R,D
-   4,L,D
-   6,R,D
-   2,L,D
-   1,R,D
-   1,R,J,G
-   2,R,K,G
-   1,K
-   9,R
    2,R,J
-   3,R
-   1
+   1,R
+   2,L
+   1,R
+   1,K
+  11,R,J,G
+   5,R
    1,R,K,G
    1,R,J,G
+   9,R
+   1,R,J
+  29,R,D
    1,R
+   1,R,D
+  12,R
+   2,R,J
+   2,R
+   3,R,K,G
+   4,R
+   1,R,J,G
+   1,R,K,G
+   9,R
+   8,R,J
+   3,J
    1
-   7,R
-  10,R,J
-   2
    1,R
-   1
-   1,J
-  11,R,K,G
+   1,K
+  11,R,J,G
    5,R
    1,R,J,G
    1,R,K,G
