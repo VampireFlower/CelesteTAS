@@ -341,21 +341,32 @@ console load 6
    1,L,J
   14,L,X
    1,R,J
-  89,L,U,G
-  36,G
-   8,U,X
-   1,J
-   1,L,K,G
-   5,R,K
+  47,L
+   2,J,G
+   1,R,J
+  32,L,J
+  12,L,D
+   2,K,G
+   1,R,K
+   6,L,D
+   1,K,G
+   1,R,K
+  12,L,K
+   1,L,J,G
+   4,D,X
+   7,R,U,X
+   1,L,J,G
+   3,R,J
   24,R
    1,R,J
-   5,R
+   5
    5,R,D,X
   40
 
 #lvl_07
-  12,R,D,X
-  28,R,D,C
+  13,R,D,X
+   1,D
+  26,R,D,C
    1,R
    1,R,J
    5,R
