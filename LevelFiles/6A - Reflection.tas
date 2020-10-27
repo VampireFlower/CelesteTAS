@@ -434,29 +434,33 @@ console load 6
   13,R,D,X
    5,R,J
    8,R
-  11,R,J
-  33,R,U,X
-   4,D,C
-  10,R,C
+   8,R,J
+   5,U,X
+  18,R
+  14,R,D,X
+  10,R
    1,R,J
-   7,R
-   3,R,J
-   2,R,K,G
+   3,R
+   2
+   1,R,J
+   4,R
+   3,R,K,G
    4,D,X
-   7,R,U,X
+   6,R,U,X
   40
 
 #lvl_11
-   2,R,U,X
+   3,R,U,X
    1,L,J,G
+   1,R,J
+   5,R
    2,R,J
-   9,R
-   4,R,D
-   1,L,J
-   2,R,J
+   4,R
+   3,R,D
+   1,J
+   7,R,J
    5,L,J
-   2,L
-   6,R
+   5,D,X
   20,L
   15,U,X
   14,L
@@ -468,10 +472,10 @@ console load 6
    3,R
    4,D,X
   10,R,X
-   1,R,J
-   8,R
+   6,R,J
   15,R,D,X
-  10,D
+  10,R,D
+   2,R
   12,U,X
    3,J
    7,R,J
