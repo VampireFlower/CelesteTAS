@@ -1,4 +1,5 @@
 #By EuniverseCat and Kilaye
+unsafe
 console load 6
    1
 
@@ -222,6 +223,7 @@ Add 1
    7,R
   10,R,U,X
    1,R,J,G
-   7,R
+   1,L
+   6,R
 
 Read,6A,6HC1
