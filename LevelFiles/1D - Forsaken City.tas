@@ -324,8 +324,8 @@ console load 1
    1,K
    1,L,K
    1,J
-   3,K,G
-  42,R,K
+   2,K,G
+  43,R,K
    1,R,J
    1,R
    2
@@ -412,8 +412,8 @@ console load 1
    1
    1,J,G
    1,K
-   3,J,G
-  26,R,J
+   2,J,G
+  27,R,J
    7,R,K
    4,R
    1,R,J,G
@@ -453,8 +453,8 @@ console load 1
    1,L,K
    1,R,K
    1,J
-   3,K,G
-  13,L,K
+   2,K,G
+  14,L,K
    1,L,J,G
   12,L,K,G
   12,R,J
@@ -837,3 +837,5 @@ console load 1
    1,S
    1,D,J
   18
+
+#1:17.996
