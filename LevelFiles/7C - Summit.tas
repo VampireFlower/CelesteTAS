@@ -13,10 +13,10 @@ console rmx2 7
   14,U,X
   26,L,J
   13,U,X
-   2,R,J
-   8,R
+   2,L,J
+   8,L
    4,D,X
-   8,L,X
+   7,L,X
    1,R,J
    1,R
    1,R,J
@@ -43,15 +43,14 @@ console rmx2 7
    9,R,J
    1,R
    2,R,J
-  38,R
+  39,R
    4,D,X
   11,R,U,X
-  20,R
+  18,R
    1
-   4,D,X
-  12,U,X
+  16,U,X
   29,L,J
-  11,L,K,G
+  10,L,K,G
    5,R,J
   40
  
