@@ -369,20 +369,23 @@ console load 2
   40
 
 #lvl_0 (3)
-   4,L,J
-   8,L
+   1,L,J
+  11,L
   37,L,U,X
    4,R,G
   27,R,U,C
    4,R,J
+   4,D,X
+   3,R,X
+   1,R,J
+   3,R
    1,R,K
-   4,R
-  14,R,D,X
    2,R,J
-   2,R
-   7,R,D,X
+   4,R
+   9,R,D,X
    1,R,J,G
-   8,R
+   7,R
+   1,R,K
   40
 
 #lvl_1 (3)
@@ -390,10 +393,10 @@ console load 2
    3,R,J
    3,R
   15,R,D,X
-   6,R,J
+   7,R,J
    1,R
    4,D,X
-  18,R,X
+  16,R,X
    4,L,G
    1,K,G
    1
