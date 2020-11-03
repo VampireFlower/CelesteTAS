@@ -1615,13 +1615,21 @@ console hard 7
    2,R
 
 #CP-02
-  10,R,D,X
-  32,L,J
+   4,D,X
+   5,L,X
+   5,L,J
+   1,L
+  15,L,J
    8,U,X
-  12,L,J
-  15,L,X
+   8,L,J
+  13,L
+   4,D,X
+   9,L,X
+   1,R,J
+   1,J
   15,D,C
-   8
+   2,L
+   1
    6,L,J
   11,R,J
   15,R,U,X
@@ -1635,8 +1643,9 @@ console hard 7
    2
    6,L
    4,R
-  10,R,J
-   1,R,J
+   8,R,J
+   1,J
+   2,R,J
   13,R
    4,D,X
   11,R,X
