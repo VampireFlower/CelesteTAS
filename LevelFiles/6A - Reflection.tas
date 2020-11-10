@@ -789,17 +789,18 @@ Add 1,R,J
    1,R,J
   11,R
   14,R,U,X
-  16,L,D
-   1,L,J
-   8,J
-   2
-   3,R
-   1,R,J
- 181,D
-  27,L,D
+  16,R,D
+  11,R,J
+   8,L
+  72,G
+  38,D,G
+   4,D,X
+  11,L,X
+  45,D
+  35,L,D
 #libTAS syncing
 Skip
-   5,D
+   3,D
 Add 5,L,D
    4,D,X
    1,L,D,J
