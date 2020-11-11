@@ -8,16 +8,19 @@ read,3A,Start,lvl_09-b (1)
 read,3SH,lvl_09-b (1),lvl_13-b (1)
 
 #lvl_13-b
-  11,R,U,X
-   2,R,J,G
+   1,R,J
+  10,R,U,X
+   1,R,J,G
   13,R,K,G
-  10,L,J
-  35,L,D
-   4,L,D,X
-   8,L,J
+  10,K
+  10
+   1,R,D
+  24,L,D
+   4,D,X
+   9,L,J
    5,L
    3,L,J
-  14,L,D,X
+  13,L,D,X
    3,L,J
   10,L,D,X
   40
