@@ -124,7 +124,8 @@ read,3SH,lvl_03-b,3SHC2
 read,3HC,lvl_01-c,lvl_04-c (2)
 
 #lvl_04-c (2)
-   5,R
+   2,R,J
+   4,R
   10,U,X
   26,D
    1,J
@@ -133,7 +134,7 @@ read,3HC,lvl_01-c,lvl_04-c (2)
   14
    1,J
   14
-   3
+   7
   12,J
   10,L,K,G
    3

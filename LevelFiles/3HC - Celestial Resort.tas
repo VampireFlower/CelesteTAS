@@ -1,4 +1,8 @@
 #By DevilSquirrel, EuniverseCat
+
+#console load 3 2445 -376
+#play,Section cassette,37
+
 console load 3
    1
 
@@ -301,6 +305,8 @@ read,3SH,lvl_04-d (1),lvl_02-c (1)
   12,L
   11,L,D,J
    3,L,K,G
+
+#Section cassette
    7,L,D,X
    1,L,J
    2,L
@@ -328,31 +334,36 @@ read,3SH,lvl_04-d (1),lvl_02-c (1)
    1,J
 #Return
  123
-   8,R,D,X
-   1,R,J
+   9,R,D,X
   40
 
 #lvl_02-c (3)
-   6,R,J
-  15,R,D,X
-  11,R,J
-  14,R,D,X
-   7,R,J
-   3,R
-  14,R,D,X
-   7,R,J
-   3,R
-  14,R,D,X
-   9,R,J
-  14,R,D,X
+   1,R,D,X
    5,R,J
   15,R,D,X
+   3,R,J
+  12,R
+  11,R,J
+   3,R
+  15,R,D,X
+   1,R,J
+   5,R
+   1,R,K
+   2,R
+   1,R,K
+   2,R
+   7,R,D,J
+   3,R
+  15,R,D,X
+   1,D
    1,R,J
    3,R
+  14,R,D,X
   40
 
 #lvl_04-c (2)
-   5,R
+   2,R,J
+   4,R
   10,U,X
   26,D
    1,J
@@ -361,7 +372,7 @@ read,3SH,lvl_04-d (1),lvl_02-c (1)
   14
    1,J
   14
-   3
+   7
   12,J
   10,L,K,G
    3
