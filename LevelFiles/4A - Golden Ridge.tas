@@ -5,9 +5,8 @@ console load 4
    1
 
 #Start
-  69
-
 #lvl_a-00
+	69
    5,R,D,X
    3,R,J
    9,R,K,G
