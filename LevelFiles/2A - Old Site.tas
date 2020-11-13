@@ -45,21 +45,22 @@ console load 2
   14,R,D,X
    1,L,J
    3
-   6,R,D,X
+   6,L,D,X
    1,R,J
-   4
+   3,R
+   3
   40
  
 #lvl_d7
-   3
-   1,L,J
-  10,R,D,X
+   1
+   1,J
+  14,R,D,X
    1,R,J
    1,R
    1,R,J
   11,R
    4,D,X
-   8,R,X
+   3,R,X
   19,R,J,G
   10,R
    4,D,X
