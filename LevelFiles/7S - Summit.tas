@@ -1,5 +1,3 @@
-console load 7 
-
 #console load 7 3088 -1768
 #play,Section 500m,37
 
@@ -17,6 +15,8 @@ console load 7
 
 #console load 7 25600 -13432
 #play,Section 3000m,37
+
+console load 7 
    1
 
 #Start
@@ -619,18 +619,23 @@ console load 7
   10,R,D,G
    1,R
    1,K
-  18,R,K
-   6,R
    1,R,J,G
-   3,R,K,G
-   6,R
-   1,R,J
-  12,L,K,G
-  10,R,J
-   2
-  15,D,X
-   7,L,D
-   4,R,D
+   7,J
+   1,L,J
+   2,J
+   8,R
+   1,R,K,G
+   2,R,J,G
+   2,R
+   1
+   2,R
+   3,R,K
+   1,K
+  13,U,X
+   1,J
+   1,K
+  15,L,D
+  22,D
    4,D,X
   10,R,X
    2,L
