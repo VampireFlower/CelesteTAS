@@ -161,18 +161,17 @@ console load 4
   18,R,D
   16,R
   14,R,U,X
-  23,R,U,C
+  15,R,U,C
+   6,L
+   2
   15,R,U,X
-   1,L
-   1,K,G
-   8,R,J
-   7,R
-   5,L
-   1,L,J
-  15,D,C
-   8,L,D
-  18,R,D,C
-  24,R,X
+   1
+   7,J
+  33,D
+  15,R,D,C
+   3,R
+  15,R,C
+   9,R
   11,R,C
   11,R,X
   15,R,U,C
