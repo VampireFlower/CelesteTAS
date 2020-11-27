@@ -1143,7 +1143,6 @@ console load 3
    3
    1,D
    1
-#26.503
   10,L,X
   12,J
   16,U,X
@@ -1629,27 +1628,26 @@ console load 3
    4,L,J
    1,L
   40
- 
+
 #lvl_11-y (2)
-   1,L,K
-   1,L
-   1,L,K
-   1
-   9,L,D
-  12,D,X
+   3,L,K
+   1,K
+   3,L,K
+  14,L,D,X
+   5,R,D
   40
 
 #lvl_11-z
-   4,D
-  10,L,D,C
-   1,R,J
-  14,R,D
-  26,L,D
+  15,R,D,X
+   3,R
+   9,R,D
+  27,L,D
   20,L,X
   20,L,C
   15,L,X
-   6,L
-   7,R,D
+   5,L
+   6,R,D
+   1,L,D
    4,D,X
    8,L,J
    4,L
