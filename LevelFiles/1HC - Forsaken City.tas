@@ -8,14 +8,12 @@ Read,1A,Start,lvl_6b
 Read,1SH0,lvl_6b (1),lvl_6b (2)
 
 #lvl_6b (2)
-   4,R,J
-   6,R
-  15,R,D,X
-   8,R,J
-   4,K
-   3,J
-   1,K
-   2,R,K
+   4,D,X
+   3,R,X
+   1,R,J
+  18,R
+  11,R,D,J
+   7,K
    4,D,X
    1,R,X
    1,R,J
@@ -104,8 +102,10 @@ Read,1A,lvl_6c,lvl_9b
 #Return
  123
   14,R,D
-   5,R,D,J,X
-  41,R
+   4,D,X
+   1,R,J
+   1,R
+  40
 
 #lvl_11 (2)
   33,R,G
