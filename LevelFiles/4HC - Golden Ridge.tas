@@ -45,7 +45,7 @@ Read,4SH,lvl_a-07,+1f berry
   14,L,D,X
    1,L,J
    8,L,D,X
-  40,L
+  40
 
 #lvl_a-11
    5,L,J
@@ -98,9 +98,10 @@ Read,4SH,lvl_a-07,+1f berry
    1,J
  123
   14,R,D
-   5,R,D,J,X
+   4,D,X
+   1,R,J
    8,R
-  40,R
+  40
 
 #lvl_a-10 (2)
    5,R
@@ -211,21 +212,31 @@ read,4A,lvl_a-09,lvl_b-00
    1,J,G
    5,R
    7,R,J
-   2,J
-   4,R,K
-  20,R
+   1,J
+   1,R
+   3,R,K
+   5,R
+   2,R,K
+   2,R
+   1,R,K
+   8,R
+   3
    4,X
-   1,L,D,X
- 134,R,D
+   1,D,X
+ 134,L,D
 #Exit
   59
    1,J
   30
-   8,R,D
-  36,L,D
-   4,L,D,X
+   5,L,D
+  30,L,D
+   3,L
+   1,L,D
+   1,L
+   4,D,X
+   5,L,X
    1,L,J
-   7,L
+   6,L
    1,L,J
   43
  
