@@ -121,48 +121,11 @@ read,3SH,lvl_03-b,3SHC2
    2,L
   40
 
-read,3HC,lvl_01-c,lvl_04-c (2)
+read,3HC,lvl_01-c,lvl_02-d
 
-#lvl_04-c (2)
-   2,R,J
-   4,R
-  10,U,X
-  26,D
-   1,J
-  14
-   1,J
-  14
-   1,J
-  14
-   7
-  12,J
-  10,L,K,G
-   3
-   1,L
-   1
-   4,D,X
-  10,U,X
-  16,R,J
-   1,K,G
-   5
-   2,L
-  11,U,X
-  40
-
-#lvl_04-d
-   3
-   1,R
-   4,J,G
-   1,L,J
-   2,L
-   4,D,X
-   3,R,X
-   1,L,J
-   5,L
-   1
-   1,L,J
-   8,L,U,X
-  40
+#this movement lost a frame over all
+#to resync into 02-d. Probably better to
+#lose a frame in 02-d
 
 read,3SH,lvl_02-d
 #

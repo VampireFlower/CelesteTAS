@@ -141,7 +141,6 @@ read,3SH,lvl_12-d,lvl_11-d
   13,L,X
    2,L
   13,L,J
-   0,L,J
    1,D,X
   13,L,X
   28,L,D
@@ -151,18 +150,62 @@ read,3SH,lvl_12-d,lvl_11-d
    3,L,J
   40
 
+#add back death warp in books
+#cause its not in arb
+
 read,3SH,lvl_10-d,lvl_11-y
 
-read,3A,lvl_11-y,lvl_11-z
-
-   1
-
-read,3SH,lvl_11-z,lvl_10-z
-
-#lvl_10-z
+#lvl_11-y
+   1,D
+  10,L,D,X
+   1,L,J
+   1,L
    2,L,J
    1,L
-   3,J
+  15,L,D,X
+   1,L,D
+   1,L,G
+   1,R
+   4,D,C
+   1,R,J
+   6,R
+   3,R,D
+   5,R,J
+  20,R,D
+   4,D,X
+   7,R,X
+   5,R,J,G
+   7,R
+   1
+   4,D,X
+   1,R,J
+   3,L
+   3,R
+  37,L,D
+  40
+
+#lvl_11-z
+   1,D
+  15,R,D,C
+  11,R,D
+  27,L,D
+  20,L,X
+  20,L,C
+  15,L,X
+   5,L
+   6,R,D
+   1,L,D
+   4,D,X
+   8,L,J
+   4,L
+   1,L,J
+   7,L,D,X
+   1,L,J
+  40
+
+#lvl_10-z
+   3,L,J
+   3,L,J
    1,K
    7,R,K
    1,R
@@ -271,21 +314,18 @@ read,3A,lvl_10-y,lvl_10-x (2)
    1,L,J
   40
 
-
-#144.636
-
 #lvl_09-d
 read,3A,lvl_09-d,lvl_04-d
 
 read,3SH,lvl_04-d (1),lvl_02-c (1)
 
 #lvl_02-c
-   4
+   4,L
    6,L,J
    1,J
    1,L,J
    4,L
-   8,L,J
+   7,L,J
   13,L,D,X
    2,L,J
    8,L
@@ -372,32 +412,34 @@ read,3SH,lvl_04-d (1),lvl_02-c (1)
   14
    1,J
   14
-   7
-  12,J
-  10,L,K,G
-   3
-   1,L
-   1
-   4,D,X
-  10,U,X
-  16,R,J
+   4
+  18,D,J
+   1,L,J
    1,K,G
-   5
-   2,L
-  11,U,X
+   5,R,K
+   5,R
+   2,R,K
+  14,U,X
+   1,L,J
+   1,L
+   6,L,K
+   2,R,K
+   3,R
+   6,J
+  15,U,X
   40
 
+#lost 2f to this resync fix eventually
+
 #lvl_04-d
-   3
-   1,R
-   4,J,G
-   1,L,J
-   2,L
+   2,R,J
+   5,R
+   1,R,K,G
+   3,J
    4,D,X
    3,R,X
    1,L,J
-   5,L
-   1
+   6,L
    1,L,J
    8,L,U,X
   40

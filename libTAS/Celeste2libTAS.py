@@ -48,14 +48,15 @@ class Celeste2libTAS:
     def get_read_data(self, line: str):
         index = line.find(',')
         if index > 0:
-            file_path = line[0:index]
+            file_name = line[0:index]
         else:
-            file_path = line[0:-1]
+            file_name = line[0:-1]
 
-        file_path = f'{os.path.dirname(sys.argv[1])}/{file_path}'
+        file_path = f'{os.path.dirname(sys.argv[1])}/{file_name}.tas'
         # Check if full filename was used, get file if it wasn't
         if not os.path.exists(file_path):
-            files = [f for f in glob.glob(f'{file_path}*.tas')]
+            file_prefix = f'{os.path.dirname(sys.argv[1])}/{file_name}'
+            files = [f for f in glob.glob(f'{file_prefix}*.tas')]
             if not files:
                 return None, None, None
             file_path = str(files[0])
