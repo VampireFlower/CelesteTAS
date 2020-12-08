@@ -121,7 +121,7 @@ read,3SH,lvl_03-b,3SHC2
    2,L
   40
 
-read,3HC,lvl_01-c,lvl_02-d
+read,3HC,lvl_01-c,3SHC3
 
 #this movement lost a frame over all
 #to resync into 02-d. Probably better to
