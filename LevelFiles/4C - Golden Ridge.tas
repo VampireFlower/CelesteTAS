@@ -218,8 +218,8 @@ console rmx2 4
    9,R,J
   12,R
    1,R,J
-   4,D,X
-   8,R,J
-  11,R
-  28,R,J
+   9,R,D,X
+   5,R,J
+  10,R
+  27,R,J
  143,R,U,X
