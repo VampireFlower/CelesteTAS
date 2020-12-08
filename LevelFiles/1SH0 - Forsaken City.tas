@@ -171,15 +171,18 @@ console load 1
   16,U,X
    1,L,K,G
    2
-   1,L,J,G
-   7,L
-   7,L,J
+   1,J,G
+   6,L
+   1,R
+   3,L,J
+   4,R,J
    4,D,X
    6,L,X
    5,R,J
   15,R,D,X
-  21,R
-  30,R,D
+  13,R
+  28,R,D
+   8
   15,R,D,X
    1,R
    4,D,C
@@ -204,13 +207,15 @@ console load 1
    1,L,J
    5,L
    4,D,X
-   7,L,U,X
-   1,R,J,G
-   7,L
+   6,L,U,X
+   1,R
+   1,J,G
+   4
+   3,L
    1,L,J
   14,L,D,X
    1,L,J
-   2,L
+   1,L
    4,D,X
    8,L,X
   40
@@ -218,13 +223,15 @@ console load 1
 #lvl_5 (3)
    3,L
   10,U,C
-  24,R,J
+  25,R,J
   12,R,K,G
-  11,R,J,G
+   1,R,J,G
+   4,L,J
+   5,R,J
    7,R
-  16,R
+  17,R
   12,L,J
-   3,L,K,G
+   2,L,K,G
    2,J
   15,U,X
   40
@@ -373,7 +380,8 @@ console load 1
    6,L,U,X
    1,S
    1,D,J
-  69,O
+   1,O
+  68
    6,R,D,X
    1,L,J
    7,L
@@ -785,15 +793,17 @@ Read,SaveandQuit
    7,R
    3,R,J
   15,U,X
-  12,L,J
-   5,R,J
+   5,L,J
+   3,R,J
+   8,L,J
+   1,K
   40
 
 #lvl_11
-   3,L
-   1,L,K,G
+   1,L,J,G
+   3,L,K,G
   12,L,J,G
-   6,L,X
+   5,L,X
   16,L
   16,U,X
   11,R,J
