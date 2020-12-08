@@ -376,16 +376,16 @@ console hard 2
    1,D,X
   27,R,X
    4,R,J
-   1,R,K
-   6,R,D,X
+   3,R,K
   40
  
 #lvl_10
-   8,R
+  14,R,D,X
    1,R,J
-  12,R,D,X
+   7,R
    7,R,J
-  52,U,X
+   1,L,J
+  50,U,X
    4,L
    1,J,G
    9,R,J
