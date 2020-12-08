@@ -42,6 +42,9 @@ Read,7A,Start,lvl_a-06
    1,D,J
  141
 
+# why does the HC file
+# get the berry here lol
+
 #lvl_b-00
 Read,7S,lvl_b-00,lvl_b-02b (1)
 
@@ -123,7 +126,33 @@ Read,7S,lvl_b-00,lvl_b-02b (1)
    3,R
   40
 
-Read,7A,lvl_b-03,lvl_c-04
+#lvl_b-03
+   4,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  12,R
+  14,R,X
+   1,L,J
+   5,R,D,X
+   1,J,G
+   1
+   2,L
+   6,R
+  14,R,X
+   5,L,J
+  10,R,X
+   9,L,J
+  10,L,K,G
+   7,L
+   1,R
+   2,J,G
+  14,U,C
+   2,L,J
+   9,U,X
+  40
+
+Read,7A,lvl_b-05,lvl_c-04
 
 #lvl_c-04
    1,R,J
@@ -267,15 +296,37 @@ Read,7A,lvl_b-03,lvl_c-04
    8,R,D,X
    1,R,J,G
   12,R
-   7,R,J
-   5,R,D,X
+   4,R,J
+   8,R,D,X
   40
 
 #lvl_c-08
-Read,7A,lvl_c-08,lvl_d-03
+Read,7A,lvl_c-08,lvl_d-02
+
+#lvl_d-02
+   8,R,D,X
+   1,R,J
+   7,R
+   1
+  15,R,U,X
+  15,R,D,C
+  13,L,D
+   8,L,D,X
+   4,R,J
+   3,R,K,G
+   1,R
+   4,R,D,X
+   7,R,U,X
+   1,R,K,G
+   3,R
+   1,R,J
+   2,R
+   1,R,J
+   7,R,D,X
+  40
 
 #lvl_d-03 (1)
-   8,R
+   7,R,D,X
   18,R,J
    4,D,X
   11,R,U,X
@@ -626,25 +677,35 @@ Read,7A,lvl_d-06,lvl_e-00
   40
 
 #lvl_e-02
-  12,R,J
+   1,R
+   8,R,J
+   1,R
+   1,R,K,G
+   4,D,X
+   1,R,X
+   2,R,J
+   1,R,K,G
+   1,R
+   1
+   7,R
+   4,R,J
+   2,R
+  14,R,D,X
+  10,R,J
    4,D,X
   10,R,X
-   9,R,J
-  14,R,D,X
-  14,R,J
-  14,R,D,X
    1,R,J
   15,R,U,X
    4,D,C
-  10,R,C
-   7,R,J
-  13,U,X
+   6,R,C
+  10,R,J
+   6,U,X
+   6,R,J
    4,J
    4,D,X
-   1,L,X
+   1,R,X
    1,R,J
    7,R
-   1,R,J
   40
 
 Read,7A,lvl_e-03,lvl_f-00
@@ -738,40 +799,11 @@ read,7S,lvl_f-00 (1),lvl_f-01
   10,R,U,C
    1,K
   16,L,J,G
-  10,L,K,G
-  40,L
-
-#lvl_f-07 (2)
-  10,L
-   3,J
-  11,L,J
-   1,K
-   6,R,K
-  15,U,X
-   4,R
-  15,U,C
-   4,R
-   7,R,J
-   1,R,K
-   7,R
-   4,R,D,X
-   1,R,J
-  14,R,D
-  11,D,X
-   9,L,J,G
-  15,D,X
-  15,L,D,C
-   1,L
-  15,L,D,X
-   2,L,D
-   2,L
-   1,L,D
-   2,L,J,G
-  18,L,D,X
-   7,R,D,C
+   1,L,K,G
+   9,R,K
   40
 
-Read,7A,lvl_f-05 (2),lvl_g-00b
+Read,7A,lvl_f-07,lvl_g-00b
 
 #lvl_g-00b
 #CP-28
