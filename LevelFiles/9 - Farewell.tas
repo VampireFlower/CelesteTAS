@@ -4,6 +4,9 @@
 #console load 10 9613 -1869
 #play,Section Singular,37
 
+#console load 10 13128 -3865
+#play,Section Remembered,2
+
 #console load 10 17457 -6224
 #play,Section Event Horizon,37
 
@@ -128,36 +131,37 @@ console load 10
    5,R
    1
    1,R
-   4,D,X
-  11,R,J
-   2,R,K,G
-   5,R
-   2,R,J
-   4,R
+  14,R,D,X
+   1,R,J
+   7,R,U,X
+   3,R,J,G
+   8,R
   40
 
 #lvl_a-01
-   1,R
   14,R,D,X
-  21,R,J
-  17,R,X
-  22,R,C
-  30,R,X
-  22,R,C
+  14,R,J
+   6,R
+  16,R,X
+   1
+  24,R,C
+  24,R,X
+  25,R,C
    4,D,X
    1,R,J
-   3,R
-   2,R,J
+   4,R
+   1,R,J
   40
 
 #lvl_a-02
-   2,R
+   1,R
    5,R,J
   26,R,D
    8,R,J
    7,R
   15,R,U,X
   29,R,U,C
+   1
    4,D,X
    2,L,X
    1,R,J
@@ -180,16 +184,17 @@ console load 10
    6,R,K,G
    1,J,G
   17,R,J,G
-  19,R,X
-  15,R,C
+  18,R,X
+  16,R,C
   23,R,D
    1,L,D
    1,D
    6,L,D
    1,R,D
-   2,L
    1,L,D
-   2,L
+   1,D
+   1,L,D
+   1,L
    4,D,X
    1,L
    3,R,J
@@ -581,7 +586,7 @@ console load 10
    6,R
   14,R,X
   12,R
-  4,R,D,X
+   4,R,D,X
    1,R,J
    5,R
   40
@@ -801,6 +806,7 @@ console load 10
   18,L
   37,R,U,X
   45,U,C
+#Section Remembered
   60,L,U,X
   40
 
@@ -3897,7 +3903,7 @@ console load 10
   12
    3,L
   13,L,D,X
-  3,R,J
+   3,R,J
   10,R,D,X
    2,R,J,G
   12,R
