@@ -412,15 +412,17 @@ console load 1
    7,R
    3,R,J
   15,U,X
-  12,L,J
-   5,R,J
+   5,L,J
+   3,R,J
+   8,L,J
+   1,K
   40
 
 #lvl_11
-   3,L
-   1,L,K,G
+   1,L,J,G
+   3,L,K,G
   12,L,J,G
-   6,L,X
+   5,L,X
   16,L
   16,U,X
   11,R,J
