@@ -509,21 +509,16 @@ console load 2
    2,R,J
    4,R
   36,R,D,X
-   4,R,J
-   3,R
-   5,R,U,X
+   8,R,J
   40
 
 #lvl_11
-  10,R,U,X
-  21,R,U,C
+   5,R,J
+  22,R,U,X
    7,R,J
+  12,R,K
    4,D,X
-  10,R,J
-   1,R
-   1,R,K
-   3,R
-   4,D,X
+   7,R,X
    1,R,J
    5,R,K,G
    1,R,J,G
