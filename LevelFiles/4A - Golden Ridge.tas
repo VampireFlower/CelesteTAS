@@ -486,17 +486,13 @@ console load 4
    4,D,X
    2,R,J
    4,R
-   5,R,J
-  46,R
-   4,D,X
-  11,R,X
-   5,U,C
-  12,L
-  14,U,X
-   3,L
-   6,R
-   1,L
-   1,R
+  15,R,J
+  15,R,D,X
+  30,R
+  19,U,C
+  15,U,X
+   2,L
+   8,R
   11,U,X
   40
 
