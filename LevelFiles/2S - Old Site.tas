@@ -693,16 +693,19 @@ console load 2
   18,R,J
    8,L,K
   12,L,J,G
-   4,L,K,G
-   7,R,J
+   3,L,K,G
+   8,R,J
   40
 
 #lvl_9b
-  11,R
-  10,R,D,X
-  11,L,J
+   5,L,K
+   6,L
+   4,D,X
+   6,R,X
+   7,L,J
+   1,J
   14,L,U,X
-   5,L,J,G
+   6,L,J,G
   36,L,D
   40
 
