@@ -5,8 +5,9 @@ console load 4
    1
 
 #Start
+  69
+
 #lvl_a-00
-	69
    5,R,D,X
    3,R,J
    9,R,K,G
@@ -473,16 +474,20 @@ console load 4
    4,R,D,C
   12,R,U,C
   15,U,X
-  18,R,J
-   2,K,G
-   9,R
-   2,L
-   2
-   1,J
-   4,D,X
-  10,R,X
+   6,J
    9,R,J
-  41,R
+   1,R
+   2
+   3,J,G
+   4,R
+   1
+   1,R
+   7
+   4,D,X
+   2,R,J
+   4,R
+   5,R,J
+  46,R
    4,D,X
   11,R,X
    5,U,C
