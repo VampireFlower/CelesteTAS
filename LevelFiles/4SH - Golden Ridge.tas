@@ -1241,20 +1241,24 @@ console load 4
   21,R,J
   10,R
   15,R,X
-   4,D,C
+   4,R,D,C
   12,R,U,C
   15,U,X
-  18,R,J
-   2,K,G
-   9,R
-   2,L
+   6,J
+   9,R,J
+   1,R
    2
-   1,J
+   3,J,G
+   4,R
+   1
+   1,R
+   7
    4,D,X
-  10,R,X
-   3,R,J
-  41,R
-  20,R,X
+   2,R,J
+   4,R
+  15,R,J
+  15,R,D,X
+  30,R
   15,R,C
   16,R
    4,D,X
