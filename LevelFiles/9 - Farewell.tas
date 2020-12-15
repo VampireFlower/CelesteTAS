@@ -13,7 +13,10 @@
 #console load 10 28200 -8088
 #play,Section Determination,37
 
-#console load 10 43570 -8743
+#console load 10 34727 -8600
+#play,Section Determination 2,37
+
+#console load 10 43565 -8743
 #play,Section Stubbornness,37
 
 #console load 10 61160 -10435
@@ -2282,6 +2285,7 @@ console load 10
    1,R
    7,R,J
    1,R
+#Section Determination 2
   14,R,D,X
    1,R,J
   40
@@ -2607,72 +2611,96 @@ console load 10
   10,R,X
   21,L,G
   12,L,J,G
-   7,L,K,G
-  15,L
-  11
+   9,L,K,G
+  19,L
    4,D,X
   10,L,X
    1,R,J
-   7,R
-   1,R,J
-   2,R
-  13,R,J
-   3,R
-  15,R,D,X
-   7,D
-   3
+   5,R
+   1,R,K
+   4,R
+   1,D,J
    2
-   2,R
-  20,U,X
-  40,R,J
-  15,U,X
-  10,R
-   4,D,X
-   1,R,J
+   1,K,G
    6,R
-   6,R,J
-  17,R,D,X
-   4,R,J
+   1,R,K,G
+   5,K
+   2
+   1,R
+  18,R,D,X
+   3,R,D
+   2,R,D
+   1
+   5,R
+  15,U,X
+   4,R
+  36,R,J
+   6,R
+  15,U,X
+   7,R
+   1
+   1,R
+   1
+   4,D,X
+   9,R,X
+   1,R,J
+   1
+  15,R,D,X
+   1,D
+   3,R,J
+   5,R,D,X
+   6,R,J,G
+   1,R
   43
 
 #lvl_h-10
+  10,R
    1,R,J
-   6,R,D,X
-   1,R,J,G
-  12,R
-   5,R,J
-  33,R,U
-  81,F,96
-  34,F,84
-  33,F,137
-  49,F,87
-  11,F,40
-  90,F,88
-  13,F,98
+   4,D,X
+   5,R,U,X
+  38,R,D
+   8,F,90
+  20,F,80
+  10,F,90
+  30,F,102
+   1,F,101
+   1,F,90
+   1,F,91
+  34,F,85
+   6,F,120
+  25,F,138
+   6,F,100
+  41,F,89
+  15,F,50
+   4,F,74
+  39,F,88
+  25,F,89
+  32,F,90
   40,F,103
-   1,F,120
-  19,F,125
-  66,F,89
-  26,F,62
-  30,F,74
-  11,F,96
+  21,F,123
+  60,F,90
+   2,F,91
    3,F,90
-   5,F,89
-  25,F,99
-  50,F,91
-  13,F,89.998
-   1,F,90.002
-   1
+  25,F,62
+  26,F,78
+  17,F,79
+  24,F,97
+  12,F,96
+   6,F,92
+  43,F,91
+  11,F,90
+   1,F,91
+   1,F,90
    4,D,X
    3,R,X
   22,R,J
    7,R
-   3,R,J,G
-   2,R
-   2
-   4,J
-   7
-   2,R
+   2,R,J,G
+   3,R
+   4
+   1,R
+   6
+   1,R
    4,D,X
    3,R,X
    9,R,J
@@ -2681,11 +2709,16 @@ console load 10
   27,R,U
  100,F,90
   14,R,X
-  27,R,U
-  73,F,92
+  27,R,D
+  47,F,90
+   4,F,89
+  17,F,69
+   6,F,4
+   2,F,60
 #Section Stubbornness
    4,D,X
-  12,R,X
+  11,R,X
+   4,R
  348
   40
   
