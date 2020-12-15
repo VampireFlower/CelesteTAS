@@ -5,11 +5,9 @@ console load 8
 115
 
 #Start
-   9,L,X
-   1,L,J
-   1,J
-   6,L,J
-   1,L,K,G
+   4,D,X
+  10,L,J
+   3,L,K,G
  159,L
    1,S
    1,D,J
