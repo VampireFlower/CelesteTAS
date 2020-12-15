@@ -590,7 +590,6 @@ console load 10
    1,R,J
    5,R
   40
-
 #lvl_c-alt-00
    1,R
    2,R,J
@@ -1239,54 +1238,36 @@ console load 10
 
 #lvl_e-08
    7,R
-  15,R,J
-  39,R,U,J,G
-   4,R,U,G
-   1,R
-   4,D,X
-  11,R,X
-  12,L
-   4,L,J
-   4,J
-   3,L,J
-   5,R,D,X
-  33,R,G
-   1,J,G
-   1,R,J,G
-  15,R
-  27,L,G
-   1,D
-  12,L,J,G
-  12,L
-   4,D,X
-  10,L,X
-   1,R,J
-   7,R
-   1,R,J
-  10,R,D,X
-   1,L,J
-   8,L
-   5,L,J
-  14,L,D,X
-   1,R,J
-   7,R
-   6,R,D,J
-   3
-   1,R
-   1
-  15,L,X
+  14,R,J
+  24,R,U,J,G
    1,L
-  12
+  14,R,D,X
+ 100,R,G
+   5,R,D,G
+   5,R,G
+   3,J,G
+   2,R
+   3
+   6,J
+   2
+   6,J
+   1,D,X
+  14,R,X
+  12,R,J,G
+  12,R,K,G
+  15,R,X
+  15,D,C
+  10
    3,L
-   4,D,C
-   5,L,D,C
+   3
+   7,L
+  12
+   1,D,X
+   7,L,X
    1,R,J
-   5,R
-   1,R,J
-   1,R
-   1,R,D
-   1,R
-   6,R,J
+   7,R
+   2,R,D
+   6,R,D,J
   15,R,D,X
   20,R
    6,R,D
@@ -1599,23 +1580,33 @@ console load 10
    7,R
    1
    2,R
-  42,L,D,G
-  91,L,G
-   3,L,D
-   1,J,G
-   2,R
-   2,L
-   1,J,G
+   4,R
    1,R,J
-  17,L,J
-  11,L
-   4,D,X
-   7,L,U,X
-   1,J,G
-   6,L
+  20,R
+   1,R,D
    1,R
-  13,R,J
-  20,U,X
+  18,L,G
+   3,L,D,G
+   1,L,G
+   1,L,D,G
+  13,L,G
+   1,L,U,G
+   1,G
+   1,L,U,G
+  62,G
+   9,L,D,G
+   1,J,G
+   4
+   1,R
+   5,L,J
+   1,L,K,G
+   2,L,J,G
+  10,J
+   1,K
+   2,J,G
+  12,R,J
+  15,U,X
+  10,R
    4
    4,D,X
    9,R,X
@@ -3294,6 +3285,7 @@ console load 10
   35,F,90
   33,F,106
    3
+
    4,D,X
   11,R,X
   47,R
@@ -3414,14 +3406,12 @@ console load 10
   17,R
   17,R,D,X
    1,R,J
-   8,R,D,X
+   5,R
   40
 
 #lvl_j-08
-   2,R,D,X
-   1,R,J
-   2,R
-  20,R,D
+  16,R,D
+   7,R
 #Section Mid Recon
   23,R,U,X
    4,R,J
@@ -3429,6 +3419,7 @@ console load 10
    1,R,J
    1
    5,R
+#122.604
    1,R,J
    8,R
    4,D,X
@@ -3631,21 +3622,22 @@ console load 10
   27,L,J
   14,R
    1,R,J,G
-  48,R,G
+  31,R,G
    1,L,J
    3,L,K
    5,L
    1,L
    9,L
    6
-  47,R
+  30,R
+  14,R,U,X
    1,R,J,G
    1,R,K,G
-  12,R,J,G
-  36,R,K,G
+   7,R,J,G
+  10,R,K,G
+  22,R
    4,R,D
-  32,R
-  31,R,X
+  37,R
   20,R
   12
    1,R
@@ -3667,6 +3659,7 @@ console load 10
    6,R,J
    6,R,K,G
    7,R,D,X
+#51.867
   40
 
 #lvl_j-12
