@@ -98,16 +98,17 @@ console rmx2 1
   15,U,X
    3,R
    8,L,G
-  11,K,G
-   1,R,K
-  10,K
+   9,J,G
+   1,R,J
+   2,R,K
+  11,L
    1,L,J,G
    1,L,K,G
-   2,J,G
+   1,J,G
    9
-  12,R,D
-  16,D
-   9,L,D
+   1,R,D
+  25,D
+  10,L,D
   10,R,D,X
    9,R,J
   15,R
