@@ -276,8 +276,8 @@ console load 1
    2,R,D
   18,R,D,X
    8,R,J
-  11,U,X
-  24,R,J
+  10,U,X
+  25,R,J
    4,D,X
   10,R,X
    8,R,J
@@ -286,14 +286,13 @@ console load 1
    2,R
   20,R,J
    4,D,X
-  14,R,U,X
+  11,R,U,X
+   3,R
   40
-  
 #lvl_6b (1)
-   1,R
-  15,U,X
-   6,R
    1
+  15,U,X
+   7,R
    5,L,J,G
    5,K
    3,L,J,G
