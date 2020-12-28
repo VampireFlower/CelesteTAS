@@ -1952,11 +1952,11 @@ console load 7
   11,J,G
    1,L,J
   14,R,K,G
-  10,J,G
+   8,J,G
    2,L,J
-  34,L,K
-  16,U,X
-   8,L,J
+  24,L,K
+  19,L,U,X
+  12,L,J,G
   40
 
 #lvl_e-08
@@ -2527,55 +2527,55 @@ console load 7
    7
   18,L,J
    6,L,K,G
-   5,R,J
+   3,R,J
   10,R,X
-   9,R,J
-  20,R
-   4,R,D
+  10,R,J
+   9,R
+   1,R,K
+  15,R
   13,R,J,G
    4,D,X
   11,R,U,X
-   5,R
-   2
-   1,R
+   1
+   7,R
   15,R,U,X
   21,R
-   5,R,J
+   2,R,J
    5,R
+   3,R,K
   15,D,X
-   5,R,D
-   4,R
+   7,R,D
   15,R,D,X
-   2,R,D,J
+   3,R,D,J
   40
 
 #lvl_f-08d
-   9,R,J
+   8,R,J
    3,K
    2,J
    2,K
    2,J
    2,K
    2,J
-   1,K
    2,K
    1,R,J,G
-   1,J
+   2,J
   13,R,J
   15,U,X
   15,R,D,C
   11,R,D
    2,L,D
-   9,R,D
+   3,D
+   6,R,D
    4,R,D,X
    1,R,J
    7,R
    1,R,J
-  18,R
+  12,R
+   6
   15,U,X
-  14,R,D
-   4,D
-   1,R,D
+   6,R
+  13,R,D
    4,D,X
   11,R,U,X
    9,L,K,G
