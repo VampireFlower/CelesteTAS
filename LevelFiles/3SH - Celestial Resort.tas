@@ -2429,43 +2429,40 @@ console load 3
    1,L,J
   13,U,X
    4,L,J
-  15,L,D
-   2,D
-   5,L,D
-  24,R,D
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-   2
-   5,R,D,X
-  40
-#21.284
-  
-#lvl_roof04
-   1,R
-   1,R,J
-   6,R,D
-   1,R,J
-   2,R,D
-   3,R
-   2,R,J
-   5,R
-   1,R,J
-   1,L,K,G
-   9,R,K
-   5,R
-   4,R,J
-  12,R
-   2,R
-   4,D,X
-  11,R,X
-   1,L
-   5,J,G
-  28,R,J
+   9,L,D
+  39,D
+   5
    4,D,X
    1,R,J
    6,R
+   1,R,D,J
+   1,R,K
+   2
+   1,R
+   1,R,J
+   1,R,K
+   1
+   5,R
+  40
+  
+#lvl_roof04
+  13,R,D
+   7,R,J
+   6,R
+  11,R,K
+   1,K
+   1,R,K
+   4,D,X
+  10,R,U,X
+   1,L
+   1,K
+   2,J,G
+  23,R,J
+   9,R
+   4,D,X
+   1,R,X
+   1,R,J
+   5,R
   40
 
 #lvl_roof05
