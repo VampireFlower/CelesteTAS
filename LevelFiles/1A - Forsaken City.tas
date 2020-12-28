@@ -170,21 +170,20 @@ console load 1
    6,R
    3,R,J
    3,R
-   1,R,K,G
-   6,R
-   1,R,J,G
-  26,R,D
-   1,D
-   1,R,D,J
+   2,R,K,G
+   5,R
+  10,R,J,G
+   9,R
+   2,R,K
+   7,R
   43
 
 #lvl_6a
-   1,J
-   5
-   2,J
-  13
+   2,L
+   5,R
+  14,L
   11,L,D
-   2
+   2,D
   18,R,D,X
    8,R,J
   10,U,X
@@ -193,18 +192,18 @@ console load 1
   10,R,X
    8,R,J
    1,R
-   1,R,J
+   1,R,K
    2,R
-  20,R,K
+  20,R,J
    4,D,X
-  14,R,U,X
+  11,R,U,X
+   3,R
   40
 
 #lvl_6b
-   1,R
-  15,U,X
-   6,R
    1
+  15,U,X
+   7,R
    5,L,J,G
    5,K
    3,J,G
