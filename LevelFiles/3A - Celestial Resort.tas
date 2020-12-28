@@ -1,14 +1,8 @@
 #console load 3 4279 -20
 #play,Section Huge Mess,37
 
-#console load 3 2121 -560
-#  37
-#   1,J
-#   8
-#   2,J
-#   5
-#play,Section Rooftop
-
+#console load 3 2534 -530
+#play,Section Rooftop,37
 
 console load 3
    1
@@ -1498,6 +1492,7 @@ console load 3
    1
    1,R
    4
+#Section Rooftop
    9,L,D
   11,L,D,J
    9,R,K,G
@@ -1521,7 +1516,6 @@ console load 3
   19,L,X
   25,L,C
   24,L,X
-#Section Rooftop
    4,D,C
    3,L,C
    1,L,J
