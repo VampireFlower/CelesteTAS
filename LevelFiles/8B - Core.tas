@@ -759,15 +759,23 @@ console hard 9
    2,L,J
   10,L,K
   20,L
-  46,R,J
-  18,R,D
-  32,R,X
-   4,D,C
-  11,R,U,C
+  18,R,J
+  29,R,D
+   6,D
+   2
+   4,D,X
+   1,L,D,X
+   1,R,J
+   3,R
+   3,R,J
+   1,R,J
+  12,R
+   4,D,X
+  11,R,U,X
    1,L,J,G
    1,L
    2,L,K,G
-   1,L
+   1,R
    9,R,J
    7,R
    4,R,J
