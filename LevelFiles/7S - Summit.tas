@@ -217,20 +217,24 @@ console load 7
    6,R
    4,L,D,X
    1,L,J
-   7,L
-  23,L,D,J
+   8,L
+  22,L,D,J
    7,U,X
-   9,R,J
-  12,R
-   9,R,J
+   8,R,J
+   9,R
+   6,R,J
+   7,R
   15,L,X
-   6,L,D
-  25,R,D
+   6,L
+   8,R
+  15,R,D
+   1,R
+   1,R,D
   15,R,X
    4,D,C
    9,R,C
    1,R,J
-   7,R
+   6,R
   12,R,J
    1,K,G
    1,J,G
