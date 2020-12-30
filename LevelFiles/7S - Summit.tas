@@ -42,32 +42,34 @@ console load 7
   11,R,X
    6,R,D,C
    1,R,J
-   7,R
-   8,R,J
-   4,R
-  15,R,U,X
+   3,R
+   1,R,K
+   3,R
+  10,R,J
+   4,D,X
+  11,R,U,X
   10,R,C
    6,R,J
   15,U,X
    4,D,C
-  10,R,C
+   8,R,C
+   1,R,J
+   2,R
   40
 
 #lvl_a-01
-   1,R,J
   14,R,D,X
    1,R,J
-  16,R
-   4,D,X
-  11,R,U,X
-   1
-   1,R
+   3,R
+   2,R,K
+  12,R
   15,R,U,X
-   5,R
-  15,U,X
-   5,L
-   1
+  13,R,U,C
    1,L
+   1,J,G
+   6,R,J
+  15,U,X
+   7,L
   15,U,X
   37,R,J
    4,D,X
