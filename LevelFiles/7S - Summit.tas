@@ -2373,14 +2373,15 @@ console load 7
 #lvl_f-04
    1,R,D,X
    1,R,J
-   9,R
-   6
-   5,R,D,X
+   8,R
+   5
+   7,R,D,X
    1,R,J
-   5,R
+   4,R
    1,R,K
-   1,L
-  17,R,J
+   1,R
+   1,R,K
+  16,R,J
   12,K,G
    2
    3,K
