@@ -144,18 +144,18 @@ console load 7
    1,R,J
    1,R
   14,R,D,X
-  21,R,J
+  20,R,J
   15,R,U,X
    1,R
   14,U,C
    2,J
-   1,R
-   6,L,U,X
+   5,L,U,X
   14,R
   14,U,X
-  13,R,J
+  14,R,J
+   1,R
   12,L,U,X
-   1,L,J,G
+   1,L,K,G
    5,L
    6
    4,D,X
