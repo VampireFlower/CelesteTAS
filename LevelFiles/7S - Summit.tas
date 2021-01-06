@@ -182,25 +182,26 @@ console load 7
   11,R,D,X
   40
 
-***
 #lvl_a-04
    2,R,D,X
    1,R,J
    1,R
   14,R,D,X
-  21,R,J
+  20,R,J
   15,R,U,X
    1,R
-  15,U,C
+   4,D,C
+  10,U,C
    1,J
-   1,R
+   1
    6,L,U,X
-  13,R
+  14,R
   15,U,X
-   1,R
-   9,R,J
-  15,L,J
-   1,L,K,G
+   3,R,J
+   4,L,J
+   1,R,J
+  16,L,J
+   2,L,K,G
    4,D,X
    1,L,X
    1,L,J
