@@ -183,6 +183,8 @@ AnalogMode,Precise
   13,L,U,X
   40
 
+AnalogMode,Ignore
+
 #lvl_02b
   11,L
   16,L,X
@@ -269,6 +271,8 @@ AnalogMode,Precise
    1,R
    1,R,J
   43
+
+AnalogMode,Precise
 
 #lvl_05
    1,R,J
@@ -1751,3 +1755,4 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
+AnalogMode,Ignore
