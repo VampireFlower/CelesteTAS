@@ -922,23 +922,17 @@ console load 2
    1,L,J
   15,L,D
   19,L,U,X
-   6,L,J
+   4,L,J
    3,L,K
-   7,L,J,G
-  16,L
    4,D,X
-  11,L,U,X
-   2,R,J,G
-   1,R
-   6,R,K,G
-   3,L,K
-   1,R,K
-   2,R
-   2,R,J,G
-   8,R
-   3,R,D,J
-   5,R
-   6,U,X
+  19,L,X
+   4,L,J
+  11,L,K
+   7,U,X
+   7,R,J
+   4,R,K,G
+   6,R
+   9,U,X
   40
 
 #lvl_12b (3)
