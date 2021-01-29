@@ -19,8 +19,8 @@
 #console load 10 61156 -10434
 #play,Section Mid Recon,37
 
-#console load 10 76470 -10567
-#play,Section Farewell,150
+console load 10 76470 -10567
+play,Section Farewell,150
 
 console load 10
    1
@@ -4602,12 +4602,17 @@ console load 10
  116,F,1
   15,U,X
   38
-   1,J
+
+# optional waiting for
+# visuals to play out
+# without IGT loss
   29
    1,J
   30
    1,J
  100
+#
+
    1,S
    1,D,J
   18
