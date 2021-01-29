@@ -1846,8 +1846,10 @@ console load 3
    6,R
   19,R,J
    4,D,X
-   8,R,X
-   3,R,J
+   7,R,X
+   1,R,J
+   1,J
+   2
    4,D,X
    5,R,U,X
   40
@@ -1855,33 +1857,32 @@ console load 3
 #lvl_09-b (4)
    4,R,U,X
    1,L
-   2,L,J,G
+   1,J,G
   14,R,U,X
    1,R,K,G
-   1,R
+   5
+   1,K
    1
-   5,R
-  10,L
-  15,U,X
-   4,L,J
+   1,K
+  12,L
+  13,U,X
+   3,L,J
    1,R,K,G
   11,R,J,G
    7,R
+   9,R,J
    4,D,X
-   1,R,J
-   4
-   9
+  11,U,X
+   1,L,J,G
    7,L
-   5,L,J,G
-  13,L,X
+  11,L,X
 #+2f berry
-   5,L,J
+   6,L,J
    1,S
    1,D,J
   34
    2,L,J
-   4,D,X
-  10,U,X
+  13,U,X
    1,J
   40
 
