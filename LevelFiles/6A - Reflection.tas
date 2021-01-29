@@ -581,25 +581,26 @@ AnalogMode,Precise
   19,R
    7,R,D,X
    1,R,J
-   2,R
+   1,R
+   1,R,J
   40
 
-#lvl_16a
+#lvl_16b
+   4,R
+   1,R,J
    1,R
-   2,R,J
-   3,R
    4,R,D,J
    5,R
-   7,R,J
-   9,R
+   9,R,J
+  11,R,D
   18,R,X
-  14,R,C
-  27,R,D
-   8,F,90
-  15,F,62.25
-  27,F,67.9
-  17,F,54.76
-  19,F,100.77
+  10,R,C
+AnalogMode,Square
+  27,F,48.7015
+AnalogMode,Precise
+  49,F,79.73
+  17,F,54.12
+  19,F,100.76
    4,D,X
   23,R,X
    4,D,C
