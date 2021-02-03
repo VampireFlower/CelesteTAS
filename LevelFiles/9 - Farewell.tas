@@ -19,8 +19,8 @@
 #console load 10 61156 -10434
 #play,Section Mid Recon,37
 
-console load 10 76470 -10567
-play,Section Farewell,150
+#console load 10 76470 -10567
+#play,Section Farewell,150
 
 console load 10
    1
@@ -3384,10 +3384,12 @@ console load 10
    1
    5,R,X
   27,R,D
-  19,F,124
-  35,F,90
-  33,F,106
-   3
+  17,F,124.73
+  37,F,91.6
+   2,F,101.77
+   5,F,104.71
+  27,F,106.31
+   1,R
    4,D,X
   11,R,X
   47,R
