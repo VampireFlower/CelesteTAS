@@ -371,33 +371,29 @@ console hard 7
   12,L,U,X
    1,L,J,G
   18,L,D
-  93,L,U,G
-   1,K,G
-   1,J,G
-   1,R,K
-  13,R,J
-   4,D,X
-   9,U,X
+  55,L
+  14,U,X
   14,R,J
-   4,J
-   1,K
-   4,L,K
-   1,J
-   3,K
-  10,L,K
-   7,J,G
-   2,R,J
+   6,R
+   2
+   2,L,K
+   6,J,G
+   2,L,J
+   1,R,J
   12,R,K
-   1,J,G
+  12,L,J
+  12,R,K
+  12,L,J
+  12,R,K
+   7,J,G
    1,L,J
   12,L,K
-  11,L,J,G
+  12,L,J,G
    2,K,G
    2,R,K
   12,R,J
-   2,K,G
-   9,R,K,G
-   1,L,K
+   7,R,K,G
+   5,K
   12,L,J
   12,R,K
   12,L,J
@@ -409,7 +405,6 @@ console hard 7
  297
 
 #lvl_c-01
-
   76
 #Section 1000m
    5,R,J
