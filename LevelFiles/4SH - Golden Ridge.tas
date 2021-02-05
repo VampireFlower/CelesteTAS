@@ -368,19 +368,21 @@ console load 4
   34
 #4SHC2
    1,R
-  22,L,D
+  15,L,D
+   6,R,D
+   1,D
    4,R,D
    4,D,X
-   7,R,J
-  12,R,K,G
-   6,R
-   1,R,J
-  12,D
-  20,R,D
+   6,R,J
+  18,R,K,G
+   8
+  22,R,D
+   3,R
    4,D,X
-   8,R,X
+   7,R,X
    2,R,J
-   6,R,K,G
+   1,J
+   5,R,K,G
   12,R,D,X
   40
 
