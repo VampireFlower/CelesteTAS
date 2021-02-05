@@ -919,19 +919,25 @@ console load 4
   19,R,J
    4,D,X
   11,U,X
-   3,L,J,G
-   7,L
-  10,L,D,X
-   4,L,J
-   1,L
+   2,L,J,G
+   1,K,G
+   5
+   2,L
+   3
+   3,R
    4,D,X
-  14,L,X
-   9
-   4,D,C
-  12,L,J
-  15,L
-  11,L,J
-  14,L,D,X
+   1,L,J
+   1,L
+   3
+  10,L
+   4,D,X
+   9,L,X
+   1,L,J
+   4,L
+  13,L,J
+  15,L,D,X
+   6,L,J
+  11,L,D,X
    3,J
    6,R,J
    1
