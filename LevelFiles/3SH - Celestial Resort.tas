@@ -2522,37 +2522,50 @@ console load 3
    1,R,J,G
   14,R
   33,R,J
-  15,R,D,X
-   3,R
+  18,R,D,X
   18,R,U,C
   18,R,X
-   7,R
+   4,R
   18,R,C
+   3,R
+   1
    4,D,X
-   9,R,X
+   8,R,X
+   6,R,J
+  14,R,D,X
    4,R,J
-   2
-  14,L,D,C
-   1,R,J
-   5,R,D,X
-   1,R,K,G
-  17,R
-   2,R,J
+   1,J
    6,R,D,X
   40
 
 #lvl_roof06
-   3,R,J,G
-  16,R
-  11,R,J
-   6,R
-  15,R,D,X
-   1,R,D
+   1,R,J,G
+   9,R
+   1
+   4,R
+   4,R,J
+  14,R,D,X
+  12,R,J
+   7,R
+  11,R,D,X
+   1,R,J
+   3,R
+   1,R,K
+   3,R
    8,R,J
-  15,U,X
-  10,R,J
-   2,R
-   1,R,K,G
+# movement up to this part is
+# like 2f slower than other stuff
+# i tested, but this lines up an
+# oshiro bounce later. Maybe waiting
+# in a different spot later
+# is better, havent checked.
+# this was already tiring enough
+   4,D,X
+  11,U,X
+   5,R,J
+   2,J
+   3,R,J
+   3,R,K,G
   21,R,D
   16,D
    3,L,D
@@ -2561,75 +2574,81 @@ console load 3
    4,R,J
    9,R
    5,R,J
-  11,R
+   7,R
+   2,R,K
+   3,R
    4,D,X
   11,R,X
-  12
-   4,R,D,X
-  13,R,X
+   7
+   4,D,X
+  10,R,X
    1,R,J
    9,R,D,X
   10,R,J
   18,R
   15,R,J
-  12,R,K,G
-   4,D,X
-   6,R,X
-   1,R,J
-   2,R,J
-   1
-   1
-  12,R,U,X
-   2,J,G
-   5
-   1,J
-  11,D
-  15,L,D
-   2,D
-   1
-   6,R
-   2,R,D
-   3,R
-   4,D,X
-  11,R,U,X
-   1
-  13,R
-   1,R,J,G
-   7,R
+   1,R,K,G
+   1,R
+   8,R,K,G
+   1,R
    4,D,X
    1,R,X
    1,R,J
    6,R
-   4,R,J
-   4,R
-  16,R,D,X
+   1,J
+   2,R,J
+  12,R,U,X
+   1,J,G
+  12
+   1,D
+   1,L,D
+  13,D
+   8,R,D
+   3,R
+   1,R,D
+  15,R,X
+   6,R
+   1,R,J,G
+   1,J
+   3,L,J
+   5,R,J
+   7,R
+   4,D,X
+   1,R,J
+   7,R
+   6,R,J
+   1,R
+  19,R,D,X
    1,R,J
    4,D,X
-  11,R,X
-  15,R,D
+  14,R,X
+   9,R,D
    4,D,X
    1,R,J
   12,R
-   6,R,J
-   2,R
-  15,R,U,X
-   2,R
-   7
-   4,D,X
+   3,R,J
+   2,J
+   1
+   3,R
+  19,R,U,X
+   5,R
+  12
+   1,R
+   4,D,C
+   3,R,C
    1,R,J
-   9,R
-  27,R,D,J
-   3,R,K,G
-   4,D,X
-  10,R,X
+   6,R
+  22,R,D,J
+   2,J
+   3,K,G
+  14,R,D,X
    1,R,J
   19,R,D,X
-   7,R,J
-   1,R,K,G
-  12,R
-   4,D,X
-   9,R,X
-  16,R,J,G
+   1,R,J
+   9,R,U,X
+  23,R,J,G
+   8,R
+   6,R,J
   40
 
 #lvl_roof07
