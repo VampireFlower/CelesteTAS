@@ -317,22 +317,17 @@ console load 3
   40
 
 #lvl_00-b (2)
-   4,R,D
-  15,L,D
-   4,D,X
-   2,L,X
-   1,L,J
-   1,L
+  14,L,D
+  13,L,D,X
   40
 
 #lvl_0x-b (1)
-   6,L
-   1,L,J
-   9,L,D,X
-  21,L,J
-  20,L,D
-   4,D,C
-  10,L,C
+   2,L,J
+  13,L,D,X
+  20,L,J
+  21,L
+   4,D,X
+  10,L,X
    1,L,J
   10,L,U,X
    1,L,J,G
