@@ -874,28 +874,25 @@ AnalogMode,Precise
   14,R,C
   27,R,U
   43,F,83.12
-  58,F,89.7
+  57,F,88.08
 #Section Rock Bottom
    4,D,X
   10,R,X
-   4,R,J
-   4,R
+   7,R,J
+   1,J
+  16,R,D,X
+   1,R
+   1,R,D,J
   15,R,D,X
    1,R,J
-   1,R
-  16,R,D,X
-   1,R,J
    1,R,K
    1,R,J
-   1,R,K
-   1,R,J
-   2,R,K,G
-   1,K
-   6,R,K
+   3,R,K
+   7,R,J,G
   40
 
 #lvl_c-00
-   3,R,K
+   4,R,J
   14,R,U,X
   39,L
    1,J
@@ -1085,26 +1082,33 @@ Analogmode,Precise
 
 #lvl_c-04
    2,R,J
+   5,R
+   1,R,K
    4,R
-   2,R,J
-   4,R
-  10,D
-  19,L,D,X
-   4,D
+   3
+   7,D
+  18,L,D,X
+   1,L,D
+   1,D
+   1,L,D
    4,R,D
-   4
+   1,R
+   4,R,D
    1,J
-   7,R
-  28,R,X
+   5,R
+   1,R,K
+  29,R,X
   18,R
    1
+   2,R
+  10,R,J
    1,R
-   1
-   1,J
-  12,R,J
    4,D,X
-  11,R,X
-  22,R,D
+   2,R,X
+   1,R,J,G
+   1
+  17,R
+   7,R,D
   34,L
    2
    1,L
