@@ -1,3 +1,4 @@
+
 #By EuniverseCat, Kilaye, and fishmcmuffins
 
 #console load 5 3992 224
@@ -664,29 +665,27 @@ console load 5
 #lvl_a-15
    2
    4,R,J
-  13,U,X
+  13,U,C
    4,L,J
-   6,L,C
-  15,L,U,X
-  12,L,U,C
-  28,D,X
-  14,R,U,C
-   5,R,J,G
-  12,R
-  20,R,X
-   9,R,U,C
+   6,L,X
+  20,R,C
+   9,R,U,X
    1,R,J,G
-   1,J,G
+   1,J
    9,R,J
    5,R
-   3,R,J
-   2,J
-   1
-   1,J
-   2,R
-   9,L,K
-  25,L,U,X
-  37,L,D,C
+   4,R,J
+   5
+   9,L,J
+  16,L,C
+  15,L,D,X
+  11,L,D
+  23,L,U,X
+  28,D,C
+  14,R,U,X
+   5,R,J,G
+  18,R
+  12,R,D
   15,R,X
    9
   14,R,D,X
@@ -730,11 +729,12 @@ console load 5
   40
 
 #lvl_a-01 (3)
-  10,L,D
-   6,R,D
-   8,D
-  10,L,D
-   6,L
+   8,R,D
+   9,D
+   2,L,D
+   2,D
+  12,L,D
+   7,L
    4,D,X
   11,L,X
   59,L,C
@@ -766,20 +766,25 @@ console load 5
   14,R,D,C
    1,R,J
   15,R,D,X
-  34,R,D
-   2,L,D
-  11,R,D
+   9,R,D
+   5,D
+  20,R,D
+   1,D
+   1,R,D
+   1,D
+  10,R,D
    4,D,X
    2,R,X
    1,R,J
   58
 
+***
 #lvl_a-13
    7,R
    1,R,J
   15,R,D,X
    8,R
-  29,G
+  30,G
    1,U,G
    1,G
    1,U,G
