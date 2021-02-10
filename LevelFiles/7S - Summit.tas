@@ -976,15 +976,17 @@ console load 7
    8,L,X
    1,L,J
    2
-   4,L
-   4,L,J
-   4,L
-   9,L,D,X
-   1,R,J,G
+   6,L
+   1,L,J
    3,L
-  11,L,J
-  27,U,C
+   6,L,D,X
+   1,L,J,G
    5,L
+   6,L,K
+   1,L
+   4,L,K
+  25,U,X
+  10,U,C
   40
 
 #lvl_c-06 (1)
