@@ -16,6 +16,9 @@
 #console load 7 25600 -13432
 #play,Section 3000m,37
 
+#console load 7 26212 -22614
+#play,Section 3000m2,37
+
 console load 7 
    1
 
@@ -1345,7 +1348,7 @@ console load 7
    1,R,K
    4,D,X
   10,U,X
-  17,R,J
+  16,R,J
   13,U,X
   40
 
@@ -1580,21 +1583,22 @@ console load 7
   20,R
   15,R,U,X
   15,U,C
-   7,R
-   4,D,X
-  11,R,X
+   3,R
+  15,R,U,X
    5,R,D,C
   40
 
 #lvl_d-10 (1)
-   2,R,D,C
-   2,R,J
+   4,R,D,C
+   1,R,J
   21,R,D
    4,L,D
-  13,R,D
+   9,R,D
+   1,D
+   3,R,D
    4,D,X
   11,R,U,X
-  14,R,U,C
+  13,R,U,C
    8,R,J,G
   24,R,D,X
    1,R,G
@@ -1640,10 +1644,11 @@ console load 7
 
 #lvl_d-10 (2)
    4
-   1,J
-   6,L,D
-  28,R,D
-   3,R
+   4,L,J
+   2,L
+  15,D,X
+  17,R,D
+   2,R
    4,D,X
   11,R,U,X
   13,R,U,C
@@ -1907,30 +1912,48 @@ console load 7
 
 #lvl_e-07
    1,R,D,X
-   9,R,J
-#Berry2-1
-  14,R,X
    1,R,J
+   1,R
+#Berry2-1
   14,R,D,X
    1,R,J
-  30,D
-  19,U,X
-  17,L,J
-  12,R,K
-  12,L,J
-  14,L,U,X
-  10,L
+   3,R
+   1,R,J
+   1,G
+   6,R,J,G
+   4,D,X
+   6,R,X
+   1,R,J
+   4,R
+   7,R,J
+   3,K
+  12,L,D,X
+   2,J,G
+   2,R,J
+   9,U,X
+  12,R,J
+   5,L,J
+  12,L,K
+   8,L
+   8
+   1,R
+   1
+   1,R
+  27
    4,L,D,X
    1,L,J
-   6,R
+   4,R
+   1,L,K
+   1,L
 #Berry2-2
-  15,L,J
+   9,L,J
+   6,J
   15,U,X
-  15,R
+  13,R
   15,R,X
-  15,R
-   1,R,J
-   6,L,J
+  16,R
+   4,R,J
+   3,L,J
    5,L
   15,U,X
    1,L
@@ -2074,7 +2097,7 @@ console load 7
    1,R,D
    1,D
   40
- 
+
 #lvl_e-11 (2)
    9,R,D
   25,R
@@ -2094,16 +2117,14 @@ console load 7
    4,D,X
   11,R,X
   15,R,D,C
-  15,R,X
-  15,D,C
-   4,D,X
-   1,L,J
-  10,R
-  12,D,X
+  19,R,X
+  15,L,D,C
+  10,L,D
+   4,D
   40
 
 #lvl_e-10
-   6,R,D
+   5,R,D
    5,R,J
    4
   14,D,X
@@ -2556,44 +2577,46 @@ console load 7
    5,R
    3,R,K
   15,D,X
-   7,R,D
-  15,R,D,X
-   3,R,D,J
+   8,R,D
+  14,R,D,X
+   1,R,J
+   4,D,X
+   1,R,U,X
   40
 
 #lvl_f-08d
-   8,R,J
-   3,K
-   2,J
-   2,K
-   2,J
-   2,K
-   2,J
-   2,K
-   1,R,J,G
-   2,J
-  13,R,J
+   6,R,U,X
+   3,J
+   8,K
+   3,J
+   5,R,K,G
+   1,K
+   2,R,K
+   8,R
   15,U,X
   15,R,D,C
   11,R,D
    2,L,D
-   3,D
    6,R,D
-   4,R,D,X
+   2,D
+   4,D,X
+   7,R,X
    1,R,J
    7,R
-   1,R,J
-  12,R
-   6
+   2,R,D
+  11,R,J
   15,U,X
-   6,R
-  13,R,D
+  16,R,D
+   1
+   1,D
+   1,R,D
    4,D,X
   11,R,U,X
    9,L,K,G
    7,L
    4,R,X
-   8,R,J
+   7,R,J
+   1,R
    1,R,K,G
    2,R
 #Berry3-1
@@ -2617,17 +2640,16 @@ console load 7
    4,D,X
    5,R,X
    4,R,J,G
-   5,R
-  18,R,D,X
-   8,L,D
-   3,L,J
-  15,L,D,X
-   7,R,D
+   1,R,J,G
+  20,R,D
+
+  15,D,X
+  12,D
   40
 
 #lvl_f-10
    3,R,D
-  14,R,D,X
+  13,R,D,X
    3,R,J
   40
 
@@ -3067,28 +3089,35 @@ console load 7
    8,R,J
    5,R
    1,J,G
-   4,R,J
-   2,R
-   4,L
-  15,R,D
-  18,R,D,X
-   9,R
-   1,R,J
-  10,R
-   5,R,J
-   8,R
-   4,D,X
    2,R,J
+   2,J
+   1
+   1,R
+   4,L
+  20,R,D
+   6,R
+   2,L
+   6,L,D
+   2,L
+   4,D,X
+   2,L,X
+   1,R,J
+   2,R,K,G
+   5,R
+   1,R,K
    1,R
    1,R,K
-   2,R
-   8,R,J
+   5,R,J
+   7,R
+   5,R,J
+   5,J
   15,U,X
   15,U,C
    1,L,K,G
-   7,R,K
-   3
-   4,R
+   5,R,K
+   2,K
+   5
+   2,R
   13,U,X
    2,R,J
 
@@ -3159,13 +3188,12 @@ console load 7
   14,R,C
 
 #CP-18
-   8,R,J
-  14,R,U,X
-   1,R,J,G
-   5,L,J
-   6,R,J
-   5,R,X
-  11,R,K,G
+  14,R,J
+  15,U,X
+   8,R,C
+   1,R,K,G
+   2,K
+   9,R,K
    1,R
    5,R,K
    9,R
@@ -3311,8 +3339,7 @@ console load 7
   15,U,X
    8,R
   20,R,U,X
-  33,R,D
-   2,R,D
+  35,R,D
    8,L,D
    2,R,D
   12,R
@@ -3560,6 +3587,7 @@ console load 7
   15,U,X
   24,R,J
    7,R,K,G
+#Section 3000m2
   15,U,X
   18,R,J
   40
