@@ -1356,7 +1356,7 @@ console load 5
   40
 
 #lvl_b-10
-  15,D,X
+  15,D,C
    6
   10,L
   24,L,D
@@ -1378,55 +1378,57 @@ console load 5
    1,O
   68
 #Section Depths Warp
-   2,R,J
+   1,R,J
+   1,J
   11,L,K
-  16,U,X
+   1,L,J,G
+  15,U,X
   40
 
 #lvl_b-02 (3)
-  23,L,J
-   1,L
-  16,U,X
-   1,L,K,G
-   1,L
+  22,L,J
+  15,U,X
+   2,L
+   3,L,K,G
+   7,L
+   7,L,J
+   4,J
+  15,L,U,X
    1,L,J,G
    7,L
-   9,L,J
-   2,J
-   2
-  14,L,U,X
-   1,L,J,G
-  10,L
-   2,R,J
+   2,L,J
   14,U,X
   78,U,C
   15,L,U,X
-  12,U,C
+  14,U,C
    8,L,J
-   1,L,K,G
-   7,L
-   4,L,D,X
-   1,L,J
-   2,L
+   4,L,K,G
+   3,L
   40
 
 #lvl_b-03
-   8,L
-   4,L,D,X
+   6,L,D,X
    1,L,J
    7,L
-   7,L,J
+   4,L,J
+   5,L
+   1,L,K
+   3,L
    4,D,X
-   8,L,X
-  22,L,C
-  11,L,U,X
-  34,R,U,C
-  20,R,X
-  15,R,C
-   2
+  10,L,X
+  19,L,C
+  14,L,U,X
+  35,R,U,C
+   4,D,X
+  15,R,X
+  16,R,C
   15,R,D,X
-  27,R,D
-   4,R,D,X
+   7,R,D
+   3,L,D
+   2,L
+  15,R,D
+   1,R
+   4,D,X
    1,R,J
    2,R
   40
@@ -1459,18 +1461,26 @@ console load 5
   11,L,U,C
    1,R
    4,J,G
-  45,L,D
-   7,L,J
-  10,L,D,X
+  38,L,D
+   5,L
+   2,L,D
+   4,L,X
    1,L,J
-   4,L
-   7,L,D,X
+  14,L
+   4,D,X
+   1,L,J
+   1,L
+   1,L,K
   40
 
 #lvl_b-02 (5)
-   8,L,D,X
-  24,D,C
-  23,L,D
+   3,L,K
+   1
+   1,L
+   1
+   2,L
+  19,D,C
+  27,L,D
   21,R,D
   14,R,D,X
    1,R,J
@@ -1502,8 +1512,8 @@ console load 5
    3,L
    2,R,J
   30,U,X
-   4,R,D,C
-   2,R,X
+   4,D,C
+   2,R,C
    1,R,J
    7,R
    1,R,J
@@ -1520,34 +1530,35 @@ console load 5
    2,R
    4,D,X
    2,R,J
-   8
-   1,R,J
+   4
+   1,K
+   1
+   1,K
+   2
    4,D,X
-   1,R,X
+   2,R,X
    1,R,J
-   3,R
+   2,R
   40
 
 #lvl_b-19
    4,R
    1,R,J
    1,R
-  21,R,D,X
-   1,R
-   1,R,D,J
-   8,R,J
-  25,R
-   3,R
-   6,R,D
+  22,R,D,X
+   8,R,D,J
+  26,R
+   5,R,D
+   2,R
    4,D,X
    9,R,U,X
    1,L
   11,J,G
-  11,R,J
+   9,R,J
    1,L,J
    1,K,G
-  26,R,J
-   8,R
+  24,R,J
+  10,R
   59,R,X
   10,R,U,C
    1,R,J,G
@@ -1558,10 +1569,9 @@ console load 5
   30,R,D
    4,R
   15,R,J,G
-   4,D,X
-  10,U,X
-   9,R,K
-   1,R,J,G
+  14,U,X
+   9,R,J
+   1,R,K,G
   17,R,D
   48,R,X
   11,R,U,C
@@ -1571,11 +1581,10 @@ console load 5
   11,R,U,C
    1,R,J,G
   18,R
- 100,R,X
-  37
+ 137,R,X
 #5SHC3
-   4,D,X
-  10,R,X
+   4,D,C
+  10,R,C
    1,R,J
    4,D,C
    3,R,U,C
@@ -1593,9 +1602,8 @@ console load 5
 #lvl_b-16
   11,J
   13,U,X
-   5,U,C
- 193
-   4,L,D,X
+ 198,U,C
+   4,D,X
    1,L,X
    1,L,J
    7,L
