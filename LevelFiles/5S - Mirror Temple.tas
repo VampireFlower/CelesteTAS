@@ -799,17 +799,15 @@ console load 5
   34
    5,L
   16,L,J
-  15,U,X
-  18,L,J
-   2,L,K,G
-   1,K
-   1,L,K
+  16,U,X
+   7,L,J
+  11,J
+   3,K
    1,J
    1,K,G
    1,R,K
    1,R,J,G
-   1,R,K,G
-   1,J
+   1,K
   40
 
 #lvl_b-18
@@ -826,12 +824,14 @@ console load 5
    1,R,J
   14,R,K,G
    1,R,J,G
-   7,R,K,G
-   6,R
-   2,R,K
-   4,R
+   2,R,K,G
+   1,K
+   6,R,K
+   5,R
+   3,R,K
   29,R,X
-  23,L,D
+   1,R,D
+  24,L,D
   16,L,X
    4,D,C
    6,L,U,C
