@@ -66,18 +66,17 @@ console load 1 lvl_9b
 
 #lvl_11
    1,L,K
-   9,L
-   1,L,J
+   6,L
+   1,L,K
+   4,L
    4,D,X
-   5,L,X
+   4,L,X
    1,R,J
    1
-   2,R
-   1,R,K
-   3,R
+   5,R
   10,R,J
   14,R,U,X
-   8,R,J,G
+   7,R,J,G
   17,R,D
   20,L,D
   40
@@ -95,36 +94,36 @@ console load 1 lvl_9b
    1,L,J
    5,L,D,X
    1,L,J,G
-  14,L
-   6,L,J
-   2,L
+   7,L
+   1,L,K
+   6,L
+   8,L,J
    5,L,D,X
    1,L,J,G
-  10,L
+   9,L
   40
 
 #lvl_10z (1)
-   1,L
+   2,L
    8,L,J
    5,L
-  12,L,J
+  11,L,J
    4,D,X
-   9,L,U,X
-   1,R
-  10,J,G
-   2
-   2,L,K,G
+  11,L,U,X
+   3,J
+   9,L,J
+   1,L,K,G
    7,L
-   4,L,D,X
-   5,L,J
+   4,D,X
+   4,L,J
    3,R,J
   40
 
 #lvl_10zb
    2,R,J
   13,R
-  15,R,D
-   5,D
+  19,R,D
+   1,R
   15,U,X
   12,R,K,G
   16,R
