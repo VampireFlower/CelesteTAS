@@ -695,18 +695,22 @@ console load 4
    1,R,J
   14,R,D,X
    1,R,J
-   7,R,D,X
+  10,R,D,X
    1,R,J
-   8,L,J
-  34,L,D
-   4,R,D
-   1,R
-   4,D,X
-   8,L,X
-   1,R,J
-   2
-   5,J
+   3,L,K
+   1,L,J
+   1,L
+  15,D,X
+  22,L,D
+   3,L
+   1
+   2,J
    3
+   2,R
+   1,R,J
+   4,R
+   1,R,J
+   5,R
    5,R,D,X
    1,L,J
    6,L
@@ -714,11 +718,10 @@ console load 4
    5,L
    2,L,J
   14,L
-  15,U,X
-   1,L
+  16,U,X
    1,L,J
-   5
-   6,L
+   4
+   7,L
    4,D,X
    1,L,J
    6,L
@@ -842,7 +845,7 @@ console load 4
    1,R
    2,R,K,G
    7,R
-   4,R,D,X
+   4,D,X
    7,R,X
    6,R,J
    1,L,K,G
@@ -888,12 +891,13 @@ console load 4
   40
 
 #lvl_b-sec (1)
-   6,R
+   2,R
+   4
    1,R,J
   14,R,D,X
    1,R,J
-  12,R,D,X
-   3,R,J
+  14,R,D,X
+   1,R,J
   14,R,D,X
    1,R,J
   15,R,X
@@ -1148,11 +1152,11 @@ console load 4
   24,L,J
    8,L
   29,R,D,C
+   1
+#+1f berry
    4,D,X
-   3,L,X
-   1,R,J
-   4
-   3,R
+  10,R,X
+   1,L,J
    4,D,X
   10,L,X
    1,R,J
@@ -1160,7 +1164,7 @@ console load 4
    1,R,J,G
   12,R
   40
- 
+
 #lvl_c-00 (2)
   16,R,J
   15,R,D,X
@@ -1176,12 +1180,13 @@ console load 4
    3,R
    1
   37,L,U,X
-  12,L,J,G
-#+2f berry
-  10,L,K,G
-  11,L
-   4
-   1,L
+  10,L,J,G
+   1,K
+   1,L,J,G
+   2,R,J
+   8,L,J
+   7,L
+   5,L,J
   14,R,D,X
   37,R,J
    4,R,X
