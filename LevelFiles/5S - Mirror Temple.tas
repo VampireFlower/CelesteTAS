@@ -2008,18 +2008,22 @@ console load 5
   15,U,C
    6,R
   59,L,X
-   4,J,G
-   2,R,J
+   1,J,G
+   1,L,J
+   1,J
+   1,L,J
+   1,R,J
+   1,L,J
    1,L,K,G
    1,R,K
-  16,L,K
+  14,L,K
   14,U,X
   14,L,J
   59,R,X
    1,L,J
   31,L,D
-  10,L,X
-  13,L
+  15,L,X
+   8,L
   69,U,X
   58
 
@@ -2247,26 +2251,33 @@ console load 5
   40
 
 #lvl_d-15 (3)
-  20,L,J
+   8,L,J
+   4,R,J
+   1,K
+   3,R,K
    4,D,X
-   3,L,X
+   2,R,X
    1,L,J
-   6,L
-   5,L,J
-   4,L
-   8,L,D,X
+   1,L
+   1,L,K
+   1,L,J,G
+   7,L
+   1,L,K
+   1,L
+   9,L,J
+   9,L,D,X
    1,L,J,G
   11,L
    1,L,J
-  12,L
-  13,L,U,X
+  11,L
+  12,L,U,X
    1,L,J,G
    7,L
   40
 
 #lvl_d-01 (3)
-   5,L
-  12,L,J
+   3,L
+  11,L,J
   10,L,D,X
    1,R,J
    4,R
@@ -2282,14 +2293,22 @@ console load 5
    7,L
   12,L,J
   15,L,D,X
-   8,L,J
-  14,U,X
+   7,L,J
+  12,U,X
    2,L,J
-  11,L
-  13,L,J
+   1,J
+   4,L,J
+   2,L
+   1,L,K,G
+   7,L
+  10,L,J
   10,U,X
+   1,L,J
+   1,J
    5,L,J
-  11,L
+   2,L
+   1,L,K,G
+   7,L
    4,D,X
    5,L,J
    2,L
@@ -2323,46 +2342,54 @@ console load 5
   40
 
 #lvl_d-01 (4)
-  23,R,D
-  16,R,D,X
-  12,R,J
+  11,R,D
+   3,L,D
+   7,R,D
+   4,D
+  13,R,D,X
+   7,R,J
+   8,R,K,G
   15,U,X
+  11,L,J
+   1,L,K,G
+   4
+   1,R
+   1
+   1,R
+  15,U,X
+   2,J
+   6,L,J
    1,L
-   3,K,G
+   1,L,K,G
+   8,L
+  10,L,J
+  11,U,X
+  12,J
+   3,L,J
+   4,J
+   1,K
+  10,R,K
+   4,R
+   3,L,K,G
    2,R,K
-  12,L,J,G
+   7,L,K
    7,L
-  12,L,J
-   1,L,K,G
-   1,R,K
-   1,R
-  15,U,X
-   1,R
-  19,L,J
-   1,L,K,G
-   4,R,K
-   6,L,K
-   1,L,J,G
-   7,L
-   8,L,J
+   3,L,J
+   1,J
+   4,D,X
   10,U,X
-   8,L,J
-  11,L
-   5,L,J
-  14,U,X
   13,R,J
    1,K
    4,R,K
    2,K
-   1
    1,L,J,G
-   3,L,K,G
-   2,L
+   4,L,K,G
+   1,L
    2,J,G
    1,R
   12,L,K,G
    7,L
-   4,L,D,X
+   4,D,X
    1,L,J
    6,L
    1,L,J
@@ -2370,24 +2397,32 @@ console load 5
 
 #lvl_d-09
    1,L,J
-   5,L
-   1,L,J
-  10,L,D
-  16,R,D
+   6,L
+   1,L,K
+   9,L,D
+  15,R,D
    2,R
+   1,R,D
   10,L,J
-   5,L
-  19,L,J
+   6,L
+   8,L,K
+   9,L
    4,D,X
    3,L,X
    1,L,J
-   3,L
-   8
-  25,L,D,X
-   3,L
+   3,L,D
+   1,D
+   1,L,D
+   1,D
+   1,L,D
+   5,D
+  15,L,D,X
+   7,L
+   3,L,D
+   4,L
    1,L,J
-   3,L
-   9,D,X
+   1,L
+   8,D,X
   40
 
 #lvl_d-04 (2)
@@ -2431,7 +2466,7 @@ console load 5
    9,R,J
   15,R,X
    6,L,D
-  25,D
+  29,D
   10,L,X
    1,L,J
    1,R,K
@@ -2447,14 +2482,13 @@ console load 5
    2,K,G
    6
   15,L,D
-  10,R,D
-   4,D
-#+4f fuck ralph
-   5,D
+  14,R,D
    4,R,D,X
    1,R,J
    1,L,J
-  36,L,D
+   8,L,D
+   1,L
+  27,L,D
   15,L
    4,L,D
    4,D,X
