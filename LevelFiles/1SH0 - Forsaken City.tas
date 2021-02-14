@@ -680,60 +680,51 @@ Read,SaveandQuit
    8,K
   14,U,X
   40
- 
+
 #lvl_9
   16,J
    1,R,K,G
    8,R,G
    1,J
    2,K
-  14,R,D,X
+  12,R,D,X
    1,R,J
-   6,J
+   7,J
    1,L,K,G
    1,L,J,G
   11,R,J
+   5,K
+   4,J
+   1,R,J
+   2,J
+   1,R,J
    1,K
-   8,L,K
-   1
-   1,J
-   1
    4,D,X
-   1,L,X
-   1,L,J,G
-   1,K,G
-   5,L
-   2,L,J
-   1,L
-   1,L,J
-   2,R,J
-   1,G
-   1,R,J,G
-   4,L,J
-   7,R,J
+  11,L,U,X
+  11,R,J,G
    7,R
    4,D,X
    1,R,J
   12,R
    1,R,J
-  11,R,D,X
+   7,R,D,X
+   1,R,J
+   3,R
+   1,R,K
   40
 
 #lvl_9b (1)
    3,R
+  12,R,J
+   5,K
+   2,L,J,G
    1,R,J
-   4,D,X
-  11,R,U,X
    1,J
-   1,L,K,G
-   3,L,J,G
-   7,L
-   4,D,X
-  10,R,X
+   1,R,J
+  14,R,D,X
   11,R,J
    1,R
-   9,R,J
-  18,R
+  28,R,K
   15,U,X
    5,J
    1,K,G
