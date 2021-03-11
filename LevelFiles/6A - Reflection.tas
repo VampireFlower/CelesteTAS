@@ -124,7 +124,7 @@ AnalogMode,Precise
    6,F,
   36,F,26.17
   36,F,20.7
-   1,F,20.74
+   1,F,20.74,0.69
    4,D,X
    6,R,X
   27,L,J
@@ -623,7 +623,7 @@ AnalogMode,Precise
   18,R,X
   10,R,C
 AnalogMode,Square
-  27,F,48.7015
+  27,F,48.7025
 AnalogMode,Precise
   49,F,79.73
   17,F,54.12
@@ -781,12 +781,7 @@ AnalogMode,Precise
    1,R,D,J
    1,J
    1,R,J
-#libTAS syncing
-#probably broken
-Skip
    2,R,J
-Add 1,J
-Add 1,R,J
   11,R,D,X
    1,R,J,G
    1,J
@@ -827,10 +822,7 @@ Add 1,R,J
   11,L,X
   45,D
   35,L,D
-#libTAS syncing
-Skip
    3,D
-Add 5,L,D
    4,D,X
    1,L,D,J
   16,L,D
@@ -1583,7 +1575,7 @@ Add 5,L,D
    9,D
    3,L,D
 AnalogMode,Square
-  27,F,140.1685
+  27,F,140.17
 AnalogMode,Precise
    7,F,180
    7,F,135
