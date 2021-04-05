@@ -4,7 +4,7 @@ console rmx2 9
 #Start
 #lvl_intro
   61
-   4,D,X
+   4,R,Z
   21,R,J
   14,R,X
    1,R,J,G
@@ -25,57 +25,48 @@ console rmx2 9
    2,J
   15,L,D,X
   48,R,D
-   4,D,X
-   6,R,X
+  10,R,Z
   37,L,J
    1,L,K
    5,L
    3,R
-   2,R,K
-   1,R
+   2,L,K
+   1,L
    2
-   1,R
+   1,L
    1
-   4,D,X
-   1,R,X
+   6,R,Z
    1,R,J
    6,R
-   7,R,J
-   6,R
-   2
-   4,D,X
-  10,R,U,X
-   4,R,K,G
-   1,R,J,G
-   1,R,K
-   1,R,J
-   1,R,K
+   8,R,J
    7,R
+  14,R,U,Z
+   4,R,J,G
+   1,R,K
    1,R,J
    1,R
-   9,R,D,X
-   1,R,J,G
-   7,R
+   2,R,K
+   8,R
+   1,R,J
+   7,R,D,X
+   4,R,J,G
+   2,R
   40
 
 #lvl_00
-   5,R
-   7,R,J
-   2,R
+   4,R
+   6,R,D,J
+   4,R
   10,R,D,X
    4,R,J,G
-   1
-   4,R
-   1,R,K
-  14,R
-   4,R,J
+  19,R
+   2,R,J
+  16,R
+   3,R,J
    5,R
-   1,R,K
+   3,R,K
    2,R
    9,R,D,X
-   7,R,J,G
-   5,R
-  11,R,D,X
    1,R,J,G
    7,R
   40
@@ -83,106 +74,114 @@ console rmx2 9
 #lvl_01
    5,R
    3,R,D
-   2,D
-   1,J
+   2
+   1,R,J
    7
   15,R,D,X
-   6,L,D
-   4,D,C
-  11,R,C
-  14,D
-   9,L
-  12,R
+   6,D
+  15,R,Z
+  11,L
+   6,D
+   3,L
+   5,R
    1,R,J
-   3,J
-   3,R,J
-  27,R,D
-   8,L,D
+   2,J
+   9,R,J
+   2,R
+   1
+  26,R
+   7,L,D
+   1
    1,D
-  10,D,G
-  13,G
-   8,U,G
-   1,G
+  12,L,G
+  19,L,U,G
+   1,L,D,G
   26,R,J
-   9,R,D
-   4,D,X
-  11,R,X
-  22,R,C
-  17,D
+   3,R,K
+   9,R
+  18,R,U,Z
+  15,R,D,X
+   1,R
+   7,R,D
+   1,L,D
    1,R,D
-   1,D
+   2,R
    1,R,D
-  33,R
-   6,U,X
+  32,R
+   6,U,Z
   31,R
-   9,U,X
+   9,U,Z
   47,R
    5,L
   14,R,D
+   5,R
    1,R,J
-  11,R
+   5,R
   40
 
 #lvl_02
-   3,R
+   9,R
    1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,D,J
-  14,R
-   1
+  15,R
    5,R,J
-  16,R
+   4,R
+   1,L
    1,J
-   2,R
-  13,L
-   4,D,X
-   3,L
+   2,K,G
+   5,R,K
+  23,R
+   2,D
+   1,R,D,J
+  15,L
+   7,L,Z
    1,R,J
    3
-   1,R,K
-   1,R
-   1,J
-   1,R
+   2,R
+   1,D,J
+   1,R,J
    5,R,D,X
    1,L,J,G
-  18,R
-   2,R,J
+  16,R
+   1
+   1,R
+   2,R,D,J
    8,R
-  10,R,J
+#more speed but I can't get use of
+#  10,R,D,J
+#   8,R
+#   1
+#  19,R,D,X
+#   1,R,J
+   8,R,J
+   1,J
+   1,R,J
    9,R
   19,R,D,X
-   1,L,J
-   6,R,J
-  24,R,D,X
-  10,R
-   6,R,J
-  19,R
-   1
-  13,R,U,X
-   1,L
-   1,J,G
-   2,J
-   1
-   4,D,X
-   6,R,U,X
-   2,J,G
-   1
+   4,R,D,J
    4,R
-   2,R,K
-   7,R
-  13,R,U,X
-   4,R,J,G
-   4,D,X
-  10,R,X
-   3,R,J,G
-   5,R
-   2,R,K
-   4,R
-  15,R,D,X
-   4,R,J
-   1,J
   33,R,D,X
-  29,R,U,C
-  99,L,U,X
+   5,R
+  11,R,J
+   6,R
+   1,R,K
+   1,R
+   3,R,K
+   5,R
+  14,R,U,Z
+   2,R,J,G
+   5,R
+   1,R,K
+   1,R
+   1,R,K
+   2,R
+  17,R,U,X
+   4,R,J,G
+  14,R,Z
+   5,R,J,G
+   4,R
+  18,R,D,X
+   3,R,J
+   8,R
+  31,R,D,X
+  33,L,U,C
+  88,L,X
