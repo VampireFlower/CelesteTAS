@@ -1,4 +1,3 @@
-#By DevilSquirrel, EuniverseCat
 console rmx2 3
    1
  
@@ -8,11 +7,12 @@ console rmx2 3
    4,D,X
   10,R,X
    6,R,J
+   1,J
   18,R,D,X
   18,R,U,C
-   3,R
+   2,R
   15,R,U,X
-   3,R
+   2,R
   14,U,X
   17,J
   40
@@ -29,17 +29,24 @@ console rmx2 3
    7,R
    4,R,D,X
    7,R,J
-   5,R
-  49,D,X
-   4
+   8,R
+   1,R,J
+  15,D,X
+  14,D
+   7
    3,L
-   4,D,C
-  10,R,X
-   5,R,J
+   1
+  14,L,D,X
+   1,R,J
+  14,R,D,X
+   3,R,J
    1,R
-  10,R,J
+   6,R,J
+   2,R
+   1,R,J
+   7,R
+   2
    1,R
-   9,R,J
   16,U,X
   11,R,J
   11,R
@@ -56,72 +63,71 @@ console rmx2 3
    1,R,J
    9,R,D
   10,R,J
-   3,R
-   5,U,X
-   6,J
-   6,R,J
-   4,R
-   1,R,J,G
+   1,R
+   2
+   6,U,X
+  12,R,J
+   1,R,K,G
   31,R,D
-   3,R
-  10,R,J,G
-   9,U,X
-  10,R,J
-  26,R,D
-   5,D
-  21,R
+   2,R
+   1,R,G
+   9,R,J,G
    4,D,X
-  10,U,X
+   3,U,X
+   2,J
+   9,R,J
+  11,R
+   7,R,K
+  10,R,D
+   2,D
+   7,R,D
+   2,R
+   1,R,D
+  11,R
+   2
+   1,R
+   4,D,X
+  11,U,X
   12,R,J
    1,R,K,G
    1,R,J,G
-  30,R,D
-   4,R,D
-   4,R
+  36,R,D
+   2,R
    1,R,D
   10,R,X
-   1,R,J,G
-   1,J
-   1,R,J
-   7,R
+   4,R,J,G
+   1,R
+   5
   13,R,U,X
    1,R,J,G
-   4
-  22,R,D
-   5,R
+  25,R,D
+   1,R,D
+   1
+   1,R,D
+   3,R
    7,R,U,X
    1,L
-   1,K,G
-   8,K
-   4,R,K
+   9,J,G
+   4,R,J
    4,D,X
   10,R,X
-   1,R,J
-   6,R
-   1,R,J
-  12,R,D,X
-  11,R,J
-   1,R
    2,R,J
-   2,R
-  12,R,J
+  14,R,D,X
+  18,R,J
+  14,R
   18,R,X
    4,D,C
-  11,R,C
+  10,R,C
    1,R,J
-   3,R
-  23,R,U,X
-  29,R,J
-  19,L,D
-  14,L,G
-   9,L,K,G
-   3,L
-   1,J
+   6,R
+  34,R,U,X
+  15,R,J
+  40,L,G
+   5,J,G
+   1,R,K
    4,D,X
    5,R,X
   24,R,J
    1,L
-   5,L,D,X
-  12
-  39,L,D,X
+  56,L,D,X
   86,L,D,C
