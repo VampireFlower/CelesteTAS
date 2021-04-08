@@ -266,35 +266,46 @@ console load 5
 #lvl_b-01
    9,R,U,X
    1,J
-  14,L,J
-  11,K,G
+  12,L,J
+   1,K,G
+   3,L,K,G
+   4,K,G
+   1,L,K
+   1,K
+   1,L,K
    1,R,K
   14,L,J,G
-  10,K,G
+   8,K,G
+   1,L,K
+   1,K
+   1,L,K
    1,R,K
-   1,J
-  17,L,J
-   1,L,J
-   2,J
+  15,L,J,G
+   4,K
   12,L,U,X
    1,J
    1,L,K,G
    1,L,J,G
-   1,L,K,G
-   7,R,K
-   1
-   6,R
-   7,R,D,J
+   5,R,K
+   7,R
+   7,R,J
    5,R
-   3,R,J
+   1,R,J
+   1,R,J
   14,R,U,X
-   2,R,J,G
-  11,R
+   1,R,J,G
+   1,R,J
+   3,R
+   4
+   1
+   1
+   1
   40
 
 #lvl_b-01b
   22,R,D
-   3,R
+   1,R,D
+   2,R
    4,D,X
   10,R,U,X
    1,R,J,G
@@ -420,7 +431,6 @@ read,5S,lvl_b-16,lvl_c-08
 
 read,5S,lvl_c-12,lvl_d-01 (1)
 
-***
 #lvl_d-01
   33
 #Section Search
