@@ -1,5 +1,3 @@
-#By EuniverseCat, fishmcmuffins, Kilaye
-
 #console load 4 9416 -4308
 #play,Section Cliff Face,37
 
@@ -212,7 +210,7 @@ console load 4
    1,R,J,G
   12,R,K,G
    7,R
-#+?f berry
+#+2f berry
    4,D,X
    2,R,X
    1,R,J
@@ -224,7 +222,6 @@ console load 4
 #lvl_a-05
    9,R,D,X
    3,R,J
-#4SHC1
    4,D,X
   10,R,X
    5,R,J
@@ -366,7 +363,7 @@ console load 4
    1,S
    1,D,J
   34
-#4SHC2
+#4SHC1
    1,R
   15,L,D
    6,R,D
@@ -388,7 +385,7 @@ console load 4
 
 #lvl_a-08 (2)
    2,R,D,X
-#4SHC3
+#4SHC2
    1,R,J
   15,R,D,X
    3,R
