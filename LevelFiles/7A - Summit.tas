@@ -2612,6 +2612,7 @@ AnalogMode,Precise
   49,F,1
   19,F,314
    1,F,314,0.69
+AnalogMode,Ignore
    9,L
   15,L,U,X
    4,D,C
