@@ -839,11 +839,10 @@ console load 7
   40
 
 #lvl_c-02
-   1,R,J,G
-   9,R
-   5,L
-  15,L,U,X
-  10,U,C
+   3,R
+  10,J,G
+  15,U,X
+  14,L,U,C
   18,R
   16,R,D,X
   25,R,U,C
@@ -2796,18 +2795,18 @@ console load 7
    8,L,J
    4,L
    1,J
-  25,L,J
-  12,R,K
-   4,R
-   1,L
-   4,U
+  10,L,J
+  15,L
+   3,R,K
+  14,R
+   4
   14,L,J
    5,J
    5,L,J
-   2,J
+   2
    3,G
-   1,K
-  20,L,J,G
+   1,L,K,G
+  19,L,J,G
   14,L,U,X
    1,L,J,G
   10,L,C
@@ -3648,7 +3647,7 @@ console load 7
   15,R,U,X
   12,U,C
   34,F,90
-   7,F,71
+   7,F,73
    4,D,X
   11,R,X
    1
@@ -3714,7 +3713,8 @@ console load 7
   51,F,16
   49,F,1
   19,F,314
-  10,F,314
+   1,F,314,0.69
+   9,L
   15,L,U,X
    4,D,C
    7,L,C
