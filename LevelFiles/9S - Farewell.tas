@@ -1,14 +1,16 @@
 console load 10
-   1
-
-#Start
-Read,9,Start,Section Farewell
 
 #console load 10 76470 -10567
 # 150
 
 #console load 10 81744 -13272
 #play,Section Moon,37
+
+   1
+
+#Start
+
+Read,9,Start,Section Farewell
 
 #lvl_j-15
    4,D,X
