@@ -6,9 +6,10 @@ console load 1 lvl_9b
 Read,1SH2,Start,lvl_10 (1)
 
 #lvl_10 (1)
-   5,L
-   1,L,J,G
-   5,R
+   6,L
+   1,J,G
+   1
+   3,R
    4,D,X
   10,L,X
    1,L,J
