@@ -934,6 +934,7 @@ console load 5
    1,R,K,G
    7,R
   11,R,J
+#+1f berry (1)
   14,R,X
    2,R,J
   14,U,X
@@ -1135,6 +1136,7 @@ console load 5
    7,R,J
   10,R,X
    7,R,J
+#+1f berry (2)
    4,D,X
    2,R,X
    1,R,J
@@ -1144,7 +1146,6 @@ console load 5
 
 #lvl_b-02 (1)
    2,R
-#+1f berry
   14,R,D,X
    1,R,J
   14,R,D,X
@@ -1217,11 +1218,11 @@ console load 5
    7,R
   19,R,J
   15,U,X
+#+1f berry (3)
    3,R
    1,R,J,G
    3,R
    4
-#+1f berry (2)
    6,R,D,X
    1,R,J
    7,R
@@ -1303,6 +1304,7 @@ console load 5
    1,R
    4,D,X
    4,R,X
+#5SHC2
    1,L,J
    6,L
    7,L,J
@@ -1313,7 +1315,6 @@ console load 5
    2,L,J,G
    4,L,K,G
    2,L
-#5SHC2
    1,L,J,G
    6,L
   58
@@ -1460,6 +1461,7 @@ console load 5
    5,L,D
   21,R,D
   45,R,X
+#5SHC3
   27,U,C
    4,D,X
    9,R,X
@@ -1604,7 +1606,7 @@ console load 5
    1,R,J,G
   18,R
  137,R,X
-#5SHC3
+#5SHC4
    4,D,C
   10,R,C
    1,R,J

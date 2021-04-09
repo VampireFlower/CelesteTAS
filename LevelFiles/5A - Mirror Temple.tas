@@ -1,4 +1,3 @@
-#By KDT, Kilaye
 console load 5
    1
 
@@ -290,16 +289,11 @@ console load 5
    7,R
    7,R,J
    5,R
-   1,R,J
-   1,R,J
+   2,R,J
   14,R,U,X
-   1,R,J,G
-   1,R,J
+   2,R,J,G
    3,R
-   4
-   1
-   1
-   1
+   7
   40
 
 #lvl_b-01b
@@ -374,14 +368,17 @@ console load 5
   15,R,D,X
   14,D,C
    2,R
-   4,R,D,X
-   2,R,J
-   8
-   1,R,J
    4,D,X
-   1,R,X
+   2,R,J
+   4
+   1,K
+   1
+   1,K
+   2
+   4,D,X
+   2,R,X
    1,R,J
-   3,R
+   2,R
   40
 
 read,5S,lvl_b-19,lvl_b-16
@@ -408,28 +405,7 @@ read,5S,lvl_b-16,lvl_c-08
    6,R,J
   40
 
-#lvl_c-10
-   3,R,J
-   4,R
-  19,R,D,X
-   6,R,J
-   4,R,K,G
-   6,R
-  14,D,X
-  10,L,D
-   2,R,J
-   2,R
-  11,R,D,X
-   9,R,J
-  10,U,X
-  14,R,J
-  11,R
-   5,R,D,X
-   3,R,J
-   2,R
-  40
-
-read,5S,lvl_c-12,lvl_d-01 (1)
+read,5S,lvl_c-10,lvl_d-01 (1)
 
 #lvl_d-01
   33
