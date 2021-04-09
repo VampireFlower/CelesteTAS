@@ -1,24 +1,25 @@
-#By DevilSquirrel, EuniverseCat
 console load 7
    1
 
 #Start
+
 Read,7A,Start,lvl_a-06
+
 #lvl_a-06
    2,R,D
    1,R,J
   14,R,D,X
-   7,R,J
-  43,R
-  17,R,U,X
-  19,R,C
+   1,R,J
+   9,R,U,X
+  42,R
+  19,R,X
+  18,R,U,C
   43,R
   10,R,U,X
   19,L
   15,L,X
   29,L,D
   16,L,X
-#7SHC1
   42,L
   15,U,X
    7,L,U,C
@@ -304,37 +305,41 @@ Read,7A,lvl_b-05,lvl_c-04
 Read,7A,lvl_c-08,lvl_d-02
 
 #lvl_d-02
-   8,R,D,X
+   2,R,D,X
    1,R,J
    7,R
-   1
-  15,R,U,X
+  10,R,J
+   9,R
   15,R,D,C
-  13,L,D
-   8,L,D,X
-   4,R,J
-   3,R,K,G
-   1,R
-   4,R,D,X
+  15,L,D,X
+   4,D,C
+   1,R,J
+   7,R
+   1,R,J
+   2,R,K,G
+   3,R
+   4,D,X
    7,R,U,X
    1,R,K,G
    3,R
-   1,R,J
+   1,R,K
    2,R
-   1,R,J
-   7,R,D,X
+   4,R,J
   40
 
 #lvl_d-03 (1)
-   7,R,D,X
-  18,R,J
-   4,D,X
-  11,R,U,X
-   3
-  17,L,U,C
+   5,R,J
+   8,R
+   1,R,K
+   1,R
+   1,R,K
+   5,R
+  15,R,U,Z
+   1
+  18,L,U,C
   12,L,J,G
   12,L,K,G
-   2,L,J,G
+   3,L,J,G
    1,K
   40
 
@@ -458,72 +463,62 @@ Read,7A,lvl_c-08,lvl_d-02
 
 #lvl_d-04
    8,R,D,X
-   3,R,J
-   3,R
+   2,R,J
+   1,R
+   3,R,K
+   1,R
    4,D,X
-  10,R,X
-   3,R
+  11,R,X
+   1,R
   21,R,U,C
-   4,D,X
-  22,R,X
+  22,R,Z
+   4
   14,R,D,C
    1,R,J
-   3,R
+   2,R
   14,L,D,C
    1,R,J
-   5,R,D,X
+   6,R,D,X
    1,R,J,G
-   7,R
- 
-#lvl_d-05
+   9,R
   40
-   7,R
+
+#lvl_d-05 (1)
+   2,R
    2,R,J
-  14,R,D,X
-   8,R
-   4,R
-   1,R,J
-   1,D,X
+  23,R,D,X
+   6,R,D,J
+   5,R
+   4,D,X
   10,R,U,X
    1,L,J,G
-   3,R,J
-   2,R
-   8,R,U,C
-   1,L,J,G
-   5,R,J
-  13,R
-   8
-   5,L,D,C
-   1,R,J
-   7,R
-   7,R,J
-  15,R,D,C
+   9,R,J
   15,R,D,X
-#7SHC3
-   5,R,J
-  10,R,X
-   4,R,J,G
-   2,J
-  21,R,D,X
-   1,R
+   1,R,J
+   1
+   4,R
+  15,R,D,C
+   9,R,J
+   1
+  15,R,D,X
+  14,R,D
    5,R,D,J
   40
 
 #lvl_d-05b
-   9,R,J
-  15,R,D,X
-   8,R
-   4,D,X
-  16,R,C
-  15,D,X
-   5,R
-  15,L,D,C
-  10,L,D,X
+   5,R,J
+   4,R
+  18,R,D,X
+   4,R,D
+  20,R,Z
+  18,D,X
+   1,L,D
+  15,L,D,X
+  11,L,D,C
    1,L,J
-   4,L
-   1,L,J
-   1,L
-   1,L,J
+   3,L
+   1,L,K
+   3,L
    1,L,J
    5,L
    1,L,J
@@ -533,7 +528,8 @@ Read,7A,lvl_c-08,lvl_d-02
   13,L,U,X
    8,L,J,G
    7,L
-   5,L,D,J,X
+   4,D,X
+   1,L,J
    2,L
   40
 
@@ -721,7 +717,8 @@ read,7S,lvl_f-00 (1),lvl_f-01
   40
 
 #lvl_f-00 (2)
- 393
+ 353
+  40
 
 #lvl_f-02
   53
@@ -729,7 +726,8 @@ read,7S,lvl_f-00 (1),lvl_f-01
    3,R,J
    9,R
    4,R,J
-  48,U,X
+   8,U,X
+  40
 
 #lvl_f-02b
   11,R,J
@@ -782,7 +780,7 @@ read,7S,lvl_f-00 (1),lvl_f-01
    8,R
 #7SHC4
   15,R,D,X
-  40,R
+  40
 
 #lvl_f-07 (1)
    2,R,J
@@ -791,7 +789,7 @@ read,7S,lvl_f-00 (1),lvl_f-01
   15,R,D,C
    5,R
    7,D,X
-  40,D
+  40
 
 #lvl_f-05 (1)
   12,R,D
@@ -808,9 +806,10 @@ Read,7A,lvl_f-07,lvl_g-00b
 #lvl_g-00b
 #CP-28
  112
-   5,R,D,J,X
-   3,R
+   4,D,X
    1,R,J
+   3,R
+   1,R,K
    3,R,J
    2,R,K,G
    3
