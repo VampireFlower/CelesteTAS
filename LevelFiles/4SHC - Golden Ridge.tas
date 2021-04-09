@@ -42,8 +42,8 @@ read,4SH,lvl_a-06,4SHC1
 read,4HC,lvl_a-11,lvl_a-10 (2)
 
 #lvl_a-10
-   2,R
-  10,R,D,X
+   3,R
+   9,R,D,X
    1,R,J
    7,R
   13,R,J
@@ -54,8 +54,8 @@ read,4HC,lvl_a-11,lvl_a-10 (2)
   10,J
    4,D,X
    6,R,X
-   1,J
-   4,L
+   1,R,J
+   4
   11,R,D,C
   40
 
