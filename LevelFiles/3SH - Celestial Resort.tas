@@ -1,5 +1,3 @@
-#By EuniverseCat and Kilaye
-
 #console load 3 4279 -20
 #play,Section Huge Mess,37
 
@@ -1011,7 +1009,7 @@ console load 3
   20,L,D,X
    2,L
    2
-   1,R,D,J,X
+   1,X
    1,S
    1,D,J
   34
