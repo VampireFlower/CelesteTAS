@@ -1,4 +1,3 @@
-#By DevilSquirrel, EuniverseCat, Dahlukeh
 console rmx2 2
    1
 
@@ -25,17 +24,17 @@ console rmx2 2
 #lvl_01
    3,R,D,X
    1,R,J
-   2,R
-  14,R,D,X
+  11,R,D,X
+   1,R,J
+   4,R
   16,L
    2,L,J,G
-   1,R,K
-   6,R,J
-   6,L,J
+   1,K
+   2,J,G
+  10,R,J
    9,L,K,G
-   9,L,J,G
-   7,R,K
-   3,R
+   8,L,J,G
+  10,R,K
   35,R,D,X
   16,L,D,C
    2,J
@@ -66,23 +65,21 @@ console rmx2 2
    9,R
   19,R,U,X
    4,R,J
-   7,R,K
-  12,R,X
+   9,R,K
+  10,R,X
    4,R,J
-   1,R,K
-  12,R
-  14,R,U,X
+  15,R,K
+  42,R,X
    4,R,J
-   1,R,K
-  33,R,X
-   4,R,J
-  11,R,K
+   6,R,K
+   3,R
+   4,R,K
+   3,R
   15,R,D,X
-   4,R
-   6,R,J,G
-   5,R
-   4,R,J
-  11,R
+   7,R,J,G
+   9,R
+   1,R,K
+   9,R
   42,R,X
    4,L,G
   22,D
@@ -98,8 +95,7 @@ console rmx2 2
   21,R,X
    4,R,J
    1,R,K
-  12,R
-   3,R,J
+  15,R
   21,R,X
    4,L,J
    4,D,X

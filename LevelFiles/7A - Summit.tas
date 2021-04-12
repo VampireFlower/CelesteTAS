@@ -517,11 +517,10 @@ console load 7
   40
 
 #lvl_c-02
-   1,R,J,G
-   9,R
-   5,L
-  15,L,U,X
-  10,U,C
+   3,R
+  10,J,G
+  15,U,X
+  14,L,U,C
   18,R
   16,R,D,X
   25,R,U,C
@@ -2568,15 +2567,15 @@ console load 7
    4,D,C
   11,U,C
   27,R,D
-  10,F,143
-   1,F,135
-  32,F,130
-  20,F,76
-   1,F,75
-   1,F,71
-  54,F,68
-   7,R,U
-  21,R,X
+AnalogMode,Precise
+  13,F,141.1
+  29,F,131
+  22,F,77.9
+  52,F,70
+   3,F,54
+   1,F,50,0.69
+   7,R
+  19,R,X
    4,D,C
   10,R,C
    1,R,J
@@ -2612,7 +2611,9 @@ console load 7
   51,F,16
   49,F,1
   19,F,314
-  10,F,314
+   1,F,314,0.69
+AnalogMode,Ignore
+   9,L
   15,L,U,X
    4,D,C
    7,L,C

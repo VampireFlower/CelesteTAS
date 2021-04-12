@@ -1,4 +1,3 @@
-#By DevilSquirrel, EuniverseCat
 console load 5
    1
 
@@ -106,11 +105,11 @@ Read,5A,Start,lvl_b-02
    3,R,J
    7,R
   15,R,X
+#5SHC1
   15,D,C
   11,L,X
    4,R,J
    5,U,X
-#5SHC1
   44,R,C
   16,R,D,G
    4
@@ -315,18 +314,20 @@ Read,5A,Start,lvl_b-02
    2,R
    4,D,X
    2,R,J
-   8
-   1,R,J
+   4
+   1,K
+   1
+   1,K
+   2
    4,D,X
-   1,R,X
+   2,R,X
    1,R,J
-   3,R
+   2,R
   40
 
-read,5S,lvl_b-19,5SHC3
+read,5S,lvl_b-19,5SHC4
 
-   4,D,X
-  10,R,X
+  14,R,Z
    4,R,J
   40
 
@@ -350,7 +351,7 @@ read,5S,lvl_b-19,5SHC3
   14,L
 # resync key, nothing to do while
 # waiting currently
-  10
+  11
 #5SHC3
   14,L,D,X
    6,R,J

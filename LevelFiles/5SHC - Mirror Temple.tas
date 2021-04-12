@@ -1,32 +1,84 @@
-#By EuniverseCat
 console load 5
    1
 
 #Start
 
-read,5S,Start,+1f berry (2)
+read,5S,Start,+1f berry (1)
+  11,R,X
+   4,R,J
+   1,K
+  13,U,X
+  40
 
+read,5S,lvl_b-20 (1),+1f berry (2)
+   6,R,Z
+   1,R,J
+   6,R
+  40
+
+#lvl_b-02
+   1,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
    1,R,J
    1,R
-  15,U,X
-  10,R
-   1,R,J,G
+  15,D,X
+   2
+   8,L,D
+   1
+   5,L,D
+   1,L
+   3,L,D
+   4,D,X
+   1,L,J
+  10,L
+  53,R,X
+   5,R,D,C
+   1,R,J
    7,R
-   4,R,D,X
-   2,R,D,X
+   1,R,J
+  40
+
+read,5S,lvl_b-11 (1),+1f berry (3)
+   3,R
+   1,R,J,G
+   4,R
+   1
+   2,R
+   6,R,Z
    1,R,J
    7,R
    1,R,J
    5,R,D,X
   58
 
-read,5S,lvl_b-17 (1),5SHC1
+#lvl_b-17 (1)
+   9,R,D,X
+   1,R,J
+  13,R,D,X
+   1,R,J
+   3
+   4,D,X
+  10,L,X
+   1,L,J
+   3,L
+   1,L,K
+   3,L
+   2,L,J
+   5,L,D,X
+   3,L,J,G
+   8,L
+  58
 
-  19,D
-   2,L,D
-  21,R,D
-   4,R,D,X
-   2,R,X
+read,5S,lvl_b-13 (2),5SHC1
+
+  21,D
+   1,R,D
+   1,D
+  20,R,D
+   6,R,Z
    1,R,J
    7,R
    1,R,J
@@ -34,21 +86,29 @@ read,5S,lvl_b-17 (1),5SHC1
   40
 
 #lvl_b-22
-   1,R
-   2,R,J
-   1,D,X
-   6,R,U,X
-   2,R,J,G
-   9,R
+   1,R,D,X
+   1,R,J
+   4,R,C
+   6,R,J
+   7,R
   14,R,D,X
-   1,L,J
-  14,D,X
-   1,R
-  10,L,D,X
-   7,R,J
-   1,R,C
+   1,R,J
 
-read,5HC,5SHC1,5SHC2
+read,5HC,5SHC1,Return
+
+ 123
+  16,L,D,X
+   4,D,C
+   2,L,J
+   1,L
+  40
+
+#lvl_b-17 (2)
+   1,L
+   2,L,K
+   4,L
+   1
+  14,L,D,X
 
 read,5S,5SHC2,lvl_b-02 (4)
 
@@ -71,17 +131,10 @@ read,5HC,lvl_b-04,lvl_b-02 (3)
   13,D
   18,R,D
   20,R,X
-  27,U,C
-   4,D,X
-  10,R,X
-   1,R,J
-   9,R,D,X
-  40
+  
+read,5S,5SHC3,5SHC4
 
-read,5S,lvl_b-05,5SHC3
-
-   4,D,X
-  10,R,X
+  14,R,Z
    4,R,J
   40
 
@@ -102,7 +155,9 @@ read,5S,lvl_b-05,5SHC3
    5,L,J
    2,L,K,G
   13,L
-   4,L,J
+   1,L,J
+#resync keydoor
+   6
 
 read,5HC,5SHC3,lvl_b-16
 
