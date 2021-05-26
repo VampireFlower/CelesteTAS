@@ -7,16 +7,16 @@
 #console load 10 17454 -6224
 #play,Section Event Horizon,37
 
-#console load 10 27862 -8200
+#console load 10 27862 -8199.58
 #play,Section Determination,37
 
 #console load 10 35083 -8000
 #play,Section Determination 2,37
 
-#console load 10 43573 -8745
+#console load 10 43587 -8718
 #play,Section Stubbornness,37
 
-#console load 10 61156 -10434
+#console load 10 61392 -10554
 #play,Section Mid Recon,37
 
 #console load 10 76470 -10567
@@ -311,20 +311,19 @@ console load 10
    7,R,K
   16,R
   15,D,X
-  17,L
-   2,L,D
-  17,R
-  18,R,U,Z
-   1,R,J,G
-  15,R,G
-   2,R,D
-   1,R,D,G
-   1,R,K,G
-   1,L,K
+  12,L,D
+   6,L
+   1,L,D
    1,L
-   1,R
-   1,R,J,G
-   7,R
+   7
+  22,R
+   4
+  15,U,Z
+   8,R
+   1,J,G
+   2,R
+   1
+   4,R
    7,R,J
    5,R,Z
    1,R,J
@@ -332,17 +331,19 @@ console load 10
   40
 
 #lvl_b-03
-   3,R
+   2,R
    1,R,J
    1,R
-  18,R,D,X
+  19,R,D,X
   24,R,D,C
    4,R,J
    7,R,Z
    2,R,J
-  21,R
-   1,R,D
+   1,R
    1,R,J
+  16,R
+   4,R,D
+   1,R,K
    2,R
   29,R,Z
    4,R,J
@@ -358,10 +359,14 @@ console load 10
   10,R,U,X
    8,R
   14,R,U,X
+   1,J,G
+   1,L,J
+   1,R,K,G
    1,R,J,G
-   3,L,J,G
-   2,R,J,G
-   7,R
+   2,R,K,G
+   3,R
+   1
+   3,R
   12,R,J
    7,R,Z
    5,R,J
@@ -493,8 +498,8 @@ console load 10
   10,D
    4,L,D
    1,L
-   1
-   4,D
+   4
+   1,D
   15,L,Z
   18,L,U,C
   15,L,X
@@ -537,29 +542,27 @@ console load 10
    1,L
    2,L,J
   11,U,X
-  12,J
-   1,R,K,G
-   7
-   1,L,J
-   1,L
-   5,R,X
-   1,R,J,G
-   1,R,K,G
-   1,R
-   1,R,J,G
-   7,R,G
+  11,J
    1,R,J
-   6,R,D,X
-  13,R,G
+   1,K,G
+   1,L
+   6,R
+  10,R,D,X
+   1,R,J
+   2,R,K,G
+   1,R,J,G
+   2,R,K,G
+   3,R,J,G
+   8,R,D,X
+  13,G
    1,R,J,G
    9,R,G
   11,R,J,G
-   6,R,G
+   3,R,G
    1,L
   15,R,U,X
-  23,R,D
-   2,D
-   4,R,D
+  25,R,D
+   5,D
   14,R,D,X
    1,R,J
   10,R,D,X
@@ -889,24 +892,33 @@ console load 10
    1,R,J
   10,L,J
   14,U,X
-  17,G
-  39,R,U,K,G
-   1,R
-  21,R,D
-  12
-  11,R,U,X
   13,G
-   6,R,G
+   2,R,G
+   2,G
+  37,R,U,K,G
+   2,R,G
+   1,R
+  19,R
+   8
+   2,L
+  14,R,U,X
+  13,G
+   4,R,G
   13,G
    9,L
   12,U,X
   13,G
-  28,L,U,J,G
-   3,L,D,J
-   4,L,K,G
-   7
+  26,L,U,J,G
    1,R,J
-   5,J
+   2,L,J
+   1,L,K,G
+   3,R,K
+   1,R
+   4
+   1,K
+   1
+   1,K
+   6,J
   14,U,X
   40
 
@@ -1278,19 +1290,22 @@ console load 10
    5,L
    2,J
    1,L,J
-   3,D,J
+   1,J
+   2
   15,R,D,X
-   6,D
-   3,R,D
-   1,R
-   6,R,D
+   1,D
+   5,R,D
    2,R
-   2,R,D
+   8,R,D
+   2,R
+   1,R,D
+   1,R
+   1,R,D
   15,R,U,X
-   9,R,D,C
-   2,R,J
+   8,R,D,C
+   1,R,J
    8,R
-  13,R,J
+  12,R,J
   15,U,X
    1,S
    1,D,J
@@ -1519,7 +1534,9 @@ console load 10
 #lvl_f-06
    7,R,U,X
    1,R,J,G
-  10,R
+   1,R
+   1
+   8,R
    1,R,J
   15,R,D,X
    1,R
@@ -1533,7 +1550,7 @@ console load 10
 #Spinner cycle
 #If your file desyncs
 #add a frame to this
-#until it does
+#until it syncs
 
    1,R
 
@@ -1550,39 +1567,44 @@ console load 10
    1,D
    1,L,D,J
    2,R,J
-   6,L,J
-   9,L
-   1,L,K
-  40,L
-   2,L,D
-   9,L
-  44,L,U,X
-   9,L,J,G
+  22,L,J
+  11,L
+  15,L,Z
+   5,L
+   7,L,J
+   5,L,Z
+   1,L,J
+   7,L
+   1,L,J
+   3,L
+  15,D,X
+  11,D
+   3,R,D
+   6,R
+   5,L,D,X
+   4,L,J
+   7,L
+   1,L,J
    1
-   1,K,G
-   4
-   2,L
-   3,R
-   6,L,D,X
-   5,L,J
-   8,L
+   1,L
    7,R
-   1
-   2,R
-   4,R
+  31,L,G
+   3,D,G
+   3,G
+  47,G
+   1,D,G
+   1,J,G
    1,R,J
-  20,R
-   1,R,D
-   1,R
-  18,L,G
-   3,L,D,G
-   1,L,G
-   1,L,D,G
-  13,L,G
-   1,L,U,G
+  23,L,D
+   1
+   2,L,D
+   6,G
+   1,D,G
    1,G
-   1,L,U,G
-  62,G
+   1,D,G
+   1,G
+   1,D,G
+   6,G
    9,L,D,G
    1,J,G
    4
@@ -1670,8 +1692,8 @@ console load 10
    7,K
    2,L,K
    3,L,J,G
-   6,J
-   6,K,G
+   7,J
+   5,K,G
    1,L,K
    1,K
    1,L,K
@@ -1781,12 +1803,11 @@ console load 10
   20,R,X
    4,L,J
    1,L,K
-  30,L,D
-   3,L
-   2,L,D
+   5,L
+   1,L,K
+  27,L,D
    1,L
-   1,L,D
-   1,L
+   4,L,D
   29,L,Z
    4,L,J
    1,L,K
@@ -1796,7 +1817,7 @@ console load 10
    1,L,K
    5,L
   15,D
-  26,L,U,X
+  25,L,U,X
   10,L,C
   12,L,J
   15,U,X
@@ -1821,15 +1842,18 @@ console load 10
   28,R,X
    4,R,J
    1,R,K
-  25,R,D
-  22,R,X
+  27,R,D
+  20,R,X
    4,R,J
-   9,R,K
-  35,R
+   1,R,K
+  24,R,D
+  12,R,X
+   4,R,J
+   1,R,K
   34,R,U,Z
   14,L,U,C
    4,R,J
-   6,U,X
+   7,U,X
   40
 
 #lvl_g-04
@@ -1915,21 +1939,20 @@ console load 10
    3,R,J,G
    2,R,K,G
   11,R,J,G
-   8,R
+   7,R
+   1,R,J
 #Section Determination
    6,R,Z
    1,R,J
-   7,R
-   1,R,J
+   6,R
+   2,R,J
   40
 
 #lvl_g-05
-   4,R,J
-  16,R,D
-   5,R,D
-  13,R,D
-   1,J
-   1,R,J
+   3,R,J
+  33,R,D
+   1,D
+   2,J
   13,L,D,X
    1,R,J
    3,R
@@ -2030,6 +2053,7 @@ AnalogMode,Precise
   15,R,C
   29,R,D
   40
+
 #lvl_h-00
   16,R,D
    1,D
@@ -2222,8 +2246,13 @@ AnalogMode,Precise
   14,R,U,X
    1,R,J,G
    3,L,J
-   5,R,J
-   7,R
+   2,J
+   1,L,J
+   1,R,J
+   1,R,K,G
+   4,R
+   1
+   2,R
   14,R,D,X
   40
 
@@ -2339,66 +2368,72 @@ AnalogMode,Precise
   14,R,Z
   10,L
   15,R,Z
-  20,L,D
-   4,L
-   6
+  16,L,D
+   1,R,D
+   1,L,D
+   2,D
    1,R
-  14
-   3,R
-  10,L,Z
+  37,L,G
+   2,D,G
+   1,J,G
    1,R,J
-   3,R
-   1,R,J
-   3,R
-   2,R,J
-   6,R,D,X
+   1,L,J
+   1,K,G
+   2,J,G
+   5,R,D,X
    1,L,J,G
    6,R,J
-   5,R
-   1,R,J
-   5,R
-   4
+  15,R
   40
 
 #lvl_h-06
-   4,R
-   1,R,D
-   5,R,D
-   9,R,D
-   4,R,D
-   4,R
+  18,R,D
+   1,R
+   2
+   1,D
+   1,R
+   1,D
+   1
+   1,D
+   1
   14,R,U,Z
-   4,R,J
+   3,R,J
+   1,R
   27,R,U
 AnalogMode,Precise
-  13,F,100.94
-   4,F,87.12
-  17,F,74.83
-  10,F,140
-  13,F,185.27
+  13,F,92.45
+   3,F,91.327
+  19,F,78.5
+  11,F,140
+  11,F,185.51
   10,F,120
-   5,F,90
+   4,F,90
   14,U,Z
    2,R,J
   27,R,U
-  15,F,86
+  15,F,86.74
   11,F,146
-   9,F,193
-  11,F,133
-  13,F,71.4
-  11,F,11
-  11,F,0.01
-AnalogMode,Ignore
+  12,F,170.37
+   7,F,130
+  11,F,70
+  11,F,10
+  11,F,0.001
    1,L,G
-   1,K,G
-  11,J,G
-   1,R,J
+   6,K,G
+   3,L,J,G
+   1,J
+   1,L,J
+   6,R,J
    1,L,K,G
-   2,R,K
-   8,K
-  13,L,K
+   4,R,K
+   4,K
+   1,L,K
+   2,L
+   1
+   2,L
+   5,L,K
   14,U,Z
-   8,J
+   6,J
   40
 
 #lvl_h-06b
@@ -2523,9 +2558,8 @@ AnalogMode,Ignore
   10,R,K,G
    5,R
    3,R,K
-   4,R
-   2
-   2,R
+   1
+   7,R
   23,R,J
    1,K,G
    3,L,K
@@ -2585,6 +2619,7 @@ AnalogMode,Ignore
    1,R,J
    5,R
   40
+
 #lvl_h-09
    1,R
    3,R,J
@@ -2693,27 +2728,19 @@ AnalogMode,Ignore
    1,R,J
    1,J
    7
-   1,R
-   7,R,Z
-  19,R,J
-   1,R
-   2,R,J
-   7,R
-   1,R,K,G
-   4,R
-   1
-   3,J
-   1
-   1,R
-   1,J
-   3
    2,R
-   7,R,Z
-  30,R,J
-  27,R,U
- 186,F,88.3
+   4,R
+  11,L,D,X
+   2,R,J
+   2,R
+  13,R,X
+   1,R,J,G
+   2,R,K,G
+  35,R,J,G
+  44,R,U
+  10,F,53
 #Section Stubbornness
-  14,R,X
+  14,R,U,Z
  348
   40
   
@@ -3140,8 +3167,8 @@ AnalogMode,Ignore
    1,R,J
   25,R
    5,R,Z
-   1,R,J
-   4,R
+   2,R,J
+   3,R
   40
 
 #lvl_j-02
@@ -3200,27 +3227,27 @@ AnalogMode,Ignore
 #lvl_j-03
    8,R,D,X
    2,R,J
-  12,R,U,Z
-  57,R
+  12,R,U,X
+  58,R
   15,R,X
-  21,R
+  19,R
   36,R
   23,R,D,X
   10,R
    3,R,D
   46,L
-   4,Z
-   4,R,U
+   8,R,U,Z
   34,R
-  20,R,D,X
-  21,R
-  40,R
+  19,R,D,X
+   2,R
+   1,R,D
+  19,R
+  39,R
   15,R,X
-  26,R,D
+  25,R,D
   37,R
   15,R,X
-  24,R,D
-   3
+  27,R,D
   15,R,X
    9,R,D,C
   41,R
@@ -3245,12 +3272,12 @@ AnalogMode,Ignore
   40
 
 #lvl_j-04
-   9,R
+   8,R
   13,R,U,X
   13,G
-  24,R,U,G
-   1,L
-  31,R
+  23,R,U,G
+   1,L,J
+  33,R,J
   66,R
   14,R,Z
    1,R,J
@@ -3264,11 +3291,10 @@ AnalogMode,Ignore
    1,R
    1,R,J
   14,R,D,X
-   2,R,J
-   9,R,U,Z
-  48,R
+   7,R,J
+  50,R
   15,R,D,X
-  17,R
+  16,R
   48,L
    1
    5,R,X
@@ -3315,9 +3341,9 @@ AnalogMode,Ignore
    7
    5,R,D
    1,L,D
-  12,R,D
-   5,R
-  10,R,X
+   9,R,D
+   5
+  12,R,Z
   42,R
    8,R,Z
    1,R,J
@@ -3333,9 +3359,10 @@ AnalogMode,Ignore
   14,R
    8
   16,R,Z
-  56,R
+  55,R
   14,R,Z
    1,R,J
+   1,R
    5,D,C
    6
    1,R,J
@@ -3345,7 +3372,7 @@ AnalogMode,Ignore
    1,R,J
   14,R
   18,R,X
-  16,R,C
+  15,R,C
   14,R,U,X
   51,R
   13,R,U,X
@@ -3394,26 +3421,23 @@ AnalogMode,Ignore
    1,R,J
    6,R
   40
+
 #lvl_j-08
-  16,R,D
-   7,R
-#Section Mid Recon
-  24,R,U,X
-   4,R
-   4,Z
-   1,R,J
-   1
-   5,R
-   1,R,J
    8,R
-  25,R,U,Z
+   6,R,J
+  37,R,X
    4,R,J
+   1,R,K
+   6,R
+  26,R,U,Z
+   4,R,J
+#Section Mid Recon
   14,R,Z
   11,R,J
   15,R,D,X
    6,R
-  80,R
-  47,R,X
+  79,R
+  48,R,X
    8,R,J
   44,R,K
   29,R,U,X
@@ -3529,22 +3553,27 @@ AnalogMode,Ignore
    1,J
    7,R,J
   56,R,G
-  23,R,U,G
+  25,R,U,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
    6,R,K,G
-  29,R
-  25,R,J
-   1,J
+  24,R,D
+   2,R
+   2,R,D
+  12,R,J
+   8,R
+   1
+   1,R
+   1
   15,U,X
   15,R
   18,R,X
   15,R,C
   39,R,D
   61,D
-  12,R,D
-   5,D
+  13,R,D
+   4,D
    6,R,U,Z
    6
    1
@@ -3813,14 +3842,14 @@ AnalogMode,Ignore
   18,R
   15,R,D,X
    3,R
-   5,L,Z
+   5,L,D,X
    1,R,J
    7,R
    9,R,J
    1,R
   22,R,D,X
   16,R,C
-  12,R,Z
+  11,R,Z
    1,R,J
    6,R
    9,R,J
@@ -3845,14 +3874,17 @@ AnalogMode,Ignore
    1,R,J
    3,R
   15,R,D,X
-   9,R,J
-   6,R
+
+  10,R,J
+   5,R
   14,R,X
-   8,R,J,G
-   7,R
+   7,R,J,G
+   4,R
+   1
+   2,R
    1,R,J
-  15,R,D,X
-  14,R,D
+   1,R
+  29,R,D,X
   12,R,J
    5,R
   10,R,J
@@ -3870,13 +3902,10 @@ AnalogMode,Ignore
    4,Z
    1,R,J
   11,R
-  12,R,J
-   5,R
-  10,R,J
-   4,R
-  17,R,U,X
-   1,R,J,G
+  23,R,J
    1,R
+   5,R,J
+  19,R,U,X
    1,R,J,G
    7,R
    5,L,D,X
@@ -3984,10 +4013,12 @@ AnalogMode,Ignore
    2,D
    2,R,D
    1,D
-  23,L,D
-   2,L
+  20,L,D
+   3,D
+   1
+   1,L
   16,L,X
-  21,R
+  20,R
   15,R,U,Z
   13,U,C
   40,R
