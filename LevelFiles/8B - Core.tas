@@ -728,77 +728,79 @@ console hard 9
    1,R,J
    2,R,K,G
    1,K
-   3,R,K
-   2,R
+   1,R,K
+   4,R
    5,R,D,X
    1,R,J,G
-  12,R
-  11,R,J
-   1,K,G
-  10,R,K,G
-   3,R,J,G
-  27,R,K,G
-  36,R,X
-  50,R,D
-   1,D
-  11,R,D
-   1,R
-   1,R,J,G
-   3,R,K,G
-   9,R
-   1,R,K
-   9,R
-   1
-   2,R,J
-   5,R
-   1,R,J,G
-   1,R,K,G
-  13,R
-   1
-   1,R,J
-   8,R
-   1,R,K
-   7,R
-   1,R,J,G
-   2,R,K,G
-  10,R
-  15,R,U,X
-  43,R
-  15,R,D,X
-   1,R
-   4,D,C
-   4,U,C
-  52,R,D
    2,R
+   1
+   8,R
    1,R,J
-   1,R
+   1,J
+   4,R,J
+   7,R
+  10,R,K,G
+  12,R,J,G
+   5,R
+   3,R,K
+   6,R
+  18,R,X
+  12,R,D
+   4,L,D
+  61,R,D
+   1,R,J,G
+  13,R
+  12,R,Z
+   1,R,J
+   5,R
+   3,R,J
+  16,R,D
+   2,L,D
+   3,R,D
+   1,L,J
+   1,R,J
+  18,L,J
+  23,R
+  16,R,D,X
+  10,U,C
+  50,R,D
+   1,R,J
+   2,R
   40
 
 #lvl_c-06
-  16,R
-   1,R,J
-  61,R
-  11,R,J
-  45,R,D
-  21,R
-   1,R,D
-   8,L
-  16
-   4,R,X
- 104,R,J
-  12,R,G
+  12,R
+   7,R,J
+  47,R
+  22,R,J
+  29,R,D
+   2,R
+   2,R,D
    1,R,J,G
-   5,L,J
-   6,R,J
+   1,R,K,G
+  28,R
+  19
+   3,L
+   1,R
+   2,L
+   4,R,X
+ 103,R,J
+   1,R
+   1,K,G
+   2,R,K
+   2,K
+   1,R,K
+   1,L,K
+   1,R
+  13,R,J,G
    1,R,K,G
    1,R,J,G
-  10,R
+   9,R
    1,R,J
   14,R
-   1,R,J
-  15,R
-   1,R,J
-  25,R,D
+   4,R,J
+  28,R,D
+   7,R
    1,R,J
    4,D,X
    9,R,X

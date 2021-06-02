@@ -332,22 +332,23 @@ console load 7
 
 #lvl_b-05
    8,L
-  12,R,J
-  12,J
+  21,R,J
   15,R,X
-  16,R
+   8,R
+   6
+   1,D
   15,U,C
   37,R,D
   11,R,C
    7,R,J,G
-  14,R,D,X
-   5,R
+  15,R,D,X
+   4,R
    3,L
   19,U,X
   24,R,J,G
-   2,K,G
-   4,D,X
-   4,U,X
+   1,K,G
+   1,R,K
+   8,U,Z
    1,R,J
   11,R
    4,D,X
