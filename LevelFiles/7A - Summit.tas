@@ -163,31 +163,26 @@ console load 7
   43
 
 #lvl_a-05
+   7,R
    5,R
-   2,R
-   4,R,D
    1,R,J
-  13,R
-   2,R,D
-   3,R
-  18,R
+  27,R,D
   15,R,U,X
-   8,R
-   4,D,X
-  10,U,X
-   4,R,J
-  12,U,X
-  16,R,J
-   9,R
-   5,R,K,G
-  14,R,X
+  15,R,U,Z
+   1,L,K,G
+   4,L,J,G
+   4,K
+  14,U,X
+  25,R,J
+   1,R,K,G
+   6,R,J,G
+  13,R,X
   11,R,J,G
   21,R
   15,R,D
   29,R
   15,R,U,X
-   4,D,C
-  10,R,C
+  14,R,Z
    3,R,J
   15,R,D,X
   40
