@@ -263,28 +263,19 @@ console hard 3
   40
 
 #lvl_09
-   1,R,J,G
-   2,L,J
-   5,L
-   1,L,J
-   2,J
-   2,L
-   2
-   4,Z
-   1,R,J
-   6,R
-  13,R,J
-  14,R,U,Z
-   1,L,J,G
-   8,R,J
-  21,R
-  13,R,D,X
-  16,R,J
-   5,R,K,G
-  15,R,D,X
-   1,R,J
-  13,R
-  12,R,Z
+  18,L,J
+   9,R,K
+   7,R
+  14,R,Z
+  15,R,J
+  14,R,Z
+   5,R,J
+  16,R,D,X
+   6,R,D,J
+  13,R,X
+   9,R,J,G
+  27,R
+   4,D,X
    3,R,J
   40
 
