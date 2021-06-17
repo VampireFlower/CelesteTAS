@@ -324,29 +324,32 @@ read,7S,lvl_d-06 (1),lvl_e-00
 
 read,7HC,lvl_e-00 (1),lvl_e-02
 
-#might be outdated?
 #lvl_e-02
+   1,R
    8,R,J
    1,R
-#Section 2000m
-   3,R,K,G
-   1,R
+   1,R,K,G
    4,D,X
-   3,R,X
-   1,R,J
-   6,R
-   3,R,J
-   3,R
+   1,R,X
+   2,R,J
+   1,R,K,G
+   1,R
+   1
+   7,R
+   4,R,J
+   2,R
   14,R,D,X
-  14,R,J
-  14,R,D,X
+  10,R,J
+   4,D,X
+  10,R,X
    1,R,J
   15,R,U,X
    4,D,C
    6,R,C
-  11,R,J
-  13,U,X
-   2,J
+  10,R,J
+   6,U,X
+   6,R,J
+   4,J
    4,D,X
    1,R,X
    1,R,J
@@ -528,43 +531,48 @@ read,7HC,lvl_f-00 (2),7SHC4
    1,R
    1,L
   19,L,J,G
-   8,L,K,G
+   8,R,K
   40
 
-#outdated
 #lvl_f-07 (2)
-  10
-  14,J
+   9,L
+   1,J
+  11,L,J
+   1,R,J
+   1,L,J
    1,K
-  13,R,K
-  16,U,X
-  16,U,C
-   3,R,J
-  11,R
+   5,R,K
+  15,U,X
+   5,R
+  15,U,C
+   2,R
+   8,R,J
+   1,R,K
+   7,R
    4,R,D,X
    1,R,J
-  15,R,D
+  14,R,D
   11,D,X
-   9,L,J,G
-  15,D,X
+   5,L,J,G
+   4
+  16,D,X
   15,L,D,C
-   1,L
-  15,L,D,X
-   2,L,D
-   2,L
-   1,L,D
-   2,L,J,G
-  18,L,D,X
+   4,L
+  15,D,X
+   5,L,D
+   6,L,D,C
+   1,L,J
+   8
    7,R,D,C
   40
 
 #lvl_f-05 (2)
-  30,R,D
-   2,L,D
+  22,R,D
+   8,R
+   4,R,D
+   3,L,D
    2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
+   3,L,D
    2,R,D
    2,L,D
    2,R,D
