@@ -1,4 +1,4 @@
-#By EuniverseCat
+
 console load 2
    1
 
@@ -18,15 +18,21 @@ Read,2S,Start,lvl_d0 (2)
   43,D,X
   40
 
-Read,2HC,lvl_d9,lvl_d0 (3)
+Read,2HC,lvl_d9,Return
+ 123
+   4,L
+  15,L,U,Z
+   1,J
+   7,R,K,G
+   1,J
+  40
 
 #lvl_d0 (3)
-   4,L
+   3,L
    1,L,J,G
-   8,L,K,G
-   2,L
+   9,L,K,G
   35,U,X
-  13,L,D,C
+  14,L,D,C
    1,L,J
    1,L
    8,L,U,X
@@ -36,4 +42,3 @@ Read,2HC,lvl_d9,lvl_d0 (3)
   40
 
 Read,2S,lvl_d6
-#
