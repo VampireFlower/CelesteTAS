@@ -1,28 +1,21 @@
-#By EuniverseCat
+
 console load 3
    1
 
 #Start
-read,3SH,Start,3SHC1
-
-   4,L,D,X
-   7,L,X
-   1,L,J
-  40
+read,3SH,Start,lvl_04-d (1)
 
 #lvl_04-d (1)
   14,L,D
-   1,D
    7,R,D
   13,L,D
-   2,L,D
-   1,D,X
-   7,L,U,X
+   2,L
+   9,L,U,Z
    1,R
    7,J,G
-   8,L,J
+   6,L,J
   12,L,K,G
-   9,L,J,G
+   8,L,J,G
   34,L,D
    4,L
   10,L,J,G
@@ -31,101 +24,235 @@ read,3SH,Start,3SHC1
   38,L,D
    4,L
   10,L,J,G
-  14,U,X
-  12,L,J
-   1,L,K,G
-   7,L
+  14,U,Z
+   7,L,J
+  11,L
+   4,R,Z
+   1,R,J
    1,S
    1,D,J
   34
-   4,R
-   4,R,D,X
-  10,R
-   1,R,J
-   2,R
-  12,D,X
+   1,R
+   1,R,K
+  13,R
+  10,L,D,X
   40
 
 #lvl_04-c (1)
-   3,L,D
-  10,L,D,X
-  36,R,D
-  23,R,J
-  10,U,X
-  13,L
-   1,J
-  14
-  19,L
-   9,L,D
-   4,L,D,X
-   1,L,J
-   7,L
-  20,L,J
-   4,D,X
-  12,U,X
-  13,L,J,G
-   1,L,K,G
-   4,R,K
-   8,L,K
-   1,L,J,G
-   1,L,K,G
-   5,L
-   3,L,J
    6,L,D
-  13,R,D
-   7,L,D
-  23,L,D,X
-   6,L,D,C
+  15,R,D
+  17,R
+   2,R,D
+  13,R,U,Z
+   1,L
+   9,J,G
+   3,R,J
+   1,R,K,G
+   3,L
+   5
+  16,L,D
+  12,L,D
+  10,L,X
+  14,L,J
+   1,J
    1,L,J
-   7,L
+  15,U,X
+  17,J
    1,L,J
-   7,L,D,X
+   1,L,K,G
+   3,L,J,G
+  15,L,D
+   9,D
+  16,L,D
+  14,L,D,X
+   1,L,J
+  14,L,D,X
   40
 
 #lvl_02-c (1)
-   8,L,D,X
-  10,D,C
+   1,L,J
+  13,L,D,X
+   1,L,J
+  12,L,K,G
+  13,L,D,X
+   1,L,J
+   7,L
+   1,L,J
+  12,L,D,X
+   1,L,J
+   8,L
+   1,L,J
+  12,L,D,X
+   2,L,J
+   8,L
+   1,L,J
+  12,L,D,X
+   1,L,J
+  12,L
+  10,L,J
+   4,L,K,G
+  10,L,D,X
+  40
+
+#lvl_01-c
+   4,L,D,X
+   1,L,J
+   2,L,J
+   1,L
+   1,L,K
+   1,L,K
+   2,L
+  14,L,Z
+   3,L,J
+  15,L,D
+   2,D
+  15,L,Z
+   9,D
+   4,L,D
+   4,L,J
+  13,U,X
+   2,L,J
+ 257
+   1,J
+ 123
+   9,R,D,X
+  40
+
+#lvl_02-c (2)
+   1,R,D,X
+   5,R,J
+  15,R,D,X
+   3,R,J
+  12,R
+  11,R,J
+   3,R
+  15,R,D,X
+   1,R,J
+   5,R
+   1,R,K
+   2,R
+   1,R,K
+   2,R
+   7,R,D,J
+   3,R
+  16,R,D,X
+   1,J
+   2,R
+  16,R,D,X
   40
 
 read,3SH,lvl_03-b,3SHC2
 
-  16,U,X
+  14,U,X
+   1,J
   40
 
-#lvl_02-c (2)
-  13,L,J
-   2,L
-   4,D,X
-  10,L,X
-   1,L,J
-  12,L,D,X
-   1,L,J
-   8,L
-   1,L,J
-  12,L,D,X
-   1,L,J
-   8,L
-   1,L,J
-  12,L,D,X
-   1,L,J
-   8,L
-   1,L,J
-  12,L,D,X
-   1,L,J
-  11,L
+#lvl_02-c (3)
    1,L
-  11,L,D,J
-   3,L,K,G
-   7,L,D,X
-   1,L,J
-   2,L
+   1
+   1,L
+   2
+   1,R,K,G
+   1,R,J,G
+   4,R
+   4,R,Z
+   9,R,J
   40
 
-read,3HC,lvl_01-c,3SHC3
+#lvl_04-c (2)
+   2,R
+  10,R,D,X
+   1,R,J
+   7,L
+   5,L,D
+   2,L,J
+   9,L,X
+   1,J,G
+   4
+  10,R
+   4,L,Z
+   1,L,J
+  11,K,G
+   1,R,K
+   7,L,K
+  19,L,K
+  11,R,D,J
+   8,L,J
+   6,K,G
+   5
+   1,K
+  14,U,X
+  10,J
+  11
+  11,U,X
+  40
 
-#this movement lost a frame over all
-#to resync into 02-d. Probably better to
-#lose a frame in 02-d
+#lvl_04-d (2)
+   4,L,K
+   5,L
+   2,L,J,G
+   4,L,Z
+   1,L,J
+   5,L
+  40
 
-read,3SH,lvl_02-d
-#
+#lvl_02-d
+   1,L
+   3,L,J
+   5,L
+   1,L,K
+  14,L,U,X
+   9,L,J,G
+   9,L
+   2,L,K
+   1,L
+   5,R
+   4,L,Z
+   1,L,J
+  19,L
+   1,L,D
+   3,L,J,G
+   3,L
+  10,R,D
+   1,R
+   5,R
+  10,L,Z
+   3,L,J
+   8,L
+   1,L,J
+   1,L
+  15,L,Z
+   2
+   1,R
+   1
+   1,R
+   4
+   9,L,D
+  11,L,D,J
+   9,R,K,G
+  15,U,X
+   3,L,J
+  25,L
+   6,D
+   2
+   1,D
+   1
+   1,R,D
+   4,L,Z
+   1,L,J
+   6,L
+   9,L,J
+   6,L
+   2,L,J
+   1,L
+   1,L,J
+   5,L
+  19,L,X
+  25,L,C
+  24,L,X
+   7,L,Z
+   1,L,J
+   1,L
+  40
+
+read,3SH,lvl_00-d
