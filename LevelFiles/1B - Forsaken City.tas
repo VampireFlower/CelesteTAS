@@ -1,4 +1,4 @@
-#By DevilSquirrel, fishmcmuffins, EuniverseCat
+
 console hard 1
    1
 
@@ -608,7 +608,7 @@ console hard 1
    5,R,D,J
    2,R
   10,U,X
-   7,L,J
-  11,L
-  15,L,U,X
- 135,L,D
+  20,L,J
+  15,L,X
+ 130,L
+   1,R
