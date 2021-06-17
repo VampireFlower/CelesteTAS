@@ -378,6 +378,9 @@ Read,9,Start,Section Farewell
    7,R
    1,L
    1,R
+#this climb to the platform
+#above is very unoptimized
+#but cycle locked for now
    1,R,J
    9,L,J
   13,G
@@ -419,6 +422,10 @@ Read,9,Start,Section Farewell
    5,L
    3,L,J
    1,J
+#"moon spring cycle"
+#refers to this block
+#moving up so we can
+#jump off of it
    6,R,K
    9,L,K
   15,U,X
@@ -446,13 +453,16 @@ Read,9,Start,Section Farewell
    1,K
    4,L
   10,R,X
-   5,L,J
+   6,L,J
    5,L
-  16,L,J
-   4,D,X
-   5,U,X
-   4,R,J
-  11,R
+   2,L,J
+   1,L
+  12,L,J
+  10,U,Z
+   1,R,J
+  10,R
+   1,R,J
+   1,R
   10,R,X
   29,L,J
    4,D,X
@@ -462,21 +472,30 @@ Read,9,Start,Section Farewell
    2,R,J
   12,R,K,G
   12,R,J,G
-  12,R,K,G
+   1,K,G
+   1,R,K
+   6,K
+   1,R,K
+   1,L
   11,R,J,G
-   5
+   3,R
+   1,R,K,G
+   5,R
+   2,R,K
    2,R
-  10,R,X
-  30,L,J
+   3
+  10,R,Z
+   1,L,J
+   6,L
+  14,L,J
+   3,J
   15,U,X
-   9,L
    2,R
-   6
-  14,R
-  11,R,U,X
+  20,R
+  10,R,U,X
   28,L,U
- 119,F,353.94
-  17,L
+ 119,F,354.8
+  18,L
   14,U,X
   15,L,J
   12,L
@@ -496,9 +515,9 @@ Read,9,Start,Section Farewell
    7,R
    1,R,J
    7,R
-   4,R,J
+   3,R,J
    1,R
-   1,R,J
+   2,R,J
   12,R,U,X
    1,R,J,G
    2,R,K,G
@@ -507,10 +526,10 @@ Read,9,Start,Section Farewell
   24,R,J
   18,R,U,X
   15,U,C
-  19,R,U,X
+   1,R
+  18,R,U,X
   15,U,C
-   4,D,X
-  11,U,X
+  15,U,X
    9,R,J,G
    1,K,G
    4
@@ -518,9 +537,7 @@ Read,9,Start,Section Farewell
    1,L
   12,L,K
   14,L,U,X
-   2,J,G
-   2
-   1,K,G
+   4,J,G
    4
    2,L
    1,R
@@ -529,9 +546,7 @@ Read,9,Start,Section Farewell
    3,J
   15,R,J
   12,R,K,G
-   2,R,J,G
-   2
-   1,R,K,G
+   5,R,J,G
    5
    2,R
    9,L,J
@@ -545,84 +560,82 @@ Read,9,Start,Section Farewell
    1,R,K,G
    7,R
   10,R,D,X
+   3,R,J
+   1,R
   10,R,J
-   1,R
-   6,R,J
-   1,R
-   8,R,J
-   4,D,X
-  14,U,X
-   5,J
-   1
-   7,L,X
-  10,L,J,G
-   5,L
-   1,L,J
+   2,R
+  17,R,U,X
+   1,K
+   9,L,J,G
+   6,L,X
+   1,L,K,G
+   2,L,J,G
+  11,L,K,G
+   2,L
   24,L,U,X
   12,L,J
-  14,L,K,G
-   3,J
-   4,D,X
-   6,L,X
-  13,R,J
-   1,R,K,G
-   1,K
-   9,R,K
-   3,R
-   3,J,G
+   1,L,K,G
+   4,R,K
+   1,J
+   9,R,J
+   2,R
+  10,L,X
+   5,R,J
+   7,R
+  11,R,K,G
+   6,R
+   4,J,G
    1,L,J
-   1,R,J
-  16,L,K
-   2,J,G
-   1,R,J
+   1,K
+   1,J
+  15,L,J
    1,K
    1,J
   15,R,J
-   2,R,K,G
-   3,L,K
-   4,K
-   2,R,K
+   1,R,K,G
+   4,L,K
+   7,R,K
    1,R,J,G
    1,R,K,G
+  14,R
+   1,J
+   3,R,J
    9,R
-   1,R,K
-   5,R
-   1,J
-   6,R
-   7,R,J
-   3,R
-   3
-  18,U,X
-   5,L
+   1,R,J
+  18,R,U,X
+  15,U,C
+   4,L
   15,U,X
-   5,L
-  15,U,X
-   1,L
-   1,R
-   4,K,G
-   1,R,K
-   1,L,K
-  11,R,J,G
-   7,R
-  12,U,X
-   7,R,J
-   1,R
-  11,L,K
-   1,L,J,G
+   4,L
+  12,L,J,G
+   1
    1,L,K,G
+   3,K
+   5
+   2,L
+   1,L,D,J
+   5,J
+   1,L,J
+  15,U,X
+   6,L,J
    1,J
+   1,L,K,G
+   1,L,J,G
+   1,K
   40
 
 #lvl_j-17 (1)
-  12,L,J,G
-  10,L,X
-   5,L,J
-  10,L,U,X
-   4,L,J,G
-  11,L
+   9,L,J,G
+   8,L
+   1,L,K
+   3,L
+  13,L,U,X
+   1,L,J,G
+   5,L
+   2,L,J
+   6,L
   12,L
-   4,D,X
-  10,U,X
+  14,U,Z
   12,L,J
   40
 
@@ -659,8 +672,10 @@ Read,9,Start,Section Farewell
    4,L
   11,U,X
   13,G
-  11,L,G
-   6,G
+  10,L,G
+   3,G
+   1,L,G
+   3,G
    1,L
    9,R
   11,U,X
@@ -675,69 +690,81 @@ Read,9,Start,Section Farewell
    1
    8,U,X
   13,G
-   3,R,G
-   4,G
+   2,L,G
+   3,G
    6,L,G
-  13,L
-  11,L,U,X
-  32,L,G
+  11,L
+  13,L,U,X
+  23,L,U,J,G
    7,L
-  14,L,U,X
-  22,L,G
-   1,G
-   1,R
-   8,L
-  10,L,X
-   1,R,J
-   7,R
-  31,D,G
-   5,R,U,J,G
-   7
+  14,L,U,Z
+  21,L,G
+   2,R
+  10,L
+   3,R
+  11,L,U,X
+   2,R,J
+   5,R
+   8,R,J
+   4,R
+  16,R,U,J,G
+   1,R,G
+  11,R,U,J,G
+   1
   14,R,U,X
-  34,R,U,G
+   2
+   4,R
+  29,R,U,J,G
+   2,J,G
   18,R,G
    1,R
   20,R,U,X
-  26,R,U,G
+  26,R,G
   18,R,G
-   1,R
-  20,R,U,X
-  26,R,U,G
+   2,R
+  19,R,U,X
+  29,R,U,G
   22,L,G
   12,L
   11,U,X
   21,L,G
    1,L,D
-   3,L
-   1,J,G
+   2,L
+   2,J,G
    4
    2,L
    1,R
-   2,L
-   1,L,J
+   1,L
+   2,R,J
    6,U,X
   13,G
-  24,R,G
-   1,D
-   1,R,J
-   6,J
-   1
+  23,R,G
+   2,D
    1,J
+   2
+   1,J
+   4
   11,U,X
-  40,R,U,J,G
-   7,D
-   5,R
-  12,U,X
+  39,R,U,J,G
+   1,R,D,J
+   6,J
+   2,R,J
+   4,J
+  11,U,X
   13,G
    4,R,G
-   5,G
+   4,G
    1,L
-   8
+   6
+   1,L
+   1
    1,L
   11,L,U,X
   13,L,G
-   8,L,G
+   4,L,G
+   4,G
    1,L,D
+   1,J,G
    4
    2,L
    7
@@ -784,29 +811,32 @@ Read,9,Start,Section Farewell
    5
   13,G
   27,U,J,G
-   9,D,J
-  12,U,X
-  26,R,G
+   8,D
+  13,U,X
+  33,U,J,G
+  34,R,U,J,G
+  31,U,J,G
+  12,L,U,G
+   2,L,G
+   2,L,U,G
    1,L,G
-  50,U,J,G
-  15,R,U,G
    1,L,U,G
-  26,U,G
-   2,G
+   1,L,G
+   1,L,U,G
    1,L
-  26,L,X
-   2
-  17,U,C
-  13,G
+  27,L,X
+  18,U,C
+   1,L
+  13,L,G
    8,L,G
-   1
-   5,R
-  15,L,X
-  21,L,G
+   7,L
+  14,L,X
+  24,L,G
    1,L
-  23,L,U,X
+  15,L,U,X
+   5,R
   31,U,G
-   9,D,J
+   8,D,J
   13,U,X
   13,G
   27,U,J,G
@@ -814,7 +844,7 @@ Read,9,Start,Section Farewell
   13,U,X
   13,G
  318,U,J,G
-  17,L,U,G
+  10,L,U,G
    1,R
    2,J
    7
@@ -822,25 +852,25 @@ Read,9,Start,Section Farewell
   15,U,C
    5,R,J,G
    7,R
-   4,D,X
-   2,R,J
-   1,R
-   4
-   1,J
-  13,R,J
-  15,U,X
-   2,R
-  20,R,K
-   3,R,J,G
-   3,L,J
+   5,L,Z
    1,R,J
    1,J
-   2,K,G
-   3
-   4,R
+   1
+   1,J
+   2
+   2,K
+  14,R,K
+  15,U,X
+   1,R,J,G
+   1,R
+   1,K,G
+   2,R
+   2
+   2,R
    1,L
-   6,L,J
-  13,U,X
+  12,L,J
+  15,U,X
+  18,J
   38
    1,S
    1,D,J
@@ -850,4 +880,3 @@ Read,9,Start,Section Farewell
  100
 
 read,9,end-granny
-#
