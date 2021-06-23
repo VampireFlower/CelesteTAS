@@ -534,26 +534,28 @@ console load 4
    6,L
    1,R
    2,R,J
-  14,U,X
-  15,L,J
-   2,K
-   1,R,K
-   1,J,G
-   7,R
-   5,L,J
+  15,U,X
+  18,L,J
+   7,L,K,G
    8,L,G
-  12,L,K,G
-  12,L,J,G
-   3,K,G
-   6,J,G
-   4,D,X
-   2,R,X
-  10,R,J
+  11,R,D
+   4,L,J
    1,J
-  12,R,J
-  11,K,G
+   1
+   7,L
+   1,J
+   1,K,G
    2
-   5,L
+   1,R,J,G
+   4
+   8,R
+  14,R,J,G
+   2
+  15,U,X
+   2,L
+   1,J
+   3,R,K
+   7,R
   11,U,X
   40
 
