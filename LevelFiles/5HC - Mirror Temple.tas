@@ -24,21 +24,20 @@ Read,5A,Start,lvl_b-02
   53,R,X
    5,R,D,C
    1,R,J
-   7,R
+   5,R
+   2
    1,R,J
   40
 
 #lvl_b-11 (1)
    1,R
   14,R,D,X
-   1,R,J
-   1,L,J
-  10,R,J
+  12,R,J
    3,R,K,G
   14,R,D,X
    1,R,J
-   1,D,X
-  13,R,U,X
+   4,D,X
+  10,R,U,X
    1,L,J,G
    2,R,J
    7,R
@@ -54,62 +53,62 @@ Read,5A,Start,lvl_b-02
 
 #lvl_b-13 (1)
    6,R
-   3,J
+   1,L,J,G
+   2,R,J
    4,D,X
-   2,L,X
-   9,R,J
-   6,R
-  16,R,J
+   2,R,X
+   8,R,J
+   1,R
+   2,R,J
+   1,R
+   1,R,J
+   1,R
+  12,R,J
    4,D,X
   10,R,U,X
-   1,R,J,G
-   1,R
-   1,R,J,G
-   6,R
-   1
+   5,R,J,G
+   7,R
   10,R,D,X
    5,L,J
-  14,L,U,X
-  23,L,D
-   8,L,D
-   3,D
-   1
-  12,D
-   1,L
-   2,R
-  29,G
+  21,L,U,X
+  24,L,D
+   1,R,D
+  18,D
+   7,D,G
+   1,G
+   1,D,G
+  12,G
+   3,U,G
+   3,R
    1,R,J,G
    1,R,K,G
    1,R,J,G
    1,R,K,G
    7,R
-   3,R,J
-  15,R,D,X
-   6,R,D
+   2,R,J
+   1,R
+  22,R,D,X
   58
 
 #lvl_b-17 (1)
-   6,R,D
-   3,R,J
-   9,R,D,X
-   2,R,J,G
-   9,R
+   3,R,D
    1,R,J
-  12,R,D,X
+   1,R
+  11,R,D,X
+   2,R,J,G
+  10,R
+   3,R,J
+   5,R
   40
-
-#lvl_b-22
-   2,R,D,X
+  14,R,D,X
    1,L,J
    6,L,U,X
    3,R,J
    7,R
-  15,R,X
-#5SHC1
+  15,R,D,X
   15,D,C
-  11,L,X
-   4,R,J
-   5,U,X
+   2
+   6,R,X
   44,R,C
   16,R,D,G
    4
@@ -117,47 +116,44 @@ Read,5A,Start,lvl_b-02
    1,K
   18,R,K
    6,R,X
-   3,R,J,G
-   5,R
-   1,R,J
-   7,R
-   4,L
-  18,D,C
-  14,R,D,X
-   5,R,J
-   1,L,J
-  22,R,J
+   4,R,J,G
+  16,R
+  16,D,X
+  14,R,D,C
+  27,R,J
    8,R,K,G
+   2,R
   15,U,X
-   2,L,J,G
-   1,L
    1,L,J,G
-   5,L
-   2
-  14,L,X
-   1,R,J
-  13,R,D,X
-   1,L,J
+   2,L
+   3
    1,L
-  11,L,D,X
-   5,L,J
-  14,L,X
-   1,L,J
-  14,D,X
-   4,L
    1
   14,L,X
    1,R,J
-  14,R,D,X
+   4,D,X
+  10,R,X
+   1,L,J
+  12,L,D,X
+   4,L,J
+   4,D,X
+  11,L,X
+  15,D,C
+   5
+   1,R,J
+  14,L,C
+   1,R,J
+   4,D,X
+  10,R,X
    1,L,J
   14,L,D,X
-   2,L,J
-   2,L,K,G
-  14,L,D,X
-   1,L,D
    1,L,J
-   1,D,X
-  11,L,U,X
+   1,L,K,G
+   4,L
+  15,L,D,X
+   1,L,J
+   4,D,X
+   8,L,U,X
  257
    1,J
 #Return
@@ -243,24 +239,28 @@ Read,5A,Start,lvl_b-02
 
 #lvl_b-04
    4,L
-   7,L,J,G
-  12,L,U,X
    3,L,J,G
-  13,L
-   1,L,J
-   4,D,X
+   3,J
+  14,L,U,X
+   1,L,J,G
+   5,L
+   1,L,K
+   7,L
+   4,R,Z
    1,R,J
-   6
-   1,J
-   5,D
-   1,J
-   6,R,J
-   4,R
-   1,L
-  18,J,G
+   1,R
    1
-  20,U,X
-  54,D
+   4,R
+   4,R,D
+   4,L,J
+   1,R,J
+   2,L,J
+   1,R,J
+   2,L
+  17,K,G
+  15,U,X
+   1,D
+  58,D
   40
 
 #lvl_b-02 (3)
@@ -351,7 +351,7 @@ read,5S,lvl_b-19,5SHC4
   14,L
 # resync key, nothing to do while
 # waiting currently
-  11
+  14
 #5SHC3
   14,L,D,X
    6,R,J
@@ -381,33 +381,37 @@ read,5S,lvl_b-19,5SHC4
   16,U,X
    5,R,J,G
    7,R
-  10,J
+   6,J
    8,R,J
- 139,L,D,X
-#Exit
+   4,X
+  34,L,D,X
+   3,L,D
+  98,L,D,X
   59
    1,J
-  30
-   9,L,D
+  38,L,D
+   6,L,Z
    1,L,J
+   3,L
   40
 
 #lvl_b-14
-   4,L,D,C
-   6,L,X
+   4,L
+   1,L,J
+   5,L,D,X
    1,L,J
    7,L
-  15,L,J
-  13,U,X
-   7,L,J
-   2,L
-   1,K,G
+  13,L,J
+  12,U,Z
+   9,L,J
+   2,L,K,G
    7,L
    2,L,J
   14,U,X
-  14,R,J
-   4,R
-  10,R,K,G
+  18,R,J
+   3,R,K,G
+   2,R
+   5,R,J,G
    6,R
    1,L
    8,L,J
