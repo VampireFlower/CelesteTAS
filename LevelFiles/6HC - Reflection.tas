@@ -1,4 +1,4 @@
-#By EuniverseCat and Kilaye
+
 unsafe
 console load 6
    1
@@ -6,7 +6,7 @@ console load 6
 #Start
 Read,6A,Start,lvl_04
 
-#lvl_04
+#lvl_04 (1)
    1,J,G
    2
    2,J,G
@@ -14,24 +14,37 @@ Read,6A,Start,lvl_04
    5,R
   15,U,X
    1,L,J,G
+   3,L
+   1
+   3,L
+   4,Z
+   2,L,J
+   2,L,K,G
+   1,K
+   2,L,K
    7,L
-   7,L,J
-  10,L,X
-   4,L,J
-   1,L
-  14,L,U,X
-   8,L,J,G
-   6,L
+   1,L,J
+   5,L
+   3,L,J
+  15,U,X
+   1,L,J,G
+   2,L
    1,R
-   7,R,J
+   3,L
+   1
+   1,R,J
   14,L,U,X
    1,L,J,G
-   7,L
-   4,L,D,X
-   6,L,X
+   4,R,J
+   1,L,K,G
+   1,L,J,G
+   3,L
+   1
+   3,L
+  10,L,Z
    1,L,J
    4,L
-  15,L,X
+  14,L,X
    1,L,J,G
   22,D
   10,R,D
@@ -65,67 +78,91 @@ Read,6A,Start,lvl_04
    1,R,J
   40
 
-#lvl_04
+#lvl_04 (2)
    4,J
    1,R,J
-  12,R,K,G
+   9,R,K,G
+   3,K
   15,U,X
-  30,L,J
-  12,L,K,G
+  29,L,J
+  11,L,K,G
+   1,L
    7,L,J,G
    7,L
-  15,D,C
-  40
+   5,D,C
+   1,J
+  49
    2,L
-   8,L,J
-   5,K,G
-   3,R,K
-  24,L,U,X
+   6,L,J
+   1,L
+   1,L,K,G
+   9,L,J,G
+   3,J
+   3,L,J
+   1,L,K,G
+   1,L,J,G
+   9,L
    1,G
-  11,J,G
-   1,R,J
-  14,L,K,G
-  11,J,G
-   1,R,J
-  14,L,K,G
-  11,J,G
-   1,R,J
-  14,L,K,G
-  11,J,G
-   1,R,J
-  14,L,K,G
-  11,J,G
-   1,R,J
+   1,K,G
+   3,L,K
+   5,K
+   1,L,K
+   1,R,K
+   1,L,K
+  13,L,J,G
+   1,K,G
+   3,L,K
+   5,K
+   1,L,K
+   1,R,K
+   1,L,K
+  13,L,J,G
+   1,K,G
+   3,L,K
+   5,K
+   1,L,K
+   1,R,K
+   1,L,K
+  13,L,J,G
+   1,K,G
+   3,L,K
+   5,K
+   1,L,K
+   1,R,K
+   1,L,K
+  13,L,J,G
+  11,K,G
+   1,R,K
+   1,J
+  24,L,J
+  11,K,G
+   1,R,K
+   1,J
+  24,L,J
+  11,K,G
+   1,R,K
+   1,J
+  24,L,J
+   8,K,G
+   1,L,K
    1,K
-  24,L,K
-  11,J,G
-   1,R,J
-   1,K
-  24,L,K
-  11,J,G
-   1,R,J
-   1,K
-  22,L,K
-   2,L,K
-  11,J,G
-   1,R,J
+   1,L,K
+   1,R,K
   16,U,X
-  28,L,K
-   2,K
-  11,J,G
-   1,R,J
-   1,K
-  24,L,K
-  10,J,G
-   1,R,J
-   1,K
-  24,L,K
-   1,J,G
-   2,R,J
-  12,L,K,G
+  29,L,J
+  11,K,G
+   1,R,K
+   1,J
+  24,L,J
+  11,K,G
+   1,R,K
+   1,J
+  24,L,J
+   4,K,G
+   1,R,K
+  12,L,J,G
    7,L
-   4,L,D,X
-   1,L,X
+   5,L,Z
    1,L,J
    4,L
   43
@@ -211,20 +248,29 @@ Add 58
   46
 Add 1
 
-#lvl_04
+#lvl_04 (3)
   36
-  11,R,X
-   3,J
+   4,Z
+   7,R,J
+   1,R
    1,R,J
-   5,R,K,G
-  14,R,D,X
+   2,R
+   2,R,K
+   1,R,J,G
+   1,R
+   1
+   3,R
+   1,R,J
+   2,R
+   2,R,J
+   4,R
+   1,R,K
    1,R,J
    1,R,K
-   7,R
-  10,R,U,X
+  12,R,U,X
    1,R,J,G
    1,L
    6,R
+   2,R,J
 
 Read,6A,6HC1
-#
