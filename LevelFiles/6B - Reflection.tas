@@ -122,29 +122,30 @@ AnalogMode,Precise
    6,L,X
    1,L,J
    1,L
-   2,L,J
-   1,L
+   3,L,J
+   2
    1,J
-   3
+   1
    5,D,X
   26,L
    9,L,D,X
-  15,R
-   8
+  15
+   1,R
+   1
   15,U,X
   13,L
-  18,R
-  15,R,U,X
+  22,R
+  13,U,X
+   1,J
+   1,K
    1
   27,L,D
-  18,F,205.83
-  13,F,135
-   8,F,123.68
-  12,F,89.56
-  12,F,76.85
-   5,F,45
-  41,F,23.38
-   3,F,19.53
+  21,F,176.6
+  18,F,127.575
+  12,F,83.3
+  11,F,78.61
+   6,F,46.7
+  43,F,23.39
   14,U,X
   40
 
@@ -166,34 +167,30 @@ AnalogMode,Precise
   13,R
    2
    1,J
-  22,L,D
-   2,D
-   1,L
-   1,J
-   4,R,J
-   6,R
-   4,R,J
+   4
+   4,R
+   1
+   9,R,D
+  15,R
+   1,R,D
    1,R
-   1,R,J
-   6,R
+   2,R,D
+   1,R
    4,D,X
-  15,R,X
-   2
-   1,R
-   2
+  27,R,U,X
+   1
 AnalogMode,Square
-  27,F,297.354
+  27,F,296.8
 AnalogMode,Precise
-   5,F,270
-   1,F,276.01
+   5,F,272.3
    7,F,315
-   8,F,
-  12,F,9.36
-   8,F,33.66
+   9,F,
+  12,F,9.93
+   8,F,35.8
   10,F,90
-  29,F,141.04
+  28,F,142.235
    9,F,90
-  12,F,36.37
+  13,F,42
    4,D,X
    9,R,X
    2,R,J
@@ -264,31 +261,27 @@ AnalogMode,Precise
   23,R
   10,R,U,X
    1,R,J,G
+   1,L
    6,R
-   1
   10,R,D,X
    1,R,J
-  15,R,D
-   1,R,D
+   6,R
+   1,R,J
+  12,R
+   2
    2,D
-   1
-   1,R
-   1
-   1,D
-   1
-   1,D
-   9,R,U,Z
-  27,R
-  11,R,Z
+   1,R,D
+   9,R,U,X
+  22,R
+  14,R,Z
    1,R,J
    2,J
-   1
-   2,K
-   8,D
-   8,R,D
-   4,R
-   1
    1,R
+   3,J
+   8
+   8,R,D
+   1,D
+   4,R
   15,R,U,Z
    2,R
    1,L
@@ -329,23 +322,22 @@ AnalogMode,Precise
    5,L,J,G
    3,R,J
    5,L,J
-AnalogMode,Square
-  27,F,323.515
-AnalogMode,Precise
-   5,F,349.36
-   6,F,315
-   8,F,270
-   9,F,225
-   8,F,180
-   9,F,135
-  16,F,123.25
-   5,L,X
-  13,L
-   2
+#frameties with just
+#taking the feather
+#down to kevin
+  27,L,U
+  16,F,1
+   3
+  15,D,X
+  24,R,D
+  11,L,X
+  22,L
+   1,R
    1,L
-  21
-   2,D
-   4,G
+   7,U,G
+   1,G
+   1,U,G
+  10,G
    1,J,G
    1,K,G
    2,J,G
