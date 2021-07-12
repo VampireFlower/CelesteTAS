@@ -24,6 +24,7 @@ console hard 7
  246
 #lvl_a-00
   78
+
    7,R,J
    9,R,Z
    1,R,J
@@ -531,8 +532,9 @@ console hard 7
   15,R,U,X
   14,U,Z
    1,R,J
-  48,L
-  27,L,Z
+  38,L
+  15,L,U,X
+  22,L,Z
    8,L,J
   17,L,K
   15,U,X
@@ -612,24 +614,17 @@ console hard 7
   29,R,X
    3,R,D
   15,R,Z
-  13,R
-  19,R,X
-  25,R,Z
-   2
-   5,R
-   4,R,D
-   1,R
-   1,R,J,G
-   1,R,K,G
-   8,R
-   1
   10,R
-  15,R,X
-  16,R
-   5,R,D
+   4
+  23,R,X
+  25,R,Z
+  52,R
+   3,R,D
    1,R
-  15,R,U,X
-  20,R
+  17,R,X
+  16,R,C
+   8,R
+#resync after this point 
    7,R,Z
    1,R,J
    6,R
