@@ -1,4 +1,3 @@
-
 console hard 1
    1
 
@@ -267,22 +266,23 @@ console hard 1
    1,L
    9,J,G
    2,R,J
-  13,R,K
+   1,K
+   9,R,K
+   3,L,K
    1,J
+   1,K,G
+   3
+   2,R
    1,R,J
-   4,R
-   1
-   2,R,J
    3,R
-   1,R,J,G
-   5,R
    1,R,J
-  18,R,D
+   1,R,K,G
+  18,R
+   5,R,D
    1,R,G
-   6,R,J,G
+   6,R,J
   25,R,D
-   4,D,X
-  10,R,X
+  14,R,Z
    1,R,J,G
    5,R
    1
