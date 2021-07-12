@@ -1,4 +1,3 @@
-#By DevilSquirrel, Higashi Dong, EuniverseCat, fishmcmuffins
 console rmx2 7
    1
 
@@ -15,39 +14,33 @@ console rmx2 7
   13,U,X
    3,R,J
    6,R
-   4,D,X
-   7,L,X
+  11,L,Z
    1,R,J
    3,R
-   4,D,X
-  25,R,X
+  29,R,Z
   18,R,C
   13,U,X
   31,R,J
-   4,D,X
-   9,U,X
+  13,U,Z
   34,R,J
    8,U,X
-   4,R,J
-   4,R
-   1
-   4,D,X
-   6,L,X
+   5,R,J
+   3,R
+  10,L,Z
    1,R,J
   15,L,J
-  18,U,X
+  15,U,X
+   3
    4,R
    1
    7,R,J
    3,R
-   4,D,X
-   6,L,X
+  10,L,Z
    6,R,J
    1,R
   10,R,K
   34,R
-   4,D,X
-  11,R,U,X
+  15,R,U,Z
   19,R
   15,U,X
   29,L,J
@@ -71,11 +64,9 @@ console rmx2 7
   15,R,X
   15,R,U,C
   29,R
-   4,D,X
-  11,R,X
+  15,R,Z
    2,R
-   4,D,X
-   9,R,X
+  13,R,Z
    1,R,J
    4,R
    1,R,J
@@ -86,8 +77,7 @@ console rmx2 7
 #lvl_03
    8,R,J
   15,R,U,X
-   4,D,C
-   6,R,C
+  10,R,Z
    2,R,J
    3,R
   14,R,D,X
@@ -99,12 +89,10 @@ console rmx2 7
    8,R
    5,L,D
    7,L
-   4,D,X
-  11,R,X
+  15,R,Z
    5,U,C
   28,L
-   4,D,X
-  11,R,X
+  15,R,Z
   15,R,C
   18,L
    7,L,X
@@ -117,25 +105,21 @@ console rmx2 7
    5,R
    3,R,J
    2,R
-   4,D,X
-  11,R,X
+  15,R,Z
    6,D,C
   33,L
    2
    4,R
    2,R,D
    1,R
-   4,D,X
-  21,R,X
-   4,D,C
-  13,R,U,C
+  15,R,Z
+  10,R
+  17,R,U,Z
   31,R
-   4,D,X
-  11,R,U,X
+  15,R,U,Z
   10,L,U,C
    6,L
-   4,D,X
-   8,L,X
+  12,L,Z
    4,R,J
    1,R
    4
@@ -149,57 +133,50 @@ console rmx2 7
    1,R
    1
    1,R
-   4,D,X
-  10,R,X
+  14,R,Z
   26,R,J
    3,R
   19,R,U,X
-   4,D,C
-  10,R,C
+  14,R,Z
   10,R,J,G
   27,R,D
   20,R,X
   15,R,D,C
-   6,R
-   1
-   1,R
-   4,D,X
-  10,R,X
-   2,R,J
    2,R
-   4,D,X
-  11,R,U,X
-   7,U,C
+   1
+   5,R
+  13,R,Z
+   5,R,J
+  15,R,U,Z
+   6,U,C
   31,R
   30,R,X
    9,R,D
   26,R,X
   19,R,C
   18,U,X
-   4,D,C
-  17,R,C
-   4,D,X
-  15,R,X
+  15,R,Z
+   6,R
+  19,R,Z
   21,R,C
   15,R,D,X
    3,R
    2,R,D
   25,R,U,X
   18,R,C
-   2
+   1
    1,R
+   1
   15,U,X
    4,L
    3,R
-   4,D,X
-  21,R,X
-   4,D,C
-  11,R,C
+  15,R,Z
+  10,R
+  15,R,Z
   17,R,D
    1,R,J,G
    7,R
-   4,D,X
-   3,R,X
+   7,R,Z
    1,R,J
    7,R
    1,R,J
