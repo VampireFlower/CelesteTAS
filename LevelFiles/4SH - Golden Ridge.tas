@@ -1835,16 +1835,19 @@ console load 4
    8,R
    7,R,D,X
   40
- 
+
 #lvl_d-07
    8,R,D,X
    8,R,D
    9,R,D,C
-  14,U,X
+  15,U,X
    3,J
-   3
-   1,L,K,G
+   2
+   1,K
   24,L,D
+# We can hit this berry
+# 0.08 lower, but it desyncs
+# fna and doesnt save time
    4,D,X
   11,R,X
    2,R
