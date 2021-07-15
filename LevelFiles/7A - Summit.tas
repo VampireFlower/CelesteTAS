@@ -1710,13 +1710,13 @@ console load 7
    9,R,D,X
    4,R,J
    1,R
-   4,R,J
-   1,J
+   4,R,K
+   1,K
   40
 
 #lvl_f-10b
-   2,R,J
-   1,J
+   2,R,K
+   1,K
   15,R,D,X
   12,R,D
    8,R
@@ -1730,26 +1730,27 @@ console load 7
    3
    3,L
    4,D,X
+   1,L,X
    1,R,J
-   3,R
-   1,R,K
-   6,R,D,J
+   4,R
+   5,R,D,J
+   4,R
+  15,R,D,X
    5,R
-  15,R,K
-  18,R,D,X
-   4,R
-  15,R,U,X
+   1,D
+   1,R,D
+  18,R,U,X
+  15,R,C
   15,R,Z
-   4,R
-   1,R,K
+   1
+   1,R,J
    6,R
   14,U,X
-  16,R,J
+  13,R,J
+   3,R
   15,R,X
-  11,R
-   6,L,D,X
-   1,R,J
-   7,R
+  10,R
+  14,R,Z
    1,R,J
    5,R,D,X
   40
@@ -1758,7 +1759,7 @@ console load 7
    9,R,D,X
    1,R,J
    4,R
-   1,R,J
+   1,R,K
   10,R
    4,D,X
    3,R,X
