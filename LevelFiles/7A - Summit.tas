@@ -1718,30 +1718,32 @@ console load 7
    2,R,J
    1,J
   15,R,D,X
-   3,R,D
-   3,R,D
-   1,R
-   1
-  15,R
-   1,R,D
+  12,R,D
+   8,R
   15,R,X
-   4,D,C
-  10,R,C
-   1,R,J,G
-   8
+  15,R,Z
    1,R
-   4,R,D,J
-  18,R
-   8,R,D
-   1,R
-   4,D,X
-  11,R,X
-  18,R,C
-  15,R,U,X
-   4,D,C
-  18,R,C
-  15,U,X
+   1,K
    2,R
+   1,L
+   3,R
+   3
+   3,L
+   4,D,X
+   1,R,J
+   3,R
+   1,R,K
+   6,R,D,J
+   5,R
+  15,R,K
+  18,R,D,X
+   4,R
+  15,R,U,X
+  15,R,Z
+   4,R
+   1,R,K
+   6,R
+  14,U,X
   16,R,J
   15,R,X
   11,R
