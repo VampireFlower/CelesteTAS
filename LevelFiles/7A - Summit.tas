@@ -1389,10 +1389,10 @@ console load 7
    6,R,D,X
    1,R,J
   10,R,D,X
-   5,R,J
-  19,R,X
-  16,R,C
-  16,R,X
+   7,R,J
+  18,R,X
+  15,R,C
+  14,R,X
   38,L
   15,U,X
   10,R,U,C
@@ -1400,10 +1400,12 @@ console load 7
   15,L,D,X
    4,D,C
   13,L,C
-  17,L,X
-  14,L,D,C
+  15,L,X
+   2,L
+  15,L,D,X
    5,L
-  19,L,X
+  15,L,X
+   3,L
   42,R
   10,L,U,X
   37,R
