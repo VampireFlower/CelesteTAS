@@ -606,20 +606,20 @@ console load 2
 #lvl_end_3
    3,R
   15,R,D,X
-   2,R,J
-   3,R,K,G
-   9,R,U,X
-  10,R,J,G
-   3,R
+   1,R,J
+  12,R,U,X
+   9,R,J,G
+   4,R
   40
 
 #lvl_end_4
-   2
-   2,R,K
-   8,R
+   2,R
+   3,R,J
+   5,R
    1,R,J
-  19,R,D,X
-   3,R,D,J
+   1,R
+  20,R,D,X
+   3,R,J
    5,R,D,X
    8,R,K,G
   40
@@ -631,8 +631,8 @@ console load 2
    3,R,J
    5,R
    3,R,K
-   1,R
-   9
+   4,R
+   6
    4,D,C
    2,R,U,C
   40
