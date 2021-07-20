@@ -13,8 +13,7 @@
 #console load 7 20152 -11416
 #play,Section 2500m,37
 
-#console load 7 25600 -13432
-#play,Section 3000m,37
+console load 7 25600 -13432
 
 console load 7
    1
@@ -1990,28 +1989,33 @@ console load 7
    2,L,J
    5,L,X
    2,L,K,G
-  20,L,J,G
-   1,L
-   1,L,K,G
-   5,D
-   9,L,D
-
-#CP-24
-   8,L,J
+  17,L,D
+   4,L,K
   15,U,X
-  18,R,J
-   5,R,X
-   8,R,J,G
-   7,R
-  17,R,J
-  15,U,X
-   6,R,J
-   9,L,U,X
-   6,L,J,G
-   5,L
-   1,K
+  12,U,C
+  25,R,J
    1
-   2,L
+   1,R
+   1,R,K,G
+   1,R,J,G
+   1
+   1,J,G
+   5,R,J
+   7,R
+   5,L,D,X
+   1,R,J
+   3,R
+   1,R,K
+  11,R,J
+  14,U,X
+   7,R,J
+  10,L,U,X
+   7,L,J,G
+   5,L
+   1
+   1,J
+   1,L
+   1
    4,D,X
    1,L,J
    1
