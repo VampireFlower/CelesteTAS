@@ -1997,21 +1997,25 @@ console load 7
    9,L,D
 
 #CP-24
-   8,L,J
+   5,L,J
   15,U,X
-  18,R,J
-   5,R,X
-   8,R,J,G
-   7,R
-  17,R,J
+  10,L,Z
+   9,R,J
   15,U,X
-   6,R,J
-   9,L,U,X
-   6,L,J,G
+  11,R,Z
+   1,R,J
+   3,R
+   1,R,K
+  11,R,J
+  14,U,X
+   7,R,J
+  10,L,U,X
+   7,L,J,G
    5,L
-   1,K
    1
-   2,L
+   1,J
+   1,L
+   1
    4,D,X
    1,L,J
    1
