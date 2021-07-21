@@ -1350,18 +1350,20 @@ console load 5
   40
 
 #lvl_b-12
-   6,R,D
-   6,R
-  14,L,D
+   1,L,D
+   2,R
+   7,R,D
+  16,L,D
   12,L
-   4,L,D
-   1,L,K,G
-  14,L,J,G
+   1,L,J,G
+  13,L,K,G
   12,U,X
    5,R,J
    2,R
-  11,R,K,G
-   8,R
+   9,R,K,G
+   1,R
+   1,R,J,G
+   7,R
   14,U,X
    2,J
   40
