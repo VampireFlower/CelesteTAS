@@ -1,12 +1,10 @@
-
 console rmx2 2
    1
 
 #Start
 #lvl_00
   91
-   4,R,D,X
-   6,R,X
+  10,R,Z
    1,R,J
    8,R
    3
@@ -19,41 +17,39 @@ console rmx2 2
   20,R,X
    4,R,J
    1,R,K
-   9,R,D,X
-   1,R,J
-   1,J
+   8,R,D,X
+   2,R,J
+   1
   40
 
 #lvl_01
-   4
+   1,J
+   2
+   1,J
   10,R,D,X
-   5,R,J
-   2,R
-   1,R,J
+   7,R,J
    1,L,K,G
    5,R,K
    4,R,J,G
   18,R
   20,R,U,X
-   1,L,K
+   0,R,J
+  22,L,U,C
+   4,L,J
    1,L
-  25,L,U,C
-   1
-   1,L,J
-   2,J
-   1,L
-   5,R
-   1,R,J
-  12,R
+   1,R,K
+   3,L,K
+   7,L
+  11,R,D
   23,R,X
    4,R,J
    7,R,K
-  21,R
-  15,D
-  17,L,D
-   5,L
-   4,D,X
-  10,R,X
+  15,R,D
+  14,R,D
+  14,R,D
+  15,R,G
+   8
+   6,R,Z
    1,R,J
    1,R,K
    1,R,J
@@ -63,16 +59,15 @@ console rmx2 2
   40
 
 #lvl_02
-   6,R,J
-   1,R
+   4,R
+   3,R,J
   28,R,X
-  22,L,D
-   5,R,D
-   2,R
+  20,L,D
+   8,R,D
   60,R,X
    4,R,J
-   7,R,K
-   9,R
+   6,R,K
+  10,R
   19,R,U,X
    4,R,J
    9,R,K
@@ -83,14 +78,12 @@ console rmx2 2
    4,R,J
    6,R,K
    3,R
-   4,R,K
-   3,R
-  15,R,D,X
-   6,R,J,G
-   5,R
-   3,R,J
+   5,R,K
    2,R
-   2,R,J
+  15,R,D,X
+   7,R,J,G
+   9,R
+   2,R,K
    8,R
   42,R,X
    4,L,G
@@ -99,16 +92,16 @@ console rmx2 2
   32,R,X
    4,R,J
    1,R,K
-  17,R
-  19,R,X
+  15,R
+  21,R,X
    4,R,J
    1,R,K
-  17,R
-  19,R,X
+  15,R
+  21,R,X
    4,R,J
-   3,R,K
-  11,R
-  23,R,X
+   1,R,K
+  15,R
+  21,R,X
    4,L,J
    4,D,X
    7,L,U,X
