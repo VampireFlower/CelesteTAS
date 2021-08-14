@@ -572,9 +572,7 @@ console load 4
    1,D
    3,R,D
   15,R,J
-   3,R,K,G
-   1,R,K
-   7,R,K
+  11,R,K,G
   15,R,D,X
    1,D
    4,R,D
@@ -587,8 +585,7 @@ console load 4
   25,R,K,G
    4,R,J,G
    4,L,K
-   1,J
-   3,R,J
+   4,L,J
   15,U,X
   14,R,J
    1,L,J
@@ -627,7 +624,7 @@ console load 4
    2,J
    3,R,J
    5,R
-   1,R,J
+   1,R,K
   13,R,J,G
    3,R,K,G
    7,R
@@ -654,7 +651,8 @@ console load 4
    2,R
    3,L
   15,U,X
-  26,R,J
+   1,R
+  25,R,J
   15,U,X
    7,U,C
    5,L,J
@@ -667,8 +665,7 @@ console load 4
    9,R,J,G
   15,U,X
   16,U,C
-  11,L,J
-   4,L,J
+  15,L,J
    3,R,J
   10,R,K,G
    3,J,G
@@ -775,7 +772,7 @@ console load 4
    5,R,D,X
    7,R,J
   15,R,D,X
-   1,R,D,J
+   1,R,J
    4,D,X
   16,R,U,X
    4,R
@@ -911,8 +908,7 @@ console load 4
   12,R,J
    4,R
    1,R,K
-  30,R,D
-   1,R,D
+  31,R,D
    7,J
    2,R
    1,L,K,G
