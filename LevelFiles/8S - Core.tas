@@ -5,8 +5,9 @@ console load 9
    1
 
 #Start
-#lvl_00
   54
+
+#lvl_00
   16
    6,R,Z
    1,R,J
@@ -17,34 +18,33 @@ console load 9
    1,R,J
    6,R
    1,R,J
-   4,R,K,G
+   2,R,K,G
+   1,K
+   1,R,K
   11,R,D,X
    1,S
    1,D,J
-  34,R
-   1,R,J
-   5,R
-  14,R,D,X
-   1,R,J
-   5,R,D,X
+  34
+   1,R,D,J
+  14,R
+   1,R,D,J
+   4,R
   40
 
 #lvl_01
+  10,R
+   6,R,J
    9,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-   6,R
-   1,R,K
-  10,R,D,J
-   1,R
-  14,R,U,X
    1,R,J,G
-  10,R,J
+  12,R
+   1,R,J
+  14,R
+  11,R,D,J
+   1,R
+   1
+  13,R,U,X
+   5,J,G
+   6,R,J
   14,R,U,X
   18,R,J,G
    1,R,K,G
@@ -553,18 +553,17 @@ console load 9
    1,R,K
    1,R,J,G
    6,R
-   4,D,X
+   5,R,Z
    1,R,J
    3,R
-   1,R,K
+   1,R
    3,R
-   5,R,J
+   1,R,J
    5,R
-   2,K
-   4,R,K,G
-   2,R
-  14,R,J,G
-  24,R,D,X
+   2,R,J
+  12,R,U,X
+   3,R,J,G
+  29,R,D
    2,L,D
    1,D
   40
