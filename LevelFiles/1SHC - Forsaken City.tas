@@ -80,33 +80,22 @@ Read,1SH2,Start,lvl_10 (1)
    2,R,J
   15,R,D,X
    6,R
-   7,L,D,X
+  12,L,D,X
    1,R,J
-   9,R
-  15,D,X
-   5,L
-   2
-   1,J
-   3,R,J
-   1,L,J
-   1,R,J
-   1,L,J
-   1,R,J
-   1,L,J
-   9,K
-   1,L,K
-   1,K
-   6,L,K
-   5,L,Z
+   2,R
+   7
+   7,R
+   9,U,X
+  19,K
+   5,L,K
+   5,L,D,X
    1,L,J
    3,L
    1,L,K
    3,L
-   2,L,J
-   1,J
-   1,L,K,G
-   3,R,K
-  14,U,X
+   1,L,J
+   7,J
+  13,U,X
   40
 
 #lvl_11
