@@ -708,13 +708,14 @@ console hard 3
   14
   15,R,U,C
   19,R
-  15,R,X
-  16,R,D
-  14,R,D,X
+  22,R,X
+  15,R,D,C
+   4,R
+   6,R,C
    1,R,J
-  14,R,D,X
+   7,R
    1,R,J
-   7,R,D,X
+  11,R,D,X
    1,R,J
   40
 
