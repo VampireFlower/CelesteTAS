@@ -233,6 +233,7 @@ AnalogMode,Precise
    9,R
    1,J
   16
+#6HC0
    1,D,J
   14,R
    6,L
@@ -273,8 +274,8 @@ AnalogMode,Ignore
    2,R,J
    1,L,J
    1,R,J
-#6HC1
   14,U,X
+#6HC1
   21,R,J
    1,K,G
    4,R,K
