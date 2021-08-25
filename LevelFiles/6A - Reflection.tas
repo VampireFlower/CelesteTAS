@@ -510,21 +510,26 @@ AnalogMode,Precise
   14,L,U,Z
    1,J
    7,R
-   5,R,J
-  11,U,X
+   1,R,J
+   3,J
+   2
+  10,U,X
   18,L
-  10,L,D,X
-  22,R,J
-   3,R
-   4,D,X
-  10,R,X
+   9,L,D,X
    6,R,J
-  15,R,D,X
-  10,R,D
-   1,R
-   1,R,D
-  14,U,X
-   7,R,J
+   3,R
+   1
+  26,R
+   6,R,D,X
+   1,R,J
+   5,R
+   3
+  14,R,D
+   2,R
+   1
+   6,R
+  14,U,Z
+   6,R,J
   11,R
    5,R,Z
    1,R,J
@@ -532,8 +537,9 @@ AnalogMode,Precise
   40
 
 #lvl_12b
+   1,R
    1,R,J
-   5,R
+   4,R
   15,R,D,X
    6,L,D,C
    1,L,J
@@ -899,6 +905,7 @@ AnalogMode,Precise
    1,R,K
    1,R,J
   40
+
 #lvl_b-02b
    3,R
    1,R,J
