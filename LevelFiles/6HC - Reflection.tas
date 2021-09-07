@@ -177,20 +177,26 @@ Read,6A,Start,6HC0
    7,L,U,X
    2,L,J,G
    5,L
-   3,L,J
-   6,L,D
-   3,L,J
-  10,L,D,X
+   4,L,J
+   2,L,K
+  15,L,D,X
   40
 
 #lvl_04c
-  12,L,D
+   3,L
   15,D,X
-   3,L,D
-  15,L,C
-  15,R,U,X
-  15,R,D,C
-  15,L,X
+   4,R,D
+  10,L,Z
+   1,R,J
+   4,R
+   5,R,U,X
+   2,R,J,G
+   8
+  14,R,D,C
+   1,L,J
+  11,L,Z
+   1,R,J
+   3,L
   15,L,D,C
   15,D,X
   15,R,C
