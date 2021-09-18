@@ -21,11 +21,12 @@ console rmx2 7
   18,R,C
   13,U,X
   31,R,J
-  13,U,Z
-  34,R,J
-   8,U,X
-   5,R,J
-   3,R
+  14,U,Z
+  20,R,J
+  13,R,U,X
+   1,L
+   3,J,G
+   6,R,J
   10,L,Z
    1,R,J
   15,L,J
@@ -36,10 +37,10 @@ console rmx2 7
    7,R,J
    3,R
   10,L,Z
-   6,R,J
+   7,R,J
    1,R
-  10,R,K
-  34,R
+   7,R,J
+  36,R
   15,R,U,Z
   19,R
   15,U,X
@@ -199,3 +200,4 @@ console rmx2 7
   15,R,C
   15,L,U,X
  124,R
+ChapterTime: 0:34.595(2035)

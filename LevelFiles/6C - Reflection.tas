@@ -23,8 +23,6 @@ console rmx2 6
   14,U,Z
    9,R,J
   11,R
-   1
-#+1f spinner cycle
   10,R,Z
    5,R,J
   15,R,D,X
@@ -115,21 +113,24 @@ AnalogMode,Precise
    1,R
    4,R,Z
    1,R,J
-  93,L,D
-  23,L,X
-  16,R,D,C
+  89,L,D
+   4,L
+  19,L,X
+   2
+  15,R,D,C
+   2,R
    1,R,J
-  11,R
-   8,L,D,X
+   8,R
+   7,L,D,X
+   1,L,K,G
    1,L,J,G
-   2,L,K,G
-   7,L
-  14,L,Z
-   1,L,J
-  14,R,Z
+  14,L
+  12,L,Z
    1,R,J
-   4,D,C
-   5,R,C
+   7,R
+   1,J
+   4,R,D,X
+   5,R,D
    1,L,J
    1,R,J
    1,L,J
@@ -144,17 +145,24 @@ AnalogMode,Precise
    1,R,J
    1,R
    5,R,D,X
-   1,L,J,G
+   1,L,K,G
   12,R,J
+   5,R
+   1,R,J
   32,R
-   6,R,D
   13,R,U,Z
    1,L
    1,J,G
    3
    1,R
-  19,D
-   5,R,D
-  32,R
-  32,R,U,X
- 123,D,C
+  10,D
+   2,R,D
+   2,L,D
+   1,R,D
+   6,D
+   1,R,D
+   1,D
+  33,R
+  31,R,U,X
+ 124,D,C
+ChapterTime: 0:22.202(1306)
