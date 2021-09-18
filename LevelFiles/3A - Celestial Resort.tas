@@ -1648,8 +1648,7 @@ console load 3
    1,R
    1,R,J
    1,R,K
-   1
-   5,R
+   6,R
   40
   
 #lvl_roof04
@@ -1658,7 +1657,6 @@ console load 3
    6,R
   11,R,K
    1,K
-   1,R,K
   14,R,U,Z
    1,L
    1,K
@@ -1815,3 +1813,4 @@ console load 3
    1,S
    1,D,J
   18
+ChapterTime: 3:16.197(11541)
