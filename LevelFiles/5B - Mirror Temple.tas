@@ -21,8 +21,6 @@ console hard 5
 #lvl_a-00
    6,R,J
    2,R,K,G
-#this dash doesn't save time
-#9,R for 3 frames of real time
   12,R,D,X
   18,R,C
   22,U,X
@@ -819,3 +817,4 @@ console hard 5
   31,R
   29,L,J
    1,R,J
+ChapterTime: 1:44.057(6121)

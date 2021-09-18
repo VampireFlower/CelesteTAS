@@ -140,8 +140,7 @@ console hard 9
   10,R,D
    2,R,D
    2,D
-   3
-   2
+   5
    1,R
   15,R,U,Z
   14,L,D,C
@@ -153,13 +152,16 @@ console hard 9
   13,L,X
    6,L,J
    7,L
-   9,L,K,G
-  27,L,D
-  13,L,X
+   8,L,K,G
+   5,L
+   2,L,J
+  20,L,D
+  14,L,X
   18,L,J
   15,U,X
-  14,U,C
-  10,L,J
+   4,D,C
+  10,U,C
+   9,L,J
   40
 
 #lvl_a-03
@@ -177,23 +179,27 @@ console hard 9
   20,R,J
   16,R
   36,R,J
-  23,R
+  13,R
+   3,R,J
+   8,R
    4,D,X
-  10,R,X
+   9,R,X
    1,R,J
-   6,R
+   5,R
   40
 
 #lvl_a-04
    1,R
    1,R,J
-  16,R,D
+   1
+  15,R
    4,D,X
    5,R,X
    1,R,J,G
    9,R
    2,R,K
-  10,R
+   8,R
+   2,R,D
    4,D,X
    5,R,X
    7,R,J,G
@@ -322,14 +328,12 @@ console hard 9
    1,L
   11,G
   21,U,G
-   4,D,X
-   3,R,X
+   5,R,Z
    1,R,J
    1,R
-   2,R,K
+   3,R,K
   23,R
-   1
-  11,R,J
+  12,R,J
   11,R
   20,R,J
    2,R,K,G
@@ -341,8 +345,8 @@ console hard 9
    5
   14,R
    5,R,D
-   5,R
-   1
+   2,R
+   4
   16,R,X
    4,D,C
   13,R,C
@@ -632,8 +636,7 @@ console hard 9
    5,L
    2,L,K
    2
-   1,L
-   8,L
+   9,L
    7,L,X
   10,L,J,G
    5,J
@@ -935,3 +938,4 @@ console hard 9
   14,R,J
   14,R,U,C
  135,R
+ChapterTime: 2:14.606(7918)

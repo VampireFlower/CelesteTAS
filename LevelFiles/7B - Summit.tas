@@ -158,12 +158,12 @@ console hard 7
   15,R,C
   14,R
   11,D
-   2,R
+   8,R
   15,R,U,X
-  14,R,U,C
+   8,R,U,C
   45,L
   15,L,U,X
-  13,L
+  12,L
   15,L,Z
  351
 
@@ -332,11 +332,9 @@ console hard 7
    1,R,J,G
    3,R
   20,R,D,X
-   3,R,J
-  13,R,U,X
-   1,J,G
-   1
-   8,L,D,X
+   2,R,J
+  15,R,U,X
+   7,L,D,C
    1,R,J
    7,R
   40,R,J
@@ -353,25 +351,26 @@ console hard 7
   12,R,X
    1,R,K,G
    5
-   7,R
+   3,R
+   1,R,J
+   3,R
   15,R,Z
    3,R,J,G
    1,R
    1,R,J,G
-   6,R
-   1
-   6,L,Z
-   1,R,J
    7,R
+   5,L,D,X
    1,R,J
-   8,R,U,X
+   6,R
+   3,R,J
+   6,R,U,X
   40
 
 #lvl_b-03
    4,R,U,X
    1,L,J,G
    6,R,J
-  11,R
+  12,R
   15,R,U,X
   10,R,G
   15,D,X
@@ -1858,3 +1857,4 @@ console hard 7
   10,R
   15,L
    5,R
+ChapterTime: 4:54.763(17339)
