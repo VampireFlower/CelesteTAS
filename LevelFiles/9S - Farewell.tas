@@ -1,10 +1,10 @@
-console load 10
-
 #console load 10 76470 -10567
 # 150
 
 #console load 10 81744 -13272
 #play,Section Moon,37
+
+console load 10
 
    1
 
@@ -68,8 +68,7 @@ Read,9,Start,Farewell
    2,R,J,G
    3,L,J
    1,R,K,G
-   1,R,J,G
-   1,R,J,G
+   2,R,J,G
    1,R
    1
    5,R
@@ -203,14 +202,19 @@ Read,9,Start,Farewell
    8,R,D
   13,U,X
   13,G
-  27,U,G
+  11,R,U,G
+  16,U,G
    1
-   9,L
-  11
-   1,L
+  17,L
    8
-  11,D
+   2,R
+   1
    1,L
+   1,R,D
+   1,L,D
+   1,R,D
+   8,D
+   1
   58,D
   19,L,D
   20,R,D
@@ -468,66 +472,64 @@ Read,9,Start,Farewell
   19,R
   11,R,U,X
   28,L,U
- 119,F,354.51
-  19,L
-  14,U,X
-  24,L,J
-   5,L
-   2,L,K
-  10,R,D,X
-   1,R,J
-  13,R
-   3,R,J,G
-   5,R
-   6,R,J
+ 119,F,346.73
+  16,L
+  15,U,X
+  12,R,J,G
+  10,K,G
+   5
    2,R
-  14,R,U,X
-   1,R,J,G
+  10,R,Z
+   1,R,J
    2,R,K,G
    1,R,J,G
-   7,R
-   1,R,K
+   4,R,K,G
    5,R
-   2,R,K
+   2,R,J
+   6,R
+  14,R,U,X
+   2,R,J,G
    7,R
-  11,R,U,X
+   2,R,J
+   4,R
+  10,R,U,X
    1,R,J,G
    1,R,K,G
-   1,R
-   1,R,J,G
    7,R
-  24,R,J
-  18,R,U,X
-  15,U,C
-   2,R
-  18,R,U,X
-  15,U,C
-  15,U,X
-   2,R,J,G
-  10,J
-   4,K,G
-   4
-   2,R
-   1,L
-  12,L,K
-  14,L,U,X
-   3,K,G
+  19,R,J
+   1,R
+  18,U,C
+  16,U,X
+  18,U,C
+  16,U,X
+  14,R,U,C
+   7,J,G
+   1,K,G
+   5
+   2,L
+  11,L,K
+   2,L
+  15,L,U,X
+   1,K,G
    6,L
    1,R
-  12,J
+  12,R,J
   16,U,X
-  18,R,J
+  10,R,J
+   9,L,J
    1,R,K,G
-   8,K
+   3,L,K
+   1,R,K
+   6,K
    2
    1,J,G
-   4
-   2,R
+   2
+   3,R
+   1
    1,L
    2,R,J
-   1,L,J
-   1,J
    8,L,J
+   2,J
   18,U,X
   10,L
   15,U,X
@@ -535,82 +537,92 @@ Read,9,Start,Farewell
   15,U,X
    3,L
    4,L,J,G
-   4,J
-   5
+   1,J
+   3
+   1,L
+   1
    2,L
   10,L,D,X
-   6,R,J
+   7,R,J
    1,R
    6,R,J
-   1,R
-   8,R,J
+   2,R
+   6,R,J
   17,R,U,X
    1,L
-   7,J,G
+   8,J,G
    1,R,J
    7,L,X
    1,L,J,G
    2,L,K,G
    1,L,J,G
-  14,L,K,G
+  11,L,K,G
+   3,L
   14,L,U,X
-   2,K
+   1,K
    7
   12,L,J
    2,K,G
    1,R,K
    1,K
    1,J
-   9,R,J
-   1,J
-   1,R
+   7,R,J
+   3,J
+   1,L,J
+   1,R,J
   10,L,Z
-   9,R,J
+   6,R,J
+   1,R
+   2,R,J
   12,R,K,G
    1,J,G
    3,R,J
    1,L,J
-   4,R,J
+   3,R,J
+   1,L,J
    1,R,K,G
    1,L,K
-   9,R,K
+  10,R,K
    1,R,J,G
   10,R,K,G
-   1,R
-   2
-   1,R
-   1,K
+   4,L,K
+   1,R,K
    1,J
-   9,R,J
+   1,K
+   7,R,K
    5,R
-   3,R,J
+   4,R,K
+   1,R,K
   18,U,X
    6,L
   15,U,X
-   6,L
+   7,L
   15,U,C
-   3,L
-   1,R,J,G
-   3,K,G
-   1,L
-   1,R
-   8,R,J,G
-   1,L,J
-   3,R,J
-   7,R
-   9,R,K
-  13,U,X
+   2,L
+   2,R,J,G
    4,L,J
+   1,R,K,G
+   2,L,K
+   5,K
+   1
+   1,R
+   1,R,J,G
+   7,R
+   8,R,K
+   1,K
+  13,U,X
+   3,L,J
    2,J
-   1,L,J
+   2,L,J
    1,L,K,G
-   1,L,J,G
+   2,L,J,G
+   1,K
   40
 
 #lvl_j-17 (1)
    2,L,K,G
-   1,K
-   8,L,K
+   2,K
+   7,L,K
   10,L,X
    5,L,J
   10,L,U,X
@@ -729,52 +741,39 @@ Read,9,Start,Farewell
    1,J
    4
   11,U,X
-  39,R,U,J,G
-   1,R,D,J
-   6,J
-   2,R,J
-   4,J
-  11,U,X
-  13,G
-   4,R,G
-   4,G
-   1,L
-   6
-   1,L
-   1
-   1,L
-  11,L,U,X
-  13,L,G
-   4,L,G
-   4,G
-   1,L,D
-   1,J,G
-   4
-   2,L
-   1,J
-   2
-   3,R
-   4,Z
-   1,L,J
-   1
-   1,J
-  16,R,G
-   5,R,K,G
-   1,L,K
-   2,R,K
-   1,L,K
+  31,L,U,J,G
+
+  18,R,U,K,G
+   1,R,D,K
+   1,R
    1,R,K
-   2,R
+   4,R
+   1
+   4,R
+  12,U,X
+  15,U,J,G
+  17,L,U,J,G
+   4,L,J
+   1,K
+   4,R,K
+   5,K
+   1
+   5,L,X
+  16,L,G
+   1,L,J,G
+  11,J,G
+   6,J
+   1,L
   14,L,U,X
   16,L,G
    1,G
-  25,R,U,J,G
-   1,G
-   1,R,G
-   1,G
+  26,R,U,J,G
+   2,R,G
    1,R,J,G
-   5,R,K,G
-   7,K,G
+   1,R,K,G
+   1,K,G
+   4,R,K,G
+   6,K,G
    1,D
    4
    2,J
@@ -785,15 +784,14 @@ Read,9,Start,Farewell
    1,R,D,J
    5,L,J
    1,L
-   1,R
-   6,L
+   4,R
+   3,L
   10,L,U,X
   19,L,D,G
   17,R,D,G
   22,R,U,J,G
-   1,D,J
-   1,J
-   6,R,J
+   1,R,D,J
+   7,R,J
   13,U,X
   24,R,U,G
   20,L,U,G
@@ -807,7 +805,7 @@ Read,9,Start,Farewell
    3,D
   15,R,U,Z
   18,R,U,X
-  12,L
+  11,L
   15,U,C
    5,R
   26,R,U,G
@@ -818,7 +816,9 @@ Read,9,Start,Farewell
   23,U,G
   46,L,U,J,G
    9,L,D,G
-  26,L,U,J,G
+  24,L,U,J,G
+   1,L,D,G
+   1,L,U,G
    1,L,D,G
    1,L,U,G
    1,L,D,G
@@ -830,42 +830,42 @@ Read,9,Start,Farewell
   15,U,C
   21,L,U,G
    1,L
-   1,R
-   5,L
-  14,L,X
-  24,R,G
+   6,R
+  15,L,X
+   2,R
+  12,L,U,C
+  21,R,U,J,G
    1,L
   15,L,U,X
-   5,R
-  27,R,U,G
-   9,R,D
-  12,U,X
+   8,U,C
   41,U,J,G
-   9,D
+   1,D
+   1,L
+   1
+   1,L
+   5,R
   13,U,X
- 338,U,J,G
-   2,L,U,G
+ 369,U,J,G
    1,R
-   2,J
-   7
-  24,R,U,X
-  15,U,C
-   1,R,J,G
-   4,J
+   1,L
+   1,J
+   1,K,G
    5
    2,R
-   5,L,Z
-   1,R,J
-   1,J
-   3
-   1,J
-   2,K
-  14,R,K
+   8,R,J
+   7,U,X
+  17,R,U,J,G
+  12,R,K
+   8,R,J,G
+  10,R,X
+   7,R,J
+   6,J
   15,U,X
-   2,R,J,G
-   1,K,G
-   2
-   4,R
+   1,R,J,G
+   1,J
+   2,K,G
+   3
+   3,R
    1,L
   12,L,J
   16,U,X
