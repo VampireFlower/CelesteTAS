@@ -6,13 +6,14 @@ Read,6HC,Start,lvl_04e
 
 #lvl_04e
    3,L,D
-   3,L,J
-   5,L
-   1,L,K
-  12,L
    1,L,J
-  17,L,U,X
+   1,J
+   3,L
+   8,L,D,X
    1,L,J,G
-  11,L
+   4
+  13,L
+   5,L,J
+  14,L,U,Z
  257
    1,J
