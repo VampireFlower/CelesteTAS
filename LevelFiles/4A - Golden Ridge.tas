@@ -201,22 +201,28 @@ console load 4
    1,R
    1
   11,R,D,J
-   3,R,K,G
-   2,R
-  12,R,J,G
+   4,R,K,G
+   5,R,D,X
+   1,R,K,G
+  13,R
   43
 
 #lvl_a-08
-  15,R,D,X
-  14,R,J
+   3,R
+  18,R,J
+   1,R
   15,R,U,X
-  13,R
-   4,D,X
-   5,L,X
+  10,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   5,R,D,X
    1,R,J
-   7,R
+   8,R
   26,R,J
-  14,U,X
+  15,U,X
   15,U,C
   12,U,X
   40
@@ -948,4 +954,4 @@ console load 4
    1,S
    1,D,J
   18
-ChapterTime: 1:48.035(6355)
+ChapterTime: 1:48.018(6354)
