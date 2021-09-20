@@ -1,0 +1,46 @@
+#Start from Begin
+
+Read,StartFullGameFile
+
+Read,LoadEnableCheatMode
+
+Read,LoadCCheatMode,SelectC
+
+Read,1C,Start
+
+Read,LoadCCheatMode
+
+Read,2C,Start
+
+Read,LoadCCheatMode
+
+Read,3C,Start
+
+Read,LoadCCheatMode
+
+Read,4C,Start
+
+Read,LoadCCheatMode
+
+Read,5C,Start
+
+Read,LoadCCheatMode
+
+Read,6C,Start
+
+Read,LoadCCheatMode
+
+Read,7C,Start
+
+Read,LoadCCheatMode,0,GoldBerry
+  50
+Read,LoadCCheatMode,GoldBerry,Core
+   1,R
+   9
+Read,LoadCCheatMode,Core
+
+Read,8C,Start
+
+#Move to ending screen
+  59
+   1,J

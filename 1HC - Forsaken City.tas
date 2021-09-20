@@ -1,0 +1,152 @@
+#By DevilSquirrel, EuniverseCat
+console load 1
+   1
+
+#Start
+Read,1A,Start,lvl_6b
+
+Read,1SH0,lvl_6b (1),lvl_6b (2)
+
+#lvl_6b (2)
+   4,D,X
+   3,R,X
+   1,R,J
+  18,R
+  11,R,D,J
+   7,K
+   4,D,X
+   1,R,X
+   1,R,J
+   3,R
+   1,R,K
+   3,R
+   2,R,J
+  15,R,D,X
+   6,R,J
+  40
+
+Read,1A,lvl_6c,lvl_9b
+
+#lvl_9b
+   1,R,D
+   4,D,X
+   6,R,U,X
+   2,J
+   1,L,K,G
+   3,L,J,G
+   7,L
+  10,L,X
+  12,L,J
+   4,L,K,G
+   4,D,X
+  16,L,U,X
+   6,J
+   7,R
+   4,R,J
+  16,U,X
+  40
+ 
+#lvl_10 (1)
+   5,L
+   1,L,J,G
+   5,L
+   4,D,X
+   2,L,X
+   1,L,J
+   7,L
+   3,J
+  15,D,X
+  13
+   1,J
+   2,L,J
+   1,J
+   1,L,J
+  11,L,K
+  14,U,X
+  11,L
+   4,L,D,X
+   1,L,J
+   7,L
+   4,L,J
+   4,L,K,G
+  14,U,X
+  40
+
+#lvl_11 (1)
+  15,J
+   1,K,G
+   8,D,G
+   4
+  25,G
+   4,L,J,G
+   4,D,X
+   1,L,X
+   1,L,J
+   6,L
+  40
+
+#lvl_11z
+   1,L
+  14,L,J
+   2,R,J
+  17,U,X
+   1,L,J
+   4,L
+   4,R
+   1,R,J,G
+   6,R,K,G
+   7,R
+  10,R,U,X
+ 257
+   1,J
+#Return
+ 123
+  14,R,D
+   4,D,X
+   1,R,J
+   1,R
+  40
+
+#lvl_11 (2)
+  33,R,G
+  10,R
+   4,D,X
+  11,R,U,X
+   1,L,J,G
+   9,L,K,G
+   2,L
+   2,L,J,G
+   7,L
+   4,D,X
+   5,R,J
+  37,R,D
+  40
+
+#lvl_10
+  14,R,D
+   1,J
+  44,R,D
+  55,L,D
+
+#lvl_9b
+   8,R,D
+  10,R,D,X
+   4,J
+  18,D
+  14,R,D,X
+   1,R,J
+   7,R
+  25,R,J
+  14,R,U,X
+   3,R,J,G
+   2,L,J
+   7,L
+  11,U,X
+  40
+
+#lvl_10a
+   6,R
+   1,R,J,G
+   4,R
+
+Read,1A,1HC1

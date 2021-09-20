@@ -1,0 +1,44 @@
+#Start from Begin
+
+Read,StartFullGameFile
+
+Read,LoadEnableCheatMode
+
+Read,LoadBCheatMode,SelectB
+
+Read,1B,Start
+
+Read,LoadBCheatMode
+
+Read,2B,Start
+
+Read,LoadBCheatMode
+
+Read,3B,Start
+
+Read,LoadBCheatMode
+
+Read,4B,Start
+
+Read,LoadBCheatMode
+
+Read,5B,Start
+
+Read,LoadBCheatMode
+
+Read,6B,Start
+
+Read,LoadBCheatMode
+
+Read,7B,Start
+
+Read,LoadBCheatMode,0,Core
+   1,R
+   9
+Read,LoadBCheatMode,Core
+
+Read,8B,Start
+
+#Move to ending screen
+  59
+   1,J
