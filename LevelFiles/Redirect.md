@@ -1,1 +1,0 @@
-[Files have been moved here](https://github.com/EuniverseCat/CelesteTAS/tree/master)
