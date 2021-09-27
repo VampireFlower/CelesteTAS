@@ -485,7 +485,7 @@ console load 9
    3,R
   18,R,Z
    1
-  15,R,Z
+  15,R,V
   22,L,D
    2,R,D
   49,R
@@ -1211,26 +1211,19 @@ console load 9
    1,R,D
    4,D
    5,D
-  21,D
-   7,L,D,X
+  14,D
+  13,L,D,X
    2,R,J
-   5,R
-   1,R,K
-  12,R,U,Z
-  24,R,K,G
-  18,R
-  10,R,J
-  25,R
-  10,R,J
-   1,J
-   1,R,J
-   1,J
+  13,R,U,X
+   2,R,J,G
+   7,R
+  77,R,J
  257
    1,J
  123
-  16,R,D
+  17,R,D
    1,R,J
-  14,R
+  13,R
   40
 
 #lvl_space
@@ -1313,3 +1306,4 @@ console load 9
    2,L,D
    2,R,D
   24,D
+ChapterTime: 3:07.272(11016)
