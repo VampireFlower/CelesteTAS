@@ -2365,9 +2365,12 @@ console load 7
   15,U,X
    7,R,C
    1,R,J,G
+   1,R
+  10
+   7,R
+  13,R,D
+   2,R
    1,R,D
-  10,D
-  23,R,D
    8,R,X
   14,R,J
   14,R,U,X
@@ -2922,9 +2925,10 @@ console load 7
    1,R,J
    3,R
 
+
+
 #CP-27
-   4,D,X
-   7,U,X
+  11,U,X
   14,L,J
   14,U,X
   13,R,J
@@ -2932,26 +2936,22 @@ console load 7
    7,R
   12,L,U,X
   11,L,J,G
-   1,L
-   4,D,X
-   2,L,X
+   7,L,Z
 
 #CP-26
    1,L,J
-   4,L
-   1,J
-  11,L,J
-#7SHC5
-   4,D,X
-  10,U,X
-   1,J
-  14,U,X
-  13,R,J
+   2,L
+   1,L,J
+   1,L
+   9,L,J
+  15,U,X
+  14,U,C
+  15,R,J
    1,K,G
    4
    2,R
    8,L
-   4,D,X
+   4,R,Z
    1,R,J
    1,R,K,G
    7,R
@@ -3847,4 +3847,4 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 8:58.237(31661)
+ChapterTime: 8:58.220(31660)
