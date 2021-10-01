@@ -5,19 +5,20 @@ console rmx2 1
   61
 
 #lvl_00
-   6,L,D,X
+   5,L,Z
    1,R,J
-   7,R
-   1,R,D
+   2
+   1,R
    1,R,J
-   3,R
-   1,R,K,G
+   1
+   2,R
+   3,R,D,J
    4,R
-   1,L,K,G
-   3,R,K
-  14,U,X
-   1,R,J
-   3,R
+   1,L
+   2,J,G
+   3
+  13,U,X
+   5,J
    5,R,X
    1,R,J,G
   23,R,D
@@ -33,58 +34,58 @@ console rmx2 1
    6,R
    1,L
   17,R,D,X
-   1,J,G
-   1
-  13,R
-  16,R,Z
-   4,L
-   2,J,G
-   3,R,J
+   1,R,J,G
    1,R
-   1,L,K
-  18,L,G
+  11
+   1,R
+   1
+  15,R,Z
+   4,L
+   3,K,G
+   3,R,K
+   1,J
+  21,L,G
    5,U,G
-   3,G
   16,U,Z
-   2,R,K
-   1,J,G
-   3,R,J
+   2,R,J
+   1,K,G
+   3,R,K
   13,R,D,X
   40
 
 #lvl_01
    2,R,D,X
-   5,L,D
-   2,R,D
+   5,D
+   3,R
+   1,R,D,J
+   5,R
+   1,R,J
+  35,R
+   6,G
+   1,R,J,G
+  10,J
+   1
+   2,K,G
+   3,R,K
+   1,L,K
+   1,L
+   5,U,X
+  15,J
+   1,L,J
+   2,R,J
+   1,K
+   7,R
+   4,Z
+   2,R,J
+   4,R
+   3
    1,R
    1,R,D,J
-  38,R
-   1,R,D
-   1,R
-   1,R,D
-   1,R,G
-   8,R,J,G
-   4,R,K,G
-   4,L,K
-   5,L
-   1,J
-   1,L,J
-   1,R
-   5,U,X
-  18,J
-   1,K
-   5,R
-   2,L
-   4,D,X
+   3
+  23,R,D,X
+   2,D
    1,R,J
-   1,L
-   5,R
-   1,D,J
-   5,R,J
-   2,R
-  26,R,D,X
-   1,R,J
-   7,R,D,X
+   6,R,D,X
   40
 
 #lvl_02
@@ -99,7 +100,7 @@ console rmx2 1
   14,R,U,Z
    1,L,J,G
    1,R,J
-  20,R
+  20,R,D
    4,Z
    4,R,J
    9,R
@@ -125,28 +126,35 @@ console rmx2 1
    1,L,D
    1,D
    8,L,D
-  10,R,D,X
-   9,R,J
-  15,R
-  14,R,U,Z
+  12,R,D,X
    7,R,J
-   4,R
-   3
-   1,G
-   3,R,J,G
-  16,R,G
-  10,D,G
-   6,R,D
-   1,L,D
-   7,R,D
-   3,R
-   2,R,D
    1,R
-   5,R,Z
+   1,R,J
+   1,R
+   1,R,J
+  11,R
+  14,R,U,Z
+   6,R,J
+   7,R
+   1,G
+   3,J,G
+  13,R,G
+   2,U,G
+   2,G
+   5,D,G
+   1,G
+   2,D,G
+  10,R,D
+   1,D
+   5,R,D
+   3,R
+   1,R,D
+   1,R
+   4,R,Z
    1,R,J
    6,R
-   3,R,D,J
-   5,R
+   1,D,K
+   5,R,K
   10,J
    6,L,K,G
    1
@@ -158,9 +166,8 @@ console rmx2 1
   15,U,X
    2,R
    1,R,J,G
-   1,R,K,G
-  10,R
+  10,R,K,G
+   1,R
    5,R,X
-  12
- 122,L,D
-ChapterTime: 0:15.538(914)
+ 134,L,D
+ChapterTime: 0:15.368(904)
