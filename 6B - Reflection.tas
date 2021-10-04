@@ -17,91 +17,95 @@ console hard 6
    1,R,J
   34,R,D,C
   11,L
-  20,R
+  19,R
    5,D,X
    1,R,J
-  14,R
-   4,D,X
-  10,R,X
-   1,L,J
-  12,L,D,X
-   2,R,J
-   3,R,K,G
-  10,R,D,X
-   1,L,J
-   7,L
-   4,D,X
-  10,R,X
-   1,L,J
+  14,L
+   4,L,J
+  14,U,X
+  20,R,J
+   1,K
+  11,L,K
+  10,L
+   5,R,J
+   5,L,J
+   4,J
+   5,R,X
+   1,R,J,G
+  10,J
+   9
+   9,R
+   1
+  10,R,Z
+  20,L,J
+   3,K
+  11,R,D,X
+   6,R,J
+   1,R
+  10,U,X
+   4,J
+  14,R,J
+   1,K
+   6
+   2,L,K
+   1,R
+   1,K
+   2,L
+   4,R
+   2,L
    2,R
-   4,D,X
-   6,R,X
+   2,L
+   1,R,J
+   5,R
+   2,R,J
+   4,L
+   3,R
+  15,R,X
+   8,L,C
+   1,L
+  12,L,J,G
+   1,L,K,G
+   5,L
+   1,L,K
+   1
+   1,K
+   5,R,X
    1,L,J
    8,L
-   6,R,X
-   2,R,J,G
-  10,K,G
-   8,D
-   6,R,D
-   6,D
-  10,R,D,X
-   2,L,J
-   9,L
-   4,D,X
-  10,R,X
-   4,L,J
-   6,D,X
-   1,L,J
-   1,L
-   1,R,J
-  17,R,D
-   4,D,X
-   8,R,X
-   1,L,J
-   2,L,K,G
-   6,R,D,X
-   1,L,J
-   3,K,G
-   7,J,G
-  14,R
-   1,R,D,J
-  19,R
-   1,L,J
-   2,L
-   5,L,X
-   1,L,J,G
-  24,L
-   7,R
-   1,R,J
-   4,D,X
-   7,L,X
-   1,R,J
-   6,R
    1
-   3,L,J
-   6,R,J
-   1,L,K,G
-   9,R,K
-   4,K
-  14,U,X
-   5,R,J
-   3,J
+   1,R
+   4,L,D
+   1,L
+   4,Z
+   1,R,J
+   2,R
+   3,R,J
+   2,R
+   5,R,K
+   1,K
+   2,R,K
+   1,L,J,G
+  11,R,J
+  14,U,Z
+   9,R,J
   40
 
 #lvl_a-01
-   3
-   8,L
-   4,D,X
-  10,U,X
+   1,R
+   2
+   6,L
+   1
+   1,L
+  14,U,Z
   27,L,U
 AnalogMode,Precise
-  42,F,3.15
-   1,F,3.23
+  42,F,3.199
+   1,F,3.25
    8,F,315
    9,F,270
    8,F,225
-  50,F,195.46
-   1,F,197.41
+  50,F,195.45
+   1,F,197.39
    5,F,225
    8,F,270
    9,F,315
@@ -109,7 +113,7 @@ AnalogMode,Precise
   35,F,349.22
    1,F,351.98
    9,F,45
-  18,F,90
+  18,F,89.9
   23,R,X
   20,R,C
   15,R,U,X
@@ -319,17 +323,17 @@ AnalogMode,Precise
    1,K,G
    5
    2,K
-   5,L,J,G
-   3,R,J
-   5,L,J
-#frameties with just
-#taking the feather
-#down to kevin
+   9,J,G
+   4,R,J
   27,L,U
-  16,F,1
-   3
-  15,D,X
-  24,R,D
+   6,F,359
+   1,F,342.1
+   8,F,300
+   4,F,293
+  15,R,D,X
+   1,D
+  17,R,D
+   6,R
   11,L,X
   22,L
    1,R
@@ -897,13 +901,24 @@ AnalogMode,Precise
    1,R,J
   27,R
   22,R,U,X
-  38,L
-   4
+  37,L
+   2
+   1,L
+   1
+   1,L
    4,R,J
-  39,R,D
-  22,R,X
-  20,R
-  20,R,C
+  29,R,D
+  12,R
+   1,R,D
+   1,R
+   1,R,D
+  14,R,X
+   1,R,J,G
+   1,R
+   1
+   5,R
+  19,R
+  15,R,C
   37,L
   31,R,U,X
    8,R,J,G
@@ -1004,23 +1019,21 @@ AnalogMode,Precise
   44,R
   14,L,D,X
   17,R,J
-  13,R,X
+   9,R,Z
+   1,R,J
+   1,R
+   1,R,J
   40
 
 #lvl_c-03
-   4,R,J
-   1,J
-   1,R,J
-   1,J
-   2
-   5,R,D,X
-Analogmode,Square
-  27,F,145.2093
-Analogmode,Precise
-   6,F,180
-   7,F,135
-  24,F,108.8549
-  14,U,X
+  22,D
+   3,R,D
+   2,R
+  10,R,U,Z
+   1,L
+   7,J,G
+   3,R,J
+  12,R
   33
    1,L
    2
@@ -1043,30 +1056,35 @@ Analogmode,Precise
    3
    6,R,X
   27,R,U
-  26,F,67.71
-  49,F,90.7
-   4,R,X
-  16,R,D,X
+  48,F,93.71
+  29,F,100.8
+  15,R,X
   34
   14,L
    1
+   4,L
+  10,L,D
+  22,R,D,X
+  22,R,C
+   6,R,D
+  15,R,Z
    1,L
-  17,R,D
-   1
-   1,R,D
-  15,R,X
-  18,R,C
-  13,R,X
-   1,R,J
+   6,L,J,G
   27,L,U
-   8,F,0
-  11,F,60
-  11,F,120
-  12,F,176.08
+  19,F,4.51
+  11,F,68
+  11,F,130
+  10,F,171.43
    9,F,120
    4,F,90
-  11,U,Z
-  16,R,J
+  10,U,X
+   1,R,J
+   2,J
+   4,R,J
+   2,R
+   1,R,K,G
+   2,R,J,G
+   5,R
   40
    1,J
    3,R
@@ -1222,25 +1240,12 @@ Analogmode,Precise
    5,R
    4,D,X
   10,R,U,X
-   1,J,G
-   4,R
-   1
-   1,R
+   1,R,J,G
    1,L
-   1,L,J
-  10,R,X
-   8,J
-   1,R,J
    6,R
-   2,R,K
-   1,R
-   2,R,K
-   1,R
-   1
-   1,R
-   1
-   3,R,K
-  23,R,D,X
+   8,R,X
+  22,R,J
+  26,R
   44,L
    1
    1,L
@@ -1299,17 +1304,17 @@ AnalogMode,Precise
    1,F,12.66
    5,F,45
    8,F,90
-  29,F,126
-   2
-   2,F,126
+
+  32,F,125.8
   15,R,D,X
-   4,R,D
-   4,L
-  18,R
-   4,D,X
-  13,R,U,X
+   3,R,D
+   1,R
    1
-   2,R
+   1,R
+   2,D
+  23,R
+   4,D,X
+  11,R,U,X
    1,J
    7,R,K
   44,L,D
@@ -1489,19 +1494,15 @@ AnalogMode,Ignore
   36,R
   20,R,D,X
    1,R,J
-   7,R,D,X
+   6,R,D,X
    1,R,J
-   5,R
+   1,R
    1,R,J
+  14,R
    6,R,D
-   7,D
-   1,R,D
-   1,D
-   1,R,D
   22,R
-   4,D,X
-   8,R,X
+  13,R,Z
    3,R,J
   15,R,D,X
- 134,R,G
-ChapterTime: 3:26.856(12168)
+ 133,R,G
+ChapterTime: 3:26.601(12153)
