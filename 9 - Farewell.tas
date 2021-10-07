@@ -603,53 +603,46 @@ console load 10
 
 #lvl_c-alt-00
    1,R
-   2,R,D,J
+   2,R,J
    2,R
   14,R,D,X
    1,R,J,G
-   5
-   6,R
+   6
+   5,R
    1,R,J
    1,R
   10,R,D,X
    1,R,J,G
   11,R
-  13,R,J
-  26,R,U,J,G
+  10,R,J
+   1,R
+   2,R,J
+  20,R,U,J,G
+   1,U,J,G
+   5,R,U,J,G
    1,L
   15,R,D,X
-   7,R,J
-  16,R,D,X
+   2,R,J
+   5,R
+  15,R,D,X
    1,R,J
-   2,R
-   9,R,D,X
-   8,R,J,G
-  32,R,U,J,G
-   1,R,G
-   1,R,U,G
-   1,R,G
-   1,R,U,G
-   1,R,G
-   1,R,U,G
-   1,R,G
-   1,R,U,G
-   1,R,G
-   6,R,U,G
+   1,R,K,G
+  17,R
+   1,R,J
+  50,R,U,J,G
+  13,R,G
    1,L
-  33,R,D
-   2,D
+  15,R,D,X
+  11,R,D
   40
 
 #lvl_c-alt-01
-   2,R,D
-   1
-   7,R
-  17,R,D
-  14,R,D,X
+   5,R,D
+   6,R
+  21,R,D
   40
 
 #lvl_c-03
-   1,R,D,X
    1,R,D
    2,R,J
    5,R
@@ -658,8 +651,8 @@ console load 10
   10,U,X
   18,R,J
   13,G
-  30,R,G
-  16,G
+  32,R,G
+  14,G
   10,L,G
    1,D
   10
@@ -1586,7 +1579,7 @@ console load 10
 #add a frame to this
 #until it syncs
 
-   2
+   0
 
 # ---------
 
@@ -4616,4 +4609,4 @@ Add 2
  165
    1,J
  483
-ChapterTime: 10:42.600(37800)
+ChapterTime: 10:42.549(37797)
