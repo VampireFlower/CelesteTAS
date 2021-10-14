@@ -486,12 +486,12 @@ console load 7
    6,K,G
    1,R,J,G
   14,L,J
-  14,U,X
-  13,L,J
+  15,U,X
+  12,L,J
    1,R,K
    7,R
-   4,R,D,X
-   8,R,J
+   5,R,Z
+   7,R,J
    1,R,K,G
    2,R
   14,R,D,X
@@ -499,7 +499,7 @@ console load 7
 #7SHC1
   14,R,D,X
    4,R,J
-  23,R,D,X
+  22,R,D,X
   40
 
 #lvl_b-02b (2)
@@ -839,20 +839,21 @@ console load 7
   27,U,X
    6,R,J
   16,R,U,Z
-   2,R,J
-  10,U,X
+   1,R,D,J
+  11,U,X
   40
 
 #lvl_c-03 (1)
-  11,L,J
-   4,D,X
-   6,L,X
+  11,L
+   3,L,J,G
+   2,L
+   5,L,Z
    1,L,J
    2,L
   40
- 
+
 #lvl_c-03b
-   5,L
+   4,L
    1,L,J
   11,R,J
   15,L,U,X
@@ -866,28 +867,29 @@ console load 7
    8,L,J
   20,D,X
   16,R,D
-  19,R,X
-  25,R,U,C
+  20,R,X
+  24,R,U,C
    4,R,J
-  15,R,D,X
-  20,R,D,C
+   1,R,K
+  17,R,D,X
+  18,R,D,C
   15,R,U,X
-  23,R,U,C
+  18,R,U,C
    4,R,J
    4,D,X
    3,R,X
-   1,R,J
-   7,R
+   3,R,J
+   5,R
   15,R,D,C
   40
 
 #lvl_c-03 (2)
-  19,R,D,X
-  31,R,C
-   7,R,J
+  15,R,D,X
+  34,R,C
+   8,R,J
   12,R,K
   15,R,U,X
-  20,R,C
+  19,R,C
    4,R,J
    2,R,K
   15,R,D,X
@@ -3846,4 +3848,4 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 8:58.152(31656)
+ChapterTime: 8:58.033(31649)
