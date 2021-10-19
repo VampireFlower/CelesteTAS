@@ -227,8 +227,8 @@ read,8S,lvl_b-07b,lvl_c-00 (1)
   20,L,U,X
   21,L,U,C
    1,L,J
-  11,L,K
-   9,R,J
+  12,L,K
+  23,L,U,G
   40
 
 read,8S,lvl_d-01,lvl_d-06
