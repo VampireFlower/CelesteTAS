@@ -111,25 +111,28 @@ Read,4A,Start,lvl_a-07
   20,L,D
   15,L,U,Z
   22,L
-   3,L,J
-  15,L,U,X
+   4,L,X
+  13,L,J
  257
    1,J
  123
-  17,R,D
-   4,D,X
+  14,R,D
+   4,R,Z
    1,R,J
-   7,R
+   8,R
   40
 
-#lvl_a-10 (2)
-   5,R
+#lvl_a-10
+   4,R
    1,R,J
   14,R,D,X
    1,R,J
    7,R
-   7,R,J
-  11,R
+   1,R,J
+   6,R
+   1,R,J
+   1,R,K,G
+   9,R
    4,D,X
    9,R,X
    3,R,J
