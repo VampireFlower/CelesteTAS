@@ -138,127 +138,118 @@ Read,4A,Start,lvl_a-07
 
 read,4SH,lvl_a-08 (2),lvl_a-09
 
-read,4A,lvl_a-09,lvl_b-00
+read,4A,lvl_a-09,lvl_b-02
 
-#lvl_b-00
-  11,R
-  15,R,U,X
-  10,R,J,G
-   1,J
-   1,R,K,G
-  12,R,J,G
-   8,R
-  10,R,J
-   4,L,J
-  18,U,X
-  19,L,J
-   1,K
-   5,L,K
+#lvl_b-02 (1)
    1,R,J
-   2,L,J
-   8,R,J
-   1,R,K,G
-  10,R,J,G
-   7,R
-   1,R,J
-   1,D,X
-  14,U,X
-   2,L
-  29,R,J
-   4,R,D,X
-   2,R,J
-   5,R,K,G
-   1,R,J,G
-   7,R
-  40
-
-#lvl_b-02 (2)
    3,R
-   5,R,J
   15,R,D,X
    1,R,J
    1,R,K
    1,R,J
-  13,R,D,X
+  14,R,D,X
+   1,R,J
+   7,F,0.1
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
    2,R,J
-   4,R,X
-   5,R,J
-   4,R,K,G
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,K
-  18,R,X
-   4,C
+   3,R,K
+  13,R,X
+   5
+   4,X
    5,R,J
   40
 
-#lvl_b-sec
-   8,R,J
-   5,U,X
-   8,R,J
-   5,L,J
-  12,L,K,G
-   3,L,J,G
+#lvl_b-03
+   9,R,J
+   1,L,K,G
+  11,R,K
+  15,U,Z
    1,L,K,G
    4,R,K
-   8,L,K
-   1,L,J,G
+   5,L,K
    2,L
-   1
-   4,L
+   1,L,J,G
+   7,L
   15,L,J
-  12,L,K,G
-  12,L,J,G
-   7,L,K,G
-   1,R,J
-  14,R,K
-   1,L
-   4,D,X
-  11,U,X
-   1,J,G
-   4,R
-   1,L
-   1,J,G
-   2,R,J
-   1,R
-   1,L
-   1,J,G
-   5,R
-   7,R,J
-   1,J
-   1,R
-   3,R,K
-   5,R
-   2,R,K
-   2,R
+   1,K,G
+   2,L,K
+   7,K
+   1,L,K
    1,R,K
-   8,R
-   3
+   1,L,K
+  13,L,J,G
+   4,K,G
+   1,J
+   2,K,G
+  19,R,K
+   2,R
+  15,U,X
+   2,R
+   1,R,J
+   9,R
+   1,R,J
+   1,K
+   1,J
+   3,R,J
+  20,R,D
    4,X
-   1,D,X
- 134,L,D
-#Exit
-  59
+  34,D,X
+ 100,L,D
+  60
    1,J
   30
-   5,L,D
-  30,L,D
-   3,L
+   6,D
+   2,L
    1,L,D
    1,L
-   4,D,X
-   5,L,X
+   1,L,D
+   1,D
+  21,L,D
+  14,L,D,X
    1,L,J
-   6,L
-   1,L,J
+  11,L,D,X
   43
- 
-read,4SH,lvl_b-02 (3),lvl_b-08
 
-read,4A,lvl_b-08
+#lvl_b-02 (2)
+   2,L,D,X
+   1,L,J
+   1,L
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  15,L,D,C
+   1,F,359.9
+   7,U,X
+  17,L,J
+   1,L,K,G
+   5,L,J,G
+   3,J
+  12,U,X
+  40
+
+#lvl_b-05
+   3,L
+   1
+   2,L
+   1
+  27,L,J
+  15,U,X
+   4,L
+  10,R,J
+   1,L,J
+   2,R,J
+   1,L,J
+   1,R,J
+   1,L,J
+   1,K
+   5,J,G
+   1,R,J
+  40
+
+read,4A,lvl_b-08b
