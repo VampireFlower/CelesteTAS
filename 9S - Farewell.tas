@@ -1,36 +1,33 @@
-#console load 10 76470 -10567
-# 150
+#console load 10 76472.16 -10584
+#play,lvl_j-15,50
 
 #console load 10 81744 -13272
-#play,Section Moon,37
+#play,Moonberry Room,37
 
 console load 10
-
    1
 
 #Start
 
-Read,9,Start,Farewell
+Read,9,Spinner cycle,Farewell
 
 #lvl_j-15
-   4,D,X
-   3,R,X
+   8,R,Z
    1,R,J
    7,R
+   8,R,J
+   5,R
    1,R,J
-   9,R,D,X
-   7,R,J
-  25,R
-   5,D,X
+  14,R
+  16,R,D,X
+   2
    6
-   1,J
-  10
    5,D,X
   12
    1,L,J
   22,L,D
-   4,L,D
-   5,D
+   8,L
+   1
   14,R,D,X
    1,R,J
    9,R,D,X
@@ -646,7 +643,7 @@ Read,9,Start,Farewell
    1,D,J
    1,O
   68
-#Section Moon
+#Moonberry Room
    4,D,X
    1,R,X
    1,R,J
@@ -742,7 +739,6 @@ Read,9,Start,Farewell
    4
   11,U,X
   31,L,U,J,G
-
   18,R,U,K,G
    1,R,D,K
    1,R
