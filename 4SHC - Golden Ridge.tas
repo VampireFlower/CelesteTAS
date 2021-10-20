@@ -29,18 +29,38 @@ read,4SH,lvl_a-00,+2f berry
   40
 
 read,4SH,lvl_a-06,4SHC1
-  16,R,D
-  25,L,D
-   4,L,Z
-   3,J
+   9,R,D
+  18,D
+   4,D,X
+   8,R,J
+   4,R
+  13,R,J
+   1,R,K,G
+   8,R
+  15,D,X
+  10,L,D
+   4,L
+   1,L,D
+   4,D,X
+   4,L
+   1,L,J
+   3,L
+   1,L,J
+   3,L
+   1,L,J
+  14,L,D,X
+   6,L,J
   40
 
 #lvl_a-11
-   8,J
+   3,L,J
+   4,L
+  12,L,Z
+   1,R,J
+   2,R
   13,L,Z
-   2,R,J
-  13,L,D,Z
-   2,R,J
+   1,R,J
+   1,R
   14,R,D,X
    1,L,J
    6,L,D,X
@@ -60,12 +80,20 @@ read,4SH,lvl_a-06,4SHC1
    1,R
    6,J,G
    1
-   4,L
-   4,R
-   1,R,K
-   3,R
+   3,L
+   1,R
    1,L
-   2,R
+   1,R,K
+   1,R
+   1,R,K
+   1,R
+   1,R,K
+   1,R
+   1,R
+   1,R
+   1,L
+   1,R
+   1,L
    6,R,Z
    1,L,J
    8,L
@@ -78,29 +106,41 @@ read,4SH,lvl_a-06,4SHC1
    1,J
  123
   14,R,D
-   4,R,Z
+   2,R,J
+  14,R,D,X
    1,R,J
-   8,R
+   5,R,D,X
   40
 
 #lvl_a-10
-   4,R
-   1,R,J
-   7,R,D,X
-   1,R,J
-   7,R
-  13,R,J
-   6,U,X
+   9,R
    2,R,J
-  34,R,D
-   4,J
-   3,R,J
-  10,R,Z
-   1,R,J
-   6,R,K,G
-  12,R,D,X
+   6,R,D,X
+   1,R,J,G
+   3
+   9,R
+   4,R,D,J
+   5,R,D,X
+   1,R,K,G
+   2
+   2,R
+   1
+   1,J
+   7,R
+   2,R,J
+   4,R,K,G
+   1,K
+  10,R,D,X
   40
 
 #lvl_a-08
-   2,R,D,X
-read,4SH,4SHC2
+   5,R,D,X
+   1,R,J
+   1,R
+  33,R,J
+  19,R,U,X
+  15,U,C
+  12,U,X
+  40
+
+read,4SH,lvl_a-09
