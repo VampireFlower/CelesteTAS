@@ -1,5 +1,3 @@
-#To sync:
-#Use Celeste v.1.3.1.2
 #If you're using Everest, turn off show Mod Options in game
 #Start from Begin
 
@@ -23,9 +21,9 @@ Read,3A,lvl_09-d
 
 Read,LoadA
 
-Read,4A,Start,lvl_b-00
+Read,4A,Start,lvl_b-02
 
-Read,4HC,lvl_b-00
+Read,4HC,lvl_b-02 (1)
 
 Read,LoadA
 
@@ -69,7 +67,7 @@ Read,LoadAFromB,Start,SkipExit
   46
 Add 1
 
-Read,9,Start
+Read,9,Spinner cycle
 
 #Epilogue
   51
@@ -88,5 +86,4 @@ Add 58
 Add 1
  115
 
-Read,0 - Epilogue.tas,Start
-#
+Read,0 - Epilogue,Start

@@ -89,9 +89,6 @@ console load 3
    6,R
    3,R,J
    5,R,D,X
-
-
-
    1,R,J,G
    5,R
    2,R,J
@@ -1363,6 +1360,7 @@ console load 3
    1,L,J,G
    2,L
   17
+#Section Rooftop
   10,L,Z
    3,L,J
    8,L
