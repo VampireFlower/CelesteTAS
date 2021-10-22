@@ -212,27 +212,38 @@ read,3SH,lvl_10-c,lvl_11-y
   20,L,C
   15,L,X
    5,L
-   6,R,D
-   1,L,D
-   4,D,X
-   8,L,J
-   4,L
+   8,R
+   5,L,Z
    1,L,J
-   7,L,D,X
+   1,L
    1,L,J
+   2,L
+   3,L,J
+   2,L,K,G
+   2,K
+   9,L,U,Z
   40
 
 #lvl_10-z
-   3,L,J
-   3,L,J
-   1,K
-   7,R,K
+   5,L,U,Z
    1,R
-  15,U,X
-   5,R
-  12,R,J,G
-   6,R
-   1
+   1,R,J,G
+   2,R,K,G
+   1,L,K
+   1,R,K
+   1,L,K
+   1,R,K
+   1,L,K
+   1,R,K
+   1,L,K
+   1,R,K
+   1,L,K
+   1,R,K
+   1,J
+   1,R,J
+  16,U,X
+   5,J,G
+   7,R
    5,J
   15,U,X
   40
