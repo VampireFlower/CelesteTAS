@@ -156,22 +156,18 @@ read,3SH,lvl_12-d,lvl_11-d
    8,L,J
   12,L,K
    4,D,X
-   2,L,X
+   1,L,X
    1,L,J
    7,L
-   1,L,J
-   1,L
-   6,L,D,X
+   3,L,J
+   7,L,D,X
  103
-#+1f berry
-   5,L,J
-   4,D,X
-   9,L,X
-   1,L,J
+   4,L,J
    1,L
+  14,L,Z
+   1,L,J
   14,L,D,X
    1,L,J
-   2,L
   15,D,X
    6,R,D
   40
@@ -454,7 +450,7 @@ read,3SH,lvl_04-d,lvl_02-c (0)
 #I think this resync lost a frame?
 
 #lvl_04-d (1)
-   4,L,K,G
+   4,L,K
    5,L
    2,L,J,G
    4,L,Z
@@ -480,8 +476,7 @@ read,3SH,lvl_04-d,lvl_02-c (0)
    3,L,J,G
    3,L
   10,R,D
-   1,R
-   5,R
+   6,R
   10,L,Z
    3,L,J
    8,L
