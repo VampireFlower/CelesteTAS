@@ -3,7 +3,7 @@
 
 Read,StartFullGameFile
 
-Read,0 - Prologue.tas,lvl_0
+Read,0 - Prologue,lvl_0
 
 Read,Load1A
 
@@ -67,7 +67,7 @@ Read,LoadAFromB,Start,SkipExit
   46
 Add 1
 
-Read,9,Spinner cycle
+Read,9,Start
 
 #Epilogue
   51

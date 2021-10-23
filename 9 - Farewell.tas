@@ -38,12 +38,14 @@ Set,DashMode,Normal
 console load 10
    1
 
+#Start
+  98
+
 #Spinner cycle
 #0-2
    2
 
 #lvl_intro-00-past
-  98
   15,R,X
   10,R,D,C
    1,R,J
@@ -578,27 +580,23 @@ console load 10
    5,L
    1
    1,R
-   2,R,J
   15,U,X
-   9,R,C
-   1,R,J,G
+  14,R,Z
+   1,R,J
    2,R,K,G
    1,R,J,G
-   7,R
-   1,R,J
-   6,R,D,X
-  13,G
-   2,R,J,G
-   9,R,G
-  11,R,J,G
-   1,L,J
-   6,R,J
+   2,R,K,G
+   3,R,J,G
+   8,R,D,X
+  17,R,G
+   4,R,J,G
+  17,R,G
+   1,L
   15,R,U,X
   18,R,D,C
-  13,R,D,X
+  14,R,D,X
    1,R,J
-   1,R
-   9,R,D,C
+   9,R,D,X
   18,R,J
    9,R,D,X
    1,R,J
@@ -947,15 +945,16 @@ console load 10
    4,J
    2,R,J
    1,J
-   1,R,J
+   1,R
    1,K
   19,U,X
-  11,R,J
+   9,R,J
+   2,R
   13,R,U,Z
-   1,R,J,G
+   4,R,J,G
    5,R
-   4,R,J
-  12,U,X
+   1,R,J
+  10,U,X
   40
 
 #lvl_e-02
@@ -2232,9 +2231,10 @@ console load 10
    4,K,G
    3,R
   27,R,U
-#terrible
-  23,F,112
-  33,F,170
+#bad
+AnalogMode,Precise
+  28,F,125
+  27,F,170
    7,F,128
   10,F,69
    6,F,8
@@ -2243,11 +2243,10 @@ console load 10
    1,J,G
    1,K
    2,J,G
-   4,R,J
-   2,R
+   5,R,J
+   4,R
    3
-   6,J
-   1
+   4,J
   15,L,U,Z
    1,J
   16,U,X
@@ -2464,8 +2463,8 @@ console load 10
    2,R,D
    1
   15,R,Z
-   5
 #6f bhop
+   5
    4,Z
    1,R,J
    5,R
@@ -2498,17 +2497,14 @@ console load 10
    1,R
   10,U,X
    4,R,J
-   1,R
-   1,R
-   1,R
+   3,R
   19,R,U,X
   16,R,D,C
   15,D,X
    1,R,D
    1,L,D
    1,L
-   9,D
-   2
+  11,D
    5,R,U,Z
   10,R
   15,R,X
@@ -2542,13 +2538,15 @@ console load 10
    7,R
   10,R,J
    3
-   1,R,K,G
-  16,D
-   5,R,D
+   1,K,G
+   8,D
+  13,R,D
    3,R
-   4,R,D
+   1,R,D
+   1,R
+   2,R,D
   15,U,X
-   5,R
+   4,R
   38,R,J
   15,U,X
   13,R
@@ -4373,4 +4371,4 @@ Add 2
  165
    1,J
  483
-ChapterTime: 9:57.703(35159)
+ChapterTime: 9:57.618(35154)
