@@ -71,23 +71,25 @@ Read,1SH2,Start,lvl_10 (1)
    2,R,J
    1,R,K,G
   17,R
-   1,R,K
-   6,R,U,X
-   7,R,J,G
+   3,R,K
+   8,R,J,G
   40
 
 #lvl_10 (2)
-   2,R,J
+   1,J
   15,R,D,X
-   6,R
-  12,L,D,X
-   1,R,J
-   2,R
-   7
-   7,R
+  15,R,D,C
+   9,L
+   3,L,J
+   1,L,K,G
+   1,L,J,G
+   1,K,G
+   3,L,K
+   2,R,K
+
    9,U,X
-  19,K
-   5,L,K
+  20,K
+   4,L,K
    5,L,D,X
    1,L,J
    3,L
@@ -116,33 +118,23 @@ Read,1SH2,Start,lvl_10 (1)
   14,L,U,X
    5,L,J,G
   29,L,D
-   7,L
-  14,U,X
-   1,R
-   1,K,G
-   3,R
-   4,L
-   4,L,Z
-   1,L,J
-   4,L
+   4,L,J
+  12,U,X
+   2,L,J
+   1,L,K,G
+  11,L
   40
 
 #lvl_11z
-   3,L
-   3,J
-  11,L,J
+  24,L,J
   15,U,X
-   2,L
-   1
+   1,L
    2,L,J
    6,L
    1,R,J,G
-   2,R,K,G
-   1,R,J,G
-   2,J
-   1,K,G
+   6,R,K,G
    7,R
-   4,R,X
+   4,X
    4,R,J
  257
    1,J
