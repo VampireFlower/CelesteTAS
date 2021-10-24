@@ -1,4 +1,3 @@
-#By DevilSquirrel, EuniverseCat
 console load 1
    1
 
@@ -25,10 +24,31 @@ Read,1SH0,lvl_6b (1),lvl_6b (2)
    6,R,J
   40
 
-Read,1A,lvl_6c,lvl_9b
+Read,1A,lvl_6c,lvl_9
+
+#lvl_9
+   9,R,J
+   6,L,J
+  15,R,X
+   3,L,J
+   1,L,K,G
+   8,L,G
+   1
+   1,K
+  10,L,K
+  10,L
+   1,L,D
+  13,U,Z
+   1,R,J
+   2,R
+   2,R,K,G
+   1,K
+   8,R
+   3,R,J
+  40
 
 #lvl_9b
-   1,R,D
+   1,R
    4,D,X
    6,R,U,X
    2,J
