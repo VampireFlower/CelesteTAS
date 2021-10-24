@@ -1,5 +1,5 @@
-#console load 3 4279 -20
-#play,Section Huge Mess,37
+console load 3 4279 -20
+play,Section Huge Mess,37
 
 #not an issue currently, but if in future
 #we're carrying berries into huge mess checkpoint
@@ -930,19 +930,21 @@ console load 3
    2,R,U,Z
    1,L
    6,J,G
-  12,U,X
+  13,U,X
   13,R,J
-   5,J
-   6,L,K
+   4,J
+   1,K
+   1,J
+   2,L,J
+   1,R,J
+   1,K,G
    1,L
    1,L,J,G
    7,L
-   4,D,X
-   1,L,J
-   6,L
-   4,J
-  11,U,X
-   3,R,J
+  10,L,X
+   5,L,J
+  12,U,X
+   1,R,J
   11,R
   10,R,X
    2,R,J
@@ -950,21 +952,21 @@ console load 3
   15,U,X
    1,R,J,G
    7,R
-   4,D,X
+   4,Z
    9,R,J
    9,R
   15,D,X
    4,R,D
    2,R
-   1,R,J
-   9,R,D
-   4,L,D
-   9,R,D
+   1,J
+   8,R,D
+   3,L,D
+  11,R,D
   15,R,D,X
    1
   12,D
    5,R,D
-   4,D,X
+   4,Z
    1,R,J
    6,R
    2,R,D,J
@@ -978,8 +980,7 @@ console load 3
   13,R,D,X
    1,R,J
    1,R
-  10,R,U,Z
-   1,L
+  11,R,U,Z
    1,J
    1,R,J
    1,R,K,G
@@ -990,44 +991,46 @@ console load 3
   14,R,D,X
    6,R,J
    1,L,J
-   5,K,G
-  12,U,X
+   4,K,G
+   1,R,K
+  13,U,X
   13,R,J
-   3,R
-   2,L,K
+   2,L,J
+   1,K
    7,L
   10,L,D,X
    3,L,J
    9,L,K,G
   14,L,U,X
-   1,R,K,G
-   2,L,K
-   7,L
-#+1f cycle
-   1
-   5,K
-  16,U,X
-  10,L,J
-   6,L
+   1,R,J,G
    2,L,J
-  15,L,D,C
-   1,L,D
-   4,D
-   2
+   7,L
+   9,J
+  15,U,X
+   3,L,J
+   1,L,K,G
+  10,L
+   1,L,J
+  19,L,D,X
+   1,L
+   1,D
    1,X
    1,S
    1,D,J
   34
-  11,R,U,C
+  13,R,U,Z
    1,L
-   7,J,G
-   1
-   3,R
-   3,R,K,G
+   3,J,G
+   3
+   4,R
+   1,R,J,G
+   4,R,K,G
    1,R
-   3,R,J
-   8,R
+   2,J
    2
+   2
+   4
+   1
   15,D,X
    1,R
   15,R,D,C
