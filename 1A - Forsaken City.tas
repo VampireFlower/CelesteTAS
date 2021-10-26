@@ -194,8 +194,7 @@ console load 1
    1,R,K
    2,R
   20,R,J
-   4,D,X
-  11,R,U,X
+  15,R,U,Z
    3,R
   40
 
@@ -339,6 +338,7 @@ console load 1
   10,L,K
   10,L
    1,L,D
+#1HC1
   13,U,Z
    1,R,J
    2,R
@@ -366,7 +366,7 @@ console load 1
    1,R,J,G
    1,R,K,G
    3,R
-#1HC1
+#1HC2
   10,R,X
    8,R,J
   14,U,X

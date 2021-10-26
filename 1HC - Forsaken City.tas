@@ -13,8 +13,7 @@ Read,1A,Start,lvl_6b
    3,L,J,G
    7,L
   12,L,J
-   4,D,X
-   1,L
+   5,L,Z
    1,L,J
    2,L
   40
@@ -140,72 +139,59 @@ Read,1SH0,Section Post Heart,lvl_6b (2)
    6,R,J
   40
 
-Read,1A,lvl_6c,lvl_9
+Read,1A,lvl_6c,1HC1
 
 #lvl_9
-   9,R,J
-   6,L,J
-  15,R,X
-   3,L,J
-   1,L,K,G
-   8,L,G
-   1
-   1,K
-  10,L,K
-  10,L
-   1,L,D
-  13,U,Z
-   1,R,J
-   2,R
-   2,R,K,G
-   1,K
-   8,R
+  14,U,Z
    3,R,J
+   1,R,K,G
+  11,R
   40
 
 #lvl_9b
    1,R
-   4,D,X
-   6,R,U,X
+  10,R,U,Z
    2,J
    1,L,K,G
    3,L,J,G
    7,L
-  10,L,X
-  12,L,J
-   4,L,K,G
-   4,D,X
-  16,L,U,X
-   6,J
+  10,R,D,X
+   2,L,J
+   1,L
+   2,L,J
+  12,L,U,Z
+   2,L,J,G
+   5,L
+   2,L,J
+   2,K
+   2
+   1,J
    7,R
-   4,R,J
-  16,U,X
+   3,R,J
+  14,U,X
+   2,J
   40
  
 #lvl_10 (1)
-   5,L
+   6,L
    1,L,J,G
-   5,L
-   4,D,X
-   2,L,X
+   1,L,K,G
+   3,L
+   4,L,Z
    1,L,J
-   7,L
+   8,L
    3,J
   15,D,X
-  13
-   1,J
-   2,L,J
-   1,J
-   1,L,J
-  11,L,K
-  14,U,X
-  11,L
-   4,L,D,X
+  11,R
+   9,U,X
+  19,K
+   5,L,J
+   5,L,D,X
    1,L,J
    7,L
    4,L,J
-   4,L,K,G
-  14,U,X
+   3,L,K,G
+  15,U,X
   40
 
 #lvl_11 (1)
@@ -214,25 +200,30 @@ Read,1A,lvl_6c,lvl_9
    8,D,G
    4
   25,G
-   4,L,J,G
-   4,D,X
-   1,L,X
+   1,L,J,G
+   1,L
+   1,L,J,G
+   1,L
+   5,L,Z
    1,L,J
    6,L
   40
 
 #lvl_11z
+  11,L,J
+   6,R,J
+  15,U,X
    1,L
-  14,L,J
-   2,R,J
-  17,U,X
-   1,L,J
+   2,L,J
    4,L
-   4,R
+   2,R
    1,R,J,G
-   6,R,K,G
+   1,R,K,G
+   1,R,J,G
+   4,R,K,G
    7,R
-  10,R,U,X
+   4,X
+   4,R,J
  257
    1,J
 #Return
@@ -244,45 +235,59 @@ Read,1A,lvl_6c,lvl_9
   40
 
 #lvl_11 (2)
-  33,R,G
-  10,R
-   4,D,X
-  11,R,U,X
-   1,L,J,G
-   9,L,K,G
-   2,L
-   2,L,J,G
-   7,L
-   4,D,X
-   5,R,J
-  37,R,D
+   4,R,G
+   5
+   8,R,J
+   7,R,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+  15,R,D
+   8,R,U,Z
+   1,L,K,G
+   6,R,K
+  19,R,D
+  17,L,D
   40
 
 #lvl_10
   14,R,D
    1,J
   44,R,D
-  55,L,D
+  15,L,D
+  40
 
 #lvl_9b
+   1,L,D
+   1,R
    8,R,D
   10,R,D,X
-   4,J
-  18,D
-  14,R,D,X
+   1,J
+   3,K,G
+  13,D
+   1,L,G
+  12,D
+   2,L
+   1,D
+   1,L,G
+   1
+   4,D,X
    1,R,J
-   7,R
-  25,R,J
-  14,R,U,X
-   3,R,J,G
-   2,L,J
-   7,L
-  11,U,X
+   6,R
+   9,R,J
+   8,J
+   1
+   1,J
+  14,U,X
+  11,J
   40
 
 #lvl_10a
-   6,R
+   1,J
+   2,K
+   1,R,K
+   3,R
    1,R,J,G
-   4,R
+   3,R
 
-Read,1A,1HC1
+Read,1A,1HC2
