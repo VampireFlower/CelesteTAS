@@ -1,5 +1,5 @@
-console load 3 4279 -20
-play,Section Huge Mess,37
+#console load 3 4279 -20
+#play,Section Huge Mess,37
 
 #not an issue currently, but if in future
 #we're carrying berries into huge mess checkpoint
@@ -1026,10 +1026,10 @@ console load 3
    1,R,J,G
    4,R,K,G
    1,R
-   2,J
-   2
-   2
-   4
+   1
+   1,J
+   7
+   1,R
    1
   15,D,X
    1,R
@@ -2641,4 +2641,4 @@ console load 3
    1,S
    1,D,J
   18
-ChapterTime: 4:47.725(16925)
+ChapterTime: 4:47.674(16922)
