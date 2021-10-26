@@ -4,7 +4,123 @@ console load 1
 #Start
 Read,1A,Start,lvl_6b
 
-Read,1SH0,lvl_6b (1),lvl_6b (2)
+#lvl_6b (1)
+   1
+  15,U,X
+   7,R
+   5,L,J,G
+   5,K
+   3,L,J,G
+   7,L
+  12,L,J
+   4,D,X
+   1,L
+   1,L,J
+   2,L
+  40
+
+#lvl_s0 (1)
+   4,L
+  12,L,J
+   4,U,Z
+   9,U,X
+  13,L,J
+   4,K
+  10,L,G
+  10,R,J
+   1,R,K,G
+   7,L,J
+   1,L,K,G
+   1,L,J,G
+  41,L,D
+   4,R,D
+   2,D
+   1,R,D
+  15,L,Z
+  15,L,J
+  15,U,X
+   1,R,J,G
+   2,L,K
+   7,L
+  15,U,X
+  13,L,J
+   1,L,K,G
+   7,L
+   4,D,X
+   2,L,X
+   1,L,J
+   2,L
+  40
+
+#lvl_s1
+   5,L
+  10,L,J
+   5,L
+   2,L,J
+   2,J
+  15,U,X
+   1,J,G
+   5,L
+   1
+   1,R
+   1
+   4,D,X
+  10,L,X
+   2,R,J
+   5,R,D,X
+   7,L,J
+   6,L
+  11,L,D
+   8,R,D
+   5,R,U,X
+   1,J,G
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
+   3,L
+   5,L,X
+  14,L,J
+   1,K,G
+   1,K
+   1,R,K
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+   9,L
+   1,L,J
+   3,L
+   6,L,U,X
+   1,S
+   1,D,J
+  69,O
+   6,R,D,X
+   1,L,J
+   7,L
+   3,L,J
+  15,L,D,X
+   7,L,J
+   4,L,K,G
+  43,D,X
+   1
+   4,D,C
+  20,L,D,C
+   1,L,J
+  21,L
+   1,L,J
+  67,L,D,X
+   1,S
+   1,D
+   1,J,F,180
+  31
+
+Read,SaveandQuit
+  37
+
+Read,1SH0,Section Post Heart,lvl_6b (2)
 
 #lvl_6b (2)
    4,D,X
