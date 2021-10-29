@@ -564,19 +564,20 @@ console load 7
 
 #lvl_b-03 (2)
    4,L,D,X
-   4,L,J
-  10,L,D,X
-   5,L,J
-  15,D,X
-   6,R
-   5
+   3,L,J
+   1,J
+  15,L,D,X
+   2,R
+  12,R,J
+   6
+   2,J
+   2
   10,R,X
-   9,L,J
-  10,L,K,G
-   7,L
-   1,R
-   2,J,G
-  14,U,C
+   6,L,J
+   3,L,K,G
+  17,L,J,G
+   1,J
+  14,U,Z
    2,L,J
    9,U,X
   40
@@ -602,34 +603,35 @@ console load 7
    8,U,Z
    1,R,J
   11,R
-   4,D,X
-   2,R,X
-   1,R,J
+   5,R,Z
+   2,R,J
   40
 
 #lvl_b-06
    2,R,J
-   5,R,G
-  10,R,J,K
-  14,R,X
+   1,R
+   1,R,J
+   2,R
+   1,G
+   5,J,G
+   4,K
+  14,R,Z
    1,L,J
-  14,L,D,X
+  12,L,D,X
    1,R,J
    1,R,K,G
    1,R,J,G
-   8,R,K,G
-   6,K
-   1,R,K
-   1,K
-   9,U,X
-  17,L,J
-  15,U,X
-   1,R,J,G
-   4,R
+  10,R,K,G
+   5,K
+   2,R,K
+  13,U,X
+  13,L,J
+  14,U,Z
+   1,R
+   1,J,G
    1
-   2,R
-   4,D,X
-   2,R,X
+   6,R
+   6,R,Z
    1,R,J
    7,R
    1,R,J
@@ -786,18 +788,17 @@ console load 7
 #Section 1000m
   10,R,Z
    2,R,J
-   6,R,K,G
+   7,R,K,G
   15,R,U,X
-  22,R,C
-   4,R,J
-  10,R,K
-  15,R,X
   20,R,C
+   4,R,J
+   9,R,K
+  15,R,X
+  21,R,C
    4,R,J
    1,R,K
   15,R,D,X
-   4,D,C
-  19,R,C
+  23,R,Z
    4,R,J
    8,R,K
    5,R
@@ -825,22 +826,22 @@ console load 7
    1,L,K,G
    1,L,J,G
   15,U,X
-  15,L,U,C
-  16,R
-  15,R,D,X
-   2,R
+  14,L,U,C
+  17,R
+  17,R,D,X
   25,R,U,C
-  15,L,D,X
-   4,D
-  27,R,D,X
-   4,D,Z
-   1,R,J
-  14,R
-  15,R,U,X
-   6,R,C
+  18,L,D,X
+  26,R,D,C
+   1,D
+   4,Z
+   3,R,J
+   1,R
+  11,R,J
+  15,R,U,C
+   6,R,X
   15,L
   27,U,X
-   6,R,J
+   6,L,J
   16,R,U,Z
    1,R,D,J
   11,U,X
@@ -1168,15 +1169,14 @@ console load 7
    5,R,D,X
    1,R,J
    9,R,D,X
-  15,R,J
-   4,D,C
-  15,R,U,C
-   6,R
+   4,R,J
+   9,R
+  26,R,U,Z
    4,R,J
    2,R,K
 #Section 1500m
   11,R,U,X
-  37,L
+  37
   15,L,U,X
   19,L,U,C
    4,L,J
@@ -3844,4 +3844,4 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 8:57.846(31638)
+ChapterTime: 8:57.744(31632)
