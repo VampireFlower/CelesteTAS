@@ -43,7 +43,7 @@ console load 10
 
 #Spinner cycle
 #0-2
-   2
+   1
 
 #lvl_intro-00-past
   15,R,X
@@ -642,114 +642,118 @@ console load 10
   25,R,D
   40
 
+#Link to inputs that carry the jelly
+#into power source hub
+#https://pastebin.com/sr1Q2SdV
+#loses 5f, but either strat may become
+#faster through optimizations
+
 #lvl_c-03
    1,R,D
-   2,R,D,J
-  12,R
-  14,L
-  17,U,X
-  17,G
-  13,R,G
-   1,G
+   2,R,J
+   7,R
+  13,R
+   2
    1,R
-  17,R,U,X
-   2,R,J,G
+  15,U,X
    1,R
-  21,R,G
-   3,L
-  16,L,U,X
-   5,U,C
-  31,L,G
-  12,R,J,G
-   1,L,K,G
+  13,G
+  11,R,U,G
+   1,L
+   3,R
+  15,U,X
+  10,R
+   7,L
+   8
+  15,U,X
+  15,U,C
+  17,R,J
   40
 
 #lvl_d-00
    1,S
    1,D,J
   34
-   7,R,J,G
-   3,R,G
-   1,G
-   1,R,G
-   9,L,G
-   4,L,J,G
-   5,J,G
-   3,L,J,G
+  11,J
+  10,U,X
+  36,R,U,C
    1,R,J,G
-   9,J
-  12,U,X
-  23,G
-   3,L,G
-   1,L
-   1,L,J,G
-   2,J
-   1
-   3,K
-   1
-   1,R
-   2
-   9,U,X
-  13,G
-  12,L,G
-   3,L
-   8,R
-  11,U,X
-  13,G
-  12,L,G
-   1,R,G
-   7,R,J
-   7,R
-   9,U,X
-  13,G
-   5,R,G
-  10,L,G
-   1,L
-  10,L,X
-   6,J
-   1
-   1,K
-   2,J,G
-   8,R,J
-   1,L,J
-   1,L
   15,U,X
-  13,U,C
-   1,J
-   1,K,G
-   5
-   2,R
-  12,R,X
+   7,R
+  14,R,U,C
+   1,R,J,G
+   7,R
+   6,R,K
+  14,U,X
+  10,R,J
+   4,J
+   1,R,J
+  15,U,X
+   4,R
+   2
+   7,R,U,X
+   8
+  15,U,X
+   6,R
+  15,U,X
+   4,K
+   1,L,J
+   7,L
+  10,L,X
    6
    1,R,J
-   2,R
-   8,R,X
+   4,R
+  10,L,X
   12
-   7,L
-  15,R,X
-  15,R,D,C
-   1,R,D
+   5,R
+  15,R,D,X
+   1,D
    1,L,D
-   2,D
-   9,L,D
-   1,L
-  13,L,D
-  22,L,X
-  21,L,C
-   4,L,Z
+   1,D
+  20,L,D
+   3,L
+  24,L,X
+  19,L,C
+   4,D,X
    1,L,J
    6,L
-  13,G
-   4,L,G
-  15,L,J,G
-   8,L,J
+   9,L,J
+   2,L
+  14,L,Z
+   1,L,J
+   2,J
+  15,L,D,X
+   1,D
+   1,L,D
+  14,R,D
+   2,L,D
+   1,R,D
+  10,R,D,X
+   1,R,J
+   1,J
+   2
+   1,J
+   8,R,U,X
+  23,R,G
+   9,R
   13,U,X
-  19,G
-   6,L,G
-   8,L,J
-   4,L
-   9,U,X
-  21,G
+  13,G
+  10,L,G
+   1,D
+   1,J,G
+   6,L
+   1,R
+   1,R,J
+   4,J
+   1
+   6,U,X
+  16,R,G
+   9,L,G
+   2,L
+   8,R
+  11,U,X
+  30,L,G
+   2,R,K,G
   43
 
 #lvl_d-05
@@ -2169,9 +2173,7 @@ console load 10
    4,X
   11,D,X
   15,R,Z
-  15,D
-   1,D
-   9,D
+  25,D
    1
   15,R,Z
    2
@@ -4371,4 +4373,4 @@ Add 2
  165
    1,J
  483
-ChapterTime: 9:57.618(35154)
+ChapterTime: 9:57.516(35148)
