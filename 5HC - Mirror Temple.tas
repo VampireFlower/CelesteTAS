@@ -100,6 +100,8 @@ Read,5A,Start,lvl_b-02
    3,R,J
    5,R
   40
+
+#lvl_b-22
   14,R,D,X
    1,L,J
    6,L,U,X
@@ -150,12 +152,11 @@ Read,5A,Start,lvl_b-02
   14,L,D,X
    1,L,J
    1,L,K,G
-   4,L
+   3,L
   15,L,D,X
-   1,L,J
    1,L
-   4,D,X
-   7,L,U,X
+   1,L,J
+  12,L,U,Z
  257
    1,J
 #Return
