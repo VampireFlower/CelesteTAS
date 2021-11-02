@@ -43,7 +43,7 @@ console load 10
 
 #Spinner cycle
 #0-2
-   2
+   0
 
 #lvl_intro-00-past
   15,R,X
@@ -854,17 +854,17 @@ console load 10
   40
 
 #lvl_e-00
-  11,L,J
+   1,L
+  10,L,J
    8,R,J
    2,K,G
-   9,J,G
-   3,R,J
+   7,J,G
+   5,R,J
   16,U,X
   15,U,C
-  20,R
+  19,R
   15,U,X
-   2,L
-   2
+   4,R
   13,R,D,X
    1,L,J
    4,L
@@ -2031,14 +2031,12 @@ console load 10
   22,R
    6,R,Z
   17,R,J
-   4,J
-   2,J
+   6,J
   18,U,X
    4,L
   21,L,C
   15,L,X
-  22,L,J
-   6,L,J
+  28,L,J
   15,U,X
   15,U,C
    5,L
@@ -2266,14 +2264,12 @@ AnalogMode,Precise
    1,L,K,G
   15,R,U,Z
    9,L
-   5,R,J
-   3,J
+   8,R,J
   15,U,C
-   7,R,X
+   6,R,X
    8,L,J
-   1,R,J
+   2,R,J
   15,R,U,X
-   1,L
    4,C
    6,L,J
    5,R,J
@@ -2288,16 +2284,17 @@ AnalogMode,Precise
   15,U,Z
    2,L
    2,R
-   1,L
    5,R,D,X
-  10,L,J
+   8,L,J
+   1,R,J
+   1,L,J
   15,U,X
    2,L
   15,U,C
    3,L
-  13,L,J
+  14,L,J
    8,L
-   3,L,J
+   1,L,J
    4,R,K,G
    2,R
    1,R,J,G
@@ -2321,18 +2318,17 @@ AnalogMode,Precise
   15,R,D,X
    5,R,J
   11,R,D,X
-   1,R,K,G
-  13,R,J,G
+  14,R,K,G
   15,R,D,X
-   7,R,J
-   1,J
-   3,R,J
-   8,R
+  11,R,J
+   7,R
   15,R,U,Z
   13,R,D,C
    1,J,G
-   6
-  21,L,D
+   5
+   1,L
+   2
+  18,L,D
   15,R,X
   14,R,U,C
    1,J,G
@@ -2346,7 +2342,7 @@ AnalogMode,Precise
    4,D,X
    1,R,J
   16,R
-  14,R,D,J
+  16,R,D,J
   15,D,X
    4,R,D
    1,R
@@ -2834,10 +2830,15 @@ AnalogMode,Precise
   10,R,C
   15,R,X
   13,R,D,C
+   1,L,J
+   1
+  11,L,D,X
    1,R,J
+   7,R
+   2,R,J
+   1,R,K,G
+   1,J
    1,K
-  15,D,X
-   9
   14,L,D,X
    1,R,J
    5,R,D,X
@@ -2851,8 +2852,7 @@ AnalogMode,Precise
 
 #lvl_i-05
    1,R
-   3,R,D
-   1,R,D
+   4,R,D
    1,R
    2,R,J
   10,R,D,X
@@ -4355,7 +4355,6 @@ AnalogMode,Precise
   30
    1,J
  100
-#
    1,S
    1,D,J
   18
@@ -4374,4 +4373,4 @@ Add 2
  165
    1,J
  483
-ChapterTime: 9:57.465(35145)
+ChapterTime: 9:57.363(35139)
