@@ -35,20 +35,20 @@ console load 2
   40
 
 #lvl_d0 (1)
-   1,L
-   3,L,D
+   2,L,D
    1,L
    1,L,D
-   7,L
-  43,L,D
+   1,L
+   2
+   4,L
+  44,L,D
   74,R,D
-  13,R,D,X
-   8,R,J
-   4,R
   14,R,D,X
-   1,L,J
-   3
-   7,L,D,X
+   8,R,J
+   2,R
+   2
+  15,R,D,X
+   7,L,D,C
    1,R,J
    6,R
   40
