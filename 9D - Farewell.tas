@@ -2871,7 +2871,7 @@ AnalogMode,Precise
   35,R,J,G
   44,R,U
   12,F,90
-   6,R,U,C
+   5,R,U,C
 Read,9,Stubbornness,End_IGT
 
 # optional waiting for
