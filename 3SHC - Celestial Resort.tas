@@ -2,6 +2,7 @@ console load 3
    1
 
 #Start
+#lvl_s0
 read,3SH,Start,lvl_04-d
 
 #lvl_04-d (0)
@@ -49,8 +50,7 @@ read,3SH,Start,lvl_04-d
    1,R,K,G
    3,L
    5
-  16,L,D
-  12,L,D
+  28,L,D
   10,L,X
   14,L,J
    1,J
@@ -95,11 +95,9 @@ read,3SH,Start,lvl_04-d
 
 #lvl_01-c
    4,L,D,X
-   1,L,J
-   2,L,J
+   3,L,J
    1,L
-   1,L,K
-   1,L,K
+   2,L,K
    2,L
   14,L,Z
    3,L,J
@@ -108,9 +106,9 @@ read,3SH,Start,lvl_04-d
   15,L,Z
    9,D
    4,L,D
-   4,L,J
-  13,U,X
-   2,L,J
+   3,L,J
+  14,U,Z
+   1,L,J
  257
    1,J
  123
@@ -132,14 +130,11 @@ read,3SH,Start,lvl_04-d
    2,R
    1,R,K
    2,R
-   7,R,D,J
-   3,R
-  16,R,D,X
-   1,J
-   2,R
-  16,R,D,X
+  14,R,D,J
+  27,R,D,X
   40
 
+#lvl_03-b
 read,3SH,lvl_03-b,3SHC2
 
   14,U,X
@@ -255,4 +250,5 @@ read,3SH,lvl_03-b,3SHC2
    1,L
   40
 
+#lvl_00-d
 read,3SH,lvl_00-d
