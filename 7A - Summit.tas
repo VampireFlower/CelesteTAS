@@ -328,11 +328,14 @@ console load 7
 
 #lvl_b-05
    8,L
-  21,R,J
-  15,R,X
-   8,R
-   6
-   1,D
+  14,R,J
+   3,R
+  11,R,X
+   1,J,G
+   6,R
+   1
+   1,J
+  12
   15,U,C
   37,R,D
   11,R,C
@@ -467,9 +470,9 @@ console load 7
   15,R,U,X
   20,R,C
    4,R,J
-   9,R,K
-  15,R,X
-  21,R,C
+   6,R,K
+   7,R
+  28,R,X
    4,R,J
    1,R,K
   15,R,D,X
@@ -2703,4 +2706,4 @@ AnalogMode,Ignore
    1,S
    1,D,J
   18
-ChapterTime: 6:43.036(23708)
+ChapterTime: 6:42.985(23705)
