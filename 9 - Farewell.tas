@@ -8,7 +8,7 @@ Set,DashMode,Two
 #play,Remembered,39
 
 #console load 10 18575 -6184
-#play,Event Horizon,37
+#play,Event Horizon,38
 
 #console load 10 28203 -8088
 #play,Determination,38
@@ -23,7 +23,7 @@ Set,DashMode,Two
 #Dont comment out
 Set,DashMode,Normal
 
-#console load 10 43604 -8747
+#console load 10 43621 -8722
 #play,Stubbornness,37
 
 #console load 10 48408 -10328
