@@ -261,27 +261,18 @@ Add 1
 #lvl_04 (3)
   36
    4,Z
-   7,R,J
-   1,R
-   1,R,J
-   2,R
-   2,R,K
-   1,R,J,G
-   1,R
-   1
-   3,R
-   1,R,J
-   2,R
+   7,R
    2,R,J
-   4,R
-   1,R,K
+   1,R
+   1,R,K,G
+   1,R
+   3,R,K,G
+   1,R
+  10,R,Z
    1,R,J
-   1,R,K
-  12,R,U,X
-   1,R,J,G
-   1,L
-   6,R
-   2,R,J
+  19,R,K
+   3,J,G
+   1,L,J
   15,U,X
-
+   1,L
 Read,6A,6HC1
