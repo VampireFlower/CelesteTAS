@@ -302,15 +302,17 @@ AnalogMode,Ignore
    7,R
    1,R,J
    1,R
-   4,D,X
-   7,R,X
+  11,R,Z
    1,R,J
    6,R
    4,R,J
    2,R
   43
 
-AnalogMode,Precise
+#alternative strat; they break
+#even, so either one could be
+#optimized to be faster
+#https://pastebin.com/C2Mwkdrk
 
 #lvl_05
    4,R
@@ -321,59 +323,53 @@ AnalogMode,Precise
   14,L,D,X
    1,R,J
   12,R,D
-   1,R,J
+   2,R,J
    6,R
-   2,R,J
-   1,R
-   3,R,J
-   1,J
-   9
-   1,R,J,G
-   1,L,J
-   1,R,J
+   5
+   4,D,X
+  10,R
+   9,L,J
+  11,L
+   1,J,G
+  12
+   2,L
    2
-   1,K,G
-  13
-   1,G
-   1,L,J
-   1,L,K
-   5,L
+   1,L
    4,D,X
-  10,L,X
+   2,L
+   1,R,J
+   3
+   4,R
+   1
+   5,R,D,X
+   1,L
+   2,K,G
+   1,L,J,G
+   4,R,J
+  22,R
    2,R,J
-  15,R,D,X
-   3,R,K
-   5,R
-   1,R,K
-  12,R
-   8,R,J
-   6,J
    4,D,X
-   2,R,X
+   3,R
   40
 
 #lvl_06
-   3,R,X
    1,R,J
-   5,R
-  21,R,D,X
-   2,R
-   1,R,D
-   3,R
+   7,R
+   1,R,J
+  18,R,D,X
+  10,R
+AnalogMode,Precise
   27,R,U
-  13,F,53.56
-   9,F,
-   9,F,315
-  15,F,290.47
-  14,L,X
-   1
+  13,F,50.56
+   9,F,0
+   5,F,315.9
+  17,F,270
+  15,L,X
   12,L,J,G
   12,L,K,G
-   9,L,J,G
-   6
-   2,J
-   2,R
-   2
+  12,L,J,G
+   2,K,G
+  11
    5,L,D
    5,R,D
    5,L,D
@@ -382,7 +378,6 @@ AnalogMode,Precise
    5,R,D
    5,L,D
    5,R,D
-   3,L,D
    1,R,J
   18,L,D
   41,L
@@ -394,8 +389,7 @@ AnalogMode,Precise
    1,D,G
    1,K,G
    1,R,K
-   5,L,K
-   1,L
+   6,L,K
    1,J,G
    4,D,X
    7,R,U,X
@@ -1537,8 +1531,7 @@ AnalogMode,Precise
   40
 
 #lvl_boss-15
-   4,R
-   4,R
+   8,R
   10,R,J
    5,R
   24,R,J
@@ -1841,4 +1834,4 @@ AnalogMode,Precise
    1,D,J
   18
 AnalogMode,Ignore
-ChapterTime: 4:44.206(16718)
+ChapterTime: 4:44.189(16717)
