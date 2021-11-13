@@ -1760,13 +1760,16 @@ console load 3
   40
 
 #lvl_09-b (2)
-  16,J
+   5,J
+   1,L,J
+   8,J
+   1,L,J
+   1,J
   15,U,X
    1,L,J,G
-   8,L
-   1,L
-   2,R
-   2
+   5,L
+   2,L,J
+   5,L
   15,U,Z
    1,R
    1,L,J,G
@@ -2636,4 +2639,4 @@ console load 3
    1,S
    1,D,J
   18
-ChapterTime: 4:47.538(16914)
+ChapterTime: 4:47.521(16913)
