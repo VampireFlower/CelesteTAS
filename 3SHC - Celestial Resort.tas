@@ -135,7 +135,7 @@ read,3SH,Start,lvl_04-d
   40
 
 #lvl_03-b
-read,3SH,lvl_03-b,3SHC2
+read,3SH,lvl_03-b,3SHC0
 
   14,U,X
    1,J
@@ -174,7 +174,6 @@ read,3SH,lvl_03-b,3SHC2
    8,L,J
    6,K,G
    5
-   1,K
   14,U,X
   10,J
   11
@@ -207,9 +206,7 @@ read,3SH,lvl_03-b,3SHC2
    1,L,D
    3,L,J,G
    3,L
-  10,R,D
-   1,R
-   5,R
+  16,R
   10,L,Z
    3,L,J
    8,L

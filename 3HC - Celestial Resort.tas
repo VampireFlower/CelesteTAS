@@ -1,13 +1,12 @@
-#console load 3 2445 -376
-#play,Section cassette,37
-
 console load 3
    1
 
 #Start
+#lvl_s0
 read,3A,Start,lvl_09-b (0)
 
-read,3SH,3HC0,lvl_13-b (0)
+#lvl_09-b (0)
+read,3SH,lvl_09-b (0),lvl_13-b (0)
 
 #lvl_13-b
    1,R,J
@@ -106,7 +105,7 @@ read,3SH,3HC0,lvl_13-b (0)
    9,L,J
    5,L,D,X
 
-read,3SH,3HC1,lvl_11-c (1)
+read,3SH,3HC0,lvl_11-c (1)
 
 #lvl_11-c (1)
    1,S
@@ -135,6 +134,7 @@ read,3SH,3HC1,lvl_11-c (1)
   10,U,X
   40
 
+#lvl_12-d
 read,3SH,lvl_12-d,lvl_11-d
 
 #lvl_11-d
@@ -241,40 +241,9 @@ read,3A,lvl_11-y,lvl_11-z
 read,3A,lvl_10-y,lvl_10-x (1)
 
 #lvl_10-x (1)
-read,3SH,lvl_10-x (1),lvl_09-b (2)
+read,3SH,lvl_10-x (1),3HC1
 
 #lvl_09-b (2)
-   5,J
-   1,L,J
-   8,J
-   1,L,J
-   1,J
-  15,U,X
-   1,L,J,G
-   5,L
-   2,L,J
-   5,L
-  15,U,Z
-   1,R
-   1,L,J,G
-   1,K,G
-   3
-   4,L
-   4,R
-   4,D,X
-   1,R
-   1,L,J
-   4,L
-   1,L,K
-   7,L,D,J
-   3,J
-   5
-  13,L,J,G
-  14,L,U,X
-   2,L,J,G
-   1
-   5,L
-   3
    4,R
    4,L
    2,R
@@ -327,58 +296,60 @@ read,3SH,lvl_10-x (1),lvl_09-b (2)
 read,3A,lvl_09-d,lvl_04-d
 
 #lvl_04-d (0)
-read,3SH,lvl_04-d,lvl_02-c (0)
+read,3SH,lvl_04-d,3HC2
 
-#lvl_02-c
-   4,L
-   6,L,J
-   1,J
+#lvl_04-c (0)
+  16,L
+   5,D
+  16,L,D
+   3,D
+  14,L,D,X
    1,L,J
-   4,L
-   7,L,J
+  14,L,D,X
+  40
+
+#lvl_02-c (0)
+   1,L,J
   13,L,D,X
-   2,L,J
-   8,L
    1,L,J
-#3SHC1
-  12,L,D,X
-   1,L,J
-   8,L
-   1,L,J
-  12,L,D,X
+   2,L,K,G
+   1,K
+   9,L,K
+  13,L,D,X
    1,L,J
    7,L
-   1
+   1,L,J
+  12,L,D,X
+   1,L,J
+   8,L
+   1,L,J
+  12,L,D,X
+   2,L,J
+   8,L
    1,L,J
   12,L,D,X
    1,L,J
   12,L
-  11,L,D,J
-   3,L,K,G
-
-#Section cassette
-   7,L,D,X
-   1,L,J
-   2,L
+  10,L,D,J
+   4,L,K,G
+  10,L,D,X
   40
 
 #lvl_01-c
-   9,L
-   1,L,J
+   4,L,D,X
+   3,L,J
+   1,L
+   2,L,K
    2,L
-   1,D,X
-  13,L,X
-   4,L,J
-   6,L
-   1,L,J
-  11,L
-   1,D,X
-  14,L,X
+  14,L,Z
+   3,L,J
+  15,L
+   2,D
+  15,L,Z
+   9,D
    4,L,D
-   1,R,D
-   7,L,D
-   6,L,D,J
-  13,U,X
+   3,L,J
+  14,U,Z
    1,L,J
  257
    1,J
@@ -426,19 +397,15 @@ read,3SH,lvl_04-d,lvl_02-c (0)
   18,D,J
    1,L,J
    1,K,G
-   5,L,K
-   5,L
-   2,L,K
+   4,L,K
+   6,L
+   1,R,K
+   1,R
   14,U,X
-   9,R,J
-   5,L
-   2
-   5,J
-   1
+  10,J
+  11
   11,U,X
   40
-
-#I think this resync lost a frame?
 
 #lvl_04-d (1)
    4,L,K
@@ -466,8 +433,7 @@ read,3SH,lvl_04-d,lvl_02-c (0)
    1,L,D
    3,L,J,G
    3,L
-  10,R,D
-   6,R
+  16,R
   10,L,Z
    3,L,J
    8,L
