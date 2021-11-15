@@ -1557,9 +1557,8 @@ console load 7
 
 #lvl_f-05 (2)
   15,R,D,X
-   4,R,D
+   6,R,D
   16,L,D
-   2,D
    4,Z
    1,L,J
   18,L
@@ -1575,14 +1574,13 @@ console load 7
    2,R,J,G
    9,R,D,X
    1,R,J
-   5,R
+   4,R
   40
 
-
 #lvl_f-08
-   1,R
+   3,R
    1,R,J
-   2,R
+   1,R
   15,R,D,X
   15,R
   14,R,U,Z
