@@ -323,8 +323,8 @@ Read,5A,Start,lvl_b-02
    2,R
   40
 
+#lvl_b-19
 read,5S,lvl_b-19,5SHC4
-
   14,R,Z
    4,R,J
   40
@@ -368,8 +368,7 @@ read,5S,lvl_b-19,5SHC4
    8,R
    1,R,J
   11,R,D,X
-   9,R,J,G
-   1,R,J
+  10,R,J,G
   40
 
 #lvl_b-15
@@ -382,9 +381,8 @@ read,5S,lvl_b-19,5SHC4
    6,J
    8,R,J
    4,X
-  34,L,D,X
-   3,L,D
-  98,L,D,X
+ 135,L,D,X
+#Exit
   59
    1,J
   38,L,D

@@ -225,8 +225,9 @@ read,4A,lvl_a-09,lvl_b-02
   20,R,D
    4,X
   34,D,X
- 100,L,D
-  60
+ 101,L,D
+#Exit
+  59
    1,J
   30
    6,D
