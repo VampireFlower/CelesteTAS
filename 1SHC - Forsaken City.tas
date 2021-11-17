@@ -3,6 +3,7 @@ console load 1 lvl_9b
 
 #Start
 Read,1SH2,Start,lvl_10 (1)
+
 #lvl_10 (1)
    6,L
    1,J,G
@@ -51,7 +52,7 @@ Read,1SH2,Start,lvl_10 (1)
    1
    1,R,J,G
    7,R
-   4,R,Z
+   4,D,X
    6,R,J
    1,R
    1,R,K
@@ -65,8 +66,7 @@ Read,1SH2,Start,lvl_10 (1)
   14,R,D,X
    1,R,J
    8,R,D,X
-   1,R,K,G
-   5,R,K
+   6,R,K,G
    5,R
    2,R,J
    1,R,K,G
@@ -76,17 +76,14 @@ Read,1SH2,Start,lvl_10 (1)
   40
 
 #lvl_10 (2)
-   1,J
+   1,R,J
   15,R,D,X
-  15,R,D,C
-   9,L
-   3,L,J
-   1,L,K,G
-   1,L,J,G
-   1,K,G
-   3,L,K
-   2,R,K
-
+   7,R
+#+1f Berry
+  12,R,D,X
+   4,L,J
+  15,D,X
+   1,J
    9,U,X
   20,K
    4,L,K
@@ -118,19 +115,28 @@ Read,1SH2,Start,lvl_10 (1)
   14,L,U,X
    5,L,J,G
   29,L,D
-   4,L,J
+   5,L,J
   12,U,X
-   2,L,J
-   1,L,K,G
-  11,L
+   1,L,J
+   1,R,K,G
+   7,L
+#+3f berry
+   4,L
+   7,R,D,X
+   1,L,J
+   5,L
   40
 
 #lvl_11z
-  24,L,J
+   1,L,K
+   1,J
+   7,L,J
+   6,J
   15,U,X
-   1,L
+   3,L
    2,L,J
-   6,L
+   4,L
+   2,R
    1,R,J,G
    6,R,K,G
    7,R
