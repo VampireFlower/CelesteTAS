@@ -8,7 +8,6 @@ console load 10
    1
 
 #Start
-
 Read,9,Start,Farewell
 
 #lvl_j-15
@@ -873,7 +872,7 @@ Read,9,Start,Farewell
    1,S
    1,D,J
   18
-ChapterTime: 10:53.327(38431)
+ChapterTime: 10:52.834(38402)
 
 #Let moon berry sfx play
  100

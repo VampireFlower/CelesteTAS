@@ -7,12 +7,12 @@
 #console load 10 18564 -6206
 #play,Event Horizon,37
 
-# ---------
+# -------------
 # The above checkpoints depend on
 # spinner cycles. Adjust the number
 # in the play command to fix desyncs.
 # Possible values: 37-39
-# ---------
+# -------------
 
 #console load 10 31521.53 -7931.09
 #play,Determination,37
@@ -21,9 +21,9 @@ console load 10
    1
 
 #Start
+  98
 
 #lvl_intro-00-past
-  98
   15,R,X
   10,R,D,C
    1,R,J
@@ -2436,7 +2436,6 @@ AnalogMode,Precise
    7,D
   17,R,D
    6,R
-#Section Determination 2
   12,R,Z
    2,R,J
   40
@@ -2647,8 +2646,7 @@ AnalogMode,Precise
   24,R,J
    5,U,C
   42,R,D
-   4,Z
-  11,R
+  15,R,Z
    3,L
   36,D
    7,R,D
@@ -2871,7 +2869,7 @@ AnalogMode,Precise
   35,R,J,G
   44,R,U
   12,F,90
-   5,R,U,C
+   6,R,U,C
 Read,9,Stubbornness,End_IGT
 
 # optional waiting for
