@@ -2875,12 +2875,13 @@ Read,9,Stubbornness,End_IGT
 # optional waiting for
 # visuals to play out
 # without IGT loss
+#-----------------
   29
    1,J
   30
    1,J
  100
-#
+#-----------------
    1,S
    1,D,J
   18
@@ -2899,4 +2900,4 @@ Add 2
  165
    1,J
  483
-ChapterTime: 10:42.498(37794)
+ChapterTime: 10:42.481(37793)
