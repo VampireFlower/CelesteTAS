@@ -634,14 +634,14 @@ console load 10
   10,D
   40
 
-#lvl_c-03
+#lvl_c-alt-01
    4,D
   10,R,D
    1,D
   16,R,D
   40
 
-#lvl_c-alt-01
+#lvl_c-03
 #Link to inputs that carry the jelly
 #into power source hub
 #https://pastebin.com/sr1Q2SdV
@@ -1895,9 +1895,9 @@ console load 10
    5,F,95.96
    4,F,46
   55,R
- 170,R,U,C
+ 178,R,U,C
   15,R,X
-  25,R
+  17,R
   10,L
   11,L,D
    3,L
