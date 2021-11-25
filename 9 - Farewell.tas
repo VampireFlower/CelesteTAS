@@ -43,7 +43,7 @@ console load 10
 
 #Spinner cycle
 #0-2
-   2
+   0
 
 #lvl_intro-00-past
   15,R,X
@@ -889,14 +889,11 @@ console load 10
   15,U,X
    4,R
   22,R,Z
-   2,R,J,G
-   1,R
-   2
-   4,R
-  12,R
-  14,R,U,X
-   1,L
-   6,R,U,X
+   1,R,J,G
+   2,R,K,G
+   7,R
+  15,U,X
+  14,R,U,C
   36,L
    2,L,J,G
    1,R,J
@@ -917,41 +914,32 @@ console load 10
   40
 
 #lvl_e-01
-   3,L,J
-   2,J
-   1,R,J
-   1,J
-   1,R,J
-   1,J
-   1,R,J
-   1,J
-   3,R,J
+  10,J
+   4,R,J
    4,X
-  15,R
+   1
+   8,R
+   1
+   6,R
   15,U,X
-   9,U,C
-  19,L
+   8,U,C
+  24,L
   15,L,U,X
-  16,L,U,C
-   4,R
-  15,R,U,X
-  18,R,U,C
-  19,L,U,X
-  21,L,U,C
+  11,L,U,C
+  15,R
+  15,R,U,Z
+  15,L,U,X
+   2,L
+  15,L,U,X
+   3,L
+  18,U,C
   15,U,X
-   3,L,J,G
-   4,J
-   2,R,J
-   1,J
-   1,R
-   1,K
-  19,U,X
+  18,U,C
+   1
    9,R,J
-   2,R
-  13,R,U,Z
+  14,R,U,Z
    4,R,J,G
-   5,R
-   1,R,J
+   6,R
   10,U,X
   40
 
@@ -4370,4 +4358,4 @@ Add 2
  165
    1,J
  483
-ChapterTime: 9:55.680(35040)
+ChapterTime: 9:55.527(35031)
