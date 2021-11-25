@@ -4,8 +4,8 @@ Set,DashMode,Two
 #console load 10 9309 -1869
 #play,Power Source,38
 
-#console load 10 12809 -4213
-#play,Remembered,39
+#console load 10 12807 -4216
+#play,Remembered,38
 
 #console load 10 18575 -6184
 #play,Event Horizon,38
@@ -725,52 +725,54 @@ console load 10
   15,L,D,X
    1,D
    1,L,D
-  14,R,D
-   2,L,D
-   1,R,D
-  10,R,D,X
+  14,L,D
+  14,R,D,X
    1,R,J
-   1,J
-   2
-   1,J
-   8,R,U,X
-  23,R,G
-   9,R
-  13,U,X
-  13,G
-  10,L,G
-   1,D
+   9,R,U,X
+  22,R,G
+   9,R,J
+  12,U,X
+  17,R,G
+   8,L,G
+   1,L,D
    1,J,G
    6,L
-   1,R
-   1,R,J
-   4,J
+   2,R
+   4,R,J
+   7,U,X
+  20,G
+   4,R,G
+   3,G
    1
-   6,U,X
-  16,R,G
-   9,L,G
-   2,L
-   8,R
-  11,U,X
-  30,L,G
-   2,R,K,G
+   4,L
+   5,K,G
+   2
+   8,U,X
+   1,J
+  25,J,G
+   5,L,J,G
   43
 
 #lvl_d-05
-   2,R
-   9,R,J
-  10,R,X
-  13,G
-   1,J,G
-  10,R,J,G
-  11,R,G
-   9,R,J,G
-   2,R,J
-   4,R
-  15,U,X
-  16,G
-   8,R,G
+   1,R
+   8,J,G
+   1,R,J
+   3,R
+   8,R,X
+  13,R,G
+   3,R,J,G
+   3,J,G
+   5,R,J,G
+  10,R,G
+   2,R,J,G
+   1,R,G
+   1,R,J,G
+   7,R,J
   14,U,X
+  16,G
+   6,R,G
+   1
+  15,U,X
   40
 
 #lvl_e-00y
@@ -817,37 +819,29 @@ console load 10
 #lvl_e-00y
   52
   14,U,X
-   1,J
+   2,J
 #Remembered
-  10,U,C
+   9,U,C
   40
 
 #lvl_e-00z
-   1,L
-   3,L,J
-   8,R,J
-   8,U,X
-  18,L,J
-   1,K,G
-   3,R,K
+  12,J
   15,U,X
-   1,J,G
-   5
-   2,R
-   1,R,J
-   1,R,K,G
-  10,R,J,G
+  14,R,U,C
+   2,J,G
+   7,L
+   2,L,J
   15,U,X
-   9,U,Z
-   1,L,J
-   1,L,K,G
+  14,U,C
+  12,L,J
+   8,L
+   2,L,J
    2,L
-   5,R
   15,U,X
-  13,R,U,C
-   1,J,G
-   4
-   3,L
+  14,R,U,C
+   4,J,G
+   2,L
+   5
   14,U,X
    1,J
   15,U,X
@@ -2702,8 +2696,8 @@ AnalogMode,Precise
    1
    1,R
    3,R,J
-   1,R,D
-   8,D
+   1,R
+   8
   14,R,D
    6,R
   15,R,Z
@@ -4193,7 +4187,7 @@ AnalogMode,Precise
    8,R,D
   13,U,X
   13,G
-  27,U,G
+  27,G
    1
    9,L
   11
@@ -4376,4 +4370,4 @@ Add 2
  165
    1,J
  483
-ChapterTime: 9:56.139(35067)
+ChapterTime: 9:55.680(35040)

@@ -735,26 +735,31 @@ console load 10
    9,L,J
   11,U,X
    1,R,J
-  26,R,J,G
-   4,J,G
-  10,R,K,G
-  12,L,J,G
-   1,R,K,G
-  11,R,J,G
-   1,R,K,G
+  25,R,J,G
+   5,J,G
+  11,K,G
+  12,J,G
+  12,K,G
   43
 
 #lvl_d-05
-  11,R
-  10,R,X
-  13,G
-   1,J,G
-  10,R,J,G
-  11,R,G
-   9,R,U,J,G
-   7,R,J
+   1,R
+   8,J,G
+   1,R,J
+   3,R
+   8,R,X
+  13,R,G
+   3,R,J,G
+   3,J,G
+   5,R,J,G
+  10,R,G
+   2,R,J,G
+   1,R,U,G
+   1,R,J,G
+   4,R,J
+   3,R
   15,U,X
-  41,K,G
+  38,K,G
    4,J,G
    4,K,G
   40
@@ -2900,4 +2905,4 @@ Add 2
  165
    1,J
  483
-ChapterTime: 10:42.481(37793)
+ChapterTime: 10:42.328(37784)
