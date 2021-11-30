@@ -2,40 +2,37 @@ console rmx2 3
    1
  
 #Start
-#lvl_00
   76
-   4,D,X
-  10,R,X
-   6,R,J
-   1,J
+
+#lvl_00
+  12,R,Z
+  11,R,J
   18,R,D,X
   18,R,U,C
-   2,R
   15,R,U,X
-   2,R
-  14,U,X
+  14,U,C
   17,J
   40
 
 #lvl_01
-   5
+   4,J,G
+   1,L
    6,L,J
-  15,U,X
+  14,U,X
    5,R,J
-   3,L,J
-   1,R,J
-   1,R
+   4,L,J
+   1,J
    1,R,K,G
    7,R
-   4,R,D,X
-   7,R,J
-   7,R
-   1
-   1,R,J
+   4,Z
+   8,R,J
+   4,R
+   1,R,D,J
+   3,R
   15,D,X
-  14,D
-   8
-   3,L
+  18,D
+   4
+   4,L
   14,L,D,X
    1,R,J
   14,R,D,X
@@ -45,36 +42,40 @@ console rmx2 3
   12,R
   14,U,Z
   12,R,J
-   8,R
-   1
-   2,R
-   4,D,X
-   3,R,X
+  11,R
+   6,R,Z
    1,R,J
    4,R
+   1,R,J
   40
 
 #lvl_02
+   1,R,J
+   1,R
+   1,R,J
+  11,R,D,X
+   1,R,J
    3,R
    1,R,J
-  10,R,D,X
-   1,R,J
-   8,R,D
-   8,R,J
-   5,R
-   1,R,K
+   3,R
+   7,R,D,J
+   4,R
+   1
+   3,J
    6,U,X
   12,R,J
    1,R,K,G
   31,R,D
    2,R
-   1,R,G
-   9,R,J,G
-   4,D,X
-   3,U,X
+  10,R,J,G
+   7,U,Z
    2,J
    9,R,J
   11,R
+#can save a frame of igt here
+#but it causes more oshiro slowdown
+#causing the next oshiro
+#attack to happen later
    7,R,K
   10,R,D
    2,D
@@ -84,47 +85,51 @@ console rmx2 3
   11,R
    2
    1,R
-   4,D,X
-  11,U,X
+  15,U,Z
   12,R,J
    1,R,K,G
    1,R,J,G
-  36,R,D
+  34,R,D
    3,R
+   2,R,D
   10,R,X
-   2,R,J,G
+   1,R,J,G
    3,J
-   5
+   1
+   5,R
   14,R,U,X
    3
    4,R,J,G
-  24,R,D,X
-   7,R,U,C
+  23,R,D,X
+   6,R,U,C
    1,L
   10,J,G
    3,R,J
-   4,D,X
-  10,R
+  14,R,Z
    1,R,J
   14,R,D,X
-  18,R,J
-  14,R
-  25,R,X
-   4,D,C
-  12,R,C
-   2,R,J
-  32,R,U,X
-  11,R,J
-   2
-   1,R
-   1
-  22,L,G
-  21,G
-   3,J,G
+  16,R,J
+   2,J
+   5,R,J
+   5,J
+   1,R,J
+   8,R
+  18,R,X
+   3
+  15,R,Z
+   3,R,J
+  20,R,U,X
+  25,R,J
+  26,L
+   5,J,G
+   8
+   1,J
+   6
+   2,R
    1,K
    9,R,D,X
   23,R,J
-   1,L
+   1,L,J
   57,L,D,X
   85,L,D,C
-ChapterTime: 0:16.031(943)
+ChapterTime: 0:15.980(940)
