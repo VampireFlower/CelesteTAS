@@ -2,11 +2,11 @@ console load 1 lvl_9b
    1
 
 #Start
-#lvl_9b
   36
+
+#lvl_9b
    2,R,J
-   4,D,X
-  11,R,U,X
+  15,R,U,Z
    2,J
    1,L,K,G
    3,L,J,G
@@ -15,8 +15,7 @@ console load 1 lvl_9b
    2,L,J
    1,L
    2,L,J
-   4,D,X
-   8,L,U,X
+  12,L,U,Z
    2,L,J,G
    5,L
    2,L,J
@@ -29,25 +28,28 @@ console load 1 lvl_9b
    2,J
   40
 
-#lvl_10 (1)
+#lvl_10 (0)
    6,L
    1,L,J,G
    1,L,K,G
    3,L
-   4,L,Z
+   4,Z
    1,L,J
    8,L
    3,J
   15,D,X
   11,R
    9,U,X
-  19,K
+  17,J
    5,L,J
+   1,J
+   1,L,J
    5,L,D,X
    1,L,J
-   7,L
-   4,L,J
-   3,L,K,G
+   3,L
+   1,L,J
+   3,L
+   6,L,J
    9,U,Z
    2,L,J
    4,J
@@ -58,9 +60,7 @@ console load 1 lvl_9b
 #lvl_11
    1
    1,L,J,G
-   1,L
-   1
-   3,L
+   5,L
    1,L,J
    5,L
    5,L,Z
@@ -73,15 +73,13 @@ console load 1 lvl_9b
   20,L,D
   40
 
-#lvl_10 (2)
+#lvl_10 (1)
   13,L,D
-   1,J
-   4,L,J
-   4,L
+   5,J
+   4
   15,D,X
-  15,L,D
-   6,D
-   8,R,D
+  26,D
+   3,L,D
   14,L,D,X
    1,L,J
    5,L,D,X
@@ -95,38 +93,37 @@ console load 1 lvl_9b
    9,L
   40
 
-#lvl_10z (1)
+#lvl_10z
    3,L
   19,L,D,J
    1,R,K,G
-   4,L,K,G
-   5,L
    4,L,K
-   2,L
+   5,L
+   6,L,K
   12,L,U,X
-   1,L,K,G
-   1,R,K
-   1,R
-   6,L
-   4,L,Z
+   2,L,K,G
+   7,L
+   4,Z
    5,L,J
-   3,R,J
+   3,J
   40
 
 #lvl_10zb
-   2,R,J
-  12,R
-  21,R,D
+   1,L,J
+   6
+   1,J
+   6
+  20,R,D
   15,U,X
+   1,R,J,G
+   6,R,K,G
+   3,L,K
+   1,R,J,G
    1,R,K,G
-   4,L,K
-   5,R,K
-   1,K
-   1,J,G
-  10,R
-   1,L
-   5,R
+  15,R
+   1,R,J
    1,S
    1,U,J
    1,O
   31
+#0:12.988(764)

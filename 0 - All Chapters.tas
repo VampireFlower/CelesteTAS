@@ -2,7 +2,7 @@
 
 Read,StartFullGameFile
 
-Read,0 - Prologue.tas,Start
+Read,0 - Prologue,Start
 
 Read,Load1A
 
@@ -144,5 +144,4 @@ Add 58
 Add 1
  115
 
-Read,0 - Epilogue.tas,Start
-#
+Read,0 - Epilogue,Start

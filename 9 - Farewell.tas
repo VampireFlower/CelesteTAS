@@ -1834,6 +1834,7 @@ console load 10
   18,R,D
    5,L,U,X
   27,L,U
+AnalogMode,Ignore
   28,F,261.98
    1,F,263.65
    9,F,315

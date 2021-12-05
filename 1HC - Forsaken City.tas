@@ -18,7 +18,7 @@ Read,1A,Start,lvl_6b
    2,L
   40
 
-#lvl_s0 (1)
+#lvl_s0 (0)
    4,L
   12,L,J
    4,U,Z
@@ -51,7 +51,7 @@ Read,1A,Start,lvl_6b
    2,L
   40
 
-#lvl_s1
+#lvl_s1 (1)
    5,L
   10,L,J
    5,L
@@ -103,10 +103,8 @@ Read,1A,Start,lvl_6b
   15,L,D,X
    7,L,J
    4,L,K,G
-  43,D,X
-   1
-   4,D,C
-  20,L,D,C
+  44,D,X
+  24,L,D,C
    1,L,J
   21,L
    1,L,J
@@ -119,17 +117,17 @@ Read,1A,Start,lvl_6b
 Read,SaveandQuit
   37
 
-Read,1SH0,Section Post Heart,lvl_6b (2)
+#lvl_s1 (1)
+Read,1SH0,Post Heart,lvl_6b (1)
 
-#lvl_6b (2)
-   4,D,X
-   3,R,X
+#lvl_6b (1)
+   1,R,D
+   7,R,Z
    1,R,J
   18,R
   11,R,D,J
    7,K
-   4,D,X
-   1,R,X
+   5,R,Z
    1,R,J
    3,R
    1,R,K
@@ -139,7 +137,8 @@ Read,1SH0,Section Post Heart,lvl_6b (2)
    6,R,J
   40
 
-Read,1A,lvl_6c,1HC1
+#lvl_6c
+Read,1A,lvl_6c,1HC0
 
 #lvl_9
   14,U,Z
@@ -251,9 +250,11 @@ Read,1A,lvl_6c,1HC1
   40
 
 #lvl_10
-  14,R,D
-   1,J
-  44,R,D
+  13,R,D
+   5,J
+   4
+  15,D,X
+  20,R,D
   15,L,D
   40
 
@@ -288,6 +289,8 @@ Read,1A,lvl_6c,1HC1
    1,R,K
    3,R
    1,R,J,G
-   3,R
+   1
+   2,R
 
-Read,1A,1HC2
+Read,1A,1HC1
+ChapterTime: 1:26.700(5100)

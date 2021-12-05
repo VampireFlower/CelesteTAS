@@ -2,19 +2,18 @@ console load 1 lvl_9b
    1
 
 #Start
-Read,1SH2,Start,lvl_10 (1)
+Read,1SH2,Start,lvl_10 (0)
 
-#lvl_10 (1)
-   6,L
+#lvl_10 (0)
+   7,L
    1,J,G
-   1
    3,R
   14,L,Z
    1,L,J
    5,L,D,X
    1,L,J,G
    7,L
-   1,L,K
+   1,L,J
    6,L
    8,L,J
    5,L,D,X
@@ -22,126 +21,107 @@ Read,1SH2,Start,lvl_10 (1)
    9,L
   40
 
-#lvl_10z (1)
-   3,L
-  19,L,D,J
-   1,R,K,G
-   4,L,K,G
-   5,L
-   4,L,K
-   2,L
-  12,L,U,X
-   1,L,K,G
-   1,R,K
-   1,R
-   6,L
-   4,L,Z
-   5,L,J
-   3,R,J
-  40
+#lvl_10z (0)
+Read,1SH2,lvl_10z,lvl_10zb
 
 #lvl_10zb
-   2,R,J
-  12,R
-  19,R,D
-   2,R
+   1,L,J
+   6
+   1,J
+   6
+  20,R,D
   15,U,X
-   1,R,K,G
-   4,L,K
-   5,R,K
-   1
    1,R,J,G
+   6,R,K,G
+   3,L,K
+   1,R,J,G
+   1,R,K,G
    7,R
-   4,D,X
+   4,Z
    6,R,J
-   1,R
-   1,R,K
-   1,R
+   2,R
+   1,R,J
   40
 
-#lvl_10z (2)
+#lvl_10z (1)
   16,R,D
-   2,D
-   9,L,D
+  10,L,D
   14,R,D,X
    1,R,J
    8,R,D,X
-   6,R,K,G
-   5,R
-   2,R,J
+   5,R,J,G
+   8,R
    1,R,K,G
-  17,R
-   3,R,K
-   8,R,J,G
+   5,R
+   2,R,K
+  10,R
+   1,R,J
+   3,R
+   7,R,K,G
   40
 
-#lvl_10 (2)
-   1,R,J
+#lvl_10 (1)
+   1,R,K
   15,R,D,X
-   7,R
-#+1f Berry
+#+1f berry
+   6,R
+   1
   12,R,D,X
    4,L,J
   15,D,X
    1,J
    9,U,X
-  20,K
-   4,L,K
+  18,J
+   6,L,J
    5,L,D,X
    1,L,J
    3,L
-   1,L,K
-   3,L
    1,L,J
-   7,J
-  13,U,X
+   3,L
+   6,L,J
+  15,U,X
   40
 
 #lvl_11
-  13,J
-   2
-   1,L
-  33,U,G
-   1,G
-   1,J,G
+  16,J
    1,K,G
-   2,J,G
+  30,U,G
    1
    1,K,G
-   3
-  24,R,D,X
-  13,R,D,C
-   2,L,J
+   4,J,G
+   1,L,K,G
+  20,R,D
+   4,D
+  14,R,D,X
+   1,L,J
   14,L,U,X
    5,L,J,G
-  29,L,D
-   5,L,J
+  21,L,D
+   1,L
+   7,L,D
+   3,L,J
   12,U,X
-   1,L,J
-   1,R,K,G
-   7,L
-#+3f berry
-   4,L
-   7,R,D,X
-   1,L,J
+   1,R,J
+   1,K,G
+   2
    5,L
+   4,Z
+   1,L,J
+   4,L
+   1,L,J
   40
 
-#lvl_11z
-   1,L,K
-   1,J
-   7,L,J
-   6,J
-  15,U,X
-   3,L
+#lvl_11
+   1,L
+  11,L,J
+   5,J
+  16,U,X
    2,L,J
-   4,L
-   2,R
+   6,L
    1,R,J,G
    6,R,K,G
-   7,R
-   4,X
-   4,R,J
+  14,R
+   6,R,U,X
  257
    1,J
   62
@@ -149,3 +129,4 @@ Read,1SH2,Start,lvl_10 (1)
    1,U,J
    1,O
   31
+#0:22.559(1327)
