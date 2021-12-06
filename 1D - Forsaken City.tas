@@ -5,19 +5,14 @@ console load 1
   88
 
 #lvl_1
-   2,J
-   3,R,J
-   5,R
-   3,R,J
-  10,R
-   1
-   4,R,J
-   5,R
+   1,R,J
+  14,R
+   6,R,J
+   7,R
    1,R,J
    1,R
-   3,R,J
-   2,R
-#dashless_start
+   1,R,J
+   4,R
    1,R,J,G
    1,R,K,G
   11,R
@@ -107,7 +102,12 @@ console load 1
    7,R
   13,R,J
   12,R,K
-   8,J,G
+   1,J,G
+   1,R,J
+   1,J
+   1,R,J
+   3,J
+   1,R,J
    1,K
   40
 
@@ -115,29 +115,36 @@ console load 1
    2,R
    1,R,J,G
    1,R,K,G
-  10,R
-  17,R,D,J
-   1,L
+   1,R
+   1
+   8,R
+  12,R,J
+   1,L,J
    1,K,G
-   3,R,K
+   1,R,K
+   4,L,K
    1,L
    1,J,G
-   9,R,J
-   5,R
-   8,R,J
-   1,L,J
+   6,L,J
+   4,L
+   4,R,G
+   1,R,J,G
+   2,L,J
+   3,J
+   2,R,J
+   1,R
+   1,R,K,G
+   1,R,J,G
+   2,R,K,G
+   7,R
+   1,R,D,J
+   9,J
+   1,K
+  15,L,J,G
+   1,J
    1,L,K,G
-   5,K
-   1,R,K
-  15,R,J
-   7,L,K,G
-   2,K
-   1,L,K
-   2,K
-   5,J,G
-   1,R,J
-   1,L,J
-   7,K,G
+   1,J
+   5,K,G
    6,R,K
    1,R,J,G
    1,R,K,G
@@ -176,16 +183,17 @@ console load 1
    7,R
   13,R,J
    1,K
-   6,R,K
-   2,R
-   3
+   5,R,K
+   3,R
+   2
    1,R,J,G
-   1,K
+   1,R,K,G
+   1,J
   40
 
 #lvl_5
+   1
    1,R,J,G
-   1,R,K,G
    9,R
    2,R,J
   12,R
@@ -502,9 +510,14 @@ console load 1
   40
 
 #lvl_9
-  11
    1,J,G
-  11,K,G
+   1,R
+   1,J
+   1,K
+  10,R,K
+   1,J
+  11,L,J
+   1,K,G
    1,R,K
    1,J
    1,K
@@ -512,31 +525,39 @@ console load 1
    8,R,G
    1,R,K,G
    2,L,K
-   1,R,K
-  27,R,U,G
+   8,R,K
+   9,G
+   1,D,G
+   3,U,G
+   1,D,G
+   2,U,G
+   1,G
+   3,U,G
    2,G
-   2,J,G
-   4,L,J
+   1,J,G
+   3,L,J
    1,J
+   1,L,J
    2,R,J
-   2,L,K,G
-   4,R,K
+   1,R
+   1,L,K,G
+   5,R,K
    1,R
    1,R,J,G
    9,R
    1,R,J
   18,R
    1,R,J
-  11,R
+   9,R
   40
 
 #lvl_9b
-   3,R
-   2,R,J
-   6,R
-   2,R,J
+   5,R
+   1,R,J
    8,R
-  20,R,D,J
+   1,R,J
+   5,R
+  18,R,D,J
    2,K
    2,L,J,G
    3,L,K,G
@@ -737,8 +758,8 @@ console load 1
    8,L,G
    1
    1,J
-  12,L,J
-   4,L
+  11,L,J
+   5,L
    1,L,J
   14,L,G
    1
@@ -778,20 +799,21 @@ console load 1
    3,L
    1
    1,K
-   1,J
-   6,L
-   1,K
-   1,J,G
-   1,R,J
+   2,L,K
+   5,K
   40
 
 #lvl_end
+   2,R,J
    4,R
    1,R,J,G
-   7,R,K,G
+   6,R,K,G
    4,R
   15,U,X
-  29,R,D
+  26,R,D
+   1,D
+   1,R,D
+   1,D
    6,R,Z
    1,R,J
    7,R
@@ -800,4 +822,4 @@ console load 1
    1,S
    1,D,J
   18
-ChapterTime: 1:17.197(4541)
+ChapterTime: 1:16.959(4527)
