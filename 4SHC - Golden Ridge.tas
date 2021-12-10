@@ -28,6 +28,7 @@ read,4SH,lvl_a-00,+2f berry
    6,R,J,G
   40
 
+#lvl_a-06
 read,4SH,lvl_a-06,4SHC1
    9,R,D
   12,D
@@ -44,8 +45,7 @@ read,4SH,lvl_a-06,4SHC1
    1,R,J
   15,D,X
   13,L,D
-   4,D,X
-   4,L
+   8,L,Z
    1,L,J
    6,L
    1,L,J
@@ -98,13 +98,16 @@ read,4SH,lvl_a-06,4SHC1
    8,L
   20,L,D
   15,L,U,Z
-  22,L,D
-   4,L,X
-  13,L,J
+  22,L
+   4,X
+  10,L,J
+   1,J
+   1,L,J
+   1,J
  257
    1,J
  123
-  14,R,D
+  14,R
    2,R,J
   14,R,D,X
    1,R,J
@@ -142,4 +145,6 @@ read,4SH,lvl_a-06,4SHC1
   12,U,X
   40
 
+#lvl_a-09
 read,4SH,lvl_a-09
+ChapterTime: 3:52.203(13659)

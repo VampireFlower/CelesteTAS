@@ -187,8 +187,7 @@ console load 4
    2,R
    1
    1,R
-   4,D,X
-  11,L,X
+  15,L,Z
    4,R
   11,R,K,G
    2,R
@@ -196,8 +195,7 @@ console load 4
   12,R,K,G
    7,R
 #+2f berry
-   4,D,X
-   2,R,X
+   6,R,Z
    1,R,J
    7,R
    1,R,J
@@ -264,31 +262,34 @@ console load 4
    1,R
    5,R,J
    1,R
-   4,D,X
-   8,R,U,X
+  12,R,U,Z
   33,R,U,C
   12,R,J,G
   12,R,K,G
-  10,R,J,G
+   1,R,J,G
+   7,J
+   1,L,J
+   1,R,J
    1,K
-   1,J,G
-  16,L,K
+   2,J,G
+  15,L,J
   15,L,X
    4,L
-  22,R
-  16,R,D
+  21,R
+  17,R,D
   15,R,D,X
    4,L,D
-  13,L,D,J
-  15,R,X
-   1,J
-   3,L,J
-  12,L,K,G
-   2,L,J,G
+   7,L,D,J
+   6,R,J
+  12,R,X
+   1,R,J
+   1,L,J
+   1,K
+  14,L,J,G
   15,U,X
-   5,L
-   1,L,J,G
-   7,L,D
+   8,L
+   1,L,K,G
+   7,L
 #+1f berry
   11,L,D,X
   27,R,J
@@ -1155,11 +1156,9 @@ console load 4
   29,R,D,C
    1
 #+1f berry
-   4,D,X
-  10,R,X
+  14,R,Z
    1,L,J
-   4,D,X
-  10,L,X
+  14,L,V
    1,R,J
    6,R,D,X
    1,R,J,G
@@ -1197,13 +1196,12 @@ console load 4
   15,R,C
   16,R,D
    5,D
-   4,D,X
-  12,R,X
+  16,R,Z
    7,J
   11,L,K,G
    1,J
-   3,K,G
-  14,R,K
+   2,K,G
+  15,R,K
    1,L,J,G
    2,R,J
    2,J
@@ -1376,7 +1374,8 @@ console load 4
    8,L,K,G
    7,L
    8,L,D
-   2,L
+   1,L
+   1,L,J
    1,O
   71
    2,R,J
@@ -1970,4 +1969,4 @@ console load 4
    1,S
    1,D,J
   18
-ChapterTime: 3:39.844(12932)
+ChapterTime: 3:39.827(12931)

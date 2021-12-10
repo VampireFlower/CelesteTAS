@@ -6,8 +6,7 @@ Read,4A,Start,lvl_a-07
 
 #lvl_a-07
    6,R
-   4,D,X
-   9,R,U,X
+  13,R,U,Z
   33,R,U,C
   12,R,J,G
   12,R,K,G
@@ -24,15 +23,17 @@ Read,4A,Start,lvl_a-07
   17,R,D
   15,R,D,X
    4,L,D
-  13,L,D,J
-  15,R,X
-   5,L,J
-  12,L,K,G
-   1,L,J,G
+   7,L,D,J
+   6,R,J
+  12,R,X
+   1,R,J
+   1,L
+   1,K
+  14,L,J,G
   15,U,X
-   5,L
-   1,L,J,G
-   7,L,D
+   8,L
+   1,L,K,G
+   7,L
   10,L,D,X
   27,R,J
    9,R,U,X
@@ -41,33 +42,29 @@ Read,4A,Start,lvl_a-07
 #lvl_a-08 (1)
    6,R,U,X
    1,R,J
-   7,R,K
-   2,R
-   4,R,D,X
-  11,R,U,X
+   8,R,K
+   1,R,J
+  15,R,U,Z
   12,L,J,G
   12,L,K,G
    3,L,J,G
    7,L
-   9,L,J
-   2,L
+  10,L,J
   14,L,U,X
    6,L,J,G
+   1,L
   40
 
 #lvl_a-10 (1)
-   2,L,J
-   4,D,X
-  10,L,X
+   3,L
+   1,R
+   1,J,G
+  14,L,Z
    4,L,J
-   1,L
-   5,L,J
+   3,L
    9,L,D,X
    1,L,J,G
-   5,L
-   1,L,J
-  12,L,D
-   1,L
+  17,L
    1,L,J
   14,L,D,X
    6,L,J
@@ -109,9 +106,7 @@ Read,4A,Start,lvl_a-07
    1,R,K
    1,R
    1,R,K
-   1,R
-   1,R
-   1,R
+   3,R
    1,L
    1,R
    1,L
@@ -120,21 +115,24 @@ Read,4A,Start,lvl_a-07
    8,L
   20,L,D
   15,L,U,Z
-  22,L,D
-   4,L,X
-  13,L,J
+  22,L
+   4,X
+  10,L,J
+   1,J
+   1,L,J
+   1,J
  257
    1,J
  123
-  14,R,D
+  14,R
    2,R,J
   14,R,D,X
    1,R,J
    5,R,D,X
   40
 
-#lvl_a-10
-   9,R
+#lvl_a-10 (2)
+   9,R,D,X
    2,R,J
    6,R,D,X
    1,R,J,G
@@ -164,11 +162,11 @@ Read,4A,Start,lvl_a-07
   12,U,X
   40
 
+#lvl_a-09
 read,4A,lvl_a-09,lvl_b-02
 
 #lvl_b-02 (1)
-   1,R,J
-   3,R
+   4,R
   15,R,D,X
    1,R,J
    1,R,K
@@ -218,11 +216,13 @@ read,4A,lvl_a-09,lvl_b-02
    2,R
    1,R,J
    9,R
-   1,R,J
+   1,L
    1,K
-   1,J
-   3,R,J
-  20,R,D
+   2,J,G
+   1,R,J
+   5,R
+   1,R,J
+  14,R
    4,X
   34,D,X
  101,L,D
@@ -230,9 +230,12 @@ read,4A,lvl_a-09,lvl_b-02
   59
    1,J
   30
-   6,D
-   2,L
+   3,D
    1,L,D
+   2,D
+   1,L
+   1,D
+   1
    1,L
    1,L,D
    1,D
@@ -250,21 +253,18 @@ read,4A,lvl_a-09,lvl_b-02
    1,L,J
   14,L,D,X
    1,L,J
-  15,L,D,C
-   1,F,359.9
+  16,L,D,C
    7,U,X
   17,L,J
    1,L,K,G
-   5,L,J,G
-   3,J
-  12,U,X
+   6,L,J,G
+  13,U,X
   40
 
 #lvl_b-05
-   3,L
+   5,L
    1
-   2,L
-   1
+   1,L
   27,L,J
   15,U,X
    4,L
@@ -279,5 +279,6 @@ read,4A,lvl_a-09,lvl_b-02
    1,R,J
   40
 
+#lvl_b-08b
 read,4A,lvl_b-08b
-  42
+ChapterTime: 2:15.405(7965)
