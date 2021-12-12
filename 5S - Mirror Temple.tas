@@ -1641,7 +1641,10 @@ console load 5
    7,L
    7,L,J
    5,L,K,G
-  12,L,J,G
+   1,L,J,G
+   2,R,J,G
+   1,L,J
+   7,L,K,G
   10,L,D,X
    5,R,J
    7,R,U,X
@@ -3038,4 +3041,4 @@ console load 5
    1,S
    1,D,J
   18
-ChapterTime: 6:39.721(23513)
+ChapterTime: 6:39.704(23512)

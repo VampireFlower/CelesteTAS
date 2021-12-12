@@ -130,33 +130,38 @@ console hard 4
    7,R,J
   24,R,U,X
    1,G
-   8,R,J,G
-   4,R
-   2
-   1,R
-  27,D
-   1,R,J
-   5,R
-   1,R,J
-   1,L,J
-   1,L
-   1,L,J
-   6,L
+   5,R,J,G
+   2,R
+   1,K,G
    1
-   1,L
-   3,R
-   4,Z
+   6,R
+  14,R,D,X
+   1,L,D,J
+  15,D,C
+   5,L,Z
+   3,L,D,Z
+   6,L,Z
    1,R,J
-   1,R,K,G
+   8,R,D,X
    1,R,J,G
-   7,R
-   3,R,D
+   1,R
+   1,R,J,G
+   5,R
+   3,R,J
+   1,R
+   1,D
+   1,D
    9,R,J
-   9,R
-   2,R,J
-   4,R
-   7
-   1,J,G
+   2,R
+   1
+   3,R
+   3,R,J
+   2,R
+   1,R,J
+  10
+   1,R
+   1
+   3,J,G
    1,R,J
    1,K
    8,R,J,G
@@ -1059,4 +1064,4 @@ console hard 4
    8,R,J,G
    5,L,D,C
  134,L
-ChapterTime: 2:04.576(7328)
+ChapterTime: 2:04.525(7325)
