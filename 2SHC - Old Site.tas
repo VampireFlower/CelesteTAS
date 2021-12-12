@@ -7,15 +7,14 @@ Read,2HC,Start,lvl_start (2)
 Read,2S,Start,lvl_d0 (2)
 
 #lvl_d0 (2)
-  40,L,D,X
-   1,R,D
-  27,D
+   2,L
+  41,L,D
+  21,D
   43,D,X
   40
 
 #lvl_d9
 Read,2HC,lvl_d9,Return
-
  123
    3,L
   15,L,U,Z
@@ -44,4 +43,20 @@ Read,2HC,lvl_d9,Return
   40
 
 #lvl_d6
-Read,2S,lvl_d6
+  15,L,J
+  14,L,U,X
+   1,R,J,G
+   6,L,J
+   5,L
+   2,L,J
+   3,L
+   6,L,J
+   3,L
+  24,L,U,X
+   6,L,J
+   9,U,X
+  43
+
+#lvl_d1
+Read,2S,lvl_d1
+FileTime: 2:57.922(10466)
