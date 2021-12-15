@@ -2,7 +2,10 @@ console load 4
    1
 
 #Start
-Read,4A,Start,lvl_a-07
+  69
+
+#lvl_a-00
+Read,4A,lvl_a-00,lvl_a-07
 
 #lvl_a-07
    6,R

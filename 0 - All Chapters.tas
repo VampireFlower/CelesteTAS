@@ -6,9 +6,20 @@ Read,0 - Prologue,Start
 
 Read,Load1A
 
-Read,1HC,Start
+Read,1HC0,Start
 
-Read,LoadA
+#Reenter City
+  51
+   1,S
+   1,J
+  30
+   1,J
+  45
+Add 1
+
+Read,1HC1
+
+Read,LoadANoCollects
 
 Read,2HC,Start
 

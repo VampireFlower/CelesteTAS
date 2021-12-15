@@ -352,27 +352,21 @@ console load 3
    8,R
   14,R,U,Z
   18,R
-   6,J,G
-   1,L,J
-   1,K
+   8,J
   10,R,Z
    1,L,J
-   7,L
-   7,R
-   5,L,D
-   2,R,D
-  13,R,D,X
+  22,D
+  12,R,D,X
    1,R,J
-   9,L
-   6,R
-   1,R,D
+   9
+   7,R,D
    2
   15,R,Z
    1,L
    1,J,G
-   2
-   3,R
    3
+   3,R
+   2
   15,R,D,X
    2
    9,R,J,G
@@ -387,8 +381,7 @@ console load 3
    1,R,K
    1,R
    1,R,K
-  15,R,D
-   3,R,D
+  18,R,D
   11,D
    5,L,D
    1,D
@@ -405,12 +398,10 @@ console load 3
    1,L,J
    9,L,D,X
   15,L,J
-   3,L
-   1,L,J
-   1,L
+   4,L
+   1,J
    1,L,J,G
-   1
-  19,L,D
+  20,L,D
    6,L,Z
    1,L,J
   40

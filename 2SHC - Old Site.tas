@@ -2,8 +2,12 @@ console load 2
    1
 
 #Start
-Read,2HC,Start,lvl_start (2)
+ 190
 
+#lvl_start (0)
+Read,2HC,lvl_start (0),lvl_start (2)
+
+#lvl_start (2)
 Read,2S,Start,lvl_d0 (2)
 
 #lvl_d0 (2)

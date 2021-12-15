@@ -2,8 +2,10 @@ console load 3
    1
 
 #Start
+  61
+
 #lvl_s0
-read,3A,Start,lvl_09-b (0)
+read,3A,lvl_s0,lvl_09-b (0)
 
 #lvl_09-b (0)
 read,3SH,lvl_09-b (0),lvl_13-b (0)
@@ -476,3 +478,4 @@ read,3SH,lvl_04-d,3HC2
 
 #lvl_00-d
 read,3A,lvl_00-d
+ChapterTime: 3:42.955(13115)

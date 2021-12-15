@@ -1,0 +1,30 @@
+console load 1 lvl_9b
+   1
+
+#Start
+  36
+
+#lvl_9b
+   2,R,J
+  15,R,U,Z
+   1,J
+   1,L,K,G
+   2,L,J,G
+   2,L,K,G
+   1,R
+   6,L
+   7,L,Z
+   1,R,J
+   6,R
+  22,R,J
+  17,R,U,X
+   1,J
+   2,L
+   1
+   4,L
+  10,U,X
+   1,J
+  40
+
+#lvl_10a
+Read,1A,lvl_10a

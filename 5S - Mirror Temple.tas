@@ -1395,22 +1395,24 @@ console load 5
   10,L
   24,L,D
   34,L
-  25,L,D
+  24,L,D
    1
    5,L,D,J
-   1,R,J
-   1,J
+   1,R,K
+   1,K
   10,U,X
    1,R,J
    3,K,G
-   3,J,G
-  12
+   2,J,G
+   1
+   2
+   3,J
+   9
    3,R
    2,L
-   4,R
-   7,L
    2,R
-   2,L
+   9,L
+   2,R
    1,R,D,J
    1,S
    1,D,J
@@ -3041,4 +3043,4 @@ console load 5
    1,S
    1,D,J
   18
-ChapterTime: 6:39.704(23512)
+ChapterTime: 6:39.687(23511)

@@ -2,6 +2,9 @@ console load 4
    1
 
 #Start
+  69
+
+#lvl_a-00
 read,4SH,lvl_a-00,+2f berry
    5,R,Z
    1,R,J

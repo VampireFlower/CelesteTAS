@@ -2,7 +2,10 @@ console load 1 lvl_9b
    1
 
 #Start
-Read,1SH2,Start,lvl_10 (0)
+  36
+
+#lvl_9b
+Read,1SH2,lvl_9b,lvl_10 (0)
 
 #lvl_10 (0)
    7,L
@@ -111,10 +114,10 @@ Read,1SH2,lvl_10z,lvl_10zb
    1,L,J
   40
 
-#lvl_11
+#lvl_11z
    1,L
-  11,L,J
-   5,J
+  12,L,D,J
+   4,J
   16,U,X
    2,L,J
    6,L

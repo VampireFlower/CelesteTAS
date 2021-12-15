@@ -6,7 +6,7 @@ Read,0 - Prologue,Start
 
 Read,Load1A
 
-Read,1HC,Start,Return
+Read,1HC0,Start,Return
 
 Read,LoadBFromA
 
@@ -68,8 +68,6 @@ Read,LoadBFromA
 Read,7B,Start
 
 Read,LoadAFromB,Start,Summit
-
- 115
 
 Read,0 - Epilogue
 
