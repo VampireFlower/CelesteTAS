@@ -11,8 +11,9 @@ console load 5
    1
 
 #Start
-#lvl_a-00b (1)
  110
+
+#lvl_a-00b (1)
    1,S
    1,D,J
   34
@@ -121,47 +122,72 @@ console load 5
   40
 
 #lvl_a-00c
-   1,R,D,X
+   1,R,D
    6,R,J
    6,R
    2,R,J
-   2,R,K
-   6,R
-   9,R,Z
+   6,R,K
+   1,R
+  14,R,Z
    1,R,J
-   8,R
+   5,U,C
    1,R,J
-   1,R,K,G
-   1,K
-   5,R
-  14,R,U,X
-   1,R,J,G
-   9,R
-  12,R,J
-  15,R,D,X
+  18,L,J
    4,R,J
+   3,R
+   1
+   1,K,G
+   2,R
+   3
+   1,R
+   1
+   1,R
+   2
+   1,L
+   1,R,J
+  21,R,D
+  13,R,G
+   7,U,G
+   1
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   7,R
+   1,R,J
+   1,R
+  24,R,D,X
   40
 
 #lvl_a-00
-   2,R,J
-   8,R
-  90,R,C
-  14,R,D,X
-   1,R,J
-   9,R,D,X
-   1,R,J
+   4,R,D
+  10,R,D,J
    6,R
+   2,R,J
+   1,R
+   2,R,J
+   7,R
+  11,R,D,X
+   1,L,J
+   3,L
+   8,L,D,X
+   1,R,J
+   1
+   6,R
+   1,R,J
+   6,R,K,G
   40
 
 #lvl_a-01 (1)
-   1,R
-   1,R,J
-   2,R
+   1,R,K
   15,R,D,X
-   4,R,D
-  35,D
-   3,R,D
-   1,D
+  28,R,D
+   3,R
+   1,R,D
+   7,D
+   1,R,D
+   6,D
    8,L,D
   14,L,D,X
    1,L,J
@@ -389,8 +415,7 @@ console load 5
    7,R,K
    5,R
    1,K
-   3
-   2,R
+   5,R
    7,L,Z
    1,R,J
    6,R

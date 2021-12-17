@@ -2,8 +2,10 @@ console load 5
    1
 
 #Start
+ 110
 
-read,5S,Start,+1f berry (1)
+#lvl_a-00b (1)
+read,5S,lvl_a-00b (1),+1f berry (1)
   11,R,X
    4,R,J
    1,K
