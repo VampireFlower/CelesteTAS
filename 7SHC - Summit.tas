@@ -4,11 +4,14 @@ console load 7
 #Start
 read,7S,Start,lvl_a-06
 
+#lvl_a-06
 read,7HC,lvl_a-06,lvl_b-00
 
+#lvl_b-00
 read,7S,lvl_b-00,7SHC1
 
-   9,R,D,X
+#lvl_b-02e
+   8,R,D,X
    1,R,J
    7,R
    2,R,J
@@ -26,26 +29,53 @@ read,7S,lvl_b-00,7SHC1
   14,R,U,X
    1,R,J,G
    5,R
-   3,R,K
-   1,R
+   4,R,J
   40
 
 #lvl_b-02c
+   1
    7,R
-   1,J
    1,R,J
-  18,R,D,X
-   3,R
-   3
-   9,R,D
+  21,R,D,X
+   2
+   8,R,D
   12,D,X
   40
 
-read,7HC,lvl_b-02d,lvl_b-02 (2)
+#lvl_b-02d
+   3
+  10,R,D,X
+   5,L,J
+   1,L
+  12,L,D,X
+   3,L,K,G
+   1,L
+  22,L,D,C
+   8,L,U,X
+   1,L,J,G
+   6,L
+  18,L,D,X
+   7,R,D
+  21,R,D,C
+   1,R
+  22,R,X
+  11,R,U,C
+   4,R,J,G
+  15,R,D,X
+   4,V
+   8,R,J
+   2,R
+   1
+   1,R,J
+   3
+  30,L,D,X
+   1,L
+   9,D,C
+  40
 
 #lvl_b-02 (2)
    5,R,D
-   1,D
+   3,D
   14,R,D,X
    1,R,J
    3,R
@@ -83,44 +113,41 @@ read,7HC,lvl_b-02d,lvl_b-02 (2)
 read,7S,7SHC2,lvl_c-06b
 
 #lvl_c-06b (1)
-  10,J
+   1,R,J
+   2,J
+   1,R,J
+   5,J
   14,U,X
-  14,J
-  15,U,Z
-   1,R,J,G
-   1,R
+   1,J
+  17,U,X
+  11,J
+   1,R,K,G
+   5,R
    1
    1,R
-   3
-   1,R
-  10,R,Z
-   6,R,J
-   2,R,K,G
-  11,R,X
-   3,R,J,G
+  11,R,Z
+   5,R,J
+   6,R,K,G
+   7,R,Z
+  17,R,J,G
+  18,U,X
+   1,L,K,G
+  18,R,X
+   7,R,D,C
+   1,R,J
    5,R
-  32,R,U,Z
-   5,R,X
-   1,R,J
-  12,R
-   8,R,D,X
-   1,R,J
-   4,R
   40
 
+#lvl_c-06c
 read,7HC,lvl_c-06c,lvl_c-06b (2)
 
 #lvl_c-06b (2)
-   6,L
-  18,L,U,X
+  20,L,U,X
    4,L,J
-   1,L,K
-   3,L
-  15,L,D,X
-   1,L
+   3,L,K
+  16,L,D,X
   12,L,J
-   4,D,X
-  10,L,U,X
+  14,L,U,Z
    1,R
    1,R,J,G
    2,J,G
@@ -155,20 +182,32 @@ read,7HC,lvl_d-03 (1),lvl_d-03 (2)
    9,R,D
   31,R,D,X
   14,R,D,C
-   2,R,J
-  15,R,U,X
-  13,R,U,C
-   2,R,J,G
-   7,R
-  12,R,X
-   6,R,J
-   6,R
-  15,D,X
-  12,L,D,C
+   8,R,J
+  14,R,U,X
+  12,K,G
+   1,J,G
+   1
+   5,R,Z
    1,R,J
-  10,L,D
-  15,L,X
-  10,L,C
+   5
+   1,R
+   1,D,J
+   6,R,J
+   2,J
+   1,R,J
+   1,J
+   2
+  15,D,X
+   2,D
+   5,R,D
+   1,D
+   1
+   1,L
+   1,L,D
+   5,L,X
+   1,R,J
+  10,L
+  14,L,X
    3,J
    2,K
    9,U,X
@@ -202,45 +241,48 @@ read,7HC,lvl_d-03 (1),lvl_d-03 (2)
    5,J,G
    1,R,J
    1,R,K,G
-  26,R,J,G
-   1,R
-   3,R,J,G
-   1,R
+  27,R,J,G
+   1,K,G
+   2,R,K
+   1,L,K
   12,R,J,G
    7,R
-   7,R,Z
+   6,R,Z
    1,R,J
-   6,R
+   7,R
    1,R,J
-   6,R,D,X
+   5,R,D,X
   40
 
+#lvl_d-04
 read,7S,lvl_d-04,lvl_d-05
 
+#lvl_d-05 (1)
 read,7HC,lvl_d-05 (1),lvl_d-05 (2)
 
 #lvl_d-05 (2)
-   5,L
-   7,L,J
+   4,L
+   8,L,J
   14,U,Z
-   7,R,J
+   6,L,J
   10,R,X
-   1,R,J
-   4,R,J
+   5,R,J
   14,U,X
    7,R,J
   10,U,X
   40
 
+#lvl_d-06 (1)
 read,7S,lvl_d-06 (1),lvl_e-00
 
+#lvl_e-00 (1)
 read,7HC,lvl_e-00 (1),lvl_e-03
 
+#lvl_e-03
 read,7S,lvl_e-03,Berry1
 
 #lvl_e-07
-   4,D,X
-  11,L,X
+  15,L,Z
   15,D,C
    5,L
   34
@@ -281,10 +323,9 @@ read,7S,Berry2,lvl_f-00 (1)
    2,R,K,G
   12,R,U,X
   11,R,J,G
-  15,R,X
-  61,R
-  20,R,U,X
-  14,R,C
+  76,R,X
+  20,R,U,C
+  14,R,X
    4,R,J,G
   17,R
   23,R,X
@@ -300,32 +341,34 @@ read,7S,Berry2,lvl_f-00 (1)
   20,L,U,X
    4,D,C
    7,R,C
-   6,L,J
+   4,L,J
   15,L,D,C
   22,L
-  17,L,D
-  20,L,X
+  10,L,D
+   3,L
+   3,L,D
+   1,L
+  21,L,X
   12,L,J
-   4,L,K,G
-   2,J
+   3,L,K,G
+   1,J
+   1,K
    5,L,X
    1,L,J,G
-   9,L
+   5,L
    1,L,J
-   8,L
+  12,L
   12,L,X
    7,L,J,G
    7,L
    4,D,X
    1,L,J
    7,L
-  11,L,J
-   2,L
-  15,L,D,X
-   3,L,J
-   1,R,J
-   1,L,K,G
-  17,L,U,X
+   9,L,K
+   5,L
+   1,L,J
+  13,L
+  15,L,U,X
    5,L,D,C
    1,L,J
    7,L
@@ -357,13 +400,13 @@ read,7S,Berry2,lvl_f-00 (1)
   26,R,J,G
   23,R,D
    5,D
-   4,D,X
-   1,R,X
-   1,R,J,G
-  21,R,D
+   5,R,Z
+   2,R,J,G
+  19,R
   32,R,X
   40
 
+#lvl_f-00 (2)
 read,7HC,lvl_f-00 (2),7SHC4
 
    9,R,D,X
@@ -389,29 +432,25 @@ read,7HC,lvl_f-00 (2),7SHC4
    1,L,K,G
    1
    6,L
-   4,L,D,X
+   4,D,X
    1,L,J
-  15,L,D
+  15,L
   10,D,X
    9,R,J,G
   15,D,X
   15,R,D,C
    1,R
-  15,R,D,X
-   3,R,D
+  18,R,D,X
    1,R
-   2,R,K,G
+   1,R,G
+   1,R,K,G
   20,R,D,X
   40
 
 #lvl_f-05 (2)
    9,R,D
-   4,D,X
-  11,R,X
-   1,R
-   4,D,X
-  11,R,X
-   1,R
+  16,R,Z
+  16,R,V
    1,L
   19,L,J,G
    7,L,K,G
@@ -434,25 +473,26 @@ read,7HC,lvl_f-00 (2),7SHC4
    8,R,J
    1,R,K
    7,R
-   4,R,D,X
+   4,D,X
    1,R,J
-  14,R,D
+  14,R
   11,D,X
    5,L,J,G
    4
   16,D,X
   15,L,D,C
-   4,L
-  15,D,X
-   5,L,D
-   6,L,D,C
-   1,L,J
-   8
-   7,R,D,C
+   2,L,D
+   2,L
+  12,D,X
+   2,L,J
+   2,L
+  18,L,D,X
+   2,R,D
   40
 
 #lvl_f-05 (2)
-  30,R,D
+  30,R,D,X
+   7,D
    2,L,D
    2,R,D
    2,L,D
@@ -486,35 +526,38 @@ read,7HC,lvl_f-00 (2),7SHC4
    3,R,D
    2,R
    3,R,D
-  15,R
+  13,R
   14,L,D,X
    1,R,J
    9,R,D,X
    1,R,J
-   6,R,K,G
+   3,R,K,G
+   2,R
   40
 
 #lvl_f-08
-   2,R,K
+   3,R
   15,R,D,X
-   7,D,C
+   6,D,C
   47,U,X
   40
 
+#lvl_f-08b
 read,7S,lvl_f-08b,lvl_g-00b
 
+#lvl_g-00b
 read,7HC,lvl_g-00b,lvl_g-00b (2)
 
 #lvl_g-00b (2)
   37
-   4,D,X
-   2,R,X
+   6,R,D,X
    1,L,J
-   1
+   3,L
    1,K
-   2
-   6,J
-   5,L,J
-   1,J
-
+   7,L,J
+  15,U,X
+  14,U,C
+  15,R,J
+   2,K,G
 read,7S,7SHC5
+ChapterTime: 10:01.375(35375)
