@@ -8,10 +8,10 @@ console load 3
 read,3SH,lvl_s0,lvl_04-d
 
 #lvl_04-d (0)
-  14,L,D
+  14,L
    7,R,D
-  13,L,D
-   2,L
+  12,L,D
+   3,L
    9,L,U,Z
    1,R
    7,J,G
@@ -20,12 +20,14 @@ read,3SH,lvl_s0,lvl_04-d
    8,L,J,G
   34,L,D
    4,L
-  10,L,J,G
+   1,L,G
+   9,L,J,G
   13,U,X
   10,L,J
   38,L,D
    4,L
-  10,L,J,G
+   1,L,G
+   9,L,J,G
   14,U,Z
    7,L,J
   11,L
@@ -43,26 +45,36 @@ read,3SH,lvl_s0,lvl_04-d
 #lvl_04-c (0)
    6,L,D
   15,R,D
-  17,R
-   2,R,D
-  13,R,U,Z
+   4,R
+   4,L
+   1,R
+   1,D
+  15,R,Z
    1,L
-   9,J,G
-   3,R,J
-   1,R,K,G
-   3,L
-   5
-  28,L,D
+   1,L,J,G
+   2,J
+   1,R,J
+   2,J
+   8,R,J
+   1,K,G
+   1,K
+   1,L
+  13,R
+  22,L,D
   10,L,X
-  14,L,J
-   1,J
-   1,L,J
+  16,L,J
   15,U,X
   17,J
    1,L,J
    1,L,K,G
-   3,L,J,G
-  15,L,D
+   1,L,J,G
+   1,J
+   1,L,J
+  11,L
+   1
+   1,L
+   1
+   1,R,D
    9,D
   16,L,D
   14,L,D,X
@@ -137,10 +149,7 @@ read,3SH,lvl_s0,lvl_04-d
   40
 
 #lvl_03-b
-read,3SH,lvl_03-b,3SHC0
-  14,U,X
-   1,J
-  40
+read,3SH,lvl_03-b,lvl_02-c (1)
 
 #lvl_02-c (2)
    1,L
@@ -250,4 +259,4 @@ read,3SH,lvl_03-b,3SHC0
 
 #lvl_00-d
 read,3SH,lvl_00-d
-ChapterTime: 4:57.823(17519)
+ChapterTime: 4:57.687(17511)
