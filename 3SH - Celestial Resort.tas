@@ -1002,30 +1002,32 @@ console load 3
   40
 
 #lvl_12-b (0)
-   6,R
+   2,R
+   1,R,J
+   3,R
    3,R,J
-  14,R,K,G
+  13,R,K,G
   15,R,D,X
-   3,R,J
-   1,R,K,G
-   5,R
+   1,R
+   2,R,D,J
+   1,R
+   2,R,K,G
+   4,R
    9,R,D,X
    1,R,J,G
-   8,R
+   5,R
+   3,R,J
   40
 
 #lvl_13-b (0)
-   1,R
+   1,R,J
   10,R,U,X
-   1,R,K,G
-  37,R,J,G
-   4
-   2,R
-   1
+  42,R,J,G
+   2
    6,L,J
-   9,L
+   5,L
    1,L,J
-  27,L,D
+  31,L,D
    4,Z
    8,L,J
    4,L
@@ -1088,48 +1090,47 @@ console load 3
    1,J
    1,R,J
    5,R
-  16,R,D,X
-   9,D
+  15,R,D,X
+  10,D
    4
-   1,R,D
+   1,L,D
   10,L,X
-  12,J
-  16,U,X
-   2,J
-   7,L,J
-   1,L,K,G
-   2,L,J,G
-   1,J
+   6,J
    1,L,J
-   7,L
-   1,L,J
-  16,L,D
-   2,R,D
+   4,J
    1
-   8,R,D
-   3,R
+  17,U,X
+   6,L,J
+   2,L
+   1,L,K,G
+   4,L,J,G
+  17,L,D
+   1,D
+   3,L,D
+   4,D
+   1
+   6,R,D
+   5,R
   14,U,X
   10,L,J
    1,L,K,G
-   7,L
-  15,L,D,X
-  15,D,C
-  10,L,D
-   5,D
-  12,L,Z
-#+1f Berry
-   3,L,J
-   5,L,U,X
+   1,R
+   6,L
+   5,L,Z
+   1,L,J
+  20,D
+  20,L,D
+   9,L,D,X
   40
 
 #lvl_12-x
-   2,L,U,X
-   1,R
-   8,J,G
-  11,L,Z
-   8,L,J
-   1,L,K,G
-   5,L,D,X
+   2,L,D,X
+   3,L,J
+   3,L,K,G
+  14,L,U,X
+   3,L,J,G
+   7,L
+   5,D,X
 #3HC0
   12
    1,S
@@ -1357,8 +1358,8 @@ console load 3
    2,R,D
    1,R
    1,R,D
-   1,K
-   7,J,G
+   1,J
+   7,K,G
    5,L
    1,L,J,G
    1,L,K,G
@@ -2502,4 +2503,4 @@ console load 3
    1,S
    1,D,J
   18
-ChapterTime: 4:46.739(16867)
+ChapterTime: 4:46.654(16862)
