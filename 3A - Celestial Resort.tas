@@ -850,22 +850,21 @@ console load 3
    5,L,K,G
   14,L,D,X
    1,L,J
+   4,L
   14,L,D,X
    1,L,J
-   7,L
-   1,L,J
-   7,L,D,X
+  10,L,D,X
   40
 
 #lvl_11-d
    4,L,D,X
    1,L,J
-   5,L
+   6,L
    1,L,J
-  14,L,D
+  12,L,D
+   1,D
    5,R,D
-   6,D
-   8,L,D
+  14,L,D
   10,L,U,Z
    1,J
   10,L,K
@@ -877,8 +876,7 @@ console load 3
    1,L
    4,Z
    1,L,J
-   6,L
-   5,L,D
+  11,L,D
    2,L,J
   40
 
@@ -1708,4 +1706,4 @@ console load 3
    1,S
    1,D,J
   18
-ChapterTime: 3:15.228(11484)
+ChapterTime: 3:15.211(11483)

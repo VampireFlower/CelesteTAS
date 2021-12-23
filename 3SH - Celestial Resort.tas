@@ -1350,39 +1350,40 @@ console load 3
    3,L,J
    5,L,K,G
   14,L,D,X
-   1,L,J
+   2,L,J
   14,L,D,X
    1,L,J
-  13,L,D,X
+  12,L,D,X
   40
 
 #lvl_11-d
-   1,L,J
-   7,L
+   2,L,D,X
    4,L,J
    1,L
-  19,L,D,X
+   2,L,J
+  17,L,D
+   2,D
    4,R,D
    1,D
-   1,R,J
+   1,J
    7,R
-  15,R,X
-  19,R
-   2,R,D
+  15,R,Z
+  22,R,D
    1,R
-   1,R,D
    1,J
    7,K,G
    5,L
    1,L,J,G
    1,L,K,G
-  25,L,D
+  24,L,D
+   1,L
   21,L,Z
    6,J
    7,L,J
    2,L
   15,L,Z
-  27,L,D
+  26,L,D
+   1,L
    4,Z
    1,L,J
    7,L
@@ -1673,7 +1674,6 @@ console load 3
   11,L,J
   14,L,U,X
    2,L,J,G
-#3HC1
    5,L
    4
    2,R
@@ -2497,4 +2497,4 @@ console load 3
    1,S
    1,D,J
   18
-ChapterTime: 4:46.297(16841)
+ChapterTime: 4:46.280(16840)
