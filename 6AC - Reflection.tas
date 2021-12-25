@@ -5,9 +5,8 @@ console load 6
 Read,6HC,Start,lvl_04e
 
 #lvl_04e
-   3,L,D
-   1,L,J
-   1,J
+   3,L,D,X
+   2,L,J
    3,L
    8,L,D,X
    1,L,J,G

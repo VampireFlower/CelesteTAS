@@ -24,29 +24,22 @@ console load 4
    6,R
   19,R,J
   15,R,U,X
-#better positioning could save a frame
-   2,J,G
-   1,L
-   1,R,K,G
-   1,R,J,G
-   2,R,K,G
-   2,K
-   1,R,K
-   2,J,G
-   1,L
-  11,R,K,G
+  11,J,G
+   1,K,G
+   1,L,K
+  11,R,J,G
    7,R
-   7,R,Z
+   8,R,Z
    1,R,J
-   6,R
+   7,R
    1,R,J
-   7,R,D,X
+   5,R,D,X
   40
 
 #lvl_a-01
-   7,R,D,X
-   8,R,J
-  15,R,U,X
+   9,R,D,X
+   6,R,J
+  14,R,U,X
   14,U,C
   15,R,J
    5,R,Z
@@ -144,7 +137,9 @@ console load 4
    3,R,J
   12,R,Z
   10,R,J
-  24,R,U,X
+  15,R,U,X
+   4,R
+   5
    4,Z
    1,R,J
    8,R
@@ -915,4 +910,4 @@ console load 4
    1,S
    1,D,J
   18
-ChapterTime: 1:47.423(6319)
+ChapterTime: 1:47.406(6318)

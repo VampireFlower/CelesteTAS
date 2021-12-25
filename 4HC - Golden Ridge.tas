@@ -117,39 +117,47 @@ Read,4A,lvl_a-00,lvl_a-07
   20,L,D
   15,L,U,Z
   22,L
-   4,X
-  10,L,J
-   1,J
-   1,L,J
-   1,J
+#4AC
+   2,L,J
+  10,L,X
+   5,J
+   3,L,J
  257
    1,J
  123
-  14,R
-   2,R,J
+   3,R
   14,R,D,X
    1,R,J
-   5,R,D,X
+   3,R
+   6,R,D,X
   40
 
 #lvl_a-10 (2)
-   9,R,D,X
-   2,R,J
-   6,R,D,X
+   8,R,D,X
+   3,R,J
+   7,R,D,X
    1,R,J,G
-   3
-   9,R
-   4,R,D,J
+   1,R
+   1
+   6,R
+   1,R,J
+   2,R
+   1,R,J
+   3,R
+   1
    5,R,D,X
    1,R,K,G
    2
-   2,R
-   1
-   1,J
+   1,R
+   2
+   1,R,J
    7,R
-   2,R,J
+   2,R,D,J
    4,R,K,G
    1,K
+#0.42 more speed
+#would save a frame
+#cant have >494.99 speed
   10,R,D,X
   40
 
@@ -158,7 +166,7 @@ Read,4A,lvl_a-00,lvl_a-07
    1,R,J
    1,R
   33,R,J
-  19,R,U,X
+  20,R,U,X
   15,U,C
   12,U,X
   40
@@ -282,4 +290,4 @@ read,4A,lvl_a-09,lvl_b-02
 
 #lvl_b-08b
 read,4A,lvl_b-08b
-ChapterTime: 2:15.371(7963)
+ChapterTime: 2:15.286(7958)

@@ -936,13 +936,15 @@ console load 7
    7,R,J
   15,R,U,C
   38,R,U,X
-  29,L,U,C
-  29,R,U,X
-  19,L,U,C
-   2,J
+  14,U,C
+   5,R,J
+  34,L,U,X
+   1,L,J
+  17,R,U,C
+   2,L,K
   15,L,D,X
-  33,R,D,C
-  15,D,X
+  32,R,D,C
+  16,D,X
   25,L,D,C
    4,L,J
    1,L,K
@@ -1189,12 +1191,11 @@ console load 7
    4,L,J
    2,L,K
    6,U,X
-  42,R
+  43,R
   15,U,X
-  29,R,C
+  28,R,Z
    4,L,J
-  15,U,X
-   1,R
+  14,U,X
   12,R,J
   18,R,X
    9,R,C
@@ -1941,20 +1942,24 @@ console load 7
   15,U,X
   13,R
   15,R,X
-  16,R
+   8,R
+   2
+   6,R
 #Berry2
-   4,R,J
-   3,L,J
-   5,L
+   3,R,J
+   6,L,J
+   3,L
   15,U,X
-   1,L
-  15,L,U,C
-  10,L
-   4,L,D,X
+  24,L,U,C
+   4,L,Z
    1,L,J
-   6,L
+   7,L
   13,L,J
-  11,K,G
+   5,K,G
+   1,L,K,G
+   1,K,G
+   1,L,K,G
+   3,K,G
    1,R,K
   14,L,J,G
   11,K,G
@@ -2128,8 +2133,7 @@ console load 7
    5,R,J
    4
   14,D,X
-   6,R,D
-   1,R,D
+   7,R,D
   11,L,D
    3,R,D
   12,R,D,X
@@ -3857,4 +3861,4 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 8:57.132(31596)
+ChapterTime: 8:57.030(31590)

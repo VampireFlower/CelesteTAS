@@ -309,8 +309,7 @@ read,7S,lvl_e-03,Berry1
   15,R,U,X
    1,L
   19,R,D
-   1,D
-   1,R,D
+   2,D
 
 read,7S,Berry2,lvl_f-00 (1)
 
@@ -560,4 +559,4 @@ read,7HC,lvl_g-00b,lvl_g-00b (2)
   15,R,J
    2,K,G
 read,7S,7SHC5
-ChapterTime: 10:01.375(35375)
+ChapterTime: 10:01.273(35369)

@@ -2,8 +2,9 @@ console rmx2 4
    1
 
 #Start
-#lvl_00
   61
+
+#lvl_00
   10,R,Z
    1,R,J
   10,R

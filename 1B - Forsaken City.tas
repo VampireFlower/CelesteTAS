@@ -2,8 +2,9 @@ console hard 1
    1
 
 #Start
-#lvl_00
   88
+
+#lvl_00
   10,R,X
   11,R,J
   12,R,K,G
