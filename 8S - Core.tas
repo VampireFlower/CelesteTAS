@@ -8,13 +8,15 @@ console load 9
   54
 
 #lvl_00
-  16
-   6,R,Z
    1,R,J
-   2
+  14,R
    1,J
+  11,R,Z
+   1,R,J
+   2,R
+   1,R,J
    5,R
-  11,R,D,X
+   6,L,D,X
    1,R,J
    6,R
    1,R,J

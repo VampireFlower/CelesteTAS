@@ -1,10 +1,11 @@
-#By DevilSquirrel and EuniverseCat
 console load 9
    1
 
 #Start
+  54
 
-read,8S,Start,lvl_a-03
+#lvl_00
+read,8S,lvl_00,lvl_a-03
 
 #lvl_a-03
    1,L
@@ -38,6 +39,7 @@ read,8S,Start,lvl_a-03
   11,L,J
   40
 
+#lvl_b-07b
 read,8S,lvl_b-07b,lvl_c-00 (1)
 
 #lvl_c-00
@@ -231,6 +233,7 @@ read,8S,lvl_b-07b,lvl_c-00 (1)
   23,L,U,G
   40
 
+#lvl_d-01
 read,8S,lvl_d-01,lvl_d-06
 
 #lvl_d-06
@@ -256,4 +259,6 @@ read,8S,lvl_d-01,lvl_d-06
    8,J
   40
 
+#lvl_d-07
 read,8S,lvl_d-07
+ChapterTime: 2:46.396(9788)

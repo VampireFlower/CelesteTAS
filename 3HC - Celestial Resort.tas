@@ -340,7 +340,7 @@ read,3A,lvl_10-y,lvl_10-x (1)
 #lvl_09-d
 read,3A,lvl_09-d,lvl_04-d
 
-#lvl_04-d
+#lvl_04-d (0)
   15,L,D
    6,R,D
    9,L,D
