@@ -119,9 +119,9 @@ read,5S,5SHC2,lvl_b-02 (4)
    5,L,D
   21,R,D
   23,R,X
-  14,U,C
+  15,U,C
   18,R,J
-  11,L,K
+  10,L,K
    7,L
    4,L,J
    9,U,X
