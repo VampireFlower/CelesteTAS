@@ -2063,9 +2063,9 @@ console load 7
   18,U,C
   14,U,X
    1,J
-  14,U,C
-   3,R,J
- 211
+  16,U,C
+  18,R,J
+ 192
 
 #lvl_g-01
 #CP-19
@@ -2709,4 +2709,4 @@ AnalogMode,Ignore
    1,S
    1,D,J
   18
-ChapterTime: 6:42.934(23702)
+ChapterTime: 6:42.900(23700)
