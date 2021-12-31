@@ -528,7 +528,8 @@ console hard 7
   15,R,U,X
   14,U,Z
    1,R,J
-  38,L
+  13,J
+  24
   15,L,U,Z
   21,L,V
    8,L,J
@@ -1072,7 +1073,7 @@ console hard 7
    3,L
    3,R
   11,L,J
-  37,L
+  37
    8,L,U,X
    6,R,J
    5,R
@@ -1742,7 +1743,7 @@ console hard 7
    5,L,J
    7,U,Z
    3,L,J
- 190
+ 189,J
    1,S
    1,D,J
  141
@@ -1846,4 +1847,4 @@ console hard 7
   10,R
   15,L
    5,R
-ChapterTime: 4:53.556(17268)
+ChapterTime: 4:53.522(17266)

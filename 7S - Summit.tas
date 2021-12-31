@@ -1178,19 +1178,18 @@ console load 7
    9,R
   26,R,U,Z
    4,R,J
-   2,R,K
+   3,R,K
 #Section 1500m
-  11,R,U,X
-  37
+  10,U,X
+  14,R,J
+  24
   15,L,U,X
-  19,L,U,C
+  17,L,U,C
    4,L,J
-   4,D,X
+   4,Z
    1,L,J
-  20,L,D
-   2,L
-   4,D,X
-   8,L,X
+  22,L,D
+  12,L,Z
    4,L,J
    2,L,K
    6,U,X
@@ -3873,4 +3872,4 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 8:56.860(31580)
+ChapterTime: 8:56.843(31579)
