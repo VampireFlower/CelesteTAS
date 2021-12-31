@@ -378,18 +378,13 @@ read,7S,Berry2,lvl_f-00 (1)
    5,L,D,C
    1,L,J
    7,L
-   4,L,D,J
+   4,L,J
   40
 
 #lvl_f-01
-   1,L,J
-   1,L
-   1,R
-   1,J,G
-   1,L,J
-   7,U,X
-  11,L,J
-  14,L,U,X
+   9,L,U,Z
+  13,L,J,G
+  14,U,X
   15,L,C
    4,D,X
   10,L,U,X
@@ -564,4 +559,4 @@ read,7HC,lvl_g-00b,lvl_g-00b (2)
   15,R,J
    2,K,G
 read,7S,7SHC5
-ChapterTime: 10:01.103(35359)
+ChapterTime: 10:01.086(35358)

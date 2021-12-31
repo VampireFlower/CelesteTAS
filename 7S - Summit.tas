@@ -2305,18 +2305,13 @@ console load 7
    5,L,D,C
    1,L,J
    7,L
-   4,L,D,J
+   4,L,J
   40
 
 #lvl_f-01
-   1,L,J
-   1,L
-   1,R
-   1,J,G
-   1,L,J
-   7,U,X
-  11,L,J
-  14,L,U,X
+   9,L,U,Z
+  13,L,J,G
+  14,U,X
   15,L,C
    4,D,X
   10,L,U,X
@@ -3872,4 +3867,4 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 8:56.843(31579)
+ChapterTime: 8:56.826(31578)
