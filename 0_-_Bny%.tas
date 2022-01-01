@@ -1,0 +1,95 @@
+#Start from Begin
+
+Read,StartFullGameFile
+
+Read,0 - Prologue,Start
+
+Read,Load1A
+
+Read,1A,Start,lvl_9
+
+Read,1HC0,lvl_9,Return
+
+Read,LoadBFromA
+
+Read,1B,Start
+
+Read,LoadAFromB
+
+Read,2HC,lvl_start (2),Return
+
+Read,LoadBFromA
+
+Read,2B,Start
+
+Read,LoadAFromB
+
+Read,3A,Start,lvl_04-d
+
+Read,3HC,lvl_04-d (0),Return
+
+Read,LoadBFromA
+
+Read,3B,Start
+
+Read,LoadAFromB
+
+Read,4HC,Start,4AC
+   4,X
+  13,L,J
+ 257
+   1,J
+
+Read,LoadBFromA
+
+Read,4B,Start
+
+Read,LoadAFromB
+
+Read,5HC,Start,Return
+
+Read,LoadBFromA
+
+Read,5B,Start
+
+Read,LoadAFromB
+
+Read,6AC,Start
+
+Read,LoadBFromA
+
+Read,6B,Start
+
+Read,LoadAFromB,Start,Summit
+
+#Summit
+  45
+Add 29
+   1,J
+  32
+Add 1
+
+Read,7A,Start,lvl_d-03
+
+Read,7HC,lvl_d-03 (1),Return
+
+Read,LoadBFromA
+
+Read,7B,Start
+
+Read,LoadAFromB,Start,SkipExit
+
+#Epilogue
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,J
+Add 1
+ 115
+
+Read,0 - Epilogue,Start
