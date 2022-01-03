@@ -1069,19 +1069,21 @@ console load 5
    4
    1,L,J,G
    1,J
-   2,L,J
-   1,R,K,G
-   2,L,K
-   8,L
-   4,D,X
-  11,U,X
+   1,L,J
+   1,R,K
+   3,K,G
+   4
+   1,L
+   1
+   2
+   3,R,J
+  15,U,X
   18,J
    6,K
    6,J
    6,K
    6,J
-   9,K
-   1,R,J
+   6,K
   40
 
 #lvl_b-20 (3)
@@ -3091,4 +3093,4 @@ console load 5
    1,S
    1,D,J
   18
-ChapterTime: 6:39.194(23482)
+ChapterTime: 6:39.177(23481)
