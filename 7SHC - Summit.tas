@@ -103,8 +103,7 @@ read,7S,lvl_b-00,7SHC1
    3,R,J
    6,R
   14,R,U,Z
-   1,J,G
-   2,J
+   3,J,G
    3,L,J
   23,L,D,X
    8,L
@@ -559,4 +558,4 @@ read,7HC,lvl_g-00b,lvl_g-00b (2)
   15,R,J
    2,K,G
 read,7S,7SHC5
-ChapterTime: 10:00.984(35352)
+ChapterTime: 10:00.695(35335)
