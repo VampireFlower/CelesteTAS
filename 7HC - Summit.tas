@@ -216,8 +216,8 @@ Read,7A,lvl_b-00,lvl_b-02
   17,L,J,G
    1,J
   14,U,Z
-   3,L,J
-   8,U,X
+   6,R,J
+   6,U,X
   40
 
 #lvl_b-05
@@ -1006,4 +1006,4 @@ Read,SaveandQuit
   15,R,J
    2,K,G
 Read,7A,7HC1
-ChapterTime: 7:53.705(27865)
+ChapterTime: 7:53.348(27844)
