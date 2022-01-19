@@ -1,5 +1,5 @@
 #console load 4 9391.7 -4360
-#play,Section Cliff Face,37
+#play,Cliff Face,37
 
 console load 4
    1
@@ -663,7 +663,7 @@ console load 4
 #lvl_d-00
    1,R,J,G
   10,R
-#Section Cliff Face
+#Cliff Face
    4,Z
    2,R,J
    8,R

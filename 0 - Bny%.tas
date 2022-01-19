@@ -34,11 +34,7 @@ Read,3B,Start
 
 Read,LoadAFromB
 
-Read,4HC,Start,4AC
-   4,X
-  13,L,J
- 257
-   1,J
+Read,4HC,Start,Return
 
 Read,LoadBFromA
 

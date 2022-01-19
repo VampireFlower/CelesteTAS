@@ -484,8 +484,7 @@ read,7HC,lvl_f-00 (2),7SHC4
   12,D,X
    2,L,J
    2,L
-  18,L,D,X
-   2,R,D
+  20,L,D,X
   40
 
 #lvl_f-05 (2)
@@ -558,4 +557,4 @@ read,7HC,lvl_g-00b,lvl_g-00b (2)
   15,R,J
    2,K,G
 read,7S,7SHC5
-ChapterTime: 9:59.709(35277)
+ChapterTime: 9:59.692(35276)

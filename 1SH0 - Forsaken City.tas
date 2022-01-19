@@ -8,13 +8,15 @@ console load 1
   88
 
 #lvl_1
-  10,R,X
-   7,R,J
+   5,R,X
+   6,R,J
+   5,R
+   1,R,J
    1,R
-   4,R,K,G
-   1,R
-  16,R,U,X
-   3,R,J,G
+   1,R,J
+   7,R,K
+  14,R,U,X
+   1,R,J,G
    7,R
    4,Z
    1,R,J
@@ -778,10 +780,8 @@ Read,SaveandQuit
    1,K,G
    1
    1,K,G
-   2,L,K,G
-   4,L
-   1
-   2,L
+   2,L,K
+   7,L
    6,L,Z
    1,L,J
    6,L
@@ -906,4 +906,4 @@ Read,SaveandQuit
    1,S
    1,D,J
   18
-ChapterTime: 1:48.307(6371)
+ChapterTime: 1:48.290(6370)

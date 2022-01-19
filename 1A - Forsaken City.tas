@@ -1,4 +1,4 @@
-#w
+#q
 console load 1
    1
 
@@ -6,13 +6,15 @@ console load 1
   88
 
 #lvl_1
-  10,R,X
-   7,R,J
+   5,R,X
+   6,R,J
+   5,R
+   1,R,J
    1,R
-   4,R,K,G
-   1,R
-  16,R,U,X
-   3,R,J,G
+   1,R,J
+   7,R,K
+  14,R,U,X
+   1,R,J,G
    7,R
    4,Z
    1,R,J
@@ -27,9 +29,9 @@ console load 1
   40
 
 #lvl_2
-   2,J
+   2,K
    6
-   1,R,J
+   1,R,K
    2,R
    4,Z
    1,R,J
@@ -462,4 +464,4 @@ console load 1
    1,S
    1,D,J
   18
-ChapterTime: 0:49.283(2899)
+ChapterTime: 0:49.266(2898)

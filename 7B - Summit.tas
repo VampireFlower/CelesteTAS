@@ -1,20 +1,20 @@
 #console hard 7 2080 -1624
-#play,Section 500m,37
+#play,500M,37
 
 #console hard 7 3568 -4336
-#play,Section 1000m,37
+#play,1000M,37
 
 #console hard 7 6168 -6624
-#play,Section 1500m,37
+#play,1500M,37
 
 #console hard 7 8424 -7864
-#play,Section 2000m,37
+#play,2000M,37
 
 #console hard 7 10632 -9384
-#play,Section 2500m,37
+#play,2500M,37
 
 #console hard 7 12848 -11320
-#play,Section 3000m,37
+#play,3000M,37
 
 console hard 7
    1
@@ -162,7 +162,7 @@ console hard 7
 
 #lvl_b-00
   76
-#Section 500m
+#500M
   15,R,U,X
   10,R,C
   12,R,K
@@ -414,7 +414,7 @@ console hard 7
 
 #lvl_c-01
   76
-#Section 1000m
+#1000M
    5,R,J
    2,R
    5,R,Z
@@ -586,7 +586,7 @@ console hard 7
 
 #lvl_d-00
   41
-#Section 1500m
+#1500M
   35
   16,U,X
    5,R,J
@@ -729,7 +729,7 @@ console hard 7
 
 #lvl_e-00
   78
-#Section 2000m
+#2000M
    4,Z
    1,R,J
    7,R
@@ -912,7 +912,7 @@ console hard 7
 
 #lvl_f-00
   76
-#Section 2500m
+#2500M
    2,R,J
    4,L,J
    6,R,J
@@ -1119,7 +1119,7 @@ console hard 7
 #lvl_g-00
 #CP-20
   73
-#Section 3000m
+#3000M
   10,R,X
    2,R,J
    3,J
