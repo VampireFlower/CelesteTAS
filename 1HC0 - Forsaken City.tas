@@ -53,33 +53,33 @@ Read,1A,lvl_1,lvl_6b
   15,U,X
    1,J
    4,R,K,G
-   7,R
-  14,U,Z
+   7,L
+  14,U,X
   10,L,J
-   2,R,J
-   1,R,J
+   3,R,J
    1
    1,L,K,G
    7,L
-   7,L,Z
+   4,Z
    1,L,J
-   1,L
+   3,L
   40
 
 #lvl_s1 (0)
-   5,L
+   4,L
   10,L,J
    5,L
    3,L,J
-   1,L
+   2,L
   15,U,X
    1,J,G
-   4,L
+   5,L
    1
-   1,L
-   2,R
+   1,R
+   1
   14,L,Z
-   2,R,J
+   1,R,J
+   1,J
    5,R,D,X
    7,L,J
   17,L,D
@@ -196,7 +196,7 @@ Read,1A,lvl_6c,lvl_9
   14,U,X
    2,J
   40
- 
+
 #lvl_10
    6,L
    1,L,J,G
@@ -225,7 +225,7 @@ Read,1A,lvl_6c,lvl_9
 #lvl_11
   15,J
    1,K,G
-   8,D,G
+   8,G
    4
   25,G
    3,L,J,G
@@ -259,3 +259,4 @@ Read,1A,lvl_6c,lvl_9
    1,U,J
    1,O
   31
+#1:04.702(3806)

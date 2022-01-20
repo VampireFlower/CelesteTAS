@@ -86,9 +86,13 @@ Read,1SH2,lvl_10z,lvl_10zb
   40
 
 #lvl_11
-  16,J
+  15,J
    1,K,G
-  30,U,G
+   8,U,G
+   1
+   8,J
+  12,L
+   1,L,G
    1
    1,K,G
    4,J,G
@@ -123,6 +127,7 @@ Read,1SH2,lvl_10z,lvl_10zb
    6,L
    1,R,J,G
    6,R,K,G
+#+5f Berry
   14,R
    6,R,U,X
  257
@@ -132,4 +137,4 @@ Read,1SH2,lvl_10z,lvl_10zb
    1,U,J
    1,O
   31
-#0:22.559(1327)
+#0:22.542(1326)

@@ -17,7 +17,7 @@ console load 1 lvl_6
    1,L,J
    5,L,D,X
   43
- 
+
 #lvl_6z
    9,L,D,X
   21,L,J
@@ -27,9 +27,8 @@ console load 1 lvl_6
    7,L
   11,L,Z
    5,L,J
-   2,L
-  11,U,X
-   1,R
+   2,R
+  12,U,X
   40
 
 #lvl_7zb
@@ -47,13 +46,10 @@ console load 1 lvl_6
   23,L,K,G
   23,L,U,X
   14,L,U,C
-   4,L,J,G
-   8,L
-   2,L,J
-   9,L
-   1,J
-  14,R,Z
-   1,L,J
+   2,L,J,G
+  14,L
+  19,R
+   1,R,J
    1,S
    1,U,J
    1,O
