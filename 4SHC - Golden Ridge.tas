@@ -5,7 +5,7 @@ console load 4
   69
 
 #lvl_a-00
-read,4SH,lvl_a-00,lvl_a-07
+Read,4SH,lvl_a-00,lvl_a-07
 
 #lvl_a-07
    1,R,J
@@ -168,6 +168,5 @@ read,4SH,lvl_a-09,lvl_b-03
   40
 
 #lvl_b-00 (3)
-read,4SH,lvl_b-00 (3)
-
-ChapterTime: 3:49.806(13518)
+Read,4SH,lvl_b-00 (3)
+ChapterTime: 3:49.602(13506)

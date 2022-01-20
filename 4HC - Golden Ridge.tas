@@ -145,7 +145,7 @@ Read,4A,lvl_a-00,lvl_a-07
   40
 
 #lvl_a-09
-read,4A,lvl_a-09,lvl_b-00
+Read,4A,lvl_a-09,lvl_b-00
 
 #lvl_b-00
   11,R
@@ -246,34 +246,39 @@ read,4A,lvl_a-09,lvl_b-00
    1,L
    1,J
    2,K,G
-   2,R,K
-  20,R
+   1,R,K
+   7,R
+   3,R,K
+   1,R
+   1,R,K
+   9,R,D
    4,X
   33,D,X
- 102,L,D
+  13,R,D
+  89,L,D
 #Exit
   59
    1,J
   30
-   6,D
-   2,L
-   1,D
-  24,L,D
+   9,L,D
+  10,D
   14,L,D,X
    1,L,J
-  11,L,D,X
+  21,L,D,X
   43
 
 #lvl_b-02 (1)
-   2,L,D,X
-   2,L,J
-  11,L,D,X
-   4,L,J
-  15,L,D,X
-  15,L,D,C
-   7,U,X
-  16,L,J
-   1,J
+   3,L,D
+   1,L,J
+   4,L
+  13,L,D,X
+   1,L,J
+   1,L,K
+  14,L,D,X
+   1,L,J
+   6,F,359
+   8,U,Z
+  17,L,J
    1,L,K,G
    6,L,J,G
   13,U,X
@@ -283,6 +288,5 @@ read,4A,lvl_a-09,lvl_b-00
 Read,4SH,lvl_b-05 (1),lvl_b-08b
 
 #lvl_b-08b
-read,4A,lvl_b-08b
-
-ChapterTime: 2:14.946(7938)
+Read,4A,lvl_b-08b
+ChapterTime: 2:14.861(7933)
