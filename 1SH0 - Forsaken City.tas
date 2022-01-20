@@ -270,18 +270,18 @@ console load 1
    1,R
    1,R,J
    2,R
-  20,R,J
-  18,R,U,X
+  17,R,J
+   3,J
+  20,R,U,X
   40
 
 #lvl_6b (0)
-   1
+   1,R
   15,U,X
-   7,R
-   5,L,J,G
-   5,K
-   3,L,J,G
-   7,L
+   4,R
+   1
+   6,J
+  11,L
   12,L,J
    5,L,Z
    1,L,J
@@ -289,12 +289,12 @@ console load 1
   40
 
 #lvl_s0 (0)
-   1,L,J
-   3,L
+   4,L
+   1,L,K
   11,L,J
    2,J
-  12,U,Z
-  12,L,J
+  12,U,X
+  11,L,J
    6,K
    8,L,G
    1,R,J
@@ -303,8 +303,8 @@ console load 1
    2,R,J,G
    1,R
    1,K
-   2,L,J
-   4,L
+   3,L,J
+   3,L
    1,L,K,G
    1,L,J,G
   31,L,D
@@ -906,4 +906,4 @@ Read,SaveandQuit
    1,S
    1,D,J
   18
-ChapterTime: 1:48.290(6370)
+ChapterTime: 1:48.239(6367)
