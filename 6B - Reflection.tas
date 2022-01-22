@@ -1,11 +1,11 @@
-#console hard 6 3544 -1016
-#play,Section Reflection,37
+#console hard 6 3546 -1016
+#play,Reflection,37
 
 #console hard 6 7478 4444
-#play,Section Rock Bottom,37
+#play,Rock Bottom,37
 
 #console hard 6 11100 4946
-#play,Section Reprieve,37
+#play,Reprieve,37
 
 console hard 6
    1
@@ -366,113 +366,104 @@ AnalogMode,Precise
    1,L,K
    1,J
    1,K,G
-   1,L,J,G
-  14,R,J
-   1,K
-   2,J,G
-   6,L,J
-  14,L,X
-  94,L,G
-   6,L,D,G
-   2,L
-   1,L,K,G
-   9,J,G
-   3,K,G
-   7,R,K
-   9,L,K
-   1,J
-   8,L,D
-  17,R,D
-   5,R
-   1,R,D
-  28,L,J
-   1,G
-   3
-   1,J
-   1,G
-   2
-   2,J
-   1,G
-   2
-   2,J
-   1,G
-   2
-   3,J
-   1,G
-   1
-   3,J
-   1,G
-   2
-   3,J
-   1,G
-   1
-   4,J
-   1,G
-   3,R,G
-   2,R
-   1,J
-   1,K
-  25,R,K
-   2,G
-  11,K,G
-   1,L,K
-   1,J
-   8,L,J
-   5,L
-   5,K
-   1,L,K
-  13,L,D
-  23,R,D
-  12,R
-   1,R,D
-  21,R,G
-   1,R
-   1,K
-   2,J,G
-   1,L,J
-  18,R,J
-   1,K
-   3,R,K
-   1,J
-   8,R
+  14,J,G
    1,R,J
+   1,K
+   2,J
+  18,L,X
+  47,L
    1,J
-   4
-   5,L,D,X
-  18,L
-   7,D
-   1,L,D
+  42,L,J
+   2
+   3,R,D
+   1,J
+  23,L,J
+   1,K
+   6,J
+  25,R,J
+   3,J
+   9,K,G
+   4,L,K
+  40,K
+   1,J
+  50,R,J
+   2
+   1,K
+   8,J,G
+  12,L,J
+   1,K
+   5,L,K
+  13,L
+  17,R,D
+  22,R
+   1
    1,D
-  13,R,D
-   4,L,D
-   1,L
-   3,L,D
-   1,L
-   2,G
-   1,L,J,G
-   1,K,G
-   1,L,J,G
-  15,R,J
-  11,J
-   9,R,K,G
+  26,G
+   1
+   1,J
+   2,K,G
+   1,L,K
+  18,R,K
+   5,J
+   1,K
+   8,R
+   2,R,K
+   4
+   5,L,X
+  12,L
    1,R
-   4,J
-   7
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+  12
+   3,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1,L,D
+   4,G
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+  19,R,J
+   5,J
+   1,K,G
+  11,J,G
+   1,L,J
+   7,L
   15,U,X
    1,R,J,G
-   1,L
-   7,R
-#Section Reflection
-   4,X
-   5,R,J
+   3,R
+   1
+   4,R
+#Reflection
+   6,R,Z
+   2,R,J
   40
 
 #lvl_b-00
-   6,R,J
-  13,R,Z
+   4,R,J
+   2,R
    1,R,J
-   6,R
-   2,R,J
+   8,R,U,X
+   1,R,J,G
+   9,R
+   1,R,K
+   2,R
   15,R,D,X
    1,R,J
    7,R,K,G
@@ -484,8 +475,8 @@ AnalogMode,Precise
    2,R,J
    7,R
    2,R,J
-   4,R
-   4
+   3,R
+   5
   14,D
    6,L,D
   17,D
@@ -863,7 +854,7 @@ AnalogMode,Precise
   27,R,U
   43,F,83.12
   57,F,89.7
-#Section Rock Bottom
+#Rock Bottom
   14,R,Z
    8,R,J
   17,R,D,X
@@ -1159,7 +1150,7 @@ AnalogMode,Precise
   10,R,J
    5,R
    2,R,K
-#Section Reprieve
+#Reprieve
    5,L,U,X
   12,L,J,G
    1,L,K,G
@@ -1478,4 +1469,4 @@ AnalogMode,Ignore
    3,R,J
   14,R,D,X
  134,R,G
-ChapterTime: 3:26.482(12146)
+ChapterTime: 3:26.448(12144)
