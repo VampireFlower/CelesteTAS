@@ -601,15 +601,16 @@ console load 4
    3,R,J
    2,J
    3,R,J
-   5,R
+   4,R
    1,R,J
+   1,R
   13,R,K,G
    3,R,J,G
    7,R
    4,Z
-   8,R,J
+   7,R,J
    4,R
-   5,R,D,X
+   6,R,D,X
   40
 
 #lvl_c-08
