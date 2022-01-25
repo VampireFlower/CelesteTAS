@@ -870,35 +870,26 @@ console load 4
    1,R,K,G
    7,R
    7,R,J
-  10,R,Z
-  12,R,J
-   4,R
+  11,R,Z
+  11,R,J
+   1,R
    1,R,K
   31,R,D
-   3,J
+  13,R,Z
+  16,R,X
+  17,R,C
+  15,U,X
+   8
+  20,L,D
+   1,L
+   6,L,Z
    1,R,J
-   3,J
-   2
-   2,L,K,G
-   1,J
-   2,K,G
-  32,R,J
-  14,R,X
-  44,R,J,G
-   2
-   1,D
-   8,K
-   1
-   1,R,J,G
-   1,R,K,G
-   1,R
-   1
-   5,R
-   5,R,Z
+  12,R,K,G
+  22,R
    1,R,J
-   1,R
-   1,R,J
-   6,R
+   4,Z
+   2,R,J
+   8,R
    1,R,J
    7,R,D,X
   40
@@ -911,4 +902,4 @@ console load 4
    1,S
    1,D,J
   18
-ChapterTime: 1:47.406(6318)
+ChapterTime: 1:47.270(6310)
