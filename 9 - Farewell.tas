@@ -43,7 +43,7 @@ console load 10
 
 #Spinner cycle
 #0-2
-   0
+   1
 
 #lvl_intro-00-past
   15,R,X
@@ -331,9 +331,7 @@ console load 10
   15,R,Z
   12,R,U,X
    1,R,J,G
-   9,R
-#wtf
-   1,R
+  10,R
    4,X
    7,R,J
   40
@@ -346,38 +344,34 @@ console load 10
    6,R
    1,R,J
    1,R
-  15,R,D,X
-   1,R,D
+  16,R,D,X
    6,R,J
    8,R
    3,R,J
   10,R
-  15,R,Z
-   8,R
-  15,R,U,X
-   9,R
+  23,R,Z
+  24,R,U,X
    7,R,Z
    3,R,J
    1,R,K,G
-   5,R
-   8,R,D,X
+   7,R
+   6,R,D,X
   40
 
 #lvl_b-02
-   6,R,D,X
-   3,R,J
-   2,R
-  14,R,X
+   8,R,D,X
+   1,R,J
    1,R
-   1
-  13,R
+  14,R,X
+  15,R
   15,D,X
    9,L,D
   12,L,D,C
    6
   11,L
   15,R,U,X
-  22,R,U,G
+  19,R,U,G
+   3,R,G
   10,R,Z
    2,R,J
    6,R,K,G
@@ -433,21 +427,18 @@ console load 10
    9,L,J
    8,L
    2,L,J
-  23,L
-  15,R,U,X
-   3,R
-   1
-  11,R
-  15,R,U,Z
-   1,L
-   1,J
-   2,K,G
-   2,R,K
-   7,R
+  17,L
+   6,L,D
+  29,R,U,X
+  17,R,U,Z
+   1,R,J
+   4,R,K
+   6,R
+   1,R,K
    1,J,G
    6,R
    5,L
-   4,D,X
+   4,R,Z
    1,R,J
   12,R,K,G
   15,R,D,X

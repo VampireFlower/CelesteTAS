@@ -588,38 +588,32 @@ AnalogMode,Precise
   10,L,Z
    9,R,J
   12,R,K,G
-   1,J,G
-   3,R,J
-   1,L,J
-   1,R,J
-   2,L,J
-  11,R,K,G
-   1,R
-   1,R,J,G
-   1,R,K,G
+   5,R,J,G
+   3,R
    1,K
-  13,R,K
-   1
-  10,R,J
-   8,R
-  18,U,X
-   7,R
+   5,L,J,G
   15,U,X
-   7,R
-  16,U,C
-  12,L,K,G
-   4,L,J,G
-   1,L
-   1,J,G
-   6,L
-   1,R
-   1,D,J
-  15,U,X
-   2,L,J
-   4,J
-   4,L,J
+   5,L
+  19,R,J
+   9,L,J
+  22,U,X
+  25,U,C
+   1,G
+  12,L,J,G
    1,L,K,G
-   1,L,J,G
+   1,R,K
+   1,L,K
+   1,J,G
+   4,L
+   1
+   1,L
+   1,R
+   1,K
+  17,U,X
+   4,J
+   6,L,J
+   1,L,K,G
+   2,L,J,G
    1,K
   40
 
@@ -873,7 +867,7 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 10:50.760(38280)
+ChapterTime: 10:50.641(38273)
 
 #Let moon berry sfx play
  100
