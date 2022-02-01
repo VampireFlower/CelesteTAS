@@ -813,13 +813,13 @@ console load 10
   45,U,C
   60,L,U,X
   40
- 
+
 #lvl_e-00y
   61
 #Remembered
   15,U,X
   40
- 
+
 #lvl_e-00z
    4,R,K
    7,K
@@ -844,7 +844,7 @@ console load 10
   14,U,X
   18,J
   40
-  
+
 #lvl_e-00
    1,J
    2,R,J
@@ -2905,4 +2905,4 @@ Add 2
  165
    1,J
  483
-ChapterTime: 10:42.311(37783)
+ChapterTime: 10:42.226(37778)

@@ -16,7 +16,7 @@
 #console load 7 25600 -13432
 #play,3000M,37
 
-console load 7 
+console load 7
    1
 
 #Start
@@ -2167,7 +2167,7 @@ console load 7
    1,R,J
    3,R
   40
- 
+
 #lvl_e-10b
    2,R
    4,D,X

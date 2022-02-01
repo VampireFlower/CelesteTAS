@@ -621,7 +621,6 @@ console hard 7
   17,R,X
   16,R,C
    8,R
-#resync after this point 
    7,R,Z
    1,R,J
    6,R
