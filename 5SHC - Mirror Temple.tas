@@ -5,14 +5,14 @@ console load 5
  110
 
 #lvl_a-00b (1)
-read,5S,lvl_a-00b (1),+1f berry (1)
+read,5S,lvl_a-00b (0),+1f Berry (0)
   11,R,X
    4,R,J
    1,K
   13,U,X
   40
 
-read,5S,lvl_b-20 (1),+1f berry (2)
+read,5S,lvl_b-20 (0),+1f Berry (1)
    6,R,Z
    1,R,J
    6,R
@@ -43,8 +43,9 @@ read,5S,lvl_b-20 (1),+1f berry (2)
    1,R,J
   40
 
-read,5S,lvl_b-11 (1),+1f berry (3)
-   3,R
+read,5S,lvl_b-11 (0),+1f Berry (2)
+
+   4,R
    1,R,J,G
    4,R
    1
@@ -70,15 +71,13 @@ read,5S,lvl_b-11 (1),+1f berry (3)
    3,L
    2,L,J
    5,L,D,X
-   3,L,J,G
-   8,L
+   8,L,J,G
+   3,L
   58
 
-read,5S,lvl_b-13 (2),5SHC1
+read,5S,lvl_b-13 (1),5SHC1
 
-  21,D
-   1,R,D
-   1,D
+  23,D
   20,R,D
    6,R,Z
    1,R,J
@@ -112,7 +111,7 @@ read,5HC,5SHC1,lvl_b-17 (2)
    1
   14,L,D,X
 
-read,5S,5SHC2,lvl_b-02 (4)
+read,5S,5SHC2,lvl_b-02 (3)
 
 #lvl_b-02 (4)
    8,R,D
@@ -159,7 +158,7 @@ read,5S,5SHC3,5SHC4
   13,L
    1,L,J
 #resync keydoor
-  10
+  11
 
 read,5HC,5SHC3,lvl_b-16
 

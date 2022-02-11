@@ -43,7 +43,7 @@ console load 10
 
 #Spinner cycle
 #0-2
-   0
+   1
 
 #lvl_intro-00-past
   15,R,X
@@ -374,18 +374,19 @@ console load 10
    3,R,G
   10,R,Z
    2,R,J
-   6,R,K,G
-   5,R,D,X
+   3,R,K,G
+   8,R,D,X
   40
 
 #lvl_b-03
-  10,R,D,X
-   7,R
-  25,R,D,X
+   6,R,D,X
+   2,R,J
+  33,R,D,X
    4,R,J
    7,R,Z
-   6,R,J
-   2,R
+   3,R,J
+   4,R
+   1,R,J
   17,R,D,X
    1,R,J
    2,R
@@ -1787,13 +1788,13 @@ console load 10
    1,R,J
   10,R,D,X
    1,R,J
-  16,R
+  17,R
    1,R,J
   15,D,X
-  22,R,D,C
+  21,R,D,C
    9,R,Z
    1,R,J
-   8,R
+   7,R
    1,R,K
 #Determination
   14,R,D,X
@@ -1807,33 +1808,36 @@ console load 10
    1,R,J
   15,R,D,X
    2,L,J
-  14,L
+   5,L
+   2,L,J
+   7,L
    4
    1,L
-   3
-   1,R
-   5
+   4,D
+   1,R,D
+   2,R
+   1,R,D
+   1
   14,R,Z
-   1,R,J
-   3,J
-   2,R,J
-   5,R
-   2,R,J
-  18,R,D
+   5,R,J
+  11,R,D
+   4,D
+   9,R,D
    5,L,U,X
   27,L,U
 AnalogMode,Precise
-  28,F,261.98
-   1,F,263.65
+  28,F,262.3981
+   1,F,263.001
    9,F,315
-  10,F,0
-  31,F,12.87
+  10,F,5
+  30,F,12.4
+   1,F,14
    5,F,45
-  27,F,94.655
+  27,F,93.868
    5,F,96
    4,F,70
-  55,R
- 178,R,U,C
+  37,R
+ 196,R,U,Z
   15,R,X
   17,R
   10,L
@@ -2096,7 +2100,7 @@ AnalogMode,Precise
    1,R,J
    9,R
    1,R,J
-   4,R,D
+   4,R
   32,L,D
   19,R,D
   14,L,D
@@ -4331,4 +4335,4 @@ Add 2
  165
    1,J
  483
-ChapterTime: 9:54.133(34949)
+ChapterTime: 9:54.082(34946)
