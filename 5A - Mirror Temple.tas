@@ -435,12 +435,11 @@ read,5S,lvl_b-16,lvl_c-08
   14,U,Z
   10,L,J
    4,R,J
-   1
-   7,R,K
+   8,R,K
    7,R
-   5,R,Z
+   6,R,Z
    1,R,J
-   5,R
+   4,R
   40
 
 #lvl_c-07
@@ -729,4 +728,4 @@ read,5S,lvl_d-19b (2),lvl_e-06
    1,S
    1,D,J
   18
-ChapterTime: 3:13.902(11406)
+ChapterTime: 3:13.681(11393)
