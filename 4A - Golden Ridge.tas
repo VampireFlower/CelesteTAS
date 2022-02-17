@@ -255,12 +255,12 @@ console load 4
    3,R,J
    4,R,K,G
    3,R,J,G
-   5,R,K,G
+   4,R,K,G
+   1,K
   40
 
 #lvl_b-02
-   1,J
-  12,R,J
+  13,R,J
    1,R,K,G
    7,K
   13,U,X

@@ -3,7 +3,7 @@
 
 Read,StartFullGameFile
 
-Read,0 - Prologue,lvl_0
+Read,0 - Prologue,Start
 
 Read,Load1A
 
@@ -23,7 +23,7 @@ Read,LoadA
 
 Read,4A,Start,lvl_b-02
 
-Read,4HC,lvl_b-02 (1)
+Read,4HC,lvl_b-02 (0)
 
 Read,LoadA
 
