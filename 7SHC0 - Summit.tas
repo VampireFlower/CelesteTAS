@@ -321,59 +321,11 @@ read,7S,Berry2,lvl_f-00 (1)
 
 #lvl_f-00 (1)
   78
-   4,D,X
-   2,R,J
-   5,R,K,G
-   2,R,J,G
-   2,R,K,G
-  12,R,U,X
-  11,R,J,G
-  76,R,X
-  20,R,U,C
-  14,R,X
-   4,R,J,G
-  17,R
-  23,R,X
-  15,D,C
-   7,R,D
-   3,D
-   1,R,D
-  14,R,X
-  12,L,J
-  15,U,X
-   8,L,C
-  12,L,J,G
-  20,L,U,X
-   4,D,C
-   7,R,C
-   4,L,J
-  15,L,D,C
-  22,L
-  10,L,D
-   3,L
-   3,L,D
-   1,L
-  21,L,X
-  12,L,J
-   3,L,K,G
-   1,J
-   1,K
-   5,L,X
-   1,L,J,G
-   5,L
-   1,L,J
-  12,L
-  12,L,X
-   7,L,J,G
-   7,L
-   4,D,X
-   1,L,J
-   7,L
-   9,L,K
-   5,L
-   1,L,J
-  13,L
   15,L,U,X
+  10,L,C
+   4,L,J
+   1,K
+  18,L,U,X
    5,L,D,C
    1,L,J
    7,L
@@ -543,10 +495,10 @@ read,7HC,lvl_f-00 (2),7SHC4
 read,7S,lvl_f-08b,lvl_g-00b
 
 #lvl_g-00b
-read,7HC,lvl_g-00b,lvl_g-00b (2)
-
-#lvl_g-00b (2)
-  37
+read,7HC,lvl_g-00b,Exit
+   1,S
+   1,D,J
+  69,O
    6,R,D,X
    1,L,J
    3,L
@@ -557,4 +509,4 @@ read,7HC,lvl_g-00b,lvl_g-00b (2)
   15,R,J
    2,K,G
 read,7S,7SHC5
-ChapterTime: 9:59.692(35276)
+ChapterTime: 9:54.745(34985)

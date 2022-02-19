@@ -1,3 +1,4 @@
+console hearts 15
 console hard 9
    1
 
@@ -180,38 +181,37 @@ console hard 9
   20,R,J
   16,R
   36,R,J
-  13,R
-   3,R,J
-   8,R
-   4,D,X
-   9,R,X
+  12,R
+  17,R,J
+  14,R,Z
    1,R,J
-   5,R
+   1,R
+   2,R,J
   40
 
 #lvl_a-04
+   2,R
+   1,R,J
    1,R
    1,R,J
-   1
-  15,R
-   4,D,X
-   5,R,X
+   4,R,D
+   6,R,J
+   5,R
+   3,R,J
+  15,R,J
+   5,R,D
+  14,R,Z
    1,R,J,G
-   9,R
-   2,R,K
-   8,R
-   2,R,D
-   4,D,X
-   5,R,X
-   7,R,J,G
-   7,R
-   1,K
-  10,R
-  47,R,J,G
-   2,R,D
-   4,D,X
-  10,R,X
-  10,R,J,G
+  13,R
+  13,R,Z
+   3,R,J,G
+   6,R
+   3,R,J
+  18,R
+  14,R,Z
+   1,R,J,G
+   1,J
+   7,R,J
    7,R
    3,R,K
    9,R
@@ -264,7 +264,7 @@ console hard 9
   18,R,C
   77,R,G
    4
-   4,R,J,G
+   4,R,K,G
   40
 
 #lvl_b-00
@@ -550,7 +550,8 @@ console hard 9
   40
 
 #lvl_c-01
-  14,R,J
+   8,R,J
+   5,R,K
    4,D,X
   10,U,X
   20,R,J
@@ -624,13 +625,13 @@ console hard 9
    1,R,K
   13,R,J,G
   18,L,K
-  15,U,X
-   1,L
+  16,U,X
   16,U,C
   12,R
-  32,R,G
-   6
-  13,J,G
+  29,R,G
+   4
+   4,R,K,G
+  14,R,J,G
   40
 
 #lvl_c-03
@@ -751,40 +752,42 @@ console hard 9
   13,R
   12,R,Z
    1,R,J
-   5,R
-   3,R,J
-  20,R,D
-   1,L,D
-   5,L,J
-   1,R,J
-  12,L,J
-   1,L
-   1,L,J
-  22,R
-  16,R,D,X
-  10,U,C
-  50,R,D
+   3,R
    1,R,J
    2,R
+   2,R,J
+   5,R
+   2,R,J
+  13,R,D
+   1
+   5,L,J
+   2,J
+  40
+   7,R
+   1
+  10,R,U,Z
+  22,R
+  14,R,D,X
+   1,R,K,G
+  13,R
+   1,R,J
   40
 
 #lvl_c-06
-  12,R
-   7,R,J
-  47,R
-  22,R,J
-  29,R,D
-   2,R
-   2,R,D
-   1,R,J,G
-   1,R,K,G
-  28,R
-  19
-   3,L
-   1,R
-   2,L
-   4,R,X
- 104,R,J
+  17,R
+   4,R,D
+   8,R,J
+   5,R
+  37,R,J
+   5,R
+   9
+   1,L
+   1
+  14,L,Z
+   1,R,J
+  11,R,K,G
+  47,R,D
+  31,R,J
    2,R,K,G
    1,L,K
    2,K
@@ -942,4 +945,4 @@ console hard 9
   14,R,J
   14,R,U,C
  135,R
-ChapterTime: 2:14.334(7902)
+ChapterTime: 2:12.396(7788)

@@ -984,17 +984,14 @@ Read,7A,lvl_f-07,lvl_g-00b
    4,D,X
    1,L,J
   61,L
-  31,L,J
+  30,L,J
+  60
+   1,X
+  30
 #Exit
    1,S
-   1,D
-   1,J,F,180
-  31
-
-Read,SaveandQuit
-
-#lvl_g-00b (2)
-  37
+   1,D,J
+  69,O
    6,R,D,X
    1,L,J
    2,L
@@ -1006,4 +1003,4 @@ Read,SaveandQuit
   15,R,J
    2,K,G
 Read,7A,7HC1
-ChapterTime: 7:53.331(27843)
+ChapterTime: 7:55.490(27970)
