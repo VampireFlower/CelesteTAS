@@ -1,0 +1,97 @@
+#Start from Begin
+
+Read,StartFullGameFile
+
+Read,0 - Prologue,Start
+
+Read,Load1A
+
+Read,1A,Start,lvl_9
+
+Read,1HC0,lvl_9
+
+#Reenter City
+  51
+   1,S
+   1,J
+  30
+   1,J
+  45
+Add 1
+
+Read,1HC1
+
+Read,LoadANoCollects
+
+#Read,2HC,lvl_start (2)
+
+#Read,LoadA
+
+Read,2HC,lvl_start (2),Return
+
+Read,LoadBFromA
+
+Read,2B,Start
+
+Read,LoadAFromB
+
+Read,3HC,Start
+
+Read,LoadA
+
+Read,4HC,Start,lvl_b-02 (0)
+
+Read,4A,lvl_b-02
+
+Read,LoadA
+
+Read,5HC,Start,Return
+
+Read,LoadBFromA
+
+Read,5B,Start
+
+Read,LoadAFromB
+
+Read,6AC,Start
+
+Read,LoadBFromA
+
+Read,6B,Start
+
+Read,LoadAFromB,Start,Summit
+
+#Summit
+  45
+Add 29
+   1,J
+  32
+Add 1
+
+Read,7A,Start,lvl_d-03
+
+Read,7HC,lvl_d-03 (1),lvl_d-05 (1)
+
+Read,7A,lvl_d-05
+
+Read,LoadCoreFromSummit
+
+Read,8A,Start
+
+Read,LoadAFromB,Start,SkipExit
+
+#Epilogue
+  51
+   1,S
+ 394
+   1,L
+   9
+   1,L
+   9
+   1,J
+  43
+   1,J
+Add 1
+ 115
+
+Read,0 - Epilogue,Start

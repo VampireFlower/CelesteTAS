@@ -49,3 +49,5 @@ Add 29
 Add 1
 
 Read,7A,Start
+
+Read,LoadCoreFromSummit,Credits,8A
