@@ -63,7 +63,7 @@ Add 1
 
 Read,7HC,Start,Exit
 
-Read,LoadBFromA
+Read,LoadBFromA,Exit
 
 Read,7B,Start
 

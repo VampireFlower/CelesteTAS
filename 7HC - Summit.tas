@@ -176,10 +176,10 @@ Read,7A,lvl_b-00,lvl_b-02
   40
 
 #lvl_b-02c (1)
-   2,R
-  18,R,J
+   1,R
+  19,R,J
   15,U,X
-  12,R,Z
+  11,R,Z
    3,R,J
   40
 
@@ -189,15 +189,22 @@ Read,7A,lvl_b-00,lvl_b-02
    4,K
    1,R,K
    5
-   4,D
-   5,R,D
    1,D
-  11,R,D
-   8,D
-  15,R,X
-  15,R
+  20,R,D,X
+   1,D
+  13,R,D
+   1,R,J,G
+   1,R,K,G
+   5,R
+   1,R,J
+  12,R
+   1
+   1,R
+   1
+   1,R
   15,U,X
-  37,R,D
+  32,R,D
+   5
   11,R,X
    7,R,J,G
   15,R,D,X
@@ -243,21 +250,23 @@ Read,7A,lvl_b-06,lvl_c-04
 
 #lvl_c-06b (1)
   10,R,U,Z
-  13,U,X
-   3,R,J
-   5,J
-   1
-  15,U,X
-   1,R,J,G
+   1,L,J,G
+  14,U,X
+   1,J
+  14,U,X
+   2,R,J
+   2,J
+   1,R,J
+   2,R
+   1,R,K,G
    7,R
-  10,R,Z
+   7,R,Z
    5,R,J
+   1,R
+   1,R,J
    3,R,K,G
-   1,R
-   6,R,J
-   1,R
-  12,R,D,J
-   4,R
+   7,R
+  16,R,D,J
   18,U,X
    1,L,J,G
   18,R,C
@@ -558,19 +567,25 @@ Read,7A,lvl_c-08,lvl_d-03
   18,D,X
    2,L,D
   15,L,D,X
-  11,L,D,C
+  10,L,D,C
    1,L,J
-   7,L
-   7,L,D,J
+   4,L
+   1,L,J
+   3,L
+   1,L,D,J
+   1,L,K
+   5,K
   18,L,D,X
    1,L,J
-   7,L,K
-   1,J
-   2,K
-   2
-   1,J
+   4,L,K
+   1,L
+   1,R,J,G
+   1,L
+   1,K
+   4,L,J,G
+   1,L
   16,U,X
-  25,L,J
+  24,L,J
    8,L,Z
    1,L,J
    2,L
@@ -671,21 +686,23 @@ Read,7A,lvl_d-08,lvl_e-00
    2,L,J
    1,J
    1,L,J
-   3,J
+   1,J
+   2,L,J
    1,K
-   3,J,G
-   3,R,J
+   5,J,G
+   2,R,J
    1,R,K,G
-   3,R,J,G
+   2,R,J,G
    1,K
   40
 
 #lvl_e-01c
    2,R,J,G
-   5,R
+   1
+   4,R
    3,R,J
    1,R
-   6,R,X
+   5,R,X
    2,R,J
    3,R
    8,K,G
@@ -776,8 +793,9 @@ read,7S,lvl_f-00 (1),lvl_f-01
    2,R,J
   18,R,X
   13,R,D,C
-   5,R,J
-  18,R,X
+   3,R,J
+   2,J
+  15,R,X
    6,R,D,C
    4,R,J
   10,R
@@ -959,17 +977,15 @@ Read,7A,lvl_f-07,lvl_g-00b
    4,C
   33,D,C
    8,L,D
-   4,D,X
-   1,L,J
-  61,L
-  30,L,J
-  60
+  14,L,J
+  24,J
+  56,U,Z
+#Exit
+  59
    1,X
   30
-#Exit
-   1,S
-   1,D,J
-  69,O
+   1
+  72,O
    6,R,D,X
    1,L,J
    2,L
@@ -981,4 +997,4 @@ Read,7A,lvl_f-07,lvl_g-00b
   15,R,J
    2,K,G
 Read,7A,7HC1
-ChapterTime: 7:53.892(27876)
+ChapterTime: 7:53.790(27870)
