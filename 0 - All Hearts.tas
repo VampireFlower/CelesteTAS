@@ -38,7 +38,25 @@ Read,4B,Start
 
 Read,LoadAFromB
 
-Read,5HC,Start,Exit
+Read,5HC,Start,lvl_b-15
+
+#lvl_b-15
+   1,R,J
+   1,L,K,G
+  17,R,K
+   2,K
+   1,R,K
+  16,U,X
+   1,R,J,G
+   2,J
+   1,R,J
+   1,R,K,G
+   2,R
+   1
+   4,R
+   2,R,J
+   9,U,X
+ 135,D
 
 Read,LoadBFromA,Exit
 
