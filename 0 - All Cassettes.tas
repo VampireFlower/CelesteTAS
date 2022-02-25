@@ -23,10 +23,6 @@ Read,1HC1
 
 Read,LoadANoCollects
 
-#Read,2HC,lvl_start (2)
-
-#Read,LoadA
-
 Read,2HC,lvl_start (2),Return
 
 Read,LoadBFromA
