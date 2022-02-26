@@ -1733,12 +1733,14 @@ console load 10
    1,X
   16,R
   18
-Repeat,2
    1,R
    1
    1,L
    1
-Endrepeat
+   1,R
+   1
+   1,L
+   1
    1,X
   19
    4,Z
@@ -2199,32 +2201,33 @@ AnalogMode,Precise
   27,R,U
 AnalogMode,Precise
   10,F,100
-  12,F,101.8
+  13,F,106.558
   15,R,D,X
-  14,R,D
+   9,R,D
+   4,R
    1,G
    1
    1,R
-   1,G
-   1
    2,L
    1,R,G
-   2
-   2,R
-   2
    1,J
-  11,R,K,G
-  15,U,Z
-  13,R
-   1,L,J,G
+   7,R,K,G
+   5,R
+   3
    1,K
-   3,R,K
-   1,L,J
-Repeat,5
-   2,L,K
-   2,R,J
+   1
+   2,R
+  15,U,Z
+   9,R
+   2,L,J,G
+   4,K
+   1,J
+Repeat,4
+   2,K
+   2,J
 Endrepeat
-   1,L,K
+   2,J
+   2,K
   40
 
 #lvl_h-06b
@@ -2242,32 +2245,25 @@ Endrepeat
    1,L
    3
    4,R
-   7,R,J
+   5,R,J
+   2,J
   15,U,X
    6,R,C
-   7,R,J
-   5,J
-  16,U,X
-   4,C
-  16,R,J
-  10,R,X
-  10,R,J
-   4,C
-   6,R,J
-   1,J
-   1,R,J
-   2,J
-   1,R,J
-  15,U,Z
-   5,R,D,X
-   6,R,J
-   1,J
+  10,J
+  15,R,U,X
+   5,R,C
+   3,J
+  14,R,J
+  19,U,X
+   5,R,C
+   8,J
    2
-   1,R
   15,U,X
-   2,L
+   4,C
+   8,J
+   5,R,J
+  15,U,X
   15,U,C
-   3,L
   14,L,J
    8,L
    1,L,J
@@ -4347,4 +4343,4 @@ Add 2
  165
    1,J
  483
-ChapterTime: 9:52.552(34856)
+ChapterTime: 9:52.399(34847)
