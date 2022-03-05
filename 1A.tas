@@ -1,4 +1,4 @@
-#the quick brown taser jumps over the lazy player
+#the quick brown TASer jumps over the lazy player
 console load 1
    1
 
@@ -302,16 +302,24 @@ console load 1
   40
 
 #lvl_9
-   9,R,J
-   6,L,J
-  15,R,X
-   3,L,J
-   1,L,K,G
-   8,L,G
+   9,L,J
+   1,K
+   2,L,K
+   7,R,U,X
+   1,R,J,G
+   1,R
    1
-  11,J
-  10,L
-   1,L,D
+   2,R
+   2
+   2,R
+   1,J
+   1
+   3,D,K
+   7,L
+   1,L,J,G
+  17,J
+   5
+   1,G
   13,U,Z
    1,R,J
    2,R
@@ -452,4 +460,4 @@ console load 1
    1,S
    1,D,J
   18
-ChapterTime: 0:49.198(2894)
+ChapterTime: 0:49.181(2893)
