@@ -91,7 +91,7 @@ Read,0 - Epilogue
 
 Read,LoadCoreFromSummit,8A
 
-Read,8A,Start
+Read,8AC,Start
 
 Read,LoadBFromA,Exit
 

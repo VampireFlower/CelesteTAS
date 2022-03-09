@@ -1,0 +1,73 @@
+console hearts 4
+console load 9
+   1
+
+#Start
+  54
+
+#lvl_00
+read,8A,lvl_00,lvl_d-07
+
+#lvl_d-07
+read,8S,lvl_d-07,lvl_d-11
+
+#lvl_d-11
+   5,R,D,X
+   4,R,J
+   7,R
+   6
+   1,R
+  27,D
+  14,L,D,X
+   1,R,J
+  14,R,U,X
+   2,R,J,G
+   9,R
+  74,R,K
+ 257
+   1,J
+ 123
+  17,R,D
+   1,R,J
+  13,R
+  40
+
+#lvl_space
+   4,R,D,X
+   1,R,J
+  12,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  13,R,D,X
+   1,R,J
+  12,R
+  12,R,J
+  15,R,D,X
+  12,R,J
+  15,R,D,X
+   2,R,J
+  15,R,D,X
+  41,R,D,C
+   7,R,J
+  15,R,D,X
+   1,R,J
+  15,R,D,X
+  72,R,D,C
+   8,D
+  14,R,D,X
+   1,R,J
+  16,R,D,X
+   2,R,J
+  21,R,D,C
+   1,R
+  47,R,J
+  15,R,U,X
+  15,D,C
+repeat 30
+   2,L,D
+   2,R,D
+endrepeat
+ChapterTime: 2:40.616(9448)

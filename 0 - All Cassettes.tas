@@ -72,7 +72,7 @@ Read,7A,lvl_d-05
 
 Read,LoadCoreFromSummit
 
-Read,8A,Start
+Read,8AC,Start
 
 Read,LoadAFromB,Start,SkipExit
 

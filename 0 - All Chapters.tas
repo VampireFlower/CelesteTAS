@@ -57,7 +57,7 @@ Read,7HC,Start
 
 Read,LoadCoreFromSummit
 
-Read,8A,Start
+Read,8AC,Start
 
 Read,Load1B
 
