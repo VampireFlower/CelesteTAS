@@ -2718,11 +2718,10 @@ console load 7
 #lvl_f-11
    9,R,D,X
    1,R,J
-   4,R
-   1,R,J
-  10,R
-   4,D,X
-   3,R,X
+   5,R
+   1,R,K
+   9,R
+   7,R,Z
    2,R,J
    1,L,K,G
   13,R,K
@@ -2730,37 +2729,39 @@ console load 7
   14,R,U,X
    8,L
   15,L,X
-   4,D,C
-   6,L,C
+  10,L,Z
    5,L,J
   15,L,U,X
    7,U,C
   37
   12,L,X
-  23,R
-  19,R,X
+  24,R
+  17,R,X
   15,R,C
   16,R,D
-  45,L
-  16,U,X
-   4,D,C
-   6,L,C
-   1,L,J
-   6,L
-  10,L,J
-  16,L
+  43
+  15,U,X
+   5,L,Z
+   3,L,J
+   1,L,K,G
+  10,L
+  23,L,J
   15,L,U,X
   15,U,C
-   5,L
-  51,R,J
-   6,G
+   4,L
+  18,R,J
+  32,R
+   6,R,G
    1,U,G
-   6,G
-  25,U,G
+   5,G
+   1,U,G
+   5,G
+  21,U,G
+   1
    1,R,J,G
    1,R,K,G
    1,R,J,G
-  11,R,K,G
+  10,R,K,G
   37
   15,U,X
   14,L,U,C
@@ -2809,27 +2810,26 @@ console load 7
    1,K
   24,R,K
   12,L,J
-   8,R,K
-   4,R
-   8,L,J
-   4,L
+  12,R,K
+   3,L,J
+   9,L
+  35,G
+   1,U,G
+   1
    1,J
-  10,L,J
-  15,L
-   3,R,K
-  14,R
-   4
-  14,L,J
-   5,J
-   5,L,J
-   4
-   1,G
    1,L,K,G
-  19,L,J,G
-  14,L,U,X
-   1,L,K,G
-  10,L,C
-   5,L,J
+   8,R,K
+   2
+   1,R
+   7
+   1,L
+   2
+   1,R,K
+   7,U,G
+  20,L,J
+  15,L,U,X
+  11,L,Z
+   8,L,J
   10,R,D,X
    8,R,J
   15,U,X
@@ -3866,4 +3866,4 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 8:55.296(31488)
+ChapterTime: 8:55.126(31478)

@@ -301,30 +301,28 @@ console load 5
    1,L,J,G
   14,K
   14,U,X
-  19,R,C
-  15,D,X
-   4,R,D
-  18,L,D
-  27,R,X
-  15,D,C
-   4,L,D
-  11,L,Z
-   2,L,J
-   1,L
-   1,L,J
-   8,L,U,X
+   9,R,U,J,C
+  36,R,J
+  15,L,U,X
+   6,L
+   1
    1,L,J,G
-   9,L
-   9,L,J
-   3,J
-  13,U,Z
-   3,L,J
-   1,R,J
-   4,J
-   8,L,J
    1,L,K,G
+   6,L
+  35,D,X
+   1,J
+  10,L
+   1,L,D,K
+   4,L
+   4,Z
+   1,L,J
+   1,R,K,G
+   7,L,K
+   3,K
+   1,L,J,G
+   1,R,J
    7,L
-   6,L,Z
+   7,L,Z
    1,L,J
    6,L
   40
@@ -3012,4 +3010,4 @@ console load 5
    1,S
    1,D,J
   18
-ChapterTime: 6:37.647(23391)
+ChapterTime: 6:37.256(23368)

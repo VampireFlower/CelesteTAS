@@ -326,7 +326,7 @@ AnalogMode,Precise
    9,J,G
    4,R,J
   27,L,U
-   6,F,
+   6,F,0
    1,F,341.80797
    7,F,300
    5,F,294
@@ -745,8 +745,7 @@ AnalogMode,Precise
    2
    1,R
   15,R,X
-  26
-   1,L,D
+  27,L,D
   38,F,272.42
    1,F,270.299
   11,F,210
@@ -1025,8 +1024,7 @@ AnalogMode,Precise
   15,R
    9,R,D
    1,R
-  26
-   1,R,D
+  27,R,D
   32,F,102.065
    1,F,101.403
   19,F,94.286
@@ -1042,8 +1040,7 @@ AnalogMode,Precise
    1,L
    1
    5,R,X
-  26
-   1,R,U
+  27,R,U
   48,F,91.325
   29,F,100.92
   15,R,X
@@ -1060,8 +1057,7 @@ AnalogMode,Precise
    1,L
    3,J,G
    3,R,J
-  26
-   1,L,U
+  27,L,U
   16,F,359.926
    1,F,5.101
   11,F,65
@@ -1262,9 +1258,9 @@ AnalogMode,Precise
 
 #lvl_d-02
    1,R
-   1,R,K
+   1,R,J
    1
-   1,K
+   1,J
   14,D
    3,R,D
    2,D
@@ -1287,11 +1283,14 @@ AnalogMode,Precise
   26,F,10.106
    1,F,12.017
   11,F,72
-  17,F,124.3
-   6,F,90
-  15,R,D,X
-  15,R,D
-  24,R
+  19,F,120.4
+   4,F,90
+   4,R,X
+  11,R,D,X
+  13,R,D
+   1,D
+   1,R,D
+  22,R
   15,R,U,Z
    1,J
    7,R,K
@@ -1480,4 +1479,4 @@ AnalogMode,Ignore
    3,R,J
   14,R,D,X
  134,R,G
-ChapterTime: 3:26.380(12140)
+ChapterTime: 3:26.346(12138)
