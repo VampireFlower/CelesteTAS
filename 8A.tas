@@ -6,7 +6,7 @@ console load 9
   54
 
 #lvl_00
-read,8S,lvl_00,lvl_a-03
+Read,8S,lvl_00,lvl_a-03
 
 #lvl_a-03
    1,L,K,G
@@ -42,7 +42,7 @@ read,8S,lvl_00,lvl_a-03
   40
 
 #lvl_b-07b
-read,8S,lvl_b-07b,lvl_c-00 (0)
+Read,8S,lvl_b-07b,lvl_c-00 (0)
 
 #lvl_c-00
    1,L
@@ -233,7 +233,7 @@ read,8S,lvl_b-07b,lvl_c-00 (0)
   40
 
 #lvl_d-01
-read,8S,lvl_d-01,lvl_d-06
+Read,8S,lvl_d-01,lvl_d-06
 
 #lvl_d-06
    2,K,G
@@ -259,5 +259,5 @@ read,8S,lvl_d-01,lvl_d-06
   40
 
 #lvl_d-07
-read,8S,lvl_d-07
+Read,8S,lvl_d-07
 ChapterTime: 2:30.161(8833)

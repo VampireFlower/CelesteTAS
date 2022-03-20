@@ -452,11 +452,11 @@ AnalogMode,Precise
 #lvl_09
    4,Z
    3,R,J
-   3,R
-   2,R,J
-   1,R
-  31,L,D
-   5,L,Z
+   6,R
+   1,J
+   3
+  27,L,D
+   4,Z
    1,R,J
    1,R,K
    1,R,J
@@ -467,51 +467,51 @@ AnalogMode,Precise
    1,R,K
    1,R,J
    1,R,K,G
-   6,R,J
-   2,J
-  11,R,D,X
+   7,R,J
+   2,R
+  10,R,D,X
   40
 
 #lvl_10a
-   7,R,D,J
-   3,R,J
-   3,R
-   5,R,K
-   6,R
-  12,R,K
-  28,R,X
-   6,R,Z
-   7,R,J
+   7,R,D
+   1,D
+   5,R,D
+   5,R,J
+   5,R
+   4,R,J
    1,R
+   4,R,J
+   4,R
+  26,R,X
+   1
+   5,R,D,C
    1,R,J
-   2,R
-   2,R,K
-  10,R,U,Z
+   6,R
+   3,R,K
+   1,K
+   1,R,J,G
+  11,R,U,Z
   40
 
 #lvl_11
-   2,R,U,Z
-   1,L
-   2,K,G
+   2,L
+   3,J,G
    1
-   4,R
-   4,R,K
+   3,R
+   1
    1,R
-   1,R,K
+   1,R,J
+   2,R
    1,R,D
-   2,R,D,J
-   4,J
-   4,R,J
-   1,R
+  10,R,D,K
    5,R,D,X
-  20,L
+  16,R
+   5,L
   14,L,U,Z
    1,J
    7,R
-   1,R,J
-   3,J
-   2
-  10,U,X
+   5,R,K
+  11,U,X
   18,L
    9,L,D,X
    6,R,J
@@ -1832,4 +1832,4 @@ AnalogMode,Precise
    1,D,J
   18
 AnalogMode,Ignore
-ChapterTime: 4:44.002(16706)
+ChapterTime: 4:43.917(16701)

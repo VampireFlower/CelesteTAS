@@ -2072,41 +2072,39 @@ console load 10
    1,R,J
    1
    5,R,D
-   1,R,J
-   1,J
-  12,R,J
-   1,J
+  23,R,J
 #cb here?
-  15,R,J
-   8,K,G
-   5
-   2,L
-  14,R,Z
-   1,R,J
-  15,R,D,X
-  15,R,D,C
+   4,R
+   3
    1,R
-   5,R,D
+   4
+   2,L,J
+   6,R,J
+   4,R
+  15,R,D,C
+  19,R,D,X
+   1,R,J
+   5,R,D,C
   40
 
 #lvl_h-04
-   7,R,D
+   7,R,D,C
+   3,R,J
+   6,R
    1,R,J
-   9,R
-   1,R,J
+  10,R,D
+  24,L,D
+  12,R,D
+  16,L,D
+  38,R,D
+  14,D
+  10,R,D
+   8,D
+   2,L,D
+   2,D
+  17,R,D
    4,R
-  32,L,D
-  19,R,D
-  14,L,D
-  35,R,D
-  10,L,D
-   8,R,D
-   8,L,D
-   4,R,D
-   1,D
-  14,R,D
-   8,R
-  12,R,Z
+  13,R,Z
    2,R,J
   40
 
@@ -4326,4 +4324,4 @@ Add 2
  165
    1,J
  483
-ChapterTime: 9:48.948(34644)
+ChapterTime: 9:48.795(34635)

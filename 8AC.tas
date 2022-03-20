@@ -6,10 +6,10 @@ console load 9
   54
 
 #lvl_00
-read,8A,lvl_00,lvl_d-07
+Read,8A,lvl_00,lvl_d-07
 
 #lvl_d-07
-read,8S,lvl_d-07,lvl_d-11
+Read,8S,lvl_d-07,lvl_d-11
 
 #lvl_d-11
    5,R,D,X
