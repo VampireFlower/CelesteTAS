@@ -225,18 +225,28 @@ console load 1
   40
 
 #lvl_6
-  14,R,J
-  14,U,Z
-   1,L
-#+1f Berry
-   1,J,G
-   9,L
-  14,R,U,X
-   6,R,J,G
-  36,R,D
+  11,R,J
+   1,J
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+  15,U,X
+   1,R,J
+   1,J
+   7,R,J
+   1,R,K,G
+   9,R,J,G
+   9,R
+   1,R,J
+  27,R,D
+   4,R
+   2,R,D
    1,R
-   1,R,D
-   5,R
+#+1f Berry?
+#idk someone left this
+#comment here but i cant find
+#a version a frame faster
   14,R,Z
    1,L,J
   15,R,X
@@ -248,18 +258,18 @@ console load 1
    6,R,K
    1,R
    2,R,J
-   5,R,Z
-   3,R,J
+#+2f berry
+   9,R,Z
   40
 
 #lvl_6a
-   6,R,J
-   5,R
+   4,R,Z
+   5,R,J
+   1,R
    1,R,J
-   2,R
-  17,L,D
-   2,D
-   1,L,D
+   3,R
+  16,L,D
+   6,R,D
   18,R,D,X
    8,R,J
   10,U,X
@@ -281,26 +291,27 @@ console load 1
    1
    6,J
   11,L
-  12,L,J
-   5,L,Z
+  11,L,J
+   1,L
+#+1f berry
+   7,L,Z
    1,L,J
-   2,L
+   1,L
   40
 
 #lvl_s0 (0)
-   4,L
-   1,L,J
+   5,L
   11,L,K
-   2,K
-  12,U,X
+  14,U,Z
   11,L,J
-   6,K
-   8,L,G
-   1,R,J
-   6,R,K
-   1,R
+   1,L
+   1
+   2,K
+   7
+   1,L,K,G
+   5,R,J
+   4,R
    2,R,J,G
-   1,R
    1,K
    3,L,J
    3,L
@@ -495,9 +506,10 @@ console load 1
   10,R,X
    5,J
   15,U,X
-   7,L,J,G
-   8,L,G
-  11,L,J,G
+   6,L,J,G
+   6
+   1,R
+  12,L,K,G
    7,L
   13,L,D,X
    2,R,J
@@ -519,16 +531,20 @@ console load 1
    3,D
    4
    5,R,X
-  24,R,J,G
-  17,R,D,X
-   5,R,D,C
+   8,R,J,G
+   5,R
+   3,R,J
+   8,R
+   1,R,K,G
+   4,R
+  12,R,D,X
   40
 
 #lvl_8 (0)
-   2,R,D,C
-   1,J
+   3,R,D,X
+   1,R,J
    7,K,G
-   2,D
+   2
    1,G
   19,D,X
    1,R
@@ -647,16 +663,18 @@ console load 1
    7,R,J
   12,U,X
    7,J
-  28,D
-  20,R,D
-  13,R
-  11
-   5,R,J
+  22,D
+  17,R,D
+   4,L,D
+   4,L
+   1
+   1,L
+  10,R,G
+   8,U,G
+  10,R,X
    3,J
-   1,R,J
-   1,L,K,G
-   4,R,K
-   8,K
+  14,K
+   2,L,J
   14,U,X
   40
 
@@ -902,4 +920,4 @@ console load 1
    1,S
    1,D,J
   18
-ChapterTime: 1:49.497(6441)
+ChapterTime: 1:49.395(6435)

@@ -237,30 +237,36 @@ AnalogMode,Precise
    7,L,J
    6,R,J
   14,U,X
-  12,L,J
+   6,L,J
   11,L
-   1,L,D,J
-   7,L
-   9,R
-   1,J
-  16
-#6HC0
-   1,D,J
-  14,R
-   6,L
-   1,R
+   1,L,K
+  10,L
    6
+   6,R,K
+Repeat,6
    1,K
    1,R,K
-  16,J,G
+EndRepeat
+   3,K
+   3,R,K
+   7,L,K
+   1,L,K,G
+   7,L,U,G
+#6HC0
+   1,J,G
+  10,L,X
+   2,L,J
+  12,K
+   3,R,K
+   1,K
   14,U,X
    8,L,J
    1,L,K,G
    7,L
    2,L,J
   14,U,X
-   3,L,J
-   9,R,J
+   4,L,J
+   8,R,J
   40
 
 AnalogMode,Ignore
@@ -1832,4 +1838,4 @@ AnalogMode,Precise
    1,D,J
   18
 AnalogMode,Ignore
-ChapterTime: 4:43.917(16701)
+ChapterTime: 4:43.849(16697)

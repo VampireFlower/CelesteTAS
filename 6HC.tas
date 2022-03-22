@@ -9,14 +9,14 @@ console load 6
 Read,6A,lvl_start,6HC0
 
 #lvl_02b
-   1,D,J
-   3,R
-   1,L
-  23
-   2,K
-  16,J,G
-  14,U,X
-   8,R,J
+   1,J,G
+  10,L,X
+   2,L,J
+   2,K,G
+   2,R,K
+  15,L,K
+  13,U,X
+   7,R,J
    1,R,K,G
    7,R
    2,R,J
@@ -279,4 +279,4 @@ Add 1
   15,U,X
    1,L
 Read,6A,6HC1
-FileTime: 5:21.045(18885)
+FileTime: 5:21.011(18883)

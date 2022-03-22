@@ -142,13 +142,13 @@ console load 3
   40
 
 #lvl_02-a (0)
-   8,R,U,Z
+   7,R,U,Z
   12,R,J,G
-   5,R,X
-   1,R,J
-   5,R
-   1,R,J
-  17,R,D
+   1,K
+   6,R,Z
+   4,J
+   8
+  10,R,D
    6,R,J
   13,U,X
    9,R,K
@@ -1703,4 +1703,4 @@ console load 3
    1,S
    1,D,J
   18
-ChapterTime: 3:15.211(11483)
+ChapterTime: 3:15.194(11482)
