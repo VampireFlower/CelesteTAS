@@ -2888,7 +2888,6 @@ AnalogMode,Precise
   35,R,J,G
   44,R,U
   12,F,90
-   6,R,U,C
 Read,9,Stubbornness,End_IGT
 
 # optional waiting for
@@ -2919,4 +2918,4 @@ Add 2
  165
    1,J
  483
-ChapterTime: 10:41.019(37707)
+ChapterTime: 10:39.999(37647)

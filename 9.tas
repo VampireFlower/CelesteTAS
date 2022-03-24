@@ -16,7 +16,7 @@ Set,DashMode,Two
 #Dont comment out
 Set,DashMode,Normal
 
-#console load 10 43621 -8723
+#console load 10 43604 -8706
 #play,Stubbornness,37
 
 #console load 10 48408 -10328
@@ -2430,7 +2430,7 @@ Endrepeat
    1,R
    3,R,J
    1,R
-   1,L
+   1
    1,R
   14,R,D,X
    1,R,J
@@ -2440,8 +2440,7 @@ Endrepeat
    2,L
   15,L,D,X
    1,R,J
-  10,R
-   3,R
+  13,R
    8,L,Z
    1,R,J
    3,R
@@ -2457,9 +2456,8 @@ Endrepeat
   19,R,U,X
   16,R,D,C
   15,D,X
-   1,R,D
-   1,L,D
-   1,L
+   1,R
+   2,L
   11,D
    5,R,U,Z
   10,R
@@ -2485,93 +2483,99 @@ Endrepeat
    8,L,K
    7,L
    4,D
-  11,L,Z
+  10,L,Z
    1,L,J
-   3
-   4,R
+   5
+   1,J
+   2
   11,L,Z
    1,R,J
-   7,R
-  10,R,J
-   3
-   1,K,G
-   8,D
-  13,R,D
-   3,R
-   1,R,D
-   1,R
-   2,R,D
+   6,R
+   8,R,J
+   2,R,K,G
+   1,K
+   4
+  19,R,D
+   8,R
   15,U,X
-   4,R
-  38,R,J
-  15,U,X
-  13,R
-  13,R,Z
-   1,R,J
-   1,L
-  16,R,D,X
-   1,J
-   1,R,J
-   2,R
-   3,R,K,G
    2
+   1,R
+  27,R,J
+   1,R
+   3
+   1,R
+   1,R,J
+   1,R
+  18,U,X
+  10,R
+   6,R,Z
+   1,R,J
+   6,R
+   2,R,D,J
+   4,R
+  16,R,D,X
+   2
+   1,R,D,J
    1,R
   43
 
 #lvl_h-10
+   1
    1,R
-   6,R,D,X
-   1,R,J,G
-   2
-   3,R
-   4,R,J
-   4,R
-  25,R,D,K
+   5,R,D,X
+   2,R,J,G
+   1
+  11,R
+  22,R,D,J
+  15,R,D,X
    1,R
-  20,R,D,X
+   2,R,D
+   2,R
+   1,R,D
   14,R,U,C
-AnalogMode,Square
-  28,F,50.8707
-AnalogMode,Precise
-  50,F,88.46
+  29,R,U
+  45,F,92.082
   15,R,X
   14,R,Z
   27,R,U
+Set,AnalogMode,Precise
   10,F,105
   39,F,109.022
   22,F,95.99
-  73,F,95.588
-  25,F,116.27
-  17,F,123.18
-  66,F,90.192
+  13,F,95.588
+  60,F,95.588
+  25,F,116.00
+  17,F,123.51
+  66,F,90.18
    9,F,64.33
   16,F,62.003
   12,F,85.41
   34,F,77.845
-  38,F,99.6
+  39,F,101.4
   15,R,X
   14,R,C
-   1,J,G
-   2,R,J
-   5,R
-   2,J
-  10
-   4,R
-  11,L,D,X
-   2,R,J
-   2,R
-  14,R,Z
    1,R,J,G
-   4
-   2,R
-   1
-  11,R,K
+   1,R,K,G
+   1,J,G
+  10,R
+   1,L
+   3,R
+   2
+  10,L,D,X
+   1,R,J
+   4,R
+  12,R,Z
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1,R,J,G
+  10,R,K,G
    5,R
-   1,R,K
-  27,R
-  15,R,U,X
+   1
+  26,R,K
+   3,R,U,X
 #Stubbornness
-   8,R,U,C
+  14,R,U,X
  348
   40
 
@@ -2600,7 +2604,7 @@ AnalogMode,Precise
    2,R,K,G
    1,K
    5,R
-   2,R,J
+   2,R,K
    4,R
    9,R,U,X
    4,J,G
@@ -2619,8 +2623,8 @@ AnalogMode,Precise
    3,R,U,X
    3,R,J,G
    5,R
-   3,R,K
-   3,K
+   3,R,J
+   3,J
    3
    2,R
   15,R,Z
@@ -4336,4 +4340,4 @@ Add 2
  165
    1,J
  483
-ChapterTime: 9:47.724(34572)
+ChapterTime: 9:47.265(34545)
