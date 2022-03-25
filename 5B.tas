@@ -145,7 +145,7 @@ console hard 5
    7,R
    3
    3,D,J
-  40,J
+  40
 
 #lvl_b-07
    8,J
@@ -179,8 +179,7 @@ console hard 5
   16,L
   11,L,U,Z
    1,R
-   3,K,G
-   2,L,K
+   5,K,G
   20,U,C
   18,L,X
 #1.4 spikes dont succ, they suck; would save 23f
@@ -551,23 +550,21 @@ console hard 5
   40
 
 #lvl_c-04
-   3,R
-   1,J
-   8,R,K
-   1,R
-  14,R,Z
-   1,R,J
-   6,R
-   9,R,J
-  16,R,D,X
-   7,R,J
+   4,R
+  10,R,K
+   4,R
+   8,R,D,X
+   1,R,J,G
+   3
+   8,R
+   8,R,J
   15,R,D,X
-  18,R,J
-  16,U,X
-   3,J
-  11
-   2,J
-   7,R,J
+  28,R,J
+  16,R,U,X
+   1,J
+   8,K
+   7
+   9,R,J
 #Section Theo
   16,U,X
   40
@@ -724,16 +721,13 @@ console hard 5
    2
   11,R,X
   16,R,G
-   1,G
-   1,G
-   3,D,G
-   8,D,G
+   2,G
+  11,D,G
    2,R,D
-   3,D
+   3
    6,R,X
-  11,R,G
-   6,R,X
-  34,R,D,G
+  13,R,G
+  38,R,D,G
    1,R,G
    1,R,D,G
    1,R,G
@@ -777,7 +771,7 @@ console hard 5
    1,J
    6,R
    1
-  22,R,D,G
+  22,R,G
    5,D,G
    1
   19,R,X
@@ -815,6 +809,5 @@ console hard 5
   73,L
    1,R,Z
   31,R
-  29,L,J
-   1,R,J
-ChapterTime: 1:43.445(6085)
+  30,L,J
+ChapterTime: 1:43.360(6080)
