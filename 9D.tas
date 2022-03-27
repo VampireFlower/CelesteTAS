@@ -45,7 +45,10 @@ console load 10
    1,R,J,G
   11,R
    3,R,J
-  11,R
+   2,R
+
+#lvl_intro-01-future
+   9,R
    1,R,X
    1,S
    1,D,J

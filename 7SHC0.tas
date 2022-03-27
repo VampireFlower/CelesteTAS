@@ -34,18 +34,16 @@ read,7S,lvl_b-00,7SHC1
    2,R,J
    6,R,K,G
   14,R,U,X
-   1,R,J,G
+   3,R,J,G
    5,R
-   4,R,J
+   1,R
   40
 
 #lvl_b-02c
-   1
-   7,R
-   1,R,J
-  21,R,D,X
-   2
    8,R,D
+   3,R
+  13,R,D
+  14,R
   12,D,X
   40
 

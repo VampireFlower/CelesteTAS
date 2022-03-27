@@ -54,10 +54,13 @@ console load 10
    3,R
    9,R,J,G
    3,R
-  15,R,D,C
+   7,R,D,C
+
+#lvl_intro-01-future
+   8,R,D,C
    1,X
-   2,R,D,J
- 283
+   2,L,J
+ 278
    1,O
    5
    1,O
@@ -73,14 +76,13 @@ console load 10
    1,O
    5
    1,O
-  12
+  11
    1,O
    5
    1,O
    2
    1,O
    5
-  97
    1,O
   80
    1,O
@@ -116,8 +118,9 @@ console load 10
    1,O
    2
    1,O
+  87
    1,J
- 159
+ 160
    1,S
    1,D,J
   34
@@ -125,12 +128,12 @@ console load 10
   40
 
 #lvl_intro-03-space
+   1
   11,R
-  15,U,X
+  17,U,X
   14,R,U,C
    1,R,J,G
-   1,R,K,G
-   1,R
+   2,R,K,G
    1,R,J,G
    1,R,K,G
    7,R
@@ -148,15 +151,14 @@ console load 10
    2,R,K,G
    1,R,J,G
    1,R,K,G
-   6,R
-   1,R,J
    7,R
+   1,R,J
+   6,R
    9,R,X
    1,R,J,G
    6,R
-   1,R,J
-   1,R
    2,R,J
+   2,R,K
    2,R
    6,R,U,X
    1,R,J,G
@@ -4346,4 +4348,4 @@ Add 2
  165
    1,J
  483
-ChapterTime: 9:47.180(34540)
+ChapterTime: 9:46.976(34528)
