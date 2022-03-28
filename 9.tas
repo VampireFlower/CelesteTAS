@@ -42,7 +42,7 @@ console load 10
    3,R,J
    5,R,D,X
    1,R,J,G
-  11,R
+  11,R,D
    1,R,J
   14,R
    3,R,J
@@ -143,37 +143,43 @@ console load 10
    7,R
   17,R,C
   22,L,D
-  20,D
-   2
+  18,D
+   1
    1,D
+   1
+   1,D
+   1
    5,R,Z
    1,R,J
    2,R,K,G
    1,R,J,G
    1,R,K,G
    7,R
-   1,R,J
+   1,R,K
    6,R
    9,R,X
    1,R,J,G
    6,R
-   2,R,J
-   2,R,K
-   2,R
+   1,R,J
+   1,R
+   3,R,K
+   1,R
    6,R,U,X
    1,R,J,G
    1,R,K,G
-   7,R
-  29,R,J
+   3,R
+   1
+   3,R
+  25,R,J
+   3,R
   40
 
 #lvl_a-00
-   5,R
-   5,R,D
+  10,R,D
   14,R,U,Z
    1,J
-   9,R,U,X
-   1,J,G
+   8,R,U,X
+   2,J,G
    6,R
    5,L
    4,Z
@@ -184,7 +190,9 @@ console load 10
    1,R,J,G
    1,R
    1
-   8,R
+   6,R
+   1,R,J
+   1,R
   40
 
 #lvl_a-01
@@ -196,8 +204,7 @@ console load 10
   18,R,C
   15,R,X
   14,R,Z
-   1,R,J
-   1,R
+   2,R,J
    6,R,D,X
   40
 
@@ -205,53 +212,44 @@ console load 10
    8,R,D,X
    1,R,J
   15,R
-   7,R,J
-   1,J
-   1,R,J
-   2,R
+  10,R,D,J
+   1,R
   15,R,U,X
   29,R,U,C
-   6,R,Z
+  11,R,Z
    1,R,J
-   5,R
+   1,R
   40
 
 #lvl_a-03
-   1,R,J
-   7,R,K
+   6,R
+   3,R,J
    1,R
-  20,R,D,X
-   2,R
-  27,R,U,C
-   1
+  15,R,D,X
+   4,R
+   1,R,D
+  26,R,U,X
    1,J,G
    2,R,J
-   1,J
-   1,R,J
-   1,J
+   5,J
    1,R,J
    1,L,J
-   1,R,J
+   1,J
   13,R,K,G
-   1,K
-   6,J,G
-   7,R,J
-   1,R,K,G
-   1,K
-   5,R,K
-  17,R,J,G
+  12,J,G
+   6,R,K,G
+  19,R,J,G
   19,R,X
-  15,R,C
-  25,R,D
-   6,L,D
+  29,R,C
+  10,R,D
+   5,L,D
    1,L
-   1,L,D
+   3,L,D
    4,L
    5,L,Z
    3,R,J
-   2,R
+   3,R
    1,R,J
-   1,R
    1,R,K
    2,R
    5,R,D,X
@@ -273,38 +271,36 @@ console load 10
    5,R
    1,R,J
    7,R
-  46,R,J,G
-   3,R,D
-  15,R,U,X
-  14,R
+  49,R,J,G
+  29,R,U,X
    1,J,G
    1,L,J
   12,R,K,G
    7,R
-   8,R,Z
-   2,R,J
+   9,R,Z
+   1,R,J
    3,R,K,G
    9,R,J,G
   40
 
 #lvl_a-05
-   3,R,J
+   4,R,J
   15,R,D,X
    1,R,J
-  29,R
-  16,R,D
-   3,R
+  44,R,D
   24,R,U,X
-  13,R,G
+  16,G
    3,R,J,G
-   3,R,K,G
+   1,R,K,G
+   2,R
    1,R,J,G
    2,R
    1,R,K,G
    4,R
-   2,L
-   1,L,K
-   5,L,D
+   2
+   1,J
+   1
+   4,D
    7,L,J
   14,R,U,X
    5,R,J,G
@@ -4348,4 +4344,4 @@ Add 2
  165
    1,J
  483
-ChapterTime: 9:46.976(34528)
+ChapterTime: 9:46.942(34526)
