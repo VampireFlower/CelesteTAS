@@ -337,24 +337,23 @@ read,5S,lvl_b-19,5SHC4
    5,K,G
    2
   26,R,D,X
-  18,R,D,C
+  14,R,D,C
+   4,R,J
   15,R,D,X
    1,L,D
-  11,R,D
-   3,D
-   1,R,D
+  15,R,D
    4,Z
    1,R,J
-  12
-   7,L,Z
+  12,R
+   8,L,Z
    6,L,J
    1,L,K,G
-  12,L
+  13,L
    1,L,J
-  14,L
-# resync key, nothing to do while
+  13,L
+#resync key, nothing to do while
 # waiting currently
-   8
+   7
 #5SHC3
   14,L,D,X
    6,R,J
