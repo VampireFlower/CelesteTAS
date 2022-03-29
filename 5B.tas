@@ -1,5 +1,5 @@
 #console hard 5 5904 -216
-#play,Section Theo,37
+#play,Mix Master,37
 
 console hard 5
    1
@@ -30,8 +30,8 @@ console hard 5
    3,R
    1,R,D
    1,R,J,G
-   5,R,K,G
-  15,R
+   6,R,K,G
+  14,R
   20,R,U,X
    7,R,Z
    1,R,J
@@ -55,7 +55,7 @@ console hard 5
   10,R,D
   17,R,U,X
    8,R,C
-   1,R,J,G
+   1,J,G
   24,R,D
   36,R,X
   13,U,C
@@ -94,8 +94,8 @@ console hard 5
   10,R,X
    5,R,J
   14,U,Z
-   9,R,J
-   4,L,J
+  10,R,J
+   3,L,J
    1,K
   40
 
@@ -161,9 +161,7 @@ repeat,8
    1,R,K
    1,L,K
 endrepeat
-   1,J
-   1,R,J
-  11,R,J
+  13,R,J
    4,L,J
   10,L,K,G
    8,G
@@ -273,24 +271,29 @@ endrepeat
   11
   14,R,D,X
    7,L,J
-  11,D
+  11
   34,L
-   5,R
-   2,R,D
-   2,R
+  21,R
+   3,R,D
+   3,R
    1,R,D
-  40,R,U,G
-   3,G
-   1,D,G
-   2,G
-   1,D,G
-   3,G
-   6,U,G
-  22,L
+   2,R,G
+   1,R,J,G
+   6,J
+  12,G
+   1
+   1,J
+   8,K,G
+   1,L,K
+   1,K
+   7,L,K
+   1,L
   26,L,U,X
-   4,Z
-   1,L,J
+  11,J,G
    7,L
+   5,L,Z
+   1,L,J
+   6,L
    3,L,J
   10,L,X
    1,R,J
@@ -579,7 +582,7 @@ endrepeat
    8,K
    7
    9,R,J
-#Section Theo
+#Mix Master
   16,U,X
   40
 
@@ -824,4 +827,4 @@ endrepeat
    1,R,Z
   31,R
   30,L,J
-ChapterTime: 1:43.275(6075)
+ChapterTime: 1:43.258(6074)
