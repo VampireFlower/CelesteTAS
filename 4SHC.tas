@@ -8,8 +8,7 @@ console load 4
 Read,4SH,lvl_a-00,lvl_a-07
 
 #lvl_a-07
-   1,R,J
-   5,R
+   6,R
   13,R,U,Z
   33,R,U,C
   12,J,G
@@ -40,22 +39,32 @@ Read,4SH,lvl_a-00,lvl_a-07
 read,4SH,lvl_a-08 (0),4SHC
 
 #lvl_a-10 (0)
-   7,R,U,Z
+  13,R
    1,L
-   2,K,G
-   2,R,K
-  28,L,D
-   7,L,Z
+   2,R
+   1,L
+   1,R
+   1,S
+   1,D,J
+  34
+  18,L,D,X
+   1,L
+   2,L,D
+   4,L,Z
    1,L,J
    6,L
-   1,L,J
-  14,L,D,X
-   6,L,J
+   2,L,J
+   5,L
+  13,L,D,X
   40
 
 #lvl_a-11
+   6
    2,L,J
-   5,L
+  16,L,Z
+  12,L,D,X
+   3,R,J
+  14,R,D,X
 read,4HC,4SHC,lvl_a-09
 
 #lvl_a-09
@@ -122,4 +131,4 @@ read,4SH,lvl_a-09,lvl_b-03
 
 #lvl_b-00 (3)
 Read,4SH,lvl_b-00 (3)
-ChapterTime: 3:49.398(13494)
+ChapterTime: 3:49.262(13486)
