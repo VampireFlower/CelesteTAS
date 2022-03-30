@@ -540,17 +540,14 @@ console load 4
   26,R,K,G
   15,U,X
    2,R
-   1,J
-   2,R,K
-   6,R
-   1,R,J
-   1,R
-  11,U,X
+  11,R,J
+   5,L,J
   40
 
 #lvl_c-09
-   4,L,J
-  12,L,G
+  10,L,J
+   7,L
+   1,L,G
    3,J,G
    1,K
   12,J
@@ -909,4 +906,4 @@ console load 4
    1,S
    1,D,J
   18
-ChapterTime: 1:47.151(6303)
+ChapterTime: 1:47.134(6302)
