@@ -86,18 +86,19 @@ console load 4
   40
 
 #lvl_a-02
-   9,R
-  10,R,D,J
-   9,R,K,G
-   2,K
-   3,R,J,G
-   1
-  20,R,D,X
-   1,R
+   5,R
+   4,R,J
+  10,R,K
+   7,R,J,G
+   4,J
+   3,R,K,G
+  15,R,D,X
+   6,R
   40
 
 #lvl_a-03
-  19,R,D
+  10,R
+   9,R,D
    3,R
    1,R,D
   10,R
@@ -906,4 +907,4 @@ console load 4
    1,S
    1,D,J
   18
-ChapterTime: 1:47.134(6302)
+ChapterTime: 1:47.117(6301)

@@ -351,8 +351,7 @@ read,5S,lvl_b-19,5SHC4
   13,L
    1,L,J
   13,L
-#resync key, nothing to do while
-# waiting currently
+#resync key
    7
 #5SHC3
   14,L,D,X
@@ -419,4 +418,4 @@ read,5S,lvl_b-19,5SHC4
 
 #lvl_b-16
 Read,5A,5HC1
-ChapterTime: 4:03.423(14319)
+ChapterTime: 4:03.406(14318)
