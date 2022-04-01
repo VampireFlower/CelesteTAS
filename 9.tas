@@ -2868,21 +2868,20 @@ Set,AnalogMode,Precise
    1,R,J
   12,R,D,X
    1,L,J,G
-  24,R,J
+  23,R,J
+   1,R
    1,S
    1,D,J
   34
-   4,Z
+   4,X
    5,R,J
-  41,R
-  13,R,X
+  40,R
+  14,R,X
    1,R,J
+  12,R,U,X
    1,J
-   5,U,X
-   6
-  11,D
-   8,L,D
-   7,U,X
+  16
+   8,U,X
   12
    8
   14,L,D,X
@@ -2917,7 +2916,9 @@ Set,AnalogMode,Precise
    1,R,J
    5,R,D,X
    1,R,J
-   5,R
+   1,R
+   1
+   3,R
   40
 
 #lvl_j-00b
@@ -3403,21 +3404,27 @@ Set,AnalogMode,Precise
    1,R
   12,L
   20,R
-  60,L
-   4,G
-   2
-   1,L
-  12,D
-   4,R,D
+  58,L
+   3
+   2,L
+   1,G
+   1
+   5,R
+   2,L
+   1,R
+   6,L,D
+   2,L
+   1,L,D
    9,U,X
   14,R,J
    8,R
    3,R,J
   11,R,D
    4,L,D
-   1,R,D
+   1,D
   11,L,D
-   4,R,D
+   3,D
+   1,R,D
   68,R
    7,R,J,G
    5,R,Z
@@ -3450,34 +3457,36 @@ Set,AnalogMode,Precise
   15,R
   18,R,X
   15,R,C
-  39,R,D
-  61,D
-  12,R,D
-   5,D
-   6,R,U,Z
-   7
-   3,L
-   2,R
-   4,L
+  34,R,D
+   5,R
+  41
+   8,R
+   1
+   7,R
    1,R,J,G
-   3,L,J
-   5,J
-   2,R,J
-   2,R
-   6,R,K,G
-  10,R
-   1,R,K
-   2,R
-   1,R,K
-  11,R,D
+   5,R,K,G
+  16,R
+   5,L,U,X
+   6
+  12,L,J
+   4,L
+   1
+   5,R,J
+  13,R
+   1,L
+   3,L,D
+   1,L
    5,L,D,X
   12
-  10,R
-  26,R,D,X
-   4,R,D
+   1,R,J
+   9,R
+  15,R,D,X
+  11,R,D
    2,R
+   1,R,D
+   1,R
   11,R,J
-  13,R,Z
+  12,R,Z
    1,R,J
    1,R
    1,R,J
@@ -4344,4 +4353,4 @@ Add 2
  165
    1,J
  483
-ChapterTime: 9:46.942(34526)
+ChapterTime: 9:46.619(34507)
