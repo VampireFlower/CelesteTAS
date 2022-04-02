@@ -586,48 +586,50 @@ console load 5
    1,R,K,G
    3,R,J,G
   12,R
-   3
-   4,R
-   4,Z
-   3,R,J
-   2,R
-   2,R,K
+   4
    1,R
-   5,R,J
-   8,R,D,X
+   1
+   1,R
+   4,Z
+   2,R,J
+   2,R
+   3,R,J
+   1,R
+   1,D,K
+   2,R
+  10,R,D,X
   40
 
 #lvl_a-09 (1)
-   7,R,D,X
-   4,R
-   3,R,D
-   1,R
-  12,R,Z
-   9,R,J,G
+  10,R,D
+  11,R,D,J
+   5,R
+   2,R,J
    6,R
   40
 
 #lvl_a-10 (1)
-  10,R
-  15,R,D,X
+   8,R
+  14,R,D,X
+   1
    1,R,J
-   1,R
-  12,R,U,X
-   5,R,J,G
+   1
+  12,R,U,Z
+   5,R,K,G
    2,R
   40
 
 #lvl_a-08 (2)
    2,R
-   6,R,J,G
+   8,R,J,G
    5,R
-  10,R,J
-   6,R
+   7,R,J
+   7,R
   40
 
 #lvl_a-12 (0)
-   3,R
-  10,R,U,Z
+   2,R
+  11,R,U,Z
    9,R,J,G
   18,R,D
   22,L,D
@@ -1599,24 +1601,21 @@ console load 5
   13,U,X
  197,U,C
    1,J
-   5,L,D,X
-   1,L,J
-   7,L
-   7,L,J
-   5,L,K,G
-   1,L,J,G
-   2,R,J
-   1,J
-   7,L,K,G
+  10,L,X
+  13,L,J
+   1,R,K,G
+   8,L,J
+   3,J
   10,L,D,X
    5,R,J
-   7,R,U,X
-   1,R,J,G
-  12,R
+   6,R,U,X
+   1,R,K,G
+   9,R
    1,R,J
   14,R,D,X
-   4,R,J
-   3,R
+   1,R,J
+   7,R
+   3,R,J
   13,R,D,X
    1,L,J
    3,J
@@ -1799,25 +1798,34 @@ console load 5
    1,R
   29,R,D,X
    1,R,J
-   9,R
-  15,R,U,Z
-  16,R
-   6,R,J
-   8,R
-  25,L
-  43
-   1,J
-   8
-   2,J
-   5
+  14,R,D,X
    1,R,J
-   2,R
-  11,R,U,X
-  21
-  12,J,G
-   2,K,G
-   6,R,Z
-   6,R,J
+   3,R
+   6,L,D,X
+   1,R,J
+  11,R
+  16,D,X
+   4,Z
+   1,L,J
+  12,L
+   3
+  11,L,D,X
+   1,R,J
+   5,R
+   1,R,J
+   1,R
+  20,R,K
+   3,J,G
+   1,L,J
+  13,R,K,G
+   8,R,D,X
+  24,R,J
+   2,K
+  15,U,X
+   1,R,J,G
+   7,R
+   5,R,Z
+   5,R,J
   40
 
 #lvl_c-10
@@ -1826,21 +1834,19 @@ console load 5
    1,R,J
    2,R,K,G
   19,R,D,X
-   5,R,J
-   1,J
-   3,R,K,G
-   1,K
-   6
-   1,R
+   6,R,J
+   4,R,K,G
+   6,R
   15,D,X
    8,L,D
-   4,L,J
+   3,L,J
   11,R,D,X
    5,J
   14,U,X
-   2,J
+   2,L,J
+   1,R,J
    2,R
-   2,R,J
+   2,R,K
    3,R
   12,R,U,X
    1,R,J,G
@@ -3055,4 +3061,4 @@ console load 5
    1,S
    1,D,J
   18
-ChapterTime: 6:36.389(23317)
+ChapterTime: 6:36.015(23295)
