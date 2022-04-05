@@ -3419,11 +3419,8 @@ Set,AnalogMode,Precise
   14,R,J
    8,R
    3,R,J
-  11,R,D
-   4,L,D
-   1,D
-  11,L,D
-   3,D
+  11,R
+  19,L,D
    1,R,D
   68,R
    7,R,J,G
@@ -3435,31 +3432,37 @@ Set,AnalogMode,Precise
    1,J
    7,R,J
   50,R,G
-   2,D,G
-   2,G
-  21,R,U,G
+   1,D,G
+   1,G
+   1,D,G
+   1,G
+  22,R,U,G
    1,R
    1,R,J,G
    1,R,K,G
    1,R,J,G
    7,R,K,G
-   2
-  16,R
-   5,R,D
-   2,R
-   1,R,D
-   2,R
-  11,R,J
-   5,R
-   4
+   7,R
+   1,R,J
    1,R
+   1,J
+   1,R
+  14,R,D
+   3,R
+   1,R,D
+  10,R,J
+   4
+   2,R
+   1
   15,U,X
   15,R
   18,R,X
   15,R,C
-  34,R,D
-   5,R
+#+2f powerbox cycle
+  36,R,D
+   3,R
   41
+   2
    8,R
    1
    7,R
@@ -3482,9 +3485,7 @@ Set,AnalogMode,Precise
    9,R
   15,R,D,X
   11,R,D
-   2,R
-   1,R,D
-   1,R
+   4,R
   11,R,J
   12,R,Z
    1,R,J
@@ -3572,77 +3573,72 @@ Set,AnalogMode,Precise
   10,R
    4,Z
   11,U
-   4,R
+  10,R
+   6,R,G
+   1,U,G
    1,R,G
-   9,R,D,G
+repeat,24
    1
-   1,R,G
-   6,R,D,G
+   1,G
+endrepeat
+   6,G
+   2,U,G
+repeat,20
+   1,G
+   1,U,G
+endrepeat
+   2,G
+   6,D,G
+   5,G
+   2,U,G
+repeat,8
+   1,G
+   1,U,G
+endrepeat
+   1,G
+   1,D,G
+   1,U,G
+   1,G
+   3,U,G
    3,R
-   1,R,G
-   6,R,D,G
-   3,R
-   1,R,G
-   6,R,D,G
-   3,R
-   1,R,G
-   6,R,D,G
-   3,R
-   1,R,G
-   7,R,D,G
-   2,R
-   7,G
-  22,U,G
-  61,G
-   3
-   2,R
    1,R,J,G
    1,R,K,G
-   1,R,J,G
-   1,K,G
+   1,J,G
+   2
    6,R
-   1,R,K
    1
    1,L
-   1,R,J
-  31,J
-  17,R
-   2,R,G
-   5,R,D,G
-   3,R
-   1,R,G
-   6,R,D,G
-   3,R
-   1,R,G
-   6,R,D,G
-   3,R
-   1,R,G
-   6,R,D,G
-   3,R
-   1,R,G
-   6,R,D,G
-   3,R
-   8,G
-   1,U,G
+   1,L,J
+   3,L,J
+   1,R
+   8,R
+   2,R,J
+   1,L
+   6,R
+  10,R,G
+  14,D,G
+   3,G
+   1,D,G
+   1,G
+   1,D,G
+  59,G
+   5,U,G
    1,R
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   1,R
    1,R,K,G
-   1,R
    6,R,J,G
    6,R
    1
    4,R,D,K
-  48,R
-   2,R,D
-   2,R
-   6,R,D
+  43,R
+  13,R,D
   12,R,J,G
    5,R
-  11,R,J
-   4
+   5,R,J
+   5,R
+   3
   15,L,U,X
    6
    7,L,X
@@ -4353,4 +4349,4 @@ Add 2
  165
    1,J
  483
-ChapterTime: 9:46.619(34507)
+ChapterTime: 9:46.568(34504)
