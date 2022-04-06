@@ -1,9 +1,9 @@
-console load 6
-   1
-
 #console load 6 11428 142
 #AnalogMode,Precise
 #play,Rock Bottom,37
+
+console load 6
+   1
 
 #Start
  110
@@ -316,23 +316,21 @@ AnalogMode,Ignore
    1,L,J
    1,R
   12,R,K,G
-   7,R
+   3,R
+   4
+   4,D,X
+   2,R,J
+   2,R
+   1,R,K,G
+   9,R
    1,R,J
    1,R
-  11,R,Z
-   1,R,J
-   6,R
    4,R,J
    2,R
   43
 
-#alternative strat; they break
-#even, so either one could be
-#optimized to be faster
-#https://pastebin.com/C2Mwkdrk
-
 #lvl_05
-   4,R
+   3,R
   15,R,D,X
    5,L,C
   28,L
@@ -343,8 +341,7 @@ AnalogMode,Ignore
    2,R,J
    6,R
    5
-   4,Z
-  10,R
+  14,R,Z
    9,L,J
   11,L
    1,J,G
@@ -365,8 +362,7 @@ AnalogMode,Ignore
    4,R,J
   22,R
    2,R,J
-   4,Z
-   3,R
+   7,R,Z
   40
 
 #lvl_06
@@ -1838,4 +1834,4 @@ AnalogMode,Precise
    1,D,J
   18
 AnalogMode,Ignore
-ChapterTime: 4:43.849(16697)
+ChapterTime: 4:43.832(16696)
