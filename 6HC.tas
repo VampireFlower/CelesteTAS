@@ -263,20 +263,8 @@ Add 1
 
 #lvl_04 (3)
   36
-   4,Z
-   7,R
+  12,R,Z
    2,R,J
-   1,R
-   1,R,K,G
-   1,R
-   3,R,K,G
-   1,R
-  10,R,Z
-   1,R,J
-  19,R,K
-   3,J,G
-   1,L,J
-  15,U,X
-   1,L
+   6,R,K,G
 Read,6A,6HC1
-FileTime: 5:20.994(18882)
+FileTime: 5:20.654(18862)
