@@ -49,7 +49,7 @@ Read,5B,Start
 
 Read,LoadAFromB
 
-Read,6AC,Start
+Read,6HC,Start,Return
 
 Read,LoadBFromA
 
