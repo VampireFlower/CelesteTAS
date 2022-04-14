@@ -1045,34 +1045,34 @@ console load 10
    7,R
   15,U,X
    1,L
-  11,R,U,X
-   1,J,G
-   7
-   1,G
+  10,R,U,X
    1,R,J,G
-   2,L,J
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-   3,R
-   1
+   4
    1,R
-   1,R,J
-   1,L,J
-   5,L
    1
    1,L
-   1
-   4,R
-   1,R,D,J
+   1,R,J,G
+   2,L,J
+   3,R,J
+   1,R,K,G
+   1,R,J,G
+   5,R
+   1,L
    1,L,J
-   7,R,J
+   1,R
+   4,L
+   1,R
+   1,L
+   3,R
+   1,R,D,J
+   2,L,J
+   6,R,J
   14,R,U,X
    2,R,J,G
   14,R,D,X
    1,R,J
-   5,R,D,X
-   1,R,J
+   6,R,D,X
+   2,R,J
    1,R,K,G
    2,R
    1,R,J,G
