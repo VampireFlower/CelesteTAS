@@ -968,7 +968,7 @@ console load 5
    1,R,K,G
    7,R
   11,R,J
-#+1f Berry (0)
+#+2f Berry (0)
   14,R,X
    2,R,J
   14,U,X
@@ -2131,21 +2131,22 @@ console load 5
    2
    1,D
    1,R,D
-  10,L,J,G
+   9,L,J,G
    6
   11,K,G
-   7,L
-  14,J
-  15,D,X
-   2,R,D
-  14,R,Z
+   1,J,G
+   3
+   3,L
+   1,R
+  12,L,K
+  10,L,Z
+  16,R,J
+  25,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
-  14,R,D,X
-   3,R,J
-  10,R
-  36,G
+   7,R
+  27,G
   14,K,G
   18,L,D,X
    2,R,J
@@ -2575,7 +2576,7 @@ console load 5
    1,K,G
    1,L,K
   16,D,X
-  20,R,D
+  23,R,D
    1,J
    4,D,C
    3,L,C
@@ -3098,4 +3099,4 @@ console load 5
    1,S
    1,D,J
   18
-ChapterTime: 6:35.080(23240)
+ChapterTime: 6:34.995(23235)

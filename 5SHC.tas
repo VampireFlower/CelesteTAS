@@ -5,15 +5,16 @@ console load 5
  110
 
 #lvl_a-00b (1)
-read,5S,lvl_a-00b (0),+1f Berry (0)
+read,5S,lvl_a-00b (0),+2f Berry (0)
   11,R,X
-   4,R,J
-   1,K,G
+   5,R,J
   13,U,X
   40
 
 #lvl_b-20 (0)
-read,5S,lvl_b-20 (0),+1f Berry (2)
+  11,R,J
+   6,R
+read,5S,5SHC0,+1f Berry (2)
 
 #lvl_b-13 (1)
    4,R
@@ -136,4 +137,4 @@ read,5S,5SHC3,5SHC4
 
 read,5HC,5SHC3,lvl_b-16
 read,5S,lvl_b-16
-ChapterTime: 7:06.139(25067)
+ChapterTime: 7:06.037(25061)
