@@ -41,34 +41,34 @@ console load 1
    1,R,K,G
   13,R,U,X
    4,R,J,G
-   6,R
-   2,R,J
+   5,R
+   1,R,J
+   1,R
+   1,R,J
   10,R
-   5,R,J
-  15,U,X
-  18,J
-   1,R,K,G
-   2,L,K
-   3,R,K
-   1,R,J,G
-   2,R,K,G
+  12,R,K
    1,J
+   1,K
+   9,L,K
+   2,K
+  15,U,X
+   8,R,J
+   1,R,K,G
+   2,R,J,G
+   1,K
   40
 
 #lvl_3
-   1,R,J,G
-   1,R,K,G
    2,R,J,G
-   4,J
-   1,R,J
-   8,J
-  16,R,U,X
-   1,J
-   6,R,J
-   1,R
+  15,R,K,G
+   1,K
+  12,U,X
+   2,J
    5
-   3,J
-   3,L
+   1,R
+   2
+   2,K
+   6,L
    5,L,Z
    1,R,J
    2

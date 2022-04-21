@@ -116,48 +116,49 @@ Read,5A,lvl_a-00b,lvl_b-02
    6,R,X
 #5SHC1
   44,R,C
-  16,R,D,G
-   4
-   2,R
-   1,K
-  18,R,K
-   6,R,X
-   4,R,J,G
-  16,R
-  16,D,X
-  14,R,D,C
-  27,R,J
-   8,R,K,G
-   2,R
-  15,U,X
-   1,L,J,G
-   2,L
-   3
-   1,L
+  36,G
    1
-  14,L,X
-   1,R,J
-   4,D,X
-  10,R,X
-   1,L,J
-  12,L,D,X
-   4,L,J
-   4,D,X
-  11,L,X
+   2,J
+   5,R,Z
+   4,R,J,G
+   6,R
+   9,R,J
+   4
+  15,R,D,X
   15,D,C
-   5
+  10,L,X
+   6,R,J
+   1,R
+  15,R,X
+  10,R,C
+   9,R,J
+   7,R
+  15,U,Z
+   1,L,J,G
    1,R,J
-  14,L,C
-   1,R,J
-   4,D,X
-  10,R,X
    1,L,J
+   1,R
+   6,L
+   4,Z
+   1,L,J
+   6,L
+   2,L,D,J
+   4,L
+  14,L,X
+   1,L,J
+  15,D,C
+  15,D,X
+  14,L,Z
+   1,R,J
+  13,R,Z
+   1,L,J
+   1,R
   14,L,D,X
    1,L,J
-   1,L,K,G
-   3
+   3,L,K,G
   15,L,D,X
-  11,L,D,J
+   1,L
+   8,L,J
  257
    1,J
 #Return
@@ -418,4 +419,4 @@ read,5S,lvl_b-19,5SHC4
 
 #lvl_b-16
 Read,5A,5HC1
-ChapterTime: 4:03.287(14311)
+ChapterTime: 4:02.930(14290)
