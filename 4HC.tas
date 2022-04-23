@@ -46,13 +46,14 @@ Read,4A,lvl_a-00,lvl_a-08
   40
 
 #lvl_a-11
-   3,L,J
-   4,L
-  17,D,X
   14,L,Z
    1,R,J
-  14,R,Z
+  15,D,X
+  13,L,V
 #4SHC
+   1,R,J
+   1,R
+  14,R,Z
    1,L,J
    6,L,D,X
    1,L,J,G
@@ -66,13 +67,13 @@ Read,4A,lvl_a-00,lvl_a-08
   10,L
   11,L,J
    7,L
-  13,L,U,Z
-   1,R
-   5,J,G
-   2
+  14,L,U,Z
+   1,R,J,G
+   1,J
+   7
+   2,J
+   1
    3,L
-   2,L,J
-   9
    6,R,Z
    1,L,J
    8,L
@@ -264,4 +265,4 @@ Read,4SH,lvl_b-05 (1),lvl_b-08b
 
 #lvl_b-08b
 Read,4A,lvl_b-08b
-ChapterTime: 2:14.215(7895)
+ChapterTime: 2:14.164(7892)
