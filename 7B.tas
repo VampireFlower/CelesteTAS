@@ -43,9 +43,7 @@ console hard 7
    2,K,G
   11,R,K
    9,U,X
-   6,R,J
-   1,R,J
-   1,R,J
+   8,R,J
    1,R,K,G
    1,R,J,G
    7,R
@@ -1687,32 +1685,50 @@ console hard 7
    1,R
    1,L
   14,R,Z
-  13,R,J
-  11,U,X
-  18,R,J
+   5,R,J
+   5,R
+   2,R,J
+   1,J
+  11,U,Z
+  18,R,K
+   2,J
   15,U,X
-   7,R,J,G
+   1,R
+   2,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1
    7,R
 
 #CP-01
-  10,R,X
-  11,R,J
+  13,R,K
   15,U,X
-   2,L,J
-  16,J
+   1
+  18,J
   15,U,X
-  12,R,J,G
-  12,R,K,G
-  10,R,J,G
+   1,R
+   4,R,J,G
+   8,J
+   1,R,K,G
+   3,L,K
+   1,R,K
+   7,K
+   1,J,G
+   5,R,J
    1,K,G
-   6,R
+   1,R
+   1
+   1,R
+   2
+   1,R
    1,L
   10,L,J
   15,U,X
    2,R,J
   15,U,C
    4,R
-  10,R,J,G
+  10,R,K,G
    1,R
    1,R,J,G
    1,R
@@ -1731,20 +1747,28 @@ console hard 7
    6,R,J
    3,R,K,G
    7,R
-  10,R,J
-  10,R,K,G
+   9,R,J
+   1,J
+   1,R,K,G
+   1,K
+   1,R,K
+   9,J,G
   15,R,U,X
+   1,R
   14,R,U,C
-   1,R,J,G
-   2
    1,J,G
-   7,R
+   1,R
+   1
+   1,R
+   1
+   3,R
   10,R,X
-  13,R,J
+  11,R,J
   15,U,X
+   1,R
    2,R,J,G
    1,R,K,G
-   8,R,J,G
+   9,R,J,G
    5,R,Z
    1,R,J
    1,R
@@ -1855,4 +1879,4 @@ console hard 7
   10,R
   15,L
    5,R
-ChapterTime: 4:52.213(17189)
+ChapterTime: 4:52.128(17184)
