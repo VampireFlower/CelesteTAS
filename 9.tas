@@ -3437,56 +3437,53 @@ Set,AnalogMode,Precise
    1,G
    1,D,G
    1,G
-  22,R,U,G
+  29,R,U,G
    1,R
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   7,R,K,G
-   7,R
+   8,R,K,G
+   5,R
+   1,R,K
+   1,R
+   1,R,K
+  20,R,D
+   1,R
+   2,R,D
+   5,L,Z
    1,R,J
-   1,R
    1,J
-   1,R
-  14,R,D
-   3,R
-   1,R,D
-  10,R,J
-   4
-   2,R
    1
-  15,U,X
-  15,R
-  18,R,X
-  15,R,C
-#+2f powerbox cycle
-  36,R,D
-   3,R
-  41
+   2,J
    2
-   8,R
-   1
-   7,R
+   1,R,G
+   1,J,G
+   1,L,J
+   1,R,K,G
+  47,R,J,G
+  51,R,U,C
+  18,R,D
+   4,R
+  15,R,U,Z
+   7
+   2,R
+   7,L
    1,R,J,G
-   5,R,K,G
-  16,R
-   5,L,U,X
-   6
-  12,L,J
-   4,L
-   1
+   4,L,J
    5,R,J
-  13,R
-   1,L
-   3,L,D
-   1,L
+   5,R
+   9,R,J,G
+   4
+   5,R
+   2,R,J
+  12,R
    5,L,D,X
   12
    1,R,J
    9,R
   15,R,D,X
-  11,R,D
-   4,R
+  13,R,D
+   2,R
   11,R,J
   12,R,Z
    1,R,J
@@ -4321,7 +4318,7 @@ endrepeat
   15,U,X
   38
 #End_IGT
-ChapterTime: 9:46.517(34501)
+ChapterTime: 9:46.109(34477)
 
 # optional waiting for
 # visuals to play out
