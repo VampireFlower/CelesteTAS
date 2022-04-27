@@ -2853,78 +2853,70 @@ console load 5
   10,R,G
    1,R
    9,R,Z
-   1,R,J
+   9,R,J
    1,R
-   5,R,J
-  16,R
-   5,R,K
-  10,R,D,X
+   3,R,J
+  14,J
+  13,R,D,X
    1,L,J
-   6,L,D
-   1,D
-   1,L,D
+   4,L
+   1,L,J
+   1,L
   15,D,X
-   3
-   3,L,D
+   1
+   4,L
+   1
+   1,L
    4,Z
    1,R,J
   13,G
    8,R,K,G
    1,R
-  14,R,U,Z
+  14,R,U,X
   21,R,G
    1,J,G
-   2,R,J,G
    1,J
-   4,L,J
-   7,L
-   1,K,G
+   9,L,J
+   1,L,K,G
+   5,K
+   7
+   7,R
    1
-   1,K,G
-   1,J,G
-   6
-   3,L,D
-   1,D
-   3,R
-   2,R
-   6,R,Z
+   1,R
+   7,R,Z
    1,L,J
-   1,J
    4
    1,L,J
    2,K,G
-   4,K
+   3,K
+   1,L,K
    1,R,J
-   2,R
+   1
+   1,R
   15,R,D,X
-  13,R,D
+  13,D
   14,R,D,X
    1,R,J
    5,R,D,X
   13,G
-  11,R,J,G
-   5,R,G
+  18,R,J,G
   40
 
 #lvl_e-05
-   1,R,G
-   3,R,J,G
-   7,R,G
-   1,R,K,G
-   9,R,G
+  11,R,G
+   2,R,K,G
+   6,R,G
+   2,R,K,G
    1,R
   15,R,U,X
-  16,R
-   2,D
-   2
-   2,D
-   2
-   2,D
-   2
-   9,L,J
-   8,J
-  14,R,D,X
+  21,L
+  24
+   7,L,Z
    1,R,J
+   1,R
+   1,R,J
+   4,R
+   1,R,K
    5,R,D,X
   24,R,G
    9,R,D,G
@@ -2938,7 +2930,8 @@ console load 5
   11,R,J,G
    7,R,G
    2,R,J,G
-  18,R,G
+  13,R,G
+   5,G
    1,R,K
   12,L,D,X
    3,R,J
@@ -2986,18 +2979,17 @@ console load 5
    1,R,K
    5,R
    3,R,K
-   6
-  16,L
+  17
+   5,L
    3,L,J
    5,L
    2,L,J
    4,L
-   7,R
-   3,R,D
-   1,R
-   6,G
-   2,U,G
-   2,R
+   7,R,J
+   4,R,D,J
+   6,J,G
+   2,U,J,G
+   2,R,J
    1,R,K,G
    1,R,J,G
    1,R,K,G
@@ -3007,40 +2999,42 @@ console load 5
    1,R,K
    6,R,U,Z
   16,G
-  17,R,G
+  10,R,G
+   1,R,J,G
+   6,R,G
   40
 
 #lvl_e-10
-   2,R,G
-   2,R,D,G
-   1,R,G
+   5,R,G
    1,R,D,G
    1,R
    7,R,U,X
    1,R,J,G
    2,R,J
-  18,R,J,G
+  17,R,J,G
    7,R,G
    6,R,K,G
-   7,R,G
+   6,R,G
    1,R,K,G
+   1,R,G
    3,R,J,G
   10,R,G
-  13,R,J,G
-   2,R,J
-   3,K,G
-   6,R,Z
+  11,R,J,G
+   5,R,J
+   1,K,G
+   1,K
+   1
+   5,R,Z
    1,R,J
   17,R,J,G
-  15,K,G
+   6,K,G
+   9,R,K,G
    1,J,G
-   1,K,G
-   1,R,K,G
-   1,K,G
-   5,R,K,G
-   1,K,G
-   5,K
-   9,L,Z
+   2,R,J,G
+   5,J,G
+   1,J
+   5,L,J
+   7,L,Z
    1,R,J
    7,R
    1,R,K
@@ -3085,9 +3079,14 @@ console load 5
    1,R
    9,R,Z
    1,R,J
-  47,R,K,G
-  10
+  23,R,K,G
+  21,R,G
+   1,G
+   1,R,J,G
+   1,J,G
+   1,R,J,G
+   8
    1,S
    1,D,J
   18
-ChapterTime: 6:32.462(23086)
+ChapterTime: 6:32.258(23074)
