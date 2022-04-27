@@ -3380,29 +3380,30 @@ Set,AnalogMode,Precise
    8,R,U,X
   12
    7,R
-  14,R,Z
+  12,R,Z
    1,R,J
    7,R
    7,R,J
   15,R,D,X
    1,R,J
-   7,R,D,X
+   8,R,D,X
   40
 
 #lvl_j-10
-   7,R,D,X
-   1,R,J
-   6,L,J
-   2,L
-   1,R,J
+   6,R,D,X
+   6,R,J
+   1,J
+   2
+   1,J
+   1,R
    2,L
   15,D,X
    5,L
   15,R,D,X
    1,R
-  16,L
+  19,L
    1,R
-  12,L
+   9,L
   20,R
   58,L
    3
@@ -4320,6 +4321,7 @@ endrepeat
   15,U,X
   38
 #End_IGT
+ChapterTime: 9:46.517(34501)
 
 # optional waiting for
 # visuals to play out
@@ -4349,4 +4351,3 @@ Add 2
  165
    1,J
  483
-ChapterTime: 9:46.534(34502)
