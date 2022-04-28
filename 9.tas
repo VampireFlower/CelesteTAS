@@ -2961,27 +2961,30 @@ Set,AnalogMode,Precise
    1,R,G
    1,R,D,G
    1,R,G
-   2,R,D,G
-   7,R
-  17,R,U,X
-  22,R,U,J,G
-   1,L,J
-  21,R,J
    2,R,D
-  19,R,U,X
-  15,R,C
-  23,R,D
-  38,R
-  24,R,X
-  11,R,C
-   4,R,J
-   6,R,U,X
-  11
+   2,R
+   4
    1,R
-  17,L
-  11,R,U,X
+   4,L
+   1,R
+   2
+   8,R,X
+  26,R,G
+   1,L
+  20,R
+  15,R,U,X
+  15,R,C
+  24,R,D
+  38,R
+  25,R,X
+  10,R,D,C
+   5,J
+   7,R,U,X
+   7
+  22,L,D
+  12,R,U,Z
   12
-   4,R
+   3,L
   15,D,X
    4,Z
    1,R,J
@@ -4318,7 +4321,7 @@ endrepeat
   15,U,X
   38
 #End_IGT
-ChapterTime: 9:46.109(34477)
+ChapterTime: 9:46.075(34475)
 
 # optional waiting for
 # visuals to play out
