@@ -534,30 +534,36 @@ read,5S,lvl_c-07,lvl_d-01 (0)
 read,5S,lvl_d-19b (1),lvl_e-06
 
 #lvl_e-06
-   6,R,G
-  11,R,J,G
-   1,R
-  13,R,U,X
-  25,R,G
-  11,R,J,G
+   5,R,G
+   6,R,J,G
+   3,J,G
+   1,G
+   1
+  14,R,U,X
+  23,R,G
+   2,G
+  12,R,K,G
   10,R,G
-   1,R,J,G
-   1,R,J
-  11,R,D,X
-   1,R,J
-  16,R,D
-  19,R,X
+   1,R
+   9,R,Z
+   9,R,J
+   1,R
    3,R,J
-  14,L,D,X
-  22,R,D
-  14,L,D,X
+  14,J
+  13,R,D,X
+   3,L,J
+  15,D,X
+   4,R,D
+   2,D
+   1,R,D
+  14,L,Z
    1,R,J
-   7,R,D,X
+   6,R,D,X
   13,R,G
    1,R,J,G
   14,R,G
    2,R,J,G
-  10,R,G
+   9,R,G
    1,R,J,G
   18,R,G
    8,R,J,G
@@ -565,13 +571,15 @@ read,5S,lvl_d-19b (1),lvl_e-06
 
 #lvl_e-05
    3,R,J,G
-  10,R,G
+   9,R,G
    1,R,J,G
   10,R,G
   14,R,U,X
    6,R
-  26
-  15,L,J
+  24
+   2,L
+  14,L,J
+   1,J
   14,R,D,X
    1,R,J
    5,R,D,X
@@ -747,4 +755,4 @@ read,5S,lvl_d-19b (1),lvl_e-06
    1,S
    1,D,J
   18
-ChapterTime: 3:11.488(11264)
+ChapterTime: 3:11.063(11239)
