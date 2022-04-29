@@ -58,7 +58,8 @@ Read,5A,lvl_a-00b,lvl_b-02
    6,R
    1,L,J,G
    2,R,J
-   6,R,Z
+   4,D,X
+   2,R,X
    8,R,J
    1,R
    2,R,J
@@ -119,7 +120,7 @@ Read,5A,lvl_a-00b,lvl_b-02
   15,D,C
    2
    6,R,X
-#5SHC1
+#5SHC0
   44,R,C
   36,G
    1
@@ -181,6 +182,7 @@ Read,5A,lvl_a-00b,lvl_b-02
    3,L
    1
   14,L,D,X
+#5SHC1
    1,L,J
    6,L
    7,L,J
@@ -197,10 +199,10 @@ Read,5A,lvl_a-00b,lvl_b-02
 
 #lvl_b-13 (2)
    3,L
-   1,L,K
+   1,L,J
    3,L
    5,L,D
-   7,L,J
+   7,L,K
    5,L
   11,L,D,X
    1,L,K,G
@@ -333,40 +335,49 @@ Read,5A,lvl_a-00b,lvl_b-02
 
 #lvl_b-19
 read,5S,lvl_b-19,5SHC4
-  14,R,Z
-   4,R,J
+#5SHC2
+   8,R
+   6,R,D,X
+   3,R,J
   40
 
 #lvl_b-14 (1)
+   2,R,J
+   1,R
+   2,R,J
+   1,R
    1,R,J
-   1,L,J
-   5,K,G
-   2
-  26,R,D,X
-  14,R,D,C
-   4,R,J
+  20,R,D
+   2,R
   15,R,D,X
+  15,R,D,C
    1,L,D
-  15,R,D
+  11,R,D
+   1,R
+   1,R,D
+   1,R
    4,Z
    1,R,J
-  12,R
-   8,L,Z
-   6,L,J
-   1,L,K,G
-  13,L
+  10,L
+   2,R
+   4,L,Z
    1,L,J
-  13,L
-#resync key
-   7
-#5SHC3
+   3,L
+   1,L,J
+   3,L
+   1,L,J
+   3,L,K,G
   14,L,D,X
+   1,L,J
+#5SHC3
+  10,L,D,X
    6,R,J
    5,R,K,G
-   4,R
+   3,R
   14,R,D,X
    1,L,J
-   7,L
+   5,L
+   2
    1,L,J
   14,L,D,X
    1,R,J
@@ -424,4 +435,4 @@ read,5S,lvl_b-19,5SHC4
 
 #lvl_b-16
 Read,5A,5HC1
-ChapterTime: 4:01.077(14181)
+ChapterTime: 4:00.550(14150)
