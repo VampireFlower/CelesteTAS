@@ -70,10 +70,9 @@ console hard 4
    1
    1,R,J,G
    7,R
-   5,R,Z
+   6,R,Z
    1,R,J
    1,R
-   1,R,J
    2,R
   40
 
@@ -813,18 +812,19 @@ Endrepeat
   16,R,D
    1,R,J,G
   24,R,D
+   2,R
+   1,D
+   1
+   4,J
    1,R
-   2,R,J
-   4,R
-   2
-  13,L,Z
+  11,L,Z
    1,R,J
-   4,R
+   3,R
    1,R,J
+   1,R,K
   10,R,D,X
-   2,R,K,G
-  12,R,J,G
-  22,R
+  25,R,K,G
+  12,R
    2,R,J,G
    5,R
    1,R,J
@@ -1021,4 +1021,4 @@ Endrepeat
   28,R,K
   14,R,X
  139,L,D
-ChapterTime: 2:02.978(7234)
+ChapterTime: 2:02.961(7233)

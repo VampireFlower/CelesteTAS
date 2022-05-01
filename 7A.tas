@@ -1099,42 +1099,38 @@ console load 7
    5,R
    1,R,J
   10,R,D,X
+   1,R,J
+   1,R
    2,R,J
    1,R
-   1,R,K
-   2,R
+   1,R,J
    1,R,G
   14,R,U,X
-   2,R,J,G
+   1,R,J,G
+   1,L,J
    7,R
-  49,D
-   1
-   1,U
-   9,R,J
-   8,R
-   1,R,K
-  10,L
+  10,R
+  42,R,D
+  12
+   6,R
    2
-   6,L,D
-   1,L
-   3,R,D
-   4,Z
+  14,L,Z
    1,R,J
-   1,R,K,G
+   8,R,D,X
    1,R,J,G
    1,R,K,G
    1,R,J,G
    6,R
-   1,R,K
-   1,R
+   1,R,J
+   2,R
    5,R,D
-   6,R,J
-   5,R
-   1,R,K
-   4,R
+   8,R,J
+   6,R
+   4,R,J
+   1,R
   14,R,U,Z
-  10,L,J,G
-  10,R,J
+   1,L,J,G
+  19,R,J
    3,R
    3,L
   12,R,D
@@ -2677,4 +2673,4 @@ AnalogMode,Ignore
    1,S
    1,D,J
   18
-ChapterTime: 6:42.101(23653)
+ChapterTime: 6:42.084(23652)

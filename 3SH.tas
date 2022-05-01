@@ -2247,28 +2247,37 @@ console load 3
    2
   18,R
   15,R,X
-  30,R,D
-  13,R,X
-   8,R,J
-   1,L,K,G
-   6,R,K
-  17,R,U,X
-   2,R,J,G
-   5,R
+  24,R,D
+   3,D
+   1
+   1,D
+   1
+   4,Z
    1,R,J
-   2,R
+   6,R
+   1,R,K
+   7,K
+   1,L,J,G
+   4,R,J
+  17,R,U,X
+   4,R,J,G
+   6
+   2,J
    4,Z
    8,R,J
-   1,R
-   1,R,J
-   2,R
+   1
    1,J
-   8,R,J
-   9,J
+   2
+   1,J
+  13,R,J
+   1,J
+   1,R,J
+   3,J
   15,R,U,X
   46,R,D
-   7
+   6
    1,D
+   1
    4,Z
    7,R,J
    4,R
@@ -2404,15 +2413,13 @@ console load 3
   14,U,Z
   12,R,J
    1,R,K,G
-  22,R,D
-   1,D
+  18,R,D
+  20,D
    1,R,D
-   2,D
-   2,R,D
-   4,L,D
-   1,L
-  10,L,D
-   5,L,Z
+   1
+   2,R
+   1
+   4,Z
    3,R,J
    1,R
    1,R,J
@@ -2422,73 +2429,82 @@ console load 3
    2,R,J
    5,R
   17,R,Z
-   6
-  14,R,Z
-   1,R,J
-   9,R,D,X
-   9,R,J
    5,R
+  13,R,Z
+   2,R,J
+  14,L,Z
    1,R,J
-  12,R
-  15,R,J
-   9,R,K,G
-   2,R
+   5,R,D,X
+   1,R,J,G
+  16,R,D
+   1,D
+   4,R,J
+   5,R
+   2,R,J
+   4,R
+  14,R,U,X
+   1,R,J,G
+   1,J
+  11,R,J
+   5,J
+   2,R,K,G
+   1
+   1,R
+   3
+   1,J
+   1
+   1,R
+  12
+   8,D
+   2
+   1,D
+  17,R
+  15,R,U,Z
+  13,R
    5,R,Z
    1,R,J
-   6,R
-   1,J
-   2,R,J
-  12,R,U,X
-   1,J,G
-  19
-   6,D
-   3,R,D
-   1,D
-   6,R,D
    3,R
-   1,R,D
-  21,R,X
-   1,R,J,G
-   3,L,J
-   3,J
-   1,L,J
-   1,R,K,G
-   1,R,J,G
-   7,R
-   4,Z
    1,R,J
-   7,R
-   6,R,J
+   3,R
+   6,R,K
    1,R
-  19,R,D,X
+  18,R,D,X
+   1,R
    1,R,J
   15,R,Z
   12,R
    4,Z
    1,R,J
   12,R
-   7,R,J
-  25,R,U,X
-  12
+   5,R,D,K
    1,R
-   7,R,Z
+   2
+   3,R
+  23,R,U,X
+  12
+   5,R,Z
    1,R,J
-   6,R
-  22,R,D,J
-   2,J
-   3,K,G
+   3,R
+   1,R,J
+   3,R
+  23,R,D,K
+   1,K
+   3,J,G
   14,R,D,X
    1,R,J
   19,R,D,X
    1,R,J
-   9,R,U,X
-  23,R,J,G
-   8,R
-   6,R,J
+   9,R,U,Z
+   4,R,J,G
+   5,R
+   1,R,J
+  11,R
+   8,R,K
+   7,R,J,G
   40
 
 #lvl_roof07
    1,S
    1,D,J
   18
-ChapterTime: 4:46.263(16839)
+ChapterTime: 4:46.144(16832)
