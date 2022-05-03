@@ -20,7 +20,7 @@ Set,DashMode,Normal
 #play,Stubbornness,37
 
 #console load 10 48408 -10328
-#play,Reconciliation 1,67
+#play,Reconciliation 1,65
 
 #console load 10 61392 -10554
 #play,Reconciliation 2,37
@@ -2854,8 +2854,7 @@ Set,AnalogMode,Precise
    6,R
   14,R,U,X
    5,R,J,G
-   5,R
-   1,R
+   6,R
    1,R,J
    1,R
    3,R,J
@@ -2891,8 +2890,7 @@ Set,AnalogMode,Precise
    7,L
    1,L,J
   15,D,X
-   6,R,D
-   5,R,D
+  11,R,D
    2,R
    1,R,D
    1
@@ -2988,41 +2986,46 @@ Set,AnalogMode,Precise
    6,R
   14,R,U,X
    1,L,J
-  10,L
-   9
+   9,L
+   8
+   2,R
   12,R,U,Z
   12
-   3,L
+   3,R
   15,D,X
-   4,Z
+   4,R,Z
    1,R,J
    3,R
    1,R,J
    3,R
-   2,R,K
-   2,R,J,G
+   1,R,K
+   3,R,J,G
   12,R,U,X
    3,R,J,G
-   8,R
+   4,R
+   1
+   3,R
    2,R,J
    2,R
    5,R,D,X
    1,R,J,G
-  12,R
-  19,R,J
+   1,R
+   1
+  10,R
+  18,R,J
   15,R,D,X
   15,R
    1,R,J
    9,R,U,X
    6,R,J,G
-   6,R
+   5,R
+   1
   40
 
 #lvl_j-01
   15,R,D,X
-  21,R,D,J
-   2,L,J
-   2,R,J
+  24,R,D,J
+   1,J
   14,U,X
    1,L,J
    1,L,K,G
@@ -3112,12 +3115,13 @@ Set,AnalogMode,Precise
   40
 
 #lvl_j-03
-   8,R,D,X
-   2,R,J
-  12,R,U,X
+   9,R,D,X
+   6,R,J
+   4,J
   58,R
   15,R,X
-  19,R
+  17,R
+   2,R,D
   36,R
   23,R,D,X
   10,R
@@ -4329,7 +4333,7 @@ endrepeat
   15,U,X
   38
 #End_IGT
-ChapterTime: 9:45.905(34465)
+ChapterTime: 9:45.888(34464)
 
 # optional waiting for
 # visuals to play out
