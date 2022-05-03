@@ -607,50 +607,50 @@ Endrepeat
    3,R,K,G
    7,R
   10,R,X
-   9,R,J
-   2,R
-   8,R,K,G
-   1,J,G
-   1,R
-   4
-   1,R
-   1
-   2,L
-   3,R,J
-  16,R
-  38,R,G
-   1,R,U,G
-   1,R,G
-   1,R,U,G
-   1
-   1,J,G
+  12,R,J
+   9,K
+  14,R,Z
    1,L,J
-  30,R,J
-   5,D
-   1,R,D
-   5,D
-   2,L,D
-   5,R,D
-   1,R
-   1,R,G
-   5,R,D,X
+  11,L,D,X
+   1,R,J
+   7,R
+   4,R,J
+   8,D,X
+   2,L,J,G
+   7,L
+  14,L,D,X
+   1,R,J
+   5,D,X
    1,R,J,G
+  12,R
+   2,R,J
+  13,U,X
+   2,L,J
+   1,L
+  10,R,D
+   3,D
+   7,L,D
+   1,D
+   3,L,D
+   3,L
+   5,R
+   4,Z
+   1,R,J
    1,R,K,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   6,R
-   1,R,J
-   2,R
-   3,R,D
-   1,R,J
-  19,R
-   9,R,D
+   7,R
+   4,R,D
+   3,R,J
+   5,R
+   3,R,J
+  15,R,D,X
+   6,R,D
    1,R,J
   40
 
 #lvl_c-03
-   1,R,J
   14,R,D,X
    1,R,J
   34,R,U,X
@@ -1021,4 +1021,4 @@ Endrepeat
   28,R,K
   14,R,X
  139,L,D
-ChapterTime: 2:02.961(7233)
+ChapterTime: 2:02.893(7229)

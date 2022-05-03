@@ -2322,8 +2322,7 @@ console load 5
    1,L,D,J
    1,J
    3
-   4,X
-   6,R,D,X
+  10,R,D,X
    3,R,J
    1,R
    1,R,K,G

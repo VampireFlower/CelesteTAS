@@ -261,9 +261,8 @@ console load 10
    1,R
    4,R,J
    5,R
-  18,R,D,X
+  19,R,D,X
    7,R
-   1,R,D
    6,R,J,G
   10,R
   15,R,D,X
@@ -1179,41 +1178,43 @@ console load 10
   20,R,D,J
    4,R
    1,G
-  11,L,J
-  18,L,U,Z
-   2,R
+   1,J,G
+  10,L,K
+  15,L,U,Z
+   5,R
   15,R,X
-  19,R,Z
+  15,R,Z
    3
-   6,R
-   9,J
-   8
+   9,R
+  14,R,U,X
    1,J
-   9
-   1,L
-   1,L,D
-   1,L
-   3,R
-   4,Z
+   1,L,J
+   4,L
+  15,D,X
+   2,R
+   4,R,Z
    1,R,J
    1,R,K,G
    1,R,J,G
    1,R,K,G
-   9,R
-   5,R,D
+   1,J,G
+   5,R
+   4
+   5,D
    1,J
    1,R,J
    1,R
-   4,L
-   4,L,J
+   4
+   4,J
    1,R
-   1
+   1,J
   15,R,D,X
    1,D
   17,R,D,C
    1,D
    2,R,D
-   3,D
+   2,D
+   1,R,D
   15,R,U,X
   11,R,D,C
    4,R,J
@@ -2960,28 +2961,35 @@ Set,AnalogMode,Precise
   33,R,D,G
    1,R,G
    1,R,D,G
-   1,R,G
-   2,R,D
-   2,R
-   4
-   1,R
-   4,L
-   1,R
+   1,R,D
+   6,R
    2
-   8,R,X
-  26,R,G
+   5,L
+   1
+   1,L
+   5,R,X
+  24,R,G
    1,L
   20,R
   15,R,U,X
   15,R,C
-  24,R,D
-  38,R
-  25,R,X
-  10,R,D,C
-   5,J
-   7,R,U,X
-   7
-  22,L,D
+  23,R,D
+   2,R
+  38
+  16,R,X
+   1
+   1,R
+   5
+   1,R
+   6,L,D,X
+   1,R,J
+   1
+   1,R,J
+   6,R
+  14,R,U,X
+   1,L,J
+  10,L
+   9
   12,R,U,Z
   12
    3,L
@@ -4321,7 +4329,7 @@ endrepeat
   15,U,X
   38
 #End_IGT
-ChapterTime: 9:46.075(34475)
+ChapterTime: 9:45.905(34465)
 
 # optional waiting for
 # visuals to play out

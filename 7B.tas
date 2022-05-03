@@ -265,9 +265,9 @@ console hard 7
    2,K
    5,L,X
    1,L,J,G
-  14,L,D
+  14,L
    9,D
-   1,K
+   1,L,K
    4,L,J
   15,L,D,X
    2,L
@@ -368,14 +368,14 @@ console hard 7
   21,L,J
    1,L,K,G
    1,L,J,G
-  10,J,G
+  10,J
    1,L,J
    2,J
   16,U,X
    3,L
    1,L,K,G
    9,L
-   2,L,J
+   2,L,K
    9,L
   55,L
   14,U,X
@@ -940,17 +940,16 @@ console hard 7
    5,R,D
    5,R,J
    5,R
-   2,R,K
-   1,R,J,G
-   8,R,J
+   2,R,J
+   8,R,K,G
    2
-   3,R
-   3,R,K
-   1,R
+   4,R
    1,R,K
-  13,R,U,Z
-   7,R,J,G
-  11,R,D,X
+   3,R
+  14,R,U,Z
+   2,R,J,G
+   6,R
+   9,R,D,X
   17,D,C
   16,R,Z
   12,R,U,C
@@ -963,8 +962,8 @@ console hard 7
    1,R,J
    4,R
    2
-   2,K
-   5,D
+   2,J
+   5
   20,L,D
   10,R,D
   14,R,X
@@ -1076,11 +1075,9 @@ console hard 7
   15,L,U,X
   15,L,U,C
   16,L
-  15,L,Z
-   4,L
-  15,L,Z
-   3,L
-   3,R
+  19,L,Z
+  18,L,V
+   3
   11,L,J
   37
    8,L,U,X
@@ -1880,4 +1877,4 @@ console hard 7
   10,R
   15,L
    5,R
-ChapterTime: 4:52.077(17181)
+ChapterTime: 4:52.060(17180)

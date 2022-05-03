@@ -235,21 +235,20 @@ console load 10
   40
 
 #lvl_a-05
-   4,R,D,J
-   1,R
+   4,R,J
+   1
   15,R,D,X
    1,R,J
-   1
-  17,R
+  18,R
    9,R,D
    1,R
-   1,D
+   1,R,D
   14,R
    1,G
    1,J,G
    1,L
    1,K
-  25,R,J
+  25,R,K
    3,R,G
    3,R,K,G
    3,R,J,G
@@ -1290,8 +1289,8 @@ console load 10
    9,R
    5,D
    1,R,J
-   1,L,J
-   5,L
+   1,J
+   5
    4,J
    2
   15,R,D,X
@@ -2892,7 +2891,7 @@ AnalogMode,Precise
   44,R,U
   12,F,90
 Read,9,Stubbornness,End_IGT
-ChapterTime: 10:39.166(37598)
+ChapterTime: 10:39.030(37590)
 
 # optional waiting for
 # visuals to play out
