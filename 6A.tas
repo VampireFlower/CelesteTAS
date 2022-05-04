@@ -1,6 +1,6 @@
 #console load 6 11428 142
 #AnalogMode,Precise
-#play,Rock Bottom,37
+#play,Rock Bottom,38
 
 console load 6
    1
@@ -260,8 +260,13 @@ AnalogMode,Ignore
 #lvl_04
    1,R,J,G
    1,R,K,G
-   7,R
-   2,R,J
+   5,R
+   3,R,J
+   1,R
+
+#spinner cycle
+   1,J
+
    4,Z
    1,R,J
    7,R
@@ -941,70 +946,64 @@ AnalogMode,Precise
    1,R,J
   13,R,D,X
    1,R,J
-   1
-   1,J
-   7,R
-   5,L,D,X
-   1,L,J
-  15,L
-   4,Z
-   2,L,J
-  11,L
-  16,D,C
-  13,L,Z
-   1,R,J
-   7
-   1,J
-  17
-  14,L,X
-   1,R,J
-   1,J
-   5,R,D,X
-   1,L
-   9,J,G
-   1,R,J
-  31,L,J
-  15,L,X
-   7,L,Z
-   1,R,J
-   7,R
-  40,R,J
-   4
-  67,L,U,X
-  12,L,J,G
-  24,K
-  12,L,J,G
-  12,L
-  15,R,X
    3,R
-   3
-  15,L,C
-   6,L
-  14,L,Z
-   1,R,J
-   6,R
-   2,R,J
-   6,R,D,X
-   1,L,J,G
-  30,R,J
-   1,J
-   8,R,J
-   2,R,K,G
-   1,K
    2,R,K
-   4,R
+   1,K
+   5
+   8,L,D,X
+   1,L,K,G
+   1,L,J,G
+   7,L
+   1
+   4,L,X
+   4,L,J
+   3,J
+   5,L
+   1,L,K
+  13,L
+   3
+   4,D,X
+   1,R,J
+   1
+   1,R,K,G
+   1
+   6,R
+   4,R,D,J
+   6,R,D,X
+   1
+   1,L,K,G
+   3,R,K
+  18,R
+   4,R,J
+#spinner cycle
+   7,R,J
+  67,R,K
+  17,R,U,X
+   9,J,G
+   2,L,J
+  15,R,K,G
+   7,R
+   7,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   7,R,D,X
   40
 
 #lvl_boss-00
-   1,R
-   1,R,K
-   3,R
+   7,R,D,X
+   6,R,J
+  14,R,Z
+   1,R,J
   14,R,D,X
+   5,R,J
+  14,R,D,X
+   1,R,J
+  11,R,D,X
    1,S
    1,D,J
   34
-   1,R
-   6,R,X
+  11,R,J
   37
   15,R,D,X
    4,R
@@ -1806,4 +1805,4 @@ AnalogMode,Precise
    1,D,J
   18
 AnalogMode,Ignore
-ChapterTime: 4:42.659(16627)
+ChapterTime: 4:40.024(16472)

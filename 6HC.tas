@@ -265,8 +265,11 @@ Add 1
 
 #lvl_04 (3)
   36
+#spinner cycle
+   2
+
   12,R,Z
    2,R,J
    6,R,K,G
 Read,6A,6HC1
-FileTime: 5:19.770(18810)
+FileTime: 5:17.152(18656)
