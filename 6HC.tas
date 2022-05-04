@@ -4,6 +4,9 @@ console load 6
 
 #Start
  110
+   1,S
+   1,D,J
+  34
 
 #lvl_start
 Read,6A,lvl_start,6HC0
@@ -265,11 +268,12 @@ Add 1
 
 #lvl_04 (3)
   36
-#spinner cycle
+#-------------
+#Spinner cycle
    2
-
+#-------------
   12,R,Z
    2,R,J
    6,R,K,G
 Read,6A,6HC1
-FileTime: 5:17.152(18656)
+FileTime: 5:17.135(18655)
