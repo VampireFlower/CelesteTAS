@@ -270,10 +270,30 @@ Add 1
   36
 #-------------
 #Spinner cycle
-   0
+   1
 #-------------
   12,R,Z
    2,R,J
    6,R,K,G
-Read,6A,6HC1
-FileTime: 5:17.067(18651)
+Read,6A,6HC1,6HC2
+
+#lvl_11
+   5,U,X
+#-------------
+#Spinner cycle
+   2
+#-------------
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   6,R,J,G
+  14,R,D,X
+  40
+
+Read,6A,lvl_12a
+FileTime: 5:16.353(18609)

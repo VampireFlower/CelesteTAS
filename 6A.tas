@@ -264,8 +264,8 @@ AnalogMode,Ignore
    3,R,J
    1,R
 #-------------
-#Spinner cycle
-   2,J
+#Spinner cycle 1
+   1,J
 #-------------
    4,Z
    1,R,J
@@ -366,64 +366,61 @@ AnalogMode,Precise
    1,F,46.39456
   10,F,350
    8,F,310
-  14,F,272.2
+  14,F,290.8
   14,L,X
   12,L,J,G
-  12,L,K,G
-  14,L,J,G
-   2,K,G
-   9,D
-   5,L,D
-   5,R,D
-   5,L,D
-   5,R,D
-   5,L,D
-   5,R,D
-   5,L,D
-   5,R,D
-   1,R,J
-  18,L,D
-  40,L
-   1
-   2,K,G
-   1,R,K
-  14
-   1,L
-  18,G
-   1,K,G
-   1,R,K
-   6,L,K
-   1,J,G
-  11,R,U,Z
+   1,L,K,G
+   7,K
+   4,R,K
    1,L,J,G
-  22,R
-   1,D
-   2,R
-   1,L,J
+   5,R,J
+   5,L,J
+   6,L
+   1
+   1,K
+  15,L
+   7,R,Z
    1,R,J
-   5,R,D,X
+   4,R
+   2,R,K
+   3,R
+  15,R,D,X
+   9,R
+   8,R,D
+  16,R,J
+   2,R,K,G
+   6,R
   40
 
 #lvl_07
-  10,R,D,X
-   4,D
-  16,R,D
-   6,R,J
-   7,R,D,X
+   5,R
+  24,D,X
+  10,L,D,C
+   5,R,J
+  15,R,D,X
+   1,R,J
+   6,R,D,X
+   1,R,K,G
+  17,R
+   1,R,J
+   1
+   1,R
   40
 
 #lvl_08a
-   8,R,D,X
-   7,R,D
-   3
+  25,R,D
+   2,R
    6,R,U,Z
-   3,L,J,G
-  11,L
-  14,R,D
+   1,L,J,G
+   8,R,J
+   9,R
+   1,R,J
+  19,R
+   2,R,D
+  12,R
+   3
    1,R
-   3,R,D
-   8,R
-  10,U,Z
+  12,U,Z
    1,R,J
    4,J
    6
@@ -523,7 +520,12 @@ AnalogMode,Precise
   15,L,D,X
    1,L,J
    1,L,K
+#6HC2
    5,U,X
+#--------------
+#Spinner cycle 2
+   1
+#--------------
    1,J
    1,R,K
    1,R,J
@@ -1817,4 +1819,4 @@ AnalogMode,Precise
    1,D,J
   18
 AnalogMode,Ignore
-ChapterTime: 4:39.990(16470)
+ChapterTime: 4:39.225(16425)
