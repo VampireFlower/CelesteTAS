@@ -1,6 +1,3 @@
-#console hard 6 3546 -1016
-#play,Reflection,37
-
 #console hard 6 7478 4444
 #play,Rock Bottom,37
 
@@ -435,15 +432,19 @@ AnalogMode,Precise
    1,L,J,G
   15,R,J
    9,J
-   1,K,G
-  11,J,G
-   1,L,J
-   7,L
-  15,U,X
-   1,R,J,G
-   8,R
-#Reflection
-   6,R,Z
+   6,K,G
+   1,J,G
+   6,R
+   1,L
+   1,J
+   2,L,J
+   2,R,J
+  15,U,Z
+   1,J,G
+   4,R
+   1
+   2,R
+   7,R,Z
    2,R,J
   40
 
@@ -1468,4 +1469,4 @@ AnalogMode,Ignore
    3,R,J
   14,R,D,X
  134,R,G
-ChapterTime: 3:26.329(12137)
+ChapterTime: 3:26.312(12136)

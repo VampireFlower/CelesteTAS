@@ -268,21 +268,20 @@ Add 1
 
 #lvl_04 (3)
   36
-#-------------
-#Spinner cycle
+#---------------
+#Spinner Cycle 1
    1
-#-------------
+#---------------
   12,R,Z
    2,R,J
    6,R,K,G
-Read,6A,6HC1,6HC2
+Read,6A,6HC1,Spinner Cycle 2
 
 #lvl_11
-   5,U,X
-#-------------
-#Spinner cycle
-   2
-#-------------
+#---------------
+#Spinner Cycle 2
+   0
+#---------------
    1,R,J
    1,R,K
    1,R,J
@@ -296,4 +295,4 @@ Read,6A,6HC1,6HC2
   40
 
 Read,6A,lvl_12a
-FileTime: 5:16.353(18609)
+FileTime: 5:16.098(18594)
