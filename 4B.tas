@@ -419,13 +419,15 @@ Endrepeat
    4,R,J
    1,R,K,G
   11,R,J,G
-  11,R,Z
-   4,R,J
-  15,R,D,X
-   1,J
-   9,R,J
-   6,R,K,G
-  13,U,Z
+  12,R,Z
+   2,R,J
+   1,R
+   1,R,J
+  12,R,D,X
+   7,R,J
+   1,L,K,G
+  11,R,K
+  11,U,Z
   40
 
 #lvl_b-03
@@ -1021,4 +1023,4 @@ Endrepeat
   28,R,K
   14,R,X
  139,L,D
-ChapterTime: 2:02.893(7229)
+ChapterTime: 2:02.876(7228)

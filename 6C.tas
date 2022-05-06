@@ -98,12 +98,14 @@ AnalogMode,Precise
    2
   11,J
    6
-   2,L,J
-  11
-   2,R,D
-   9,D
-   1,L,G
+   1,L,J
+   1,L,J
    1
+  10,D
+   2,R,D
+   8,D
+   1,R,D
+   1,L,G
    5,L,U,Z
    1
   10,J,G
@@ -112,11 +114,10 @@ AnalogMode,Precise
    1,K,G
    6,L
    1,R
-   6,D
-  10,R,D
+   1,D
+  15,R,D
    1,R
    1,R,D
-   1,R
   15,R,D,X
    2,R
    1
@@ -143,9 +144,8 @@ AnalogMode,Precise
    1,R,J,G
    6,R
    1,R,J
-   1,R
-   1,R
-   1,R,J
+   2,R
+   1,R,K
   11,R,U,X
    1,L,J,G
   28,R
@@ -160,7 +160,7 @@ AnalogMode,Precise
    1,R,D
    3,D
    6
-  25,R
+  24,R
   31,R,U,X
- 124,D,C
-ChapterTime: 0:21.658(1274)
+ 125,D,C
+ChapterTime: 0:21.624(1272)
