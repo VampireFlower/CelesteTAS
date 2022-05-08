@@ -270,7 +270,7 @@ Add 1
   36
 #---------------
 #Spinner Cycle 1
-   2
+   0
 #---------------
   12,R,Z
    2,R,J
@@ -295,4 +295,4 @@ Read,6A,6HC1,Spinner Cycle 2
   40
 
 Read,6A,lvl_12a
-FileTime: 5:16.098(18594)
+FileTime: 5:15.996(18588)
