@@ -811,27 +811,29 @@ console hard 3
 
 #lvl_end
    6,D
-   9,R,D
-   2,D
-  10,R,D,X
-  20,R,J
-  15,R,D,X
-   8,R
-  14,R,Z
-   5,R,J
-   5,R
-   1,R,J
-   5,R
+   6,R,D
+   1,L
+   1,L,D
+   2,L
+   1,R
+   2,R,D
+   1,D
+   1,R,D
    1
-   3,R
-  15,R,Z
-  17,R
+   4,D,X
+   1,R,J
+   6,R
+   6,R,J
+   4,R
+  25,R,D,X
+   1,R
+  14,R,Z
    3,R,J
-   1,J
-   2,R,J
-   2,R
-   1,R,K,G
-   8,R,J,G
-  11,U,X
+   1,R
+   5,R,J
+  11,R
+  30,R,Z
+  14,R,J
+  15,R,U,X
  135,R,D
-ChapterTime: 1:30.253(5309)
+ChapterTime: 1:30.168(5304)

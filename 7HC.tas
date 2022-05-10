@@ -617,9 +617,12 @@ Read,7A,lvl_c-08,lvl_d-03
    1,J
   12,R,J
   19,R,X
-  21,R,D,C
-   3,R,J
-  18,R,D,X
+  15,R,D,C
+   6,R
+   2,R,J
+   1,J
+  13,R,D,X
+   5,L
    9,D,C
   40
 
@@ -995,4 +998,4 @@ Read,7A,lvl_f-07,lvl_g-00b
   15,R,J
    2,K,G
 Read,7A,7HC1
-ChapterTime: 7:52.940(27820)
+ChapterTime: 7:52.906(27818)
