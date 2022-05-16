@@ -35,8 +35,7 @@ read,7S,lvl_b-00,7SHC1
    6,R,K,G
   14,R,U,X
    3,R,J,G
-   5,R
-   1,R
+   6,R
   40
 
 #lvl_b-02c
@@ -104,15 +103,18 @@ read,7S,lvl_b-00,7SHC1
 
 #lvl_b-04
    4,R
-   1,J,G
-   3,R,J
-   6,R
-  14,R,U,Z
-   3,J,G
-   3,L,J
+   5,R,J,G
+   2,R
+   3
+  13,R,U,Z
+   1,R,K,G
+   2,J,G
+   1,L,J
+   1,R,J
+   2,R
   23,L,D,X
-   8,L
-   1,L,D
+   4,L
+   4,L,D
 read,7S,7SHC2,lvl_c-06b
 
 #lvl_c-06b (1)
@@ -176,9 +178,45 @@ read,7HC,lvl_c-06c,lvl_c-06b (2)
 #lvl_c-07b
    1,L,J
    3,L
+  10,L,Z
+   1,L,J
+   2
+   1,L
+   3
+  14,L,J
+  16,L,U,C
+  27,L,U,X
+  15,U,C
+  24,R,U,X
+  14,U,C
+   1,R,J
+  19,R,U,X
+   4,R,J
+   1,R,K
+  15,R,U,X
+   6,R,Z
+   1,R,J
+   7,R
+read,7S,7SHC3,lvl_d-02
+
+#lvl_d-02
+   7,R
+  23,R,D,J
+   3
+  15,R,D,C
+  14,L,D,X
+   1,R,J
+   7,R
+   1,R,J
+   2,R,K,G
+   3,R
    4,D,X
-   6,L,C
-read,7S,7SHC3,lvl_d-03
+   7,R,U,X
+   1,R,K,G
+   5,R
+   1,R,J
+   5,R
+  40
 
 #lvl_d-03 (1)
 read,7HC,lvl_d-03 (1),lvl_d-03 (2)
@@ -259,7 +297,22 @@ read,7HC,lvl_d-03 (1),lvl_d-03 (2)
   40
 
 #lvl_d-04
-read,7S,lvl_d-04,lvl_d-05
+   9,R,D,X
+   3,R,J
+   1,R
+   1,R,K
+   1,K
+  16,R,Z
+  20,R,U,C
+  25,R,Z
+  14,R,D,C
+   3,R,J
+  14,L,D,C
+   1,R,J
+   6,R,D,X
+   1,R,J,G
+   9,R
+  40
 
 #lvl_d-05 (1)
 read,7HC,lvl_d-05 (1),lvl_d-05 (2)
@@ -283,7 +336,7 @@ read,7S,lvl_d-06 (1),lvl_e-00
 read,7HC,lvl_e-00 (1),lvl_e-03
 
 #lvl_e-03
-read,7S,lvl_e-03,Berry1
+read,7S,lvl_e-03,BerryCollect1
 
 #lvl_e-07
   15,L,Z
@@ -323,7 +376,7 @@ read,7S,lvl_e-03,Berry1
    2,R,J
   15,U,X
   24,L,U,C
-read,7S,Berry2,lvl_f-00 (1)
+read,7S,BerryCollect2,lvl_f-00 (1)
 
 #lvl_f-00 (1)
   78
@@ -517,4 +570,4 @@ read,7HC,lvl_g-00b,Exit
   15,R,J
    2,K,G
 read,7S,7SHC5
-ChapterTime: 9:53.572(34916)
+ChapterTime: 9:52.331(34843)

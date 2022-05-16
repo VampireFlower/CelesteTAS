@@ -12,8 +12,8 @@ console hard 1
    2,L,J
    1,K
    1,J,G
-   1,R,K
-   1,R,J,G
+   1,R,J
+   1,R,K,G
   21,R,D
    1,R
    6,R,D
