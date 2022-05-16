@@ -6,7 +6,7 @@ Read,0 - Prologue,Start
 
 Read,Load1A
 
-Read,1HC0,Start,Return
+Read,1HC,Start,Return
 
 Read,LoadBFromA
 

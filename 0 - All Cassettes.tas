@@ -6,22 +6,36 @@ Read,0 - Prologue,Start
 
 Read,Load1A
 
-Read,1A,Start,lvl_9
-
-Read,1HC0,lvl_9
+Read,1A,Start
 
 #Reenter City
-  51
+Add 197
+ 165
+   1,J
+  83
+Add 7
    1,S
+ 194
+   1,L
+   9
+   1,J
+  43
    1,J
   30
+   1,R
+   1,F,90
    1,J
-  45
+  46
 Add 1
+  36
 
-Read,1HC1
+#Cassette
+Read,1SH2,lvl_9b,lvl_10 (0)
 
-Read,LoadANoCollects
+Read,1HC,lvl_10
+
+Add 58
+Read,LoadAFromB,SkipExit
 
 Read,2HC,lvl_start (2),Return
 

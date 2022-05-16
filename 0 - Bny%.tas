@@ -8,7 +8,7 @@ Read,Load1A
 
 Read,1A,Start,lvl_9
 
-Read,1HC0,lvl_9,Return
+Read,1HC,lvl_9,Return
 
 Read,LoadBFromA
 
