@@ -3037,23 +3037,22 @@ console load 7
 
 #CP-23
    8,R,J
-   2,R
+   1,R
    3,R,K
-   2,R
-   7,J
-   1,R,J
-   1,J
-   1,R,J
-  15,U,X
-   2,L
-  14,R,J
-   4,L,J
-  15,U,X
-  23,R,J
    3,R
+   2,J
+   6,R,J
+  15,U,Z
+   1,R
+  13,R,J
+   6,L,J
+  16,U,X
+  15,R,J
+  11,R
 
 #CP-22
-  18,L,U,X
+  16,L,U,X
+   2
   15,U,Z
    5,R,X
   17,L
@@ -3846,4 +3845,4 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 8:53.069(31357)
+ChapterTime: 8:53.052(31356)
