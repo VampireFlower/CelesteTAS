@@ -1516,26 +1516,21 @@ console hard 7
   10,L,C
 
 #CP-08
-   1,L,J
-   4,R,J
+   5,J
   15,U,X
   13,U,C
   14,R,J
   13,R
    4,Z
-   6,R,J
+   7,R,J
    2,R
    2,R,J
-   1,R
    6,R,Z
 
 #CP-07
    1,R,J
    6,R
-   5,R,J
-   5,J
-   2,R,J
-   1,J
+  12,R,J
   14,U,C
   28,R,J
   13,U,Z
@@ -1545,10 +1540,8 @@ console hard 7
    1,R,J
    3,R
    1,R,J
-   7,R
-   2
-   1,R
-   2
+   9,R
+   3
    2,D
 
 #CP-06
@@ -1646,38 +1639,40 @@ console hard 7
    5,L,J
    1,L
   15,L,J
-   8,U,X
-   8,L,J
-  13,L
-  18,L
-   7
+   7,U,Z
+   9,L,J
+   8,L
+   2,L,J
+  20,L
+   4
    5,L,J
-   6,R,J
-   4,R
-   2,R,J
-   1,L,J
-  15,R,U,X
-  15,R,C
-  14,R,Z
-  16,R,J
-   1,R
-  15,R,D,X
+   7,R,J
    3,R
-   4,R,D
+   4
+  18,R,U,X
+  14,R,C
+   1,R,J
+  14,R,D,X
+  11,R,J
    1,R
-   1,R,D
+   2,R,J
+  15,R,D,X
+   6,R
+   2,R,D
+   1,R
   15,R,C
-   2,R
   19,L
-   5,R
-   1,L
+   4,R
+   2,L
+   1,R
   11,R,J
   11,R
   26,R,Z
   15,R,U,V
    9,R
-   2,R,J
-  16,R,Z
+   1,R,J
+   2,R
+  15,R,Z
   18,R,D,C
    3
   15,R,U,Z
@@ -1883,4 +1878,4 @@ console hard 7
   10,R
   15,L
    5,R
-ChapterTime: 4:51.890(17170)
+ChapterTime: 4:51.805(17165)
