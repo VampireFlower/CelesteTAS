@@ -10,9 +10,9 @@ Add 1
    1,D,J
   18
 Add 1
-  70
+   1
 
-Read,0 - Epilogue.tas,Start
+Read,0 - Epilogue,Start
 
 #8A
    1,J

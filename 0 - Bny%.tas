@@ -65,9 +65,9 @@ Add 29
   32
 Add 1
 
-Read,7A,Start,lvl_d-03
+Read,7A,Start,lvl_d-02
 
-Read,7HC,lvl_d-03 (1),Return
+Read,7HC,lvl_d-02,Return
 
 Read,LoadBFromA
 
@@ -86,6 +86,6 @@ Read,LoadAFromB,Start,SkipExit
   43
    1,J
 Add 1
- 115
+  46
 
 Read,0 - Epilogue,Start

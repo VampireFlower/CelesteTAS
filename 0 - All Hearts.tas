@@ -140,7 +140,6 @@ Read,8C,Start
 Add 58
   51
    1,S
-  52
    1,X
   42
    1,L
@@ -148,7 +147,7 @@ Add 58
    1,J
   43
    1,J
- 115
 Add 1
+  46
 
 Read,0 - Epilogue,Start

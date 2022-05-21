@@ -1,12 +1,6 @@
 #console load 3 4279 -20
 #play,Huge Mess,37
 
-#not an issue currently, but if in future
-#we're carrying berries into huge mess checkpoint
-#make sure to account for that before towels deathwarp
-#there's a door before this though so kind of doubtful
-#that'll ever be a problem but worth noting
-
 #console load 3 4705 -270
 #play,Elevator Shaft,37
 
@@ -2166,69 +2160,76 @@ console load 3
   40
 
 #lvl_roof00
-   1,J
+   1,R,K
    1,S
    1,D,J
   34
+   1,R,K
    9,R
+   9,R,D,X
    1,R,J
-   8,R,Z
+   4,R
+   1,R,K
+   2,R
+   4,R,D,J
+   2,R
+   1,R,J,G
+   3
+   6,R
+   2,R,D,J
+   9,R,U,X
+   1,R,J,G
+   1,R
+   2
+   6,R
+   4,R,J
+   5,R
+   4,R,J
+   1,R
+   1,R,J
+   1,R,K,G
+   7,R
+  12,R,U,X
+   1,R,J,G
+   1,R
+   1
+   8,R
+  14,R,J
+  10,R,D,X
+   1,R,J,G
+   9,R
+   7,R,D,J
+   7,R,D,X
+  40
+
+#lvl_roof01
+   9,R,D,X
+  14,R,U,C
+  12,R,J,G
+   5,R
+   4,R,J
+  11,R
+  31,R,D
+   7,R,Z
+   1,R,J
+   3,R
+  40
+
+#lvl_roof02
+   4,R
+   1,R,J
+  14,R,D,X
    1,R,J
    3,R
    1,R,K
    3,R
-   3,R,J
+   5,R,J
+   1,R,K,G
+   1,R
+   1
+   1,J,G
+   9,R,J
    4,R
-   1,R,K,G
-   9,R
-   2,R,J
-   9,R,U,X
-   1,R,J,G
-   9,R
-   6,R,J
-   9,R
-   1,R,K,G
-   7,R
-  11,R,U,X
-   1,R,J,G
-   9,R
-   1,R,J
-  11,R
-  14,R,Z
-   1,R,J
-  14,R,D,X
-   5,R,J
-  40
-
-#lvl_roof01
-  10,R,J
-   1,J
-   5
-   1,R
-  14,R,Z
-   2,R,J
-  12,R,D,X
-  16,R,J
-  40,R,D
-   4,Z
-   3,R,J
-   1,R
-   2,R,J
-   2,R
-  40
-
-#lvl_roof02
-   5,R
-   1,R,J
-  14,R,D,X
-   1,R,J
-   3,R
-   1,R,J
-   3,R
-   5,R,J
-   3,R,K,G
-   9,R,J,G
-   5,R
   17,R,D,X
   16,R,J
   14,R,D,X
@@ -2282,55 +2283,43 @@ console load 3
    7,R,J
    4,R
    1,R,J
-  13,R,D,X
-   4,R,J
-  15,R,Z
-  12,R
-   4,Z
-   1,R,J
-   4,R
-   1,R,J
-   2,R
+  14,R,D,X
+   2,R,J
+   1,R
    3,R,J
-   1,J
-  15,U,X
-   1,R,J,G
-   1,R
-   6,L
-   1,L,J
-  13,U,X
-   4,L,J
-   9,L,D
-  36,D
-   7
-   1,R
-   4,Z
+   2,R
+  14,R
+  18,R,U,X
+  15,R,U,C
+  35,L,D
+   6,R,D
+  12,L
    1,R,J
-   6,R
+   8,R
+   2,J
+   5
+   7,L,Z
+   1,R,J
+   9,R
+   1,R,J
+  16,R,D,X
    1,R,D,J
-   1,R,K
-   2
    1,R
-   1,R,J
    1,R,K
-   6,R
+   7,R
   40
 
 #lvl_roof04
-  12,R,D
-   7,R,J
-   5,R
-   1,R,J
-   6,R
-   1
-   4,R
+  11,R,D
+   2,R,J
+  15,R
   14,R,U,Z
    1,L
    1,K
    2,J,G
-  23,R,J
-   9,R
-   4,Z
+  24,R,J
+   8,R
+   4,R,Z
    2,R,J
    4,R
   40
@@ -2459,9 +2448,8 @@ console load 3
    2
    1,D
   17,R
-  15,R,U,Z
-  13,R
-   5,R,Z
+  28,R,U,Z
+   5,R,V
    1,R,J
    3,R
    1,R,J
@@ -2487,24 +2475,22 @@ console load 3
    3,R
    1,R,J
    3,R
-  23,R,D,K
-   1,K
-   3,J,G
-  14,R,D,X
-   1,R,J
+  24,R,D,K
+   1,J,G
+  14,R,Z
+   2,R,J
   19,R,D,X
    1,R,J
-   9,R,U,Z
-   4,R,J,G
-   5,R
-   1,R,J
-  11,R
-   8,R,K
-   7,R,J,G
+   9,R,U,C
+   4,R,K,G
+   6,R
+   3,R,K
+   8,R
+  15,R,K
   40
 
 #lvl_roof07
    1,S
    1,D,J
   18
-ChapterTime: 4:46.144(16832)
+ChapterTime: 4:45.889(16817)

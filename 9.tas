@@ -741,12 +741,15 @@ console load 10
    2,R,J,G
    1,R,G
    1,R,J,G
-   7,R,J
-  14,U,X
+   1,R,J
+   2,R
+   1,R,J
+   2,R
+  15,U,X
   16,G
    6,R,G
-   1
-  15,U,X
+   1,R
+  14,U,X
   40
 
 #lvl_e-00y
@@ -1160,35 +1163,38 @@ console load 10
   16,R,Z
   14,R,V
    1,R,J,G
-   7,R
-   5,R,J
-  12,R,Z
+   3,R
+   5,R,K,G
+   1,R
+   3
+   1,R
+   1,J
+   3
+   4,Z
+   2,R,J
+   3
+   5,R
    1,R,J
-   2,R
    8,R,D,X
-   1,R,J
-   4,R
   40
 
 #lvl_e-08
-   3,R
-   2,R,J
-  20,R,D,X
-  22,R,D,J
-   3,R
+   4,R,D,X
+   1,R,J
+   2,R
+  19,R,D,X
+  24,R,D,J
    1,G
-   1,J,G
-  10,L,K
+  11,L,J
+   1,L
   18,L,U,Z
-   2,L
   15,R,X
-  15,R,Z
-   3
-   9,R
-  14,R,U,X
-   1,J
-   1,L,J
-   4,L
+  23,R,Z
+   4
+   1,D,J
+   1,R,J
+  11,R,U,X
+   7,L,J
   15,D,X
    2,R
    4,R,Z
@@ -1202,10 +1208,10 @@ console load 10
    5,D
    1,J
    1,R,J
-   1,R
-   4
+   2,R
+   3
    4,J
-   1,R
+   1
    1,J
   16,R,D,X
   19,R,D,C
@@ -1510,34 +1516,31 @@ console load 10
    1,L,J,G
    1,K,G
    1,J,G
-  18,R,D,X
-   2,D
-   5,R,D
-   3,R
-   1,R,D
-   1,R
+  26,R,D,X
+   4
   14,R,U,X
-   4,R,J,G
-  17,R
-   1,R,D,J
-   4,R
+   1,R,J,G
    1
+   5,R,D,X
+   1,L,J,G
+   2,R,J
+  16,R
+   6,R,J
   40
 
 #lvl_f-08
-  16,R
-   1,R,D
+   3,J
+  20,R,D,X
   15,R,Z
-  26,R,D
-  23,R,Z
-  17,R,U,X
-  17,R,U,C
-   2,R,J,G
-   3,L,J
-   4,R,J
-   1,R,K,G
-   7,R
-   4,Z
+   4
+   1,R
+   2
+   9,R,D
+   6,R
+  21,R,Z
+  15,U,X
+   9,R,J
+  12,R,Z
    2,R,J
    5,R
   40
@@ -4334,7 +4337,7 @@ endrepeat
   15,U,X
   38
 #End_IGT
-ChapterTime: 9:45.599(34447)
+ChapterTime: 9:45.225(34425)
 
 # optional waiting for
 # visuals to play out

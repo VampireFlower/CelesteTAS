@@ -9,13 +9,7 @@ Read,Load1A
 Read,1A,Start
 
 #Reenter City
-Add 197
- 165
-   1,J
-  83
-Add 7
-   1,S
- 194
+Read,LoadA,0,control
    1,L
    9
    1,J
@@ -27,10 +21,9 @@ Add 7
    1,J
   46
 Add 1
-  36
 
 #Cassette
-Read,1SH2,lvl_9b,lvl_10 (0)
+Read,1SH2,Start,lvl_10 (0)
 
 Read,1HC,lvl_10
 
@@ -78,9 +71,9 @@ Add 29
   32
 Add 1
 
-Read,7A,Start,lvl_d-03
+Read,7A,Start,lvl_d-02
 
-Read,7HC,lvl_d-03 (1),lvl_d-05 (1)
+Read,7HC,lvl_d-02,lvl_d-05 (1)
 
 Read,7A,lvl_d-05
 
@@ -102,6 +95,6 @@ Read,LoadAFromB,Start,SkipExit
   43
    1,J
 Add 1
- 115
+  46
 
 Read,0 - Epilogue,Start

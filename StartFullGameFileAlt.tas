@@ -1,6 +1,9 @@
 console titlescreen
-Set,DisableScreenShake,true
-Set,DisableFlashes,true
+Set,Everest.UseKeyboardForTextInput,False
+Set,CrouchDashMode,Press
+Set,GrabMode,Hold
+Set,ScreenShake,Off
+Set,DisableFlashes,True
 Set,SpeedrunClock,2
 Set,Everest.ShowModOptionsInGame,false
 EnforceMaingame

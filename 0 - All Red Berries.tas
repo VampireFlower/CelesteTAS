@@ -1,9 +1,3 @@
-#To sync:
-#Use Celeste v.1.4.0.0
-#Use the controller bindings in the CelesteTAS readme
-#Turn on speedrun timer
-#If you're using Everest, turn off show Mod Options in game
-#Start on the main save file
 #Start from Begin
 
 Read,StartFullGameFile
@@ -15,13 +9,7 @@ Read,Load1A
 Read,1SH0,Start
 
 #Reenter City
-Add 197
- 165
-   1,J
-  83
-Add 7
-   1,S
- 194
+Read,LoadA,0,control
    1,L
    9
    1,J
@@ -35,9 +23,8 @@ Add 1
 
 Read,1SH1,Start
 
-  50
+  51
    1,S
-  52
    1,J
   30
    1,R
@@ -53,8 +40,6 @@ Add 58
 Read,LoadAFromB,SkipExit
 
 Read,2S,Start
-
-#Celestial Resort
 
 Read,LoadA
 
@@ -104,7 +89,6 @@ Read,LoadAFromB,Start,SkipExit
   43
    1,J
 Add 1
- 115
+  46
 
 Read,0 - Epilogue,Start
-#

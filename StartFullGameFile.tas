@@ -1,7 +1,10 @@
-Set,DisableScreenShake,true
-Set,DisableFlashes,true
+Set,ScreenShake,Off
+Set,Everest.UseKeyboardForTextInput,False
+Set,CrouchDashMode,Press
+Set,GrabMode,Hold
+Set,DisableFlashes,True
 Set,SpeedrunClock,2
-Set,Everest.ShowModOptionsInGame,false
+Set,Everest.ShowModOptionsInGame,False
 EnforceMaingame
 Unsafe
 Add 2

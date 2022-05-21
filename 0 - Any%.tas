@@ -1,10 +1,8 @@
-#To sync:
-#Use Celeste v.1.4.0.0
 #Start from Begin
 
 Read,StartFullGameFile
 
-Read,0 - Prologue.tas,Start
+Read,0 - Prologue,Start
 
 Read,Load1A
 
