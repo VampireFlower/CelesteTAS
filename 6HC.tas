@@ -242,11 +242,9 @@ Read,6A,lvl_start,6HC0
    5,L,U,X
    1,S
    1,D,J
-   1,O
-  71,L
+  72,O
   15,L,X
- 134,R
-   1
+ 135,R
 #Exit
    1,S
    1,U,J
@@ -257,7 +255,6 @@ Read,6A,lvl_start,6HC0
 Add 58
   51
    1,S
-  52
    1,J
   30
    1,R

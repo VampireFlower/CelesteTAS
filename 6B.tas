@@ -1289,16 +1289,21 @@ AnalogMode,Precise
    7,R,K
   44,L
   11,L,D,X
-  12,R,J
+   8,R,J
   15,R,D,X
+   2,D
   40
 
 #lvl_d-03
-  21,R,D,C
-  14,R,Z
-   3,R,J
-  10,R
-  14,R,X
+   2,R,D
+   1,D
+   1,J
+   1,R
+  20,R,D,X
+   5,R
+   8,R,D
+   7,R,J
+  14,R,U,X
   33,R,D
   35,D
    2
@@ -1468,4 +1473,4 @@ AnalogMode,Ignore
    3,R,J
   24,R,D,X
  124,R,G
-ChapterTime: 3:26.278(12134)
+ChapterTime: 3:26.244(12132)
