@@ -817,12 +817,8 @@ console load 3
 #lvl_07-a (1)
    8,L,D
   10,D
-   8,R,D
-   7,G
-repeat,47
-   1,G
-   1,U,G
-endrepeat
+  10,R,D
+  99
   14,L,D,X
    1,R,J
    5,R,D,X
@@ -1116,20 +1112,20 @@ endrepeat
    7,L
    4,Z
    1,L,J
-#+4f Berry
   14
    2,R,D
   24,L,D
-   4,L,Z
-  43,J
+   8,L,Z
+#+3f Berry
+  40
 
 #lvl_12-x
-   2,J
-   3,L,J
-   2,L,K,G
+   3,L,Z
+   2,L,J
+   5,L,K,G
    1,L
   13,L,U,X
-   3,L,K,G
+   2,L,K,G
    7,L
    5,D,X
 #3HC0
@@ -2259,22 +2255,24 @@ endrepeat
   30,R,D
   10,R,J
   15,U,X
-  17,J
+  15,J
+   2
    1,K,G
    2
-   4,R
-   1,L
-   2,L,J
-   3,J
-  14,R,D,X
+   7,R
+   9,L,Z
    1,R,J
-  23,R,D,X
-   6,R,J
-   3,R,K,G
+   5,R
+   1
+   1,R,K
+  15,R,D,X
+   8,R
+   2,R,J
+   3,R
+   4,R,K,G
    5,R,D,X
   20,R,J
-  10,R
-   3
+  13,R
   15,D,X
   11,R,D
    3,R
@@ -2494,4 +2492,4 @@ endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 4:45.753(16809)
+ChapterTime: 4:45.787(16811)
