@@ -931,8 +931,9 @@ AnalogMode,Precise
   85,D
   49,R,D
 #Rock Bottom
-  14,R,Z
+  12,R,Z
    1,R,J
+   2,R
   14,R,D,X
    1,R,J
   40
@@ -996,18 +997,21 @@ AnalogMode,Precise
 
 #lvl_boss-00
    7,R,D,X
-   5,R,J
-  14,R,Z
+   3,R,J
+   2,R
+   9,R,Z
+   1,R,J
+   6,R
+   1,R,J
+   6,R,D,X
+   2,R,J,G
+  18,R
    1,R,J
   14,R,D,X
-   6,R,J
-  14,R,D,X
-   1,R,J
-  11,R,D,X
    1,S
    1,D,J
   34
-  11,R,J
+   9,R,J
   37
   15,R,D,X
    4,R
@@ -1057,14 +1061,14 @@ AnalogMode,Precise
   14,R,U,X
   37
   15,D,X
-   7,R,D
-   2,D
-   4,D,X
+   4,R,D
+   5,D
+   5,R,D,X
    1,R,J
    7,R
-   3,R,J
-   7,R,U,X
-  25,R,K,G
+   2,R,J
+   8,R,U,X
+  24,R,K,G
   44,R
   15,R,D,X
   24,R,D
@@ -1098,13 +1102,12 @@ AnalogMode,Precise
    5,R,K,G
   31
    1,J
-   2,K
-   7,R,K
-   9,L,Z
-   2,R,J
+   9,K
+   8,L,Z
+   4,R,J
    4,R
-   1,R,K
-  22,R,D,X
+   1,R,J
+  20,R,D,X
   44
   43,R,D,X
   40
@@ -1120,8 +1123,7 @@ AnalogMode,Precise
    8,R
    4,D,X
    1,R,J
-  15,R
-   8,R,D
+  23,R,D
   37
   16,L,D,X
   10,R,D,C
@@ -1132,7 +1134,7 @@ AnalogMode,Precise
   14,R,U,X
   37
   27,R,D,X
-   4,Z
+   4,R,Z
    1,R,J
    7,R
   16,R,J
@@ -1221,12 +1223,13 @@ AnalogMode,Precise
   40
 
 #lvl_boss-07
-  24,D
-   6,R,D
-  11,R,D,X
-  11,R,J
+   6,L,D
+  13,R,D
+  10,D
+  10,R,D,X
+  12,R,J
   14,R,U,Z
-   5,R,J,G
+   5,R,K,G
   37,L
   12,L,D,X
    5,R,J
@@ -1247,7 +1250,7 @@ AnalogMode,Precise
   10,R,D,X
    5,R,J
    6,R
-   1,K
+   1,J
    4
   15,D,X
    3,L,D
@@ -1318,11 +1321,10 @@ AnalogMode,Precise
    7
   11,L,D,X
    1,R,J
-   1,J
-   5,R,J
-  17,R,D,X
-   1,R,J
-   9,R,D,X
+  12,R
+   3
+   2,R,J
+  12,R,D,X
    1,R,J
    7,R
    1,R,J
@@ -1359,8 +1361,7 @@ AnalogMode,Precise
 #lvl_boss-11
    3,R,D,X
    1,R,J
-  15,R
-   8,R,D
+  23,R,D
   13,R,X
    8,R,J
   38,L
@@ -1382,12 +1383,13 @@ AnalogMode,Precise
   10,R,D,X
   11,R,J
    2,R
-  10,R,K,G
-   1,R
-   1,J,G
+   3,R,K,G
+   4,K
+   4,R,K
+   1
    6,R,J,G
   15,R
-  15,R,X
+  14,R,X
   32
    1,J,G
    2,L,J
@@ -1427,13 +1429,12 @@ AnalogMode,Precise
    4,R
   19,R,D,X
   19,R,J
-  33
+  32
    1,L,J
-   9,L
-   1
+  11,L
   15,D,X
-   7,L,D
-  14,D
+   6,L,D
+  15,D
   40
 
 #lvl_boss-13
@@ -1445,17 +1446,19 @@ AnalogMode,Precise
    9,R
   37
   16,R,D,X
-   5,R,Z
+   4,R,Z
    1,R,J
-  12,R
+   1,R
+   1,R,J
+  11,R
    1,R,J
    1,R,K
    1,R,J
    1,R,K
-   9,R,J
-   2,R
+   1,R,J
+   8,R,K
   14,R,U,X
-   5,R,J,G
+   7,R,J,G
   37
   15,D,X
   14,R,D
@@ -1506,11 +1509,11 @@ AnalogMode,Precise
   40
 
 #lvl_boss-15
-   8,R
+   7,R
   10,R,J
    5,R
   24,R,J
-  15,R,X
+  16,R,X
   32,L
    1,L,J
   11,L
@@ -1569,8 +1572,8 @@ AnalogMode,Precise
   15,R,D,X
    9,R,J
   37
-  16,R,X
-  14,R
+  15,R,X
+  15,R
    1
    1,R
    6,R,D
@@ -1749,8 +1752,7 @@ AnalogMode,Precise
   10,L,C
   14,L,J
   14,U,X
-   1,J
-  12,R,J
+  13,R,J
   15,U,X
   10,R
   10,R,X
@@ -1811,4 +1813,4 @@ AnalogMode,Precise
    1,D,J
   18
 AnalogMode,Ignore
-ChapterTime: 4:38.885(16405)
+ChapterTime: 4:38.783(16399)
