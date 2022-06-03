@@ -334,7 +334,7 @@ Read,5A,lvl_a-00b,lvl_b-02
   40
 
 #lvl_b-19
-read,5S,lvl_b-19,5SHC4
+read,5S,lvl_b-19,5HC
 #5SHC2
    8,R
    6,R,D,X
@@ -434,5 +434,5 @@ read,5S,lvl_b-19,5SHC4
   40
 
 #lvl_b-16
-Read,5A,5HC1
-ChapterTime: 4:00.346(14138)
+Read,5A,lvl_b-16
+ChapterTime: 4:00.329(14137)

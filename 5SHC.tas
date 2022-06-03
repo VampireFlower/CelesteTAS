@@ -99,10 +99,10 @@ read,5HC,lvl_b-04,lvl_b-02 (3)
   13,D
   18,R,D
   20,R,X
-read,5S,5SHC3,5SHC4
+read,5S,5SHC3,lvl_b-19
 
 #lvl_b-19
-read,5HC,5SHC2,5SHC3
+read,5HC,lvl_b-19,5SHC3
 
 #resync keydoor
   10

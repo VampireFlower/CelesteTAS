@@ -116,41 +116,53 @@ console hard 5
   40
 
 #lvl_b-01
-  11,R,D,X
-  15,R,J
-  17,R
-  21,L,J
-  27
-   1,L,U,G
-  21,U,G
-  10,D,G
-   1,L,J,G
-   1,K
-   1,J,G
-   9,R,U,Z
-   1,L
-   8,J,G
-   3
-  14,R,U,X
-   1,R,J,G
+  15,R,D,X
+   9,L,J
+   7,L
+   1,L,J
+  15,L
+   1,K,G
+   5
+   2,L
+   1
+   1,R
+  22,R,J
    1,J
    1,R,J
-   4,R
-   1
-  11,R
-   2,R,J,G
-   5,R
-   2,R,J
-  12,R
-   4,R,J,G
-   5,R
+   1,J
    1,R,J
-   6
+  12,R
+   5,R,D
+   4,D
+   1
+   4,R
+   1,R,D
+   1,R
+   1,R,D
+   4,R,G
+   1,R
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   6,R
+   1
+   1,R,D
+   1,R,D,J
+   5,R,U,Z
+   1,L,K,G
+  12,R,K
+  13,R,U,X
+   1,R,K,G
+   6,R
+   8
+   1,R,K
   40
 
 #lvl_b-07
-   3,R,J
-  14,U,Z
+   1,L,K
+  15,U,Z
    1,L
    1,J,G
    4,R,J
@@ -165,13 +177,12 @@ endrepeat
   10,L,K,G
    8,G
   24,U,G
-   1,G
    1,J,G
    2,L,J
-   1,J
-   4
+   2,J
+   3
    1,R
-   1,K
+   1,R,K
   20,R,J
    8,L,K,G
   40
@@ -835,5 +846,5 @@ endrepeat
    1,L
    6,R
   14,R,U,X
- 135,R,D
-ChapterTime: 1:42.799(6047)
+ 135
+ChapterTime: 1:42.102(6006)

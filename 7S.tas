@@ -25,16 +25,18 @@ console load 7
 
 #lvl_a-00
   78
-   5,R,X
+   4,X
    1,R,J
    1,J
-   4,R,J
+   5,R,J
    1,R,K,G
-   3,R
-  14,R,D,X
+   1
+   2,R
+   7,R,D,X
    1,R,J
-   1,R
-  14,R,D,X
+  12,R
+   1,R,J
+   9,R,D,X
    1,R,J
    7,R
    7,R,J
@@ -49,7 +51,7 @@ console load 7
   10,R,C
    6,R,J
   15,U,X
-  12,R,Z
+  11,R,Z
    1,R,J
    2,R
   40
@@ -3841,4 +3843,4 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 8:53.035(31355)
+ChapterTime: 8:53.018(31354)
