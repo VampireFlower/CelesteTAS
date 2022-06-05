@@ -99,17 +99,12 @@ console hard 9
    3,R
    8,R,J
    5,R
-   1,R,J
-   2,R
-   1,R,J
-   1,R
-   1,R,J
-   7,R
+   2,R,J
+  11,R
    5,R,Z
    3,R,J,G
-   5,R
-   1,R,J
-   5,R
+   7,R
+   4,R,J
   14,R,D,X
    1,R,J,G
    9,R
@@ -676,33 +671,26 @@ console hard 9
    1,R,J
    2,R,K,G
    1,K
-   1,R,K
-   4,R
+   3,R,K
+   2,R
    5,R,D,X
    1,R,J,G
-  11,R,D
-   6,R,J
-   4
-   3,R
-   1,R,K,G
    1
+  11,R
+   9,R,J
+   2,J
+   1,R,K,G
+   1,K
   12,R,U,X
-  18,R,K,G
-   1,R
-   1,R,K
+  20,R,K,G
    2,R
    2,R,K
-  16,R,D
-   2,D
-   1,R,D
-   5,D
+  21,R,D
+   3,L,D
   11,L
-  51,R,D
-   4,D
+  58,R,D
    1,R
-   1,R,D
-   1
-   7,R,Z
+   6,R,Z
    1,R,J
   12,R
    1,R,J
@@ -882,4 +870,4 @@ console hard 9
   14,R,J
   14,R,U,C
  135,R
-ChapterTime: 2:07.806(7518)
+ChapterTime: 2:07.789(7517)
