@@ -147,8 +147,9 @@ console hard 9
   20,R,J
   16,R
   36,R,J
-  12,R
-  17,R,J
+   6,R,K
+   8,R
+  14,R,K
   14,R,Z
    1,R,J
    1,R
@@ -870,4 +871,4 @@ console hard 9
   14,R,J
   14,R,U,C
  135,R
-ChapterTime: 2:07.789(7517)
+ChapterTime: 2:07.772(7516)
