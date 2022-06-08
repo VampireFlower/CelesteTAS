@@ -842,33 +842,28 @@ console hard 9
   34,R,D
   15,R,X
   14,R,V
-   3,R,J
+   1,R,J
+   2,J
   21,R,D,X
-  16,R,Z
-  10,L,D,X
-   1,R,J
-   1,R
+  19,R,Z
    1
-   2,R
-  12,R,D,X
-   1,R,J
-   2,R
+  14,R,D,C
+   7,R,J
   14,R,D,X
-   2,R,J
-   9,R
-  14,R,D,X
+   8,R,J
+  17,R,D,X
    2,R,J,G
    5,R
-   5,R,K
+   5,R,J
   18,R,Z
   15,R,U,C
   12,R,V
    1,L,J
-   2
+   2,R
   14,R,D,X
    1,R,J
   12,R,D,X
   14,R,J
   14,R,U,C
  135,R
-ChapterTime: 2:07.772(7516)
+ChapterTime: 2:07.738(7514)
