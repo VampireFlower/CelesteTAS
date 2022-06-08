@@ -772,23 +772,25 @@ console load 10
    1,R,J
   13,R,U,X
    1,R,K,G
-   1,R,J,G
-   8,R
-   2,J
-   2,R,J
+   2,R,J,G
+   5,R
+   1,R,J
+   1,J
+   2
+   3,J
   18,R,U,X
   16,U,C
    7,J
   19,U,X
-  16,U,C
-  19,J
+  15,U,C
+  18,J
   18,L,X
    1
    4,L
    1,L,J,G
   15,L,K,G
   15,U,X
-  11,R,U,C
+  12,R,U,C
   45,U,X
   60,L,U,C
   40
