@@ -718,94 +718,112 @@ console hard 9
   40
 
 #lvl_c-06
-  10,R
-   9,R,K
-   6,R
-   9,R,K
-  33,R
-   2,D
-   5,L
+  13,R
+   8,R,K
+   5,R
+  33,R,K
+   1,K
+  10,R,K
+   4
    1,D
+   2,L,D
    4,L
 #Max theoretical
 #liftboost is 77.26
+   1
   14,L,Z
    1,R,J
-  26,R,K,G
-   4,R
-   2,R,K
-   1,R
-   1,R,K
-  14,R
-  15,R,U,X
-  14,R
-   4,R,D,J
-  14,R
+  12,R,K,G
+  35,R,D
+  29,R,U,X
+   2,R,J
+   5,R
+   1,R,J
+   9,R
   40
 
 #lvl_c-08
-  13,R,D
-   1,R
-   2,R,D
-   1,R
+   5,R
+   5,R,D
+   2,L,D
+   1,L
+   3,L,D
    4,D,X
    1,R,J
    9,R
    5,R,D
    8,R,J
    5,R
-   1,R,J
-   1,J
    2,R,J
-   3,J
-   1,L
-   6,K,G
-   5,R,K
-  37,R,U,X
-   2,R,D
-  10,D
-   1,L
-  50,R,K
-   1,R,D
+   1,J
    1,R
-   1,D
-  23,R,U,X
-   1,L,K,G
-   2,L,J,G
+   2
+   1,J
+   1,L
+   5,K,G
+   4,R,K
+   5,R
    1,K
-   2,J,G
-  11,R,J
-   5,R,Z
+   1,R,K
+   1,K
+  21,R,K
+   5,J,G
+   1
+   1,K,G
+   1,R,K
+   1,L
+  14,R,J,G
+   1,R,K,G
+   3,R,J,G
+  15,R
+   8,L,D
+   3,D
+   1,R,D
+   5,L,D,X
    1,R,J
-   6,R
-   1,R,J
-   4,R
+   7,R
+  13,R,J
+  12,R,U,Z
+   1,L
+   7,K,G
+   4,L,K
+   1,R,K
+   1,R,J,G
+   2,R,K,G
+  11,R
+   2,R,J
+   5,R
+  10,R,D,X
   40
 
 #lvl_c-07
-   3
-  25,R,D
-   9,R,Z
+   1,R
    1,R,J
-   3,R
-   2,R,K,G
-   1,K
-   8,R,K,G
-  19,R
-  37,R,J,G
-  15,R,U,X
-  18,R
-   1
-   1,J,G
-   2,L,J
-  15,R,K,G
-   1,R,J,G
-   7,R
+  12,R
    1,R,J
+   5,R
+  14,R,U,X
+   9,R,K,G
+   5,R
+   2,R,K
   14,R
-   1,R,J
-  20,R
-   1,R,J
+   3,R,J,G
+  30,R
+   4,R,D
+  18,R,Z
+   3,L
+  10,L,K,G
+   2,L
+   1,J
+   5,R,J
+   1,J
+   4,R,J
+   1,J
+   6,R
+   1,R,K,G
+  13,R
+   4,R,J
+  27,R
   40
 
 #lvl_space
@@ -826,12 +844,14 @@ console hard 9
    8,R
    2,R,J
    8,R
-  16,R,J
-  15,R,U,X
-   2,R,J,G
-  14,R,Z
+  18,R,J
+  14,R,U,X
+   1,J,G
+   1
+  13,R,Z
   14,R,J
   15,R,D,X
+   1,R
   11,R,J
   10,R
   15,R,D,X
@@ -840,15 +860,14 @@ console hard 9
   15,R,X
   15,R,C
   34,R,D
-  15,R,X
+  16,R,X
   14,R,V
-   1,R,J
-   2,J
+   2,R,J
+   2,R
   21,R,D,X
-  19,R,Z
-   1
+  16,R,Z
   14,R,D,C
-   7,R,J
+   8,R,J
   14,R,D,X
    8,R,J
   17,R,D,X
@@ -866,4 +885,4 @@ console hard 9
   14,R,J
   14,R,U,C
  135,R
-ChapterTime: 2:07.738(7514)
+ChapterTime: 2:07.602(7506)
