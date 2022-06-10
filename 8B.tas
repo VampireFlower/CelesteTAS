@@ -126,7 +126,7 @@ console hard 9
    1,L,J,G
    5,L
    1,L,J
-  18,L,D
+  18,L
   20,L,J
   15,U,X
   14,U,Z
@@ -778,8 +778,7 @@ console hard 9
    1,R,D
    5,L,D,X
    1,R,J
-   7,R
-  13,R,J
+  20,R
   12,R,U,Z
    1,L
    7,K,G
