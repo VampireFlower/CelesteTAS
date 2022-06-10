@@ -431,27 +431,24 @@ console hard 9
    3,L,J
    8,R,J
    5,R
-   2,J
-   2,R
-   1,R,J
-   4,R
-  34,R,K
-  34,R,U,X
-   1
-   2,J,G
-   1,L
-   1,K
-   1,R,J,G
-   8,J
    2,R,J
-   5,R
-   1,R,K,G
+   2,R
+   8,L
+   1
+  13,L,G
+   1,R,K
+  28,R,J
+   1,R
+   1,R,J
+   2,R
+  37,R,U,X
    1,R,J,G
+   1,R,K,G
    1,R
    1
    7,R
    3,R,J
-  20,R
+  19,R
    1,R,J
   40
 
@@ -885,4 +882,4 @@ console hard 9
   14,R,J
   14,R,U,C
  135,R
-ChapterTime: 2:07.602(7506)
+ChapterTime: 2:07.551(7503)
