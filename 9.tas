@@ -628,8 +628,7 @@ console load 10
    4
   17,U,X
   17,G
-  13,R,G
-   1,G
+  14,R,G
    1,R
   17,R,U,X
    1,R,J,G
@@ -2397,7 +2396,7 @@ Endrepeat
   12,U,X
   11,L,J
    5,R,J
-  14,U,Z
+  14,U,X
   35,L,J
    1,L,K,G
    5
@@ -3128,9 +3127,9 @@ Set,AnalogMode,Precise
   15,R,X
   17,R
    2,R,D
-  36,R
-  23,R,D,X
-  10,R
+  35,R
+  24,R,D,X
+   9,R
    3,R,D
   46,L
    8,R,U,Z
@@ -3149,13 +3148,12 @@ Set,AnalogMode,Precise
    9,R,D,C
   41,R
   15,R,U,X
-  48,R
-  22,L,D
-   4,R,D
-   5,L,X
+  49,R
+  36,L,D
+   5,L,U,X
    6
-   1,J
-  36,D
+   3,L
+  24,R,D
   37
   10,L,X
   12
