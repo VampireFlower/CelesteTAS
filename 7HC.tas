@@ -651,31 +651,27 @@ Read,7A,lvl_d-08,lvl_e-00
 
 #lvl_e-00 (1)
    1,R,J,G
-   1,K
-   1,J,G
-   6,L
-   1,L,K
-   1,L
-   8,L,Z
+  10,L
+   4,D,X
    1,L,J
-   4,L
+   3,L
+   1,L,K,G
+   8,L
   40
 
 #lvl_e-01
    1,L
-   1
    3,L,J
    5,L,D,X
-   1,L,J,G
-   5,L
-   2,L,K
-  11,L
-  25,L,J
+   1,L,K,G
+  16,L
+  19,L,J
   15,L,D,X
-  20,L,U,C
+  17,L,U,C
   40
 
 #lvl_e-01b
+   1,L
   12,L,Z
    1,L,J
   15,L
@@ -1018,4 +1014,4 @@ Read,7A,lvl_f-07,lvl_g-00b
   15,R,J
    2,K,G
 Read,7A,7HC1
-ChapterTime: 7:52.413(27789)
+ChapterTime: 7:52.294(27782)
