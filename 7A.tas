@@ -802,10 +802,10 @@ console load 7
    1,L
    1
    1,L
-   3,R
-  12,D
+   5,R
+  10,D
    1,R
-   1,D
+   1,R,D
   15,R,Z
    1,L
    2,J,G
