@@ -1213,30 +1213,30 @@ console load 7
 #lvl_d-00
   78
 #1500M
-   4,D,X
-   6,L,X
-   1,R,J
-   3,R
-   1,R,K
-   3,R
-  20,R,J
-   1,R
+  10,L,V
    1,R,J
    4,R
-   8,U,X
+   1,R,K
+   2,R
+   1,R,J
+   5,R
+   1,R,J
+   1,R
+   3,R,J
+   4,R
+  15,R,U,Z
+   1,K
+   5,U,C
    7,J
   15,L,J
-  10,K,G
-   1
-   2,J,G
-   1
+  12,K,G
+   1,J,G
+   1,R
    1,K
-  20,D
-   4,R,D
-   4,D,X
-  11,L,X
+  24,D
+  15,L,Z
   14,U,C
-  11,L,J
+  11,J
    4,R,J
   40
 
@@ -3844,4 +3844,4 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 8:52.967(31351)
+ChapterTime: 8:52.950(31350)
