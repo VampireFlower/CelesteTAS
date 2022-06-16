@@ -72,48 +72,9 @@ Add 29
   32
 Add 1
 
-Read,7SHC0,Start
+Read,7SHC,Start
 
-Read,LoadCoreFromSummit,Credits,8A
-
-   1,J
-Add 58
- 428
-   1,L
-   9
-   1,L
-   9
-   1,J
-  43
-   1,J
-  30
-   1,R
-   1,F,90
-   1,R
-   1,F,90
-   1,R
-   1,J
-  46
-Add 1
-
-Read,7SHC1,Start
-#Core
-  51
-   1,S
-   1,X
-  42
-   1,R
-   9
-   1,R
-   9
-   1,J
-  43
-   1,J
-  45
-   1,S
-   1,D,J
-  32
-Add 1
+Read,LoadCoreFromSummit
 
 Read,8S,Start,lvl_d-11
 
