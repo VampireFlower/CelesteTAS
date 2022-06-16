@@ -835,44 +835,43 @@ console hard 7
   12,R,J,G
    5,J
   17,U,X
-  12,J
-   2,K
-  10,R,K
+   8,J
+   3,L,J
+  13,R,K
+   1,J
   40
 
 #lvl_e-02
    1,R,J,G
   10,R,K,G
   14,R,Z
-   1,R,J
-  12,R,D,X
-   3,R,J
-  11,R,U,X
-   4,R,J,G
-  13,R,D,X
-   7,R
-   1
-  15,R,U,X
+  16,R,J
   14,R,Z
    1,R,J
-  13,R,D,X
-  14,R,J
-  18,R,D,C
-   3,R,J
-  14,R,X
-   2,R,K,G
-  13,R,D,X
+  14,R,D,X
+  16,R,J
+   3,R
+  11,R,D,X
+   1,J,G
+  11,R
   12,R,J
-   8,R,D,X
+  20,R,D,X
+   1,R,J
+   2,R
+  12,R,X
+   3,R,J,G
+  12,R,D,X
+   9,R
+   7,R,D,X
   40
 
 #lvl_e-03
-   7,R,D,X
+   8,R,D,X
    1,R,J
-  14,R,U,X
-  39,L
-  17,L,U,X
-  16,L,C
+  10,R,U,C
+  40,L
+  15,L,U,X
+  17,L,C
   52,R
   18,R,X
   15,R,C
@@ -1837,34 +1836,14 @@ console hard 7
   15,U,X
   15,U,C
   15
+Repeat 8
    1,R
    1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
+EndRepeat
+Repeat 6
    2,R
    2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
+EndRepeat
    3,R
    3,L
    3,R
@@ -1878,4 +1857,4 @@ console hard 7
   10,R
   15,L
    5,R
-ChapterTime: 4:51.805(17165)
+ChapterTime: 4:51.686(17158)
