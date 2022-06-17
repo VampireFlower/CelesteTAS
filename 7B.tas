@@ -770,46 +770,60 @@ console hard 7
    8,R
    5,R,Z
    1,R,J
-   6,R,G
-   5,L,J
-  13,L
-  14,L,D,X
-   5,R,J
-   2,R,K,G
-  19,R,D
-  15,R,X
-   5,U,C
-  17,L
-  18,R
-  15,R,D,X
-   9,L,D,C
-  21,R
-  15,R,D,X
-  21,R
-  17,L,U,C
-  37,R
-  15,R,D,X
-  15,D,C
-  15,D,X
-  15,D,C
-  15,R,D,X
-  15,R,D,C
-  15,R,D,X
-  15,D,C
-  26,R,D,X
-  19,R,D,C
-   1,R,D
-  10,L,X
-  10,R
-  13,D,X
-  20,R
-  32,R,U,X
-  19,D
-  15,R,C
-  31,L
-   3,L,G
+   7,R,G
+   2,R,J,G
+   6,R,D,X
+   1,R,K,G
+  17,R
+  96,R,G
+   3,U,G
+   1,G
+   1,U,G
+  36,G
+   3,U,G
+Repeat 11
+   1,G
+   1,U,G
+EndRepeat
+  81,G
+   3,U,G
+Repeat 2
+   1,G
+   1,U,G
+EndRepeat
+   4,G
+Repeat 3
+   1,G
+   1,U,G
+EndRepeat
+  55,G
+   3,R,U,G
+   3,R
+   1,R,K,G
+   5,R,J,G
+   5,R
+   2,R,J
+   3,J
+   9,D,X
+   1,L,K,G
+   4,R
+   2
+   2,R
+   1
+   1,R
+  25,L
+   9,L,G
+  18,R,Z
+  15,L,V
+   1
+   6,L,G
+Repeat 31
+   1,D,G
+   1,G
+EndRepeat
+   1,D,G
    1,L,J,G
-  10,J
+   5,J
    2,R,J
    1,L,J
    1,K,G
@@ -824,8 +838,8 @@ console hard 7
    6
    8,R
   13,G
-   2,U,G
-  11,G
+   1,U,G
+  12,G
    1,U,G
    5,R,Z
    1,R,J,G
