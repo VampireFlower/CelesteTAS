@@ -1534,23 +1534,24 @@ console load 7
    4,R,Z
    1,R,J
    6,R
-  18,R,J
-  15,R,D,X
-   1,R
-   2,R,D
-   1,R
-   1,R,J,G
-  33,R,K,G
-  15,R,X
-   4,R
-   4,R,Z
+  12,R,J
+  12,R
+  14,R,X
+   9,R,K,G
+   5,R
+   1,R,K
+  20,R
+   1
+   2,R
+  14,R,Z
    1,R,J
-   6,R
-   6,R,J
-  13,R
+#+1f Berry
+  14,R,Z
+  10,R,K
+   4,R
   14,R,U,X
    1,R,J,G
-  14,R,D,X
+  13,R,D,X
    5,R,J
    1,R
    1,R,J
@@ -2800,4 +2801,4 @@ read,7HC,lvl_g-00b,Exit
   15,R,J
    2,K,G
 read,7S,7SHC5
-FileTime: 9:58.077(35181)
+FileTime: 9:58.043(35179)
