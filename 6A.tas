@@ -73,7 +73,7 @@ AnalogMode,Precise
    1,L,J
    1,L,U
   14,L,U,X
-   2,J
+   2,R,J
   13,U,C
   10,R,J
   10,J
@@ -272,10 +272,8 @@ AnalogMode,Ignore
   11,R,Z
    1,R,J
   17,R,K
-   1,J,G
-   1,R,J
-   1,J
-   1,R,J
+   2,J,G
+   2,R,J
    1,L,J
    1,R,J
   14,U,X
@@ -518,7 +516,7 @@ AnalogMode,Precise
    5,U,X
 #---------------
 #Spinner Cycle 2
-   2
+   0
 #---------------
    1,R,J
    1,R,K
@@ -671,11 +669,16 @@ AnalogMode,Precise
    7,R
   20,R,D,J
   16,U,X
-  18,J
-  12,K,G
-   5,J,G
-   3
+   2,R,J
+  11,R
+   6,L,J
+  15,U,Z
+   1,R,J,G
+   1,L,J
+   1,R,J
    4,R
+   1
+   2,R
    6,R,Z
    1,R,J
    3,R
@@ -1813,4 +1816,4 @@ AnalogMode,Precise
    1,D,J
   18
 AnalogMode,Ignore
-ChapterTime: 4:38.783(16399)
+ChapterTime: 4:38.732(16396)
