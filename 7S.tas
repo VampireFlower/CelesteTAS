@@ -3066,26 +3066,31 @@ console load 7
   11,L,U,Z
   25,L
   16,L,U,X
-  15,U,Z
-   2,L,J
-  11,L
+  14,U,C
+   3,L,J
+  10,L
    1,R
   15,R,U,X
    1,K,G
-   4,R
-   2,L
-   4
+   5
+   1,L
+   1,L,J
+   3
    5,L,Z
    1,R,J
    1,R,K,G
-   8,R
+   7,R
+   1,R,J
+   1,R
   11,R,J
    7,R
 
 #CP-21
-   8,R,J
-  14,U,X
-  13,R,J
+   3,R,J
+   2,J
+  14,U,Z
+  12,R,J
+   3,J
    8,U,C
   22,R
   11,U,X
@@ -3096,20 +3101,19 @@ console load 7
    1,R
    1
    1,R
-   1,L
-   1,R
-   3,L
-  18,R,D
-   3,R
-   2,R,D
-   1,R
-   1,L
-   1,L,D
    2,L
-   2,L,D
-   3,L
-   4,D,X
-   2,L,X
+   1
+   1,L
+  10,R
+   1
+   7,R,D
+   1,D
+   4,R,D
+   2,R
+   2,L
+   1,L,D
+   5,L
+   6,L,V
    1,R,J
    1,R,K,G
    7,R
@@ -3844,4 +3848,4 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 8:52.950(31350)
+ChapterTime: 8:52.916(31348)
