@@ -1717,24 +1717,23 @@ console load 10
    1,R
    4,R,J
   15,L,U,Z
-   5
+   9
    1,X
-  16,R
-  18
-   1,R
-   1
-   1,L
-   1
-   1,R
-   1
-   1,L
-   1
-   1,X
-  19
-   4,Z
+   1,L,J
+  11,L
    1,R,J
-  10
-  20,D,X
+  16,R
+   3,R
+   2,R,D
+   1,R,J
+   9,R
+   7
+   1
+   1,L
+  16
+   1,J
+  15
+   2,L
    4,Z
    1,R,J
    7,R
@@ -1753,7 +1752,9 @@ console load 10
    1,R,J
    3,L,J
    6,L
-  29,L,J
+  11,L,J
+   1,J
+  17,L,J
    1,K
    1,L,J,G
   36,R,J
@@ -1763,30 +1764,32 @@ console load 10
    1,L,D
    2,L,J
   14,R,D,X
-   3,R,J
-   2,R
-  19,R,J
+   5,R,J
+   1,R
+   1,R,J
+   3,R
+   2,R,J
+   1,R
+  11,R,J
   15,R,U,Z
   18,R,D
   14,R,X
    1,R,J,G
    1,J
    9,R,J
-   7,R
-   5,R,Z
+   7
+   7,R,D,X
    1,R,J
-   3,R
-   2,R,J
-   3,R
+   6,R
+   1,R,J
+   5,R,D,X
   40
 
 #lvl_g-05
    1,R,J
-  10,R,D,X
-   1,R,J
-  17,R
-   1,R,J
+  20,R,D
   15,D,X
+   1,R,D
   21,R,D,C
    9,R,Z
    1,R,J
@@ -4336,7 +4339,7 @@ endrepeat
   15,U,X
   38
 #End_IGT
-ChapterTime: 9:45.157(34421)
+ChapterTime: 9:45.123(34419)
 
 # optional waiting for
 # visuals to play out
