@@ -2324,11 +2324,11 @@ console load 3
   40
 
 #lvl_roof05
-   4,R
+   4,R,J
+   1,R
+   7,R,D,X
    1,R,J
-   6,R,D,X
-   1,R,J
-   7,R
+   6,R
    1,R,J
   12,R,U,Z
    9,R,J,G
@@ -2339,26 +2339,29 @@ console load 3
   10,R
   38,R
   15,R,Z
-  23,R,D
+  21,R,D
+   2,D
    1,R
-   1,R,D
+   1,D
   16,R
   30,R,X
   12
-   1,R
-  22,R,D,X
-   4,R
-   9,R,Z
-  14,R,J
+  15,R,D,X
+   7,R,D
+   3,R,D
+   6,R,Z
+  12,R,J
+   5,R
    1,R,K,G
-   4
-   3,R
-  10,R
-  38,R,X
-   1,R,D
    1,R
-   2,R,D
-   2,D
+   1
+   5,R
+  10,R
+  15,R,X
+  24,R
+   3,R,D
+   1,D
+   1
    1,R
    8,L,D,X
    1,R,J
@@ -2492,4 +2495,4 @@ console load 3
    1,S
    1,D,J
   18
-ChapterTime: 4:45.753(16809)
+ChapterTime: 4:45.719(16807)
