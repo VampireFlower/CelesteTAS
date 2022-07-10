@@ -5,7 +5,51 @@ console load 5
  110
 
 #lvl_a-00b (1)
-read,5S,lvl_a-00b (0),+2f Berry (0)
+read,5S,lvl_a-00b (0),lvl_a-13
+
+#lvl_a-13
+   8,R
+   1,R,J
+  15,R,D,X
+   8,R
+  22,L
+  53
+   1,J
+   7,L
+   1
+   2,J
+   5
+   4,Z
+   1,R,J
+   6,R
+   1,R,J
+   5,R,K,G
+   2,R,J,G
+   1,J
+   7,R,J
+  15,R,D,X
+   9,R,J
+  40
+
+#lvl_b-00 (0)
+   4,R,J
+  13,R,U,X
+   1,S
+   1,D,J
+  34
+   1,G
+   1,K,G
+   1,L,D
+  13,L,D,J
+  11,U,X
+  17,L,J
+   3,R,K
+   1,R,J,G
+   1,K
+  40
+
+#lvl_b-18
+Read,5S,lvl_b-18,+2f Berry (0)
   11,R,X
    5,R,J
   13,U,X
@@ -67,12 +111,10 @@ read,5S,lvl_b-13 (1),5SHC1
    1,K,G
    7,R
    1,X
-   1,R,J
    3,R
-  15,D,X
-   1,R,D
+  16,D,C
   15,R,D,X
-   5,R,C
+   6,R,C
 read,5HC,5SHC,lvl_b-11 (2)
 
 #lvl_b-11 (2)
@@ -135,4 +177,4 @@ read,5HC,lvl_b-19,5SHC3
 
 read,5HC,5SHC3,lvl_b-16
 read,5S,lvl_b-16
-ChapterTime: 7:02.093(24829)
+ChapterTime: 7:02.059(24827)
