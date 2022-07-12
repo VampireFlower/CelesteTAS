@@ -1,5 +1,5 @@
 #console load 10 76472.16 -10584
-#play,lvl_j-15,50
+#play,lvl_j-15,55
 
 #console load 10 81744 -13272
 #play,Moonberry Room,37
@@ -15,9 +15,9 @@ Read,9,Start,Farewell
    1,R,J
    7,R
    8,R,J
-   5,R
+   6,R
    1,R,J
-  14,R
+  13,R
   16,R,D,X
    2
    6
@@ -841,7 +841,7 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 10:39.472(37616)
+ChapterTime: 10:36.922(37466)
 
 #Let moon berry sfx play
  100
