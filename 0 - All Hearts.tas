@@ -87,6 +87,8 @@ Read,7B,Start
 
 Read,LoadAFromB,Start,Summit
 
+  46
+
 Read,0 - Epilogue
 
 Read,LoadCoreFromSummit,8A
