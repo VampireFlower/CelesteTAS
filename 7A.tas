@@ -1730,14 +1730,18 @@ console load 7
    1,R,J,G
   10,R,K,G
   57,L
-  12,L,J,G
-   1,L,K,G
-   3,R,K
-   5,L,K
    1,L,J,G
+   2,R,J
+   1,L,J
+   1,K,G
+   1,R,K
+  15,L,J,G
    1,L,K,G
-  11,L
-  14,L,J
+   1,L,J,G
+   1,L
+   1
+   7,L
+  11,L,J
   15,L,U,Z
    1,R,J,G
   19,J
@@ -1796,21 +1800,25 @@ console load 7
 #CP-29
    2,J
   15,U,X
+  14,R,J
+   4,L,J
+  15,U,X
+  18,L,J
+   1,K,G
    8,R,J
-  17,U,X
-  10,L,J
+  15,U,X
+  18,U,C
   14,U,X
-  26,L,J
-  19,U,X
-  14,U,C
    1,J
   15,U,X
+   1
    2,L
   26,L,J
-  14,U,X
+  14,U,Z
    1,J
   18,U,X
-  17,L,J
+   5,L,J
+  11,J
  207
 
 #lvl_g-00b
@@ -2679,4 +2687,4 @@ AnalogMode,Ignore
    1,S
    1,D,J
   18
-ChapterTime: 6:41.438(23614)
+ChapterTime: 6:41.336(23608)

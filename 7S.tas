@@ -2880,21 +2880,25 @@ console load 7
 #CP-29
    2,J
   15,U,X
+  14,R,J
+   4,L,J
+  15,U,X
+  18,L,J
+   1,K,G
    8,R,J
-  17,U,X
-  10,L,J
+  15,U,X
+  18,U,C
   14,U,X
-  26,L,J
-  19,U,X
-  14,U,C
    1,J
   15,U,X
+   1
    2,L
   26,L,J
-  14,U,X
+  14,U,Z
    1,J
   18,U,X
-  17,L,J
+   5,L,J
+  11,J
  207
 
 #lvl_g-00b
@@ -3848,4 +3852,4 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 8:52.916(31348)
+ChapterTime: 8:52.899(31347)
