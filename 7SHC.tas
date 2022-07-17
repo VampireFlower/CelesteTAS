@@ -1221,16 +1221,15 @@ console load 7
    1,R
    1
    7,R
-   2,R,J
+  28,R,J
   15,R,D,X
-  14,R,D
-   9,R
-  33,R,U,X
+   4,R
+   8,R,K,G
+  18,R,X
    4,R,J
-   4,D,X
-   1,R,J
-  12,R
-  25,R,Z
+   2,R,K
+  15,R,D,X
+  24,R,Z
    4,R,K
    1,R,J
   15,R,D,C
@@ -2805,4 +2804,4 @@ read,7HC,lvl_g-00b,Exit
   15,R,J
    2,K,G
 read,7S,7SHC5
-FileTime: 9:57.601(35153)
+FileTime: 9:57.584(35152)
