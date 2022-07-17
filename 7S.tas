@@ -2768,18 +2768,15 @@ console load 7
    1,L,J
    7,L
   18,L,J
-  10,R,K
-   1,R
+   6,R,K
+   5,R
    1,R,J,G
    1,R,K,G
-  13,R
+   5,R
    1,R,J
-   6,R
-   1,R,J
-   1,R,K,G
-   3,K
-   6,R,K
-   7,J,G
+   5,R
+  20,R,J
+   6,K,G
   11,R,Z
    2,J
    1,K
@@ -3847,4 +3844,4 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 8:52.542(31326)
+ChapterTime: 8:52.525(31325)
