@@ -2747,48 +2747,39 @@ console load 7
    1,R,K,G
    1,R,J,G
   10,R,K,G
-  37
+  46,L
   15,U,X
-  14,L,U,C
-   1,L,J,G
-   2,R,J
+   7,L,Z
+   1,L,J
+   2,L,K,G
    1,L
-   1,K,G
+   3,L,K,G
    7,L
-   4,D,X
-   8,L,J
-   4,L
    1,L,J
   14,L,D,X
    1,L,J
    6,L
   15,D,X
-  14,R,D,C
+  10,R,D,C
    1,R,J
+   1
+   5,R
   14,R,D,X
-   1,R,J
-   4,D,X
    1,L,J
    7,L
-  16,L,J
-   2,J
-   9,R,K
-   2,R
-   1,R,K,G
+  18,L,J
+  10,R,K
+   1,R
    1,R,J,G
+   1,R,K,G
   13,R
    1,R,J
-   5,R
+   6,R
    1,R,J
-   3,R
-   8,D,J
-   6,R,J
-   1,K,G
-   1,L,K
-   1,R,J,G
    1,R,K,G
-   1,R,J,G
-   3,R,K,G
+   3,K
+   6,R,K
+   7,J,G
   11,R,Z
    2,J
    1,K
@@ -3856,4 +3847,4 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 8:52.814(31342)
+ChapterTime: 8:52.542(31326)
