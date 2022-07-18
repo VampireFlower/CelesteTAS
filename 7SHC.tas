@@ -1367,28 +1367,30 @@ console load 7
 #lvl_d-01
    1,K
    2,R,K
-   6,R
-   2
+   4,R
+   1
+   3,R
    4,D,X
    1,R,J
    7,R
    4,R,D,J
    5,R
-   5,R,J
+   7,R,J
   14,R,X
    2,R,J
-  19,R,Z
-   7,R,V
+  17,R,Z
+   6,R,D,X
    1,R,J
-  11,R
-   4,D,X
-   5,R,J
-   6,R
-   5,R,J
-   2,R
+   8,R
+   1,R,J
+   9,R,D,X
+   2,R,J
+   5,R
+   6,R,K
   15,R,U,X
-  15,R,D,C
-   7,R,Z
+  16,R,D,C
+   1,R,J
+   5,R,D,X
    3,R,J
   40
 
@@ -2804,4 +2806,4 @@ read,7HC,lvl_g-00b,Exit
   15,R,J
    2,K,G
 read,7S,7SHC5
-FileTime: 9:57.584(35152)
+FileTime: 9:57.533(35149)

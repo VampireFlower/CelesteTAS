@@ -379,12 +379,13 @@ Read,7A,lvl_b-06,lvl_c-04
 Read,7A,lvl_c-08,lvl_d-02
 
 #lvl_d-02
+   1,R
+   1,R,J
   14,R,D,X
-   6,R,J
-  15,R,U,Z
-  15,R,D,C
-  12,R,D
-   2,R,J
+   3,R,J
+  15,R,U,X
+  26,R,D,C
+   3,R,J
    8,L,D,X
    2,R,J
    2,R,K,G
@@ -399,8 +400,7 @@ Read,7A,lvl_c-08,lvl_d-02
 #lvl_d-03 (1)
    9,R
    1,R,D
-  18,R,J
-   6,J
+  24,R,J
   15,U,X
   14,L,U,C
   12,J,G
@@ -1021,4 +1021,4 @@ Read,7A,lvl_f-07,lvl_g-00b
   15,R,J
    2,K,G
 Read,7A,7HC1
-ChapterTime: 7:51.818(27754)
+ChapterTime: 7:51.733(27749)
