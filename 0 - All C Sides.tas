@@ -32,15 +32,23 @@ Read,LoadCCheatMode
 
 Read,7C,Start
 
-Read,LoadCCheatMode,0,GoldBerry
-  50
-Read,LoadCCheatMode,GoldBerry,Core
+Read,LoadCCheatMode,0,Core
    1,R
    9
 Read,LoadCCheatMode,Core
 
 Read,8C,Start
 
-#Move to ending screen
   59
    1,J
+ 196
+Read,LoadANoCollects,0,Prologue
+  48
+Add 7
+
+#Epilogue
+   1,S
+   1,X
+  42
+   1,L
+Read,LoadJournal

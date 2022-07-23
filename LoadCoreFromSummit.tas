@@ -1,7 +1,5 @@
-unsafe
-#Credits
 Add 197
- 165
+ 164
    1,J
   32
 Add 1
@@ -12,12 +10,13 @@ Add 1
 Add 1
    1
 
+#Epilogue
 Read,0 - Epilogue,Start
 
-#8A
+#Core
    1,J
 Add 58
- 428
+ 427
    1,J
   43
    1,J

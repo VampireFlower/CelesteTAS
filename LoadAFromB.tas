@@ -1,14 +1,9 @@
-unsafe
-#Start
-  60
-   1,J
- 196
-Add 197
- 165
-   1,J
-  32
-Add 7
+   1,S
+   1,U,J
+   1,O
+  31
 #SkipExit
+Add 58
   51
    1,S
    1,X

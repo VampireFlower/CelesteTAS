@@ -1,28 +1,16 @@
-unsafe
-Read,LoadAFromB,0,SkipExit
-
-#1C
+   1,S
+   1,U,J
+   1,O
+  31
+Add 58
   51
    1,S
- 394
+   1,X
+  42
+Repeat 8
    1,L
    9
-   1,L
-   9
-   1,L
-   9
-   1,L
-   9
-   1,L
-   9
-   1,L
-   9
-   1,L
-   9
-   1,L
-   9
-   1,L
-   9
+Endrepeat
    1,J
   43
    1,R

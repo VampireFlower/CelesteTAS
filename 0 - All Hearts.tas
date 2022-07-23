@@ -1,10 +1,14 @@
 #Start from Begin
 
+#Ensures variants postcard
+#does not appear after 8C
+Set,Settings.Instance.VariantsUnlocked,True
+
 Read,StartFullGameFile
 
 Read,0 - Prologue,Start
 
-Read,Load1A
+Read,LoadANoCollects,Prologue
 
 Read,1HC,Start,Return
 
@@ -70,8 +74,7 @@ Read,LoadBFromA,Exit
 
 Read,6B,Start
 
-Read,LoadAFromB,Start,Summit
-
+Read,LoadAFromB,0,Summit
 #Summit
   45
 Add 29
@@ -85,13 +88,23 @@ Read,LoadBFromA,Exit
 
 Read,7B,Start
 
-Read,LoadAFromB,Start,Summit
+Read,LoadAFromB,0,SkipExit
 
+#Epilogue
+Add 58
+  51
+   1,S
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,J
   46
+Add 1
 
-Read,0 - Epilogue
-
-Read,LoadCoreFromSummit,8A
+Read,LoadCoreFromSummit,Epilogue
 
 Read,8AC,Start
 
@@ -127,29 +140,23 @@ Read,LoadC
 
 Read,7C,Start
 
-Read,LoadC,Start,Core
+Read,LoadC,0,Core
    1,R
    9
 Read,LoadC,Core
 
 Read,8C,Start
 
-#Overworld
-   1,S
-   1,U,J
-   1,O
-  31
-Add 58
-  51
+  59
+   1,J
+ 196
+Read,LoadANoCollects,0,Prologue
+  48
+Add 7
+
+#Epilogue
    1,S
    1,X
   42
    1,L
-   9
-   1,J
-  43
-   1,J
-Add 1
-  46
-
-Read,0 - Epilogue,Start
+Read,LoadJournal

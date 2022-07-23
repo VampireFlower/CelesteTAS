@@ -1,14 +1,9 @@
-#Used in the All C Sides tas, and accounts
-#for the gold berry collected in 7C
-
-unsafe
    1,S
    1,U,J
    1,O
- 107
+  82
+   1,S
 #SelectC
-  86
-#GoldBerry
    1,X
   42
    1,R
@@ -17,7 +12,6 @@ unsafe
    1,J
   43
    1,R
-   1
-   1,R
+   1,F,90
    1,J
   46

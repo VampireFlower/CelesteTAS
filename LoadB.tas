@@ -1,5 +1,3 @@
-unsafe
-#Start
    1,S
    1,U,J
    1,O
@@ -14,6 +12,7 @@ Add 58
 #Core
    1,J
   43
+#Farewell
    1,R
    1,J
  304

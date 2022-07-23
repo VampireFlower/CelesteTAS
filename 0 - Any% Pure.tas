@@ -3,3 +3,12 @@
 Read,StartFullGameFile
 
 Read,LoadEnableCheatMode
+
+#Epilogue
+   1,X
+  42
+Repeat 8
+   1,R
+   9
+Endrepeat
+Read,LoadJournal

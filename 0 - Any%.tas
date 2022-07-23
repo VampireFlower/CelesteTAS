@@ -4,7 +4,7 @@ Read,StartFullGameFile
 
 Read,0 - Prologue,Start
 
-Read,Load1A
+Read,LoadANoCollects,Prologue
 
 Read,1A,Start
 
@@ -104,8 +104,7 @@ Read,LoadBFromA
 
 Read,6B,Start
 
-Read,LoadAFromB,Start,Summit
-
+Read,LoadAFromB,0,Summit
 #Summit
   45
 Add 29
@@ -115,4 +114,10 @@ Add 1
 
 Read,7A,Start
 
-Read,LoadCoreFromSummit,Credits,8A
+Read,LoadCoreFromSummit,0,Core
+ 300
+   1,J
+Add 58
+ 427
+
+Read,LoadJournal,0,Any%

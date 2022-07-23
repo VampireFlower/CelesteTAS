@@ -4,7 +4,7 @@ Read,StartFullGameFile
 
 Read,0 - Prologue,Start
 
-Read,Load1A
+Read,LoadANoCollects,Prologue
 
 Read,1A,Start
 
@@ -27,7 +27,6 @@ Read,1SH2,Start,lvl_10 (0)
 
 Read,1HC,lvl_10
 
-Add 58
 Read,LoadAFromB,SkipExit
 
 Read,2HC,lvl_start (2),Return
@@ -130,8 +129,7 @@ Read,LoadBFromA
 
 Read,6B,Start
 
-Read,LoadAFromB,Start,Summit
-
+Read,LoadAFromB,0,Summit
 #Summit
   45
 Add 29
@@ -148,21 +146,15 @@ Read,7A,lvl_d-05
 Read,LoadCoreFromSummit
 
 Read,8AC,Start
+  59
+   1,J
+ 196
 
-Read,LoadAFromB,Start,SkipExit
+Read,LoadA,0,control
 
 #Epilogue
-  51
-   1,S
- 394
+ 200
    1,L
    9
    1,L
-   9
-   1,J
-  43
-   1,J
-Add 1
-  46
-
-Read,0 - Epilogue,Start
+Read,LoadJournal

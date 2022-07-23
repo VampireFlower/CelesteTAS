@@ -4,7 +4,7 @@ Read,StartFullGameFile
 
 Read,0 - Prologue,Start
 
-Read,Load1A
+Read,LoadANoCollects,Prologue
 
 Read,1SH0,Start
 
@@ -23,6 +23,7 @@ Add 1
 
 Read,1SH1,Start
 
+Add 58
   51
    1,S
    1,J
@@ -36,7 +37,6 @@ Add 1
 Read,1SH2,Start
 
 #Old Site
-Add 58
 Read,LoadAFromB,SkipExit
 
 Read,2S,Start
@@ -61,8 +61,8 @@ Read,LoadBFromA
 
 Read,6B,Start
 
-Read,LoadAFromB,Start,Summit
-
+Read,LoadAFromB,0,Summit
+#Summit
   45
 Add 29
    1,J
@@ -74,21 +74,15 @@ Read,7S,Start
 Read,LoadCoreFromSummit
 
 Read,8S,Start
+  59
+   1,J
+ 196
 
-Read,LoadAFromB,Start,SkipExit
+Read,LoadA,0,control
 
 #Epilogue
-  51
-   1,S
- 394
+ 200
    1,L
    9
    1,L
-   9
-   1,J
-  43
-   1,J
-Add 1
-  46
-
-Read,0 - Epilogue,Start
+Read,LoadJournal

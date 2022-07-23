@@ -1,33 +1,18 @@
-unsafe
    1,S
    1,U,J
    1,O
-  32
+  31
 Add 58
  306
    1,J
  188
-
-#1C
    1,S
    1,X
   42
+Repeat 8
    1,L
    9
-   1,L
-   9
-   1,L
-   9
-   1,L
-   9
-   1,L
-   9
-   1,L
-   9
-   1,L
-   9
-   1,L
-   9
+Endrepeat
    1,J
   43
    1,R

@@ -1,10 +1,13 @@
-#We use cheat mode to enable
-#all levels for the All B
-#and All C side tas runs
+#used for All B-Sides and All C-Sides
 
-unsafe
-#lvl_0
+console load 0
+Set,CheatMode,false
+   1
+
+#Start
   61
+
+#lvl_0
    5,L
    1,L,J
    3,L
@@ -17,6 +20,4 @@ unsafe
    1,F,
    1,L,U,D,G
    1,J
-
-#Overworld
  123

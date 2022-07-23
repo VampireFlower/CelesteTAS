@@ -2,7 +2,7 @@
 
 Read,StartFullGameFile
 
-Read,LoadEnableCheatMode
+Read,LoadEnableCheatMode,Start
 
 Read,LoadBCheatMode,SelectB
 
@@ -39,6 +39,16 @@ Read,LoadBCheatMode,Core
 
 Read,8B,Start
 
-#Move to ending screen
   59
    1,J
+ 196
+Read,LoadANoCollects,0,Prologue
+  48
+Add 7
+
+#Epilogue
+   1,S
+   1,X
+  42
+   1,L
+Read,LoadJournal
