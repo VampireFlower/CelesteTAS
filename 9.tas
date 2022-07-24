@@ -1116,36 +1116,39 @@ console load 10
   40
 
 #lvl_e-06
-   8,R,D,X
-  13,G
+  10,R,D,X
+  13,J,G
+   1,R,U,J,G
+   3,U,J,G
+   2,R,U,J,G
+   2,R,G
    1,R,J,G
-  16,R,D,G
-  11,D,G
-   2,G
-   1
-  15,R,Z
-  11
-   4,R
-   1
-   1,R
-   3,R,J,G
-   1,J
-  19,L,U,X
+  13,R,G
+   1,G
+   1,R,G
+   3,U,G
+   1,R,G
+   5,D,G
+   1,G
+   1,D,G
+   8
+  15,U,X
    5,R,C
-  43,R,D,G
+  44,R,D,G
    1,R
   15,L,X
-  11,L
+   5,L
+   6
    4,R
   13,L,D,X
    4,R
   11,L,D,X
    4,R,J
-  12,R,D,X
-   1,R,J,G
-   2,R,K,G
-   3,R,J,G
-  10,R,U,X
+  13,R,D,X
+   2,R,J,G
+   1,R,K,G
+   2,R,J,G
+  11,R,U,X
   22,R,G
    1,L
    6,R
@@ -1154,24 +1157,22 @@ console load 10
   40
 
 #lvl_e-07
-   9,R,D,J
-   5,R
-   5,R,J
+  10,R,D,J
+   8,R
+   1,R,J
    1,R
    1,R,J
-  10,R
-   6,R,D
-   8,D
+   2,R
+  15,R,D
+   6,D
   16,R,Z
   14,R,V
    1,R,J,G
    3,R
-   5,R,K,G
+   6,R,K,G
    1,R
-   3
-   1,R
-   1,J
-   3
+   6
+   2,R
    4,Z
    2,R,J
    3
@@ -4368,7 +4369,7 @@ endrepeat
   15,U,X
   38
 #End_IGT
-ChapterTime: 9:41.825(34225)
+ChapterTime: 9:41.468(34204)
 
 # optional waiting for
 # visuals to play out
