@@ -471,10 +471,12 @@ Read,9,Start,Farewell
   11,R,U,X
   28,L,U
 AnalogMode,Precise
- 119,F,346.27
-   1,F,346.27,0.69
-   1
-  11,L
+ 110,F,346.25648
+   9,F,346.25649
+   1,F,346.25649,0.69
+   9,L
+   2
+   1,L
    1,R
   15,U,X
   12,J,G
@@ -488,24 +490,22 @@ AnalogMode,Precise
    5,R,D,X
    1,R,J,G
    1,R,K,G
-   6,R
-   1,R,K
-   2,R
-   1,R,J
-   3,R
-  13,R,U,X
-   1,R,J,G
-   1,R,K,G
    7,R
-   1,R,J
+   8,R,J
+  10,R,U,X
+   1,R,K,G
+   1,R,J,G
+   7,R
+   1,R,K
   12,R,U,X
    2,R,J,G
    1,R,K,G
    7,R
-   6,R,J
+   1,R,J
+  11,J
+   1,R,J
    1,J
-   2,R,J
-   6,J
+   1,R,J
   18,U,C
    6,R
   15,U,X
@@ -556,32 +556,33 @@ AnalogMode,Precise
    4,R,J
   16,R,U,X
    1,L
-   1,J,G
-   1,R,J
-   8,L,U,X
+   1,K
+   9,L,U,X
    1,L,J,G
    2,L,K,G
    1,L,J,G
-  15,L,K,G
+  14,L,K,G
   24,L,U,X
-   6,L,J
-   6,J
+   5,L,J
+   7,J
    3,K,G
    1,R,K
-   1,K
-   1,J
-  11,R,J
+   1
+   5,J
+   6,R,J
+   1
   10,L,Z
-   9,R,J
-   1,R,K,G
-  12,R,J,G
-   1,R,K,G
-   1,K
-   1,R,K
+  10,R,J
+   9,R,K,G
    3,R
+   1,R,J,G
+   2,J
+   2,R,J
    2
-   1,K
-   7,L,J,G
+   1,R
+   1
+   1,J
+   7,L,K,G
    2,L
   15,U,X
    5,L
@@ -841,7 +842,7 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 10:36.242(37426)
+ChapterTime: 10:36.225(37425)
 
 #Let moon berry sfx play
  100
