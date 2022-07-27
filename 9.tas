@@ -1458,8 +1458,8 @@ console load 10
    1,R,J
    2,R
   15,R,Z
-  57,L
-  51,L,U,Z
+  70,L
+  38,L,U,X
    8,J,G
    1,R,J
    1,L,K,G
@@ -1475,17 +1475,15 @@ console load 10
    1,R
    1,L
    1,R
-  10,L
-   1,R
-   3,L
-   4,G
-   6
+  11,L
+   1
+   2,L
+   1
+   3,R
+   4,L,K,G
    1,J,G
    1,L,K,G
-  26,R,K
-  12,R
-   4,R,D
-   6,R
+  49,R,K
   14,U,X
   12,R,J
   25,U,X
@@ -4365,7 +4363,7 @@ endrepeat
   15,U,X
   38
 #End_IGT
-ChapterTime: 9:41.451(34203)
+ChapterTime: 9:41.434(34202)
 
 # optional waiting for
 # visuals to play out
