@@ -1390,11 +1390,10 @@ console load 10
    7,R,D,X
   13,R,J,G
   15,R,D,J,X
-   3,R,J
-  27,R,K
+   5,R,J
+  25,R,K
   14,R,U,X
    4,K,G
-   1
    5,R,Z
    1,R,J
    6,R
@@ -4367,7 +4366,7 @@ endrepeat
   15,U,X
   38
 #End_IGT
-ChapterTime: 9:41.366(34198)
+ChapterTime: 9:41.349(34197)
 
 # optional waiting for
 # visuals to play out

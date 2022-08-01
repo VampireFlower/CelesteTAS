@@ -805,9 +805,9 @@ Endrepeat
   13,R,D
   20,R,U,X
    9
-  10,D
-   1
-   2,R,D
+  11,D
+   1,R
+   1,R,D
   14,R,Z
    3,R,J
    9,R,D,X
@@ -856,14 +856,13 @@ Endrepeat
    2,R,D
    2,R,D,J
   14,R,D,X
-   1,R,J
-   2,J
+   2,R,J
   14,R,Z
-   1,R,J
-   1,J
+   2,R,J
    1,R
-   1,J
-   8,R
+   1,R,J
+   7,R
+   1
   15,R,Z
   15,D,X
    1,R
@@ -874,8 +873,7 @@ Endrepeat
   11,R,D
    1,D
    7,R,D
-   3,D
-   1,R,D
+   4,D
   15,R,X
    6,L
    1,D
@@ -969,68 +967,74 @@ Endrepeat
   26,R
   16,U,X
   27,R,U,C
-  36,R,U,X
-  15,D,C
-   1,R
-   7,L,D
-   1
-   2,L,D
-   3,R,D
-  20,R,Z
-  14,L,U,C
-   1,J
-   9,U,X
-   6,R,J
-   1,R
-  10
-   1,L,K
-  12,R
-  21,D
-   7,R,D
-   1,D
+  15,R,U,X
+   2,R
+   3
+   7,R
+   2
+   2,R
+  12,L,D
    1,R,D
-   1,D
-   3,R,D
+   8,L,D
+  11,R,D
+   1,R,J
+   6,R
+   7,R,J
+  14,U,Z
+   9,J
+   4
+   5,R
+   2
+   1,L,K
+   7,R
+   8,D
+   2,R,D
+  16,D
+  13,R,D
   11,R,Z
   15,U,C
-  14,R,Z
+  13,R,Z
    6,R,J
-   5,R
+   2,R
    1,R,J
+   2,R
+   2,R,J
    9,R
-  24,R,U,X
-   6,L,Z
+  16,R,U,X
+   1
+   5,R
+   2
+   6,L,D,X
    1,R,J
    6,R
    6,R,J
   17,R,D,X
-   7,R,J
+   7,R,D,J
   15,R,D,X
    6,R,J
-   6,R,K,G
-   1,K
+   7,R,K,G
   14,R,U,X
    2,R,J,G
    1,K,G
-  24,R,K,G
+  25,R,K,G
   15,R
-   1,R,J
-   2,R
+   2,R,J
    6,R,D,X
    5,R,J,G
    4,R
   40
 
 #lvl_end
-   3,R,J
-   1,J
-   6,R
+   4,R,J
    1
-   5,R
+   1,R
+   1
+   3,R
+   6,R,D
    2,R,J
   19,R,D,J,X
    5,R,J
   28,R,K
   14,R,X
  139,L,D
-ChapterTime: 2:02.740(7220)
+ChapterTime: 2:02.621(7213)
