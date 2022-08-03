@@ -26,7 +26,9 @@ Read,LoadAFromB
 
 Read,3A,Start,lvl_04-d
 
-Read,3HC,lvl_04-d (0),Return
+Read,3HC,lvl_04-d (0),lvl_02-c (0)
+
+Read,3SHC,lvl_02-c (0),Return
 
 Read,LoadBFromA
 
