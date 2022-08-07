@@ -68,20 +68,23 @@ read,3SH,lvl_s0,lvl_04-c (0)
    1,L,D,J
   13,L,D,X
    1,L,J
-   3,L
+   7,L
    1,L,J
-   3,L
-  13,L,J
-  16,L,D,X
+  12,L,D,X
    1,L,J
-  12,L,U,X
-   3,L,K,G
-   4,L
+  12,L
+#+2f Berry
+  11,L,D,J
+   2,L,K,G
+   2,L
+   9,L,D,X
   40
 
 #lvl_01-c
-   4,L
-   6,L,J
+   4,L,D,X
+   3,L,J
+   2,L
+   2,L,J
   14,L,Z
    3,L,J
    1,L
@@ -153,4 +156,4 @@ Read,3HC,lvl_04-d (1),lvl_00-d
 
 #lvl_00-d
 read,3SH,lvl_00-d
-ChapterTime: 4:56.786(17458)
+ChapterTime: 4:56.820(17460)

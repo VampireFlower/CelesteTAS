@@ -28,7 +28,53 @@ Read,LoadAFromB
 
 Read,3HC,Start,lvl_02-c (0)
 
-Read,3SHC,lvl_02-c (0),Return
+#lvl_02-c
+   1,L,J
+  13,L,D,X
+   1,L,J
+   2,L,K,G
+   1,K
+   9,L,K
+  13,L,D,X
+   1,L,J
+   5,L
+   1
+   1,L
+   1,L,D,J
+  13,L,D,X
+   1,L,J
+   5,L
+   1
+   1,L
+   1,L,D,J
+  13,L,D,X
+   1,L,J
+   3,L
+   1,L,J
+   3,L
+  13,L,J
+  16,L,D,X
+   1,L,J
+  12,L,U,X
+   3,L,K,G
+   4,L
+  40
+
+#lvl_01-c
+   4,L
+   6,L,J
+  14,L,Z
+   3,L,J
+   1,L
+   1,L,J
+  16,L
+  15,L,Z
+  12,L,D
+   2,L,J
+  14,U,Z
+   1,J
+ 257
+   1,J
 
 Read,LoadBFromA
 
