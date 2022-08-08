@@ -649,7 +649,7 @@ Read,7S,lvl_a-00,lvl_a-04b
 #lvl_c-00
   76
 #1000M
-#+1f berry
+#+2f berry
    1,R
   11,R,Z
    1,R,J
@@ -1722,11 +1722,15 @@ Read,7S,lvl_a-00,lvl_a-04b
    1,R,J
   15,R
   11,D,X
-  41,R
-  18,R,U,X
-  16,U,C
+  41
+  15,R,U,X
+   1
+   1,R
+   1,J,G
+   1,R
+  15,U,X
   13,R,J
-   6,L,J
+   5,L,J
   37,L
   15,L,X
   18,L,D,C
@@ -2494,4 +2498,4 @@ read,7HC,lvl_g-00b,Exit
   15,R,J
    2,K,G
 read,7S,7SHC5
-FileTime: 9:57.346(35138)
+FileTime: 9:57.278(35134)
