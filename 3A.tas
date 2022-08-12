@@ -986,10 +986,10 @@ endrepeat
   34
   12,R,J
   15,R,U,X
-   2,R,J,G
-   4,R
-   1
-   2,R
+   1,R,J,G
+   1,L,J
+   1,L
+   6,R
   11,R,D,X
   40
 
@@ -1471,9 +1471,8 @@ endrepeat
    2,R,D,J
    9,R,U,X
    1,R,J,G
-   1,R
    2
-   6,R
+   7,R
    4,R,J
    5,R
    4,R,J
@@ -1489,22 +1488,23 @@ endrepeat
   14,R,J
   10,R,D,X
    1,R,J,G
-   9,R
-   7,R,D,J
-   7,R,D,X
+  10,R
+   3,R,J
+   4,R
+   6,R,D,X
   40
 
 #lvl_roof01
    9,R,D,X
   14,R,U,C
   12,R,J,G
-   5,R
-   4,R,J
-  11,R
-  31,R,D
-   7,R,Z
+   6,R
+   3,R,J
+  42,R,D
+   5,R,Z
    1,R,J
-   3,R
+   2,R
+   2,R,J
   40
 
 #lvl_roof02
@@ -1512,15 +1512,11 @@ endrepeat
    1,R,J
   14,R,D,X
    1,R,J
-   3,R
-   1,R,K
-   3,R
-   5,R,J
-   1,R,K,G
+   7,R
+   4,R,J
    1,R
-   1
-   1,J,G
-   9,R,J
+   3,R,K,G
+  10,R,J,G
    4,R
   17,R,D,X
   16,R,J
@@ -1739,4 +1735,4 @@ endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 3:14.786(11458)
+ChapterTime: 3:14.769(11457)
