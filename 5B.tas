@@ -280,33 +280,44 @@ endrepeat
 #lvl_b-08
   11
   14,R,D,X
-   7,L,J
-  11
-  33,L
-  12,R,D
-  14,R
-   2,R,D
-   8,G
-   2,D,G
-   1,J,G
    5,L,J
-   2,L
-   5,R
-   1,J
-   9,K,G
-   2,L,K
-   2,K
-   3,L,K
-  26,L,U,X
-   1,L,J,G
-   2,L
-   7,L,J,G
+  13
+  10,G
+   1,D,G
+   1,G
+   1,D,G
+   1,G
+   2,D,G
+   1
+   1,G
+   3,L,J,G
+   3
+   4,L
+  42,L,D
+   2,D
+   2,L,D
+   2,D
    1,L
+   2,L,D
+   1
+   1,L,D
+   1,L,J
+   1,R,K,G
+   4,L,K
+   1,K
+   9,L,K
+  15,L,U,X
+  10,L
+   1,K,G
+   1,R,K
+   2,L,J,G
+   6,L,K,G
    1,L,J,G
    7,L
-   5,L,Z
+   4,Z
    1,L,J
    6,L
+   1
    3,L,J
   10,L,X
    1,R,J
@@ -847,4 +858,4 @@ endrepeat
    6,R
   14,R,U,X
  135
-ChapterTime: 1:42.102(6006)
+ChapterTime: 1:42.000(6000)
