@@ -825,19 +825,19 @@ endrepeat
    7,J,G
    2,R
    3
-  17,R,G
+  14,R,G
    1,R,J,G
-   3,R,G
+   6,R,G
    1,R
   11,R,Z
-   1,J,G
-   6,R
-   1
-   5,L
-   4,Z
+   1,R,J,G
+   5,R
+   1,J
+   6,L
+   5,L,Z
    1,R,J
-   6,R,K,G
-   4,R
+   7,R,K,G
+   2,R
   40
 
 #lvl_d-05
@@ -845,17 +845,19 @@ endrepeat
    1,R,J
    5,R,D,X
   13,R,G
-  18,R,J,G
+  12,R,J,G
+   5,R,G
+   1,R,J,G
   29,R,G
-   8,R,K,G
-   8,R,G
-   2,R,K,G
-   7,R,G
+   7,R,J,G
+   5,R,G
+   1,R,J,G
+  10,R,G
    1,R,J,G
    4,R,G
    5,R,J,G
    1,L
-   6,R
+   5,R
   14,R,U,X
- 135
-ChapterTime: 1:42.000(6000)
+ 135,R,D
+ChapterTime: 1:41.949(5997)
