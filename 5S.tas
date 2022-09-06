@@ -2477,9 +2477,8 @@ console load 5
    2,L
    1,R
    8,R,J
-  14,U,X
-   1,L
-   4,K,G
+  15,U,X
+   4,L,K,G
    1
    1,L,J,G
    7,L
@@ -2527,6 +2526,7 @@ console load 5
    9,L,J
   25,R,X
    3,J
+Repeat 3
    1,K,G
    1,L,K
    1,J
@@ -2535,22 +2535,7 @@ console load 5
    1,R,J
    1,K
    2,J
-   1,K,G
-   1,L,K
-   1,J
-   2,K
-   1,J,G
-   1,R,J
-   1,K
-   2,J
-   1,K,G
-   1,L,K
-   1,J
-   2,K
-   1,J,G
-   1,R,J
-   1,K
-   2,J
+Endrepeat
    1,R,K,G
    1,J
    2,K
