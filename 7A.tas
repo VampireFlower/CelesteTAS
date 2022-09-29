@@ -1790,19 +1790,16 @@ console load 7
 #CP-30
   76
 #3000M
+   4,L,D,J
+   2,J
+   2,L,J
+   1
   15,R,U,X
   14,R,U,C
-   1,R,J,G
-   4,J
-   2,L,J
-   1,L
-   1,R,J,G
-   1,R,K,G
-   1,R
-   3
-   3,R
-   1,R,J
-   3,J
+   1,J,G
+   6,R
+   1
+   2,J
   15,U,X
   14,U,C
   19,L,J
@@ -1810,34 +1807,37 @@ console load 7
    5,R
    1
    1,R
-  13,U,X
+  14,U,X
   20,L,J
   14,U,X
   17,L,J
   18,U,X
-  14,U,C
+  15,U,C
    1,J
   14,U,X
-  16,L,J
+   9,L,J
+   2,R,J
+   3,J
+   1,L,J
    1,L,K,G
    7,L
 
 #CP-29
-   2,J
   15,U,X
-  14,R,J
-   4,L,J
-  15,U,X
-  18,L,J
-   1,K,G
-   8,R,J
+  12,R,J
+   2,L,J
+   4,J
+  17,U,X
+  10,L,J
+   3,R,J
+   5,J
+   6,R,K
   15,U,X
   18,U,C
   14,U,X
    1,J
   15,U,X
-   1
-   2,L
+   3,R
   26,L,J
   14,U,Z
    1,J
@@ -2714,4 +2714,4 @@ AnalogMode,Ignore
    1,S
    1,D,J
   18
-ChapterTime: 6:41.047(23591)
+ChapterTime: 6:40.979(23587)
