@@ -117,17 +117,20 @@ console load 5
   13,R,J
   12,R,D,X
   10,R,J
-   8,R
+   4,R
+   1,R,J
+   1,R
+   2,R,J
   14,R,Z
-   1,R,J
-   8,R,D,X
-   1,R,J
+   3,R,J
+   3,R
   40
 
 #lvl_a-12
-   9,R,J
-  29,R,X
-  12,R,U,C
+   3,R,J
+  10,R,U,Z
+  30,R,X
+  11,R,U,C
    1,L,J,G
    9,R
    1,R,J
@@ -343,10 +346,10 @@ console load 5
    4,Z
    2,R,J
    4
-   1,J
-   1
-   1,J
-   2
+   1,R,J
+   1,R
+   1,R,J
+   2,R
    6,R,Z
    1,R,J
    2,R

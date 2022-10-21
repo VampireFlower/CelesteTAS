@@ -393,23 +393,24 @@ console load 1
    7,L,J
    6,L
   15,R,D,X
-   2,D
-   2,L,D
-   1,L
+   3,L,D
+   2,L
   35,U,X
    1,R,J,G
-  27,R
-  10
-  29,R,D,X
+   1,R,K,G
+   1,R,J,G
+   9,R,K,G
+  12,R,D
+  34,D
+   4,R,Z
    1,R,J
-   7
-  32,R
+  41,R
   60
    1,J
   30
-   3,R
-  14,R,J
-  13,R,Z
+   2,R
+  12,R,J
+  14,R,Z
    2,R,J
   19,R,D,X
   19,R,D,J
@@ -942,4 +943,4 @@ console load 1
    1,S
    1,D,J
   18
-ChapterTime: 1:49.174(6422)
+ChapterTime: 1:49.140(6420)

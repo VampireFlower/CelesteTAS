@@ -300,10 +300,10 @@ console hard 1
   25,R,D
   14,R,Z
    1,R,J,G
-   5,R
-   1
+   6,R
    2,R,J
-   4,R
+   1
+   3,R
    5,R,J,G
   13,R
    1,R,D,J
