@@ -1499,17 +1499,14 @@ console load 7
    2,R,D,K
   15,R,D,X
   15,R,D,C
-   4,R
-   2,R,J
-   2
-  12,R,U,Z
-   1,L,J,G
+   3,R,D
+   7,R,J
+  10,R,U,Z
+   1,L,K,G
    9,R,J
   14,R,U,X
    1,R,J,G
-   5,R
-   2,R,J
-   9,R
+  15,R
   15,D,X
    1,R,D
   14,R,D,C
@@ -2711,4 +2708,4 @@ AnalogMode,Ignore
    1,S
    1,D,J
   18
-ChapterTime: 6:40.775(23575)
+ChapterTime: 6:40.758(23574)
