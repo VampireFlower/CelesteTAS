@@ -191,16 +191,14 @@ console load 7
   40
 
 #lvl_a-06
-   1,R,D
+   1,R
    1,R,J
   14,R,D,X
    8,R,J
-  41
-   2,R
+  43,R
   19,R,X
   17,R,U,C
-  41
-   2,R
+  43,R
   10,R,U,X
   19,L
   15,L,X
@@ -2377,27 +2375,37 @@ console load 7
   18,L,D
    1,L
   10,L,D,X
-  18,L,J
+  17,L,J
    1,L
-   2
    1,L,J
+   1
+   1,J
+   1,L
   15,U,X
    2,L
   19,R,U,C
   25,L,U,Z
-   1
   18,L,U,V
-   1
   15,L,U,C
+   8,U,X
+  32,L,J
+   1,L,D
+   1,L
+   1,L,D
+   1,L
    1
-  13,U,X
-  10,L,J
-  46,L
-  11,J
+  18,L
+   1
+   2,L
+   1
+   7,J
+   1,L,J
+   3,J
    2,L,J
-   2
-   2,R
    1
+   1,L
+   1
+   2,L
   16,R,U,X
   26,R,U,C
 
@@ -2729,4 +2737,4 @@ AnalogMode,Ignore
    1,S
    1,D,J
   18
-ChapterTime: 6:40.554(23562)
+ChapterTime: 6:40.469(23557)
