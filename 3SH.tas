@@ -675,44 +675,53 @@ console load 3
    1,R,J
   10,J
   16,U,X
-  18,L,J
-   1,K,G
+  11,L,J
+   6,J
+   1,L,J
    1,J
-  10,K,G
-   2,R,K
+  11,R,K
+   1,R
+   1,J,G
+   3,R
+   1
+   1,R
+   1
+   1,R
+   1,L
+   3
+   4,Z
+   1,R,J
+   2,R,K,G
    7,R
-   2,L,J
-  11,R,Z
-   2,R,J
-   2,J
-  15,R,D,X
-   1,R,D,J
-   1,R,K,G
-   4,K
-   5,R,K
-   5,R,J,G
+   3,R,D,J
+   1,R
   15,R,D,X
    1,R,J
+   1,R,K,G
+   3,K
+   5,R,K
+   6,R,J,G
+  15,R,D,X
    2,R
   40
 
 #lvl_06-c (1)
-   1
-  15,R,D
+   4,R,D
    4,R
-  13,R,U,X
-   1,R,J,G
-  22,R,D
-   5,R
-   1
-   1,L,J
+   1,R,D
    4,R,J
-  16,R,D,X
-  15,D,C
+  10,R
+   4,R,J,G
+   2,R
+  15,R,D,X
+   1
+  12,R
+   1,R,J
+   2,R
+  15,D,X
    1,R
-   2
+  15,D,C
    1,L
-   2,L,D
    6,D,X
   40
 
@@ -2492,4 +2501,4 @@ console load 3
    1,S
    1,D,J
   18
-ChapterTime: 4:45.702(16806)
+ChapterTime: 4:45.566(16798)
