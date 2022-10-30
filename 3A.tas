@@ -484,8 +484,7 @@ endrepeat
   40
 
 #lvl_09-b (0)
-   2,R,U,Z
-   1,L
+   3,L
    6,J,G
   13,U,X
   13,R,J
@@ -511,29 +510,21 @@ endrepeat
    7,L
    5,L,Z
    1,R,J
-   7,R,K,G
-   7,R
-   3
-   1,R
-   1
-  15,D,X
-   1,R,D
-   3,D
-   1,G
-   1,R,J,G
-   1
+   6,R,K,G
    5,R
-   6
-   2,D
-   6,R,D
-   1,D
-   1,R,D
+   2,R,K
+   6,R
+  15,D,X
+   1
+   1,G
+   2
   15,R,D,X
-   6,R,D
-   2,R
-   6,D
-   3,R,D
-   2,R
+  10,D
+  15,R,D,X
+   2,L,D
+  11,D
+   1,R,D
+   4,R
    4,R,Z
    1,R,J
    6,R
@@ -541,30 +532,29 @@ endrepeat
    2,R
    1,R,J
    5,R
-  16,D
-   4,L,D
-   1,D
-   1,L,D
+  19,D
   13,R,D,X
    1,R,J
-   1,R
+   2,R
   11,R,U,Z
-   1,J
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-   6,R
-   1,J
-   9
-  14,R,D,X
-   6,R,J
-   1,L,J
-   4,K,G
+   2,K
    1,R,K
+   1,R,J,G
+   1,R,K,G
+   5,R
+   1,R,K
+   2,R
+   7
+  14,R,D,X
+   5,R,J
+   2,R
+   1,R,J
+   1,L,K,G
+   4,R,K
   13,U,X
-  13,R,J
-   2,L,J
-   1,K
+   9,R,J
+   6,L,J
+   1,L,K
    7,L
   10,L,D,X
    3,L,J
@@ -577,12 +567,15 @@ endrepeat
   15,U,X
    3,L,J
    1,L,K,G
-  10,L
-   1,L,J
-  19,L,D,X
    1,L
-   1,D
-   1,X
+   1
+   7,L
+   2
+   1,L,J
+  16,L,D,X
+   5
+   2,D
+   1,N
    1,S
    1,D,J
   34
@@ -601,8 +594,7 @@ endrepeat
    2,R
    3,R,D
    1,R,J
-  15,R,D,X
-   1,R,D
+  16,R,D,X
    2,L,D
    3,L
    1,L,D
@@ -1382,46 +1374,52 @@ endrepeat
   40
 
 #lvl_02-d
-   4,L,U,X
-   1,R,J,G
-   9,L,J
+   4,R
+   8,J,G
   14,L,Z
    4,L,J
-   1,L
-   1,L,J
    2,L
-  14,L,Z
-   4,L,J
-   6,L
-   1,L,J
-  10,L,D
+   2,L,J
    3,L
-   6,L,Z
-   1,L,J,G
+  14,L,Z
+   9,L,J
+   1,L
+  17,L,D,X
+   2,K,G
+   6,L
+   1,K
+   5
+   1,L
+   4
    2,L
-  17
   10,L,Z
-   3,L,J
-   8,L
+   2,L,J
+   1,L
+   2,L,J
+   6,L
    2,L,J
   15,L,Z
    5
    1,R
-  12,L,D
+   6,L,D
+   2,L
+   2,L
+   2,L,D
+   1
   10,L,D,J
-   1,J
+   1,L
    1,R,K,G
-   2,R,J,G
-   1,L,J
+   1
+   1,R,J,G
+   2,L,J
    1,J
    1,L
-   1
   15,U,X
    1,L
    3,L,J
   26,L,D
-   1,R,D
    7,D
+   1,R,D
    4,Z
    1,L,J
    6,L
@@ -1513,11 +1511,9 @@ endrepeat
   14,R,D,X
    1,R,J
    7,R
-   4,R,J
-   1,R
-   3,R,K,G
-  10,R,J,G
-   4,R
+   5,R,J
+   1,R,K,G
+  16,R,J,G
   17,R,D,X
   16,R,J
   14,R,D,X
@@ -1735,4 +1731,4 @@ endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 3:14.769(11457)
+ChapterTime: 3:14.752(11456)
