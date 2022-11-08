@@ -114,11 +114,10 @@ Read,9,Start,Farewell
    2,R,G
   12,R,K,G
   37,R,D,G
-  49,R,U,G
-   4,R
+  52,R,U,G
   26
-  28,R,G
-   1,R,D
+  27,R,G
+   2,R,D
    6,R,Z
    1,R,J
    7,R
@@ -213,8 +212,7 @@ endrepeat
    2,R
    2,R,K
    1,R
-   5,R,D,X
-   1
+   6,R,D,X
    1,L,K,G
    6,K
    4,R,K
@@ -961,7 +959,7 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 10:35.630(37390)
+ChapterTime: 10:35.613(37389)
 
 #Let moon berry sfx play
  100
