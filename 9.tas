@@ -4058,15 +4058,9 @@ endrepeat
   23,L,J
    6,J
    1,L,K,G
-   2,R
-   1,L,J,G
-   8,L
-   5,L,J
-   4,L
-   1,L,K,G
-   6,L,J,G
-   3,L
-  50,R,D,X
+   2,R,K
+   7,L
+   7,L,J
   10,L,Z
    1,L,J
    4,K,G
