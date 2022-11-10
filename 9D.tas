@@ -2882,7 +2882,7 @@ AnalogMode,Precise
   44,R,U
   12,F,90
 Read,9,Stubbornness,End_IGT
-ChapterTime: 10:10.470(35910)
+ChapterTime: 10:10.453(35909)
 
 # Optional waiting for
 # visuals to play out

@@ -133,13 +133,16 @@ Read,9,Start,Farewell
   23,L,J
    6,J
    1,L,K,G
-   2,R,K
+   1,R,K
+   1
+   1,L,J,G
+   1,L
+   1
    7,L
    7,L,J
-  10,L,Z
-   1,L,J
-   4,K,G
-   2,R,K
+   1,L,K,G
+   5,L,J,G
+   4,L
   14,R,D,X
    1,L,J
    5,L,D,X
@@ -194,7 +197,7 @@ Read,9,Start,Farewell
 
 #lvl_j-16
    2,R,D
-  19,L,D
+  19
    9,L
   23,G
    1,D
@@ -598,7 +601,7 @@ Read,9,Start,Farewell
    1,S
    1,D,J
   18
-ChapterTime: 10:06.815(35695)
+ChapterTime: 10:06.798(35694)
 
 #Let moon berry sfx play
  100
