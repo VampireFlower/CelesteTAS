@@ -4149,7 +4149,7 @@ endrepeat
   32,R,D,J,G,AL
    3,R,J,G
   31,R,D,J,G
-  11,D,J,G
+  11,D,J,G,AR
    2,J,G
    1,R,J,G
    1,J,G
@@ -4183,31 +4183,30 @@ endrepeat
    1,S
    9,X
    2,R,J
-  10,R,D,Z
- 135,R,U,G
-   4,U,G
-   2,R,U,G
-   1,U,G
-   3,R,U,G
+  12,R,D,Z
+ 124,R,U,G
+  13,R,G
+   1,G
    1,L
+   9,R,D,V
+  14,R,G
+   7,U,G
+   3,L
   16,R,D,Z
    1,S
    9,X
-   3,R,K
-  17,R,D,V
-   1,R
-   1,S
-   9,X
    6,R,J
-  14,R,J,V
-  24,R,J
-  10,R
-  16,R,D,X
-  14,R,J
-  23,R,D,X
+  14,R,J,Z
+  25,R,J
+   7,R,D,Z
+   8,X
+   7,R
+   9,R,J
+   3,R
+  22,R,D,X
    1,R,J
    9,R,D,J,X
-  27,R,K
+  24,R,K
   42
    9,R
   55,R
@@ -4223,7 +4222,7 @@ endrepeat
   15,U,X
   38
 #End_IGT
-ChapterTime: 9:13.367(32551)
+ChapterTime: 9:13.163(32539)
 
 # optional waiting for
 # visuals to play out
