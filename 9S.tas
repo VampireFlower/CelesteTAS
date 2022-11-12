@@ -154,7 +154,7 @@ Read,9,Start,Farewell
    6,L,D,X
   13,G
   13,L,K,G
-   1,R,K
+   1,R
   15,L,D,X
   18,L
    6,L,D
@@ -182,7 +182,7 @@ Read,9,Start,Farewell
    1,R
    1,R,J
    2,R
-   3,R,K
+   3,R,D,K
    6,R,D,X
    1,L,J,G
   10,R,J
@@ -191,177 +191,170 @@ Read,9,Start,Farewell
   21,R,K
   14,R,U,X
    1,R,K,G
-  14,R,D
-   9,D
+  18,R
+   3,D
+   2,R,D
   40
 
 #lvl_j-16
-   2,R,D
-  19
-   9,L
-  23,G
-   1,D
-  15,D,X
-   5,R,D
-   1,R,D,O
-   4,R,D
-   1
-   1,D,O
-  50
-   1,O
-  17
-   1,N
-   2
+  21,R,D
+  17,R
+   7,D,X
+  35,D,G
+  17,L,D,G
+   1,L,D,G,N
+   3,L,D
    1,S
    1,D,J
   34
-   1
-   5,K
-   7,R,K
-   1,R
-   1
   14,L,Z
-   1,R,J
-   5,R,D,J,X
-  13,G,AL
-   1,S
-   9,X
-  70,R,U,J,G,AL
-  21,R,D,J,G,AL
-  28,R,J,AL
-  15,R,D,J,Z
-  16,R,U,J,G,AL
-   9,R,J,G,AL
-  21,R,U,G,AL
-   5,R,D,G,AL
-   1,R,G,AL
-   7,R
-  24,R,U,Z
-  57,R,D,G
-   9,D,G
-   1,R,D,G
-   2,D,G
-   1,G
-   1,D,G
-   2,G
-   1,D,G
-  84,R,U,G,AL
-   7,R,AL
-  14,R,U,Z
-  60,R,U,G,AL
-   6,R,AL
-   1,S
-   9,X
-   3,R,J,G
-   2,L,J
-   6,R,J
-   2,J
-  10,R,J
-   8,R
-   3,R
-  11,L,D,Z
-   1,S
-   9,X
-   5,R,K
-   7,R,U,K,Z
-  65,R,U,K,G,AL
-   1,L,K
    1,R,K
-  42,R,K,AL
-  92,R,U,K,G,AL
+   6,R,D,X
+  13,G
+  52,R,U,J,G
+   2,R,D,J,G
+   6,D,J,G
+   7,U,J,G
+   4,J
+   3,R,J
+  14,R,U,J,Z
+  73,R,D,J,G,AL
+   1,R,J,G
+  32,R,U,J,G
+   1,R,J
+  24,R,U,J,Z
+  32,R,D,J,G,AL
+   3,R,J,G
+  31,R,D,J,G,AL
+  11,D,J,G
+   2,J,G
+   1,R,J,G
+   1,J,G
+   9,R,U,J,G
+   7,R,J
+  14,R,J,Z
+  98,R,U,J,G
+   3,R,D,J,G
+  30,R,G
+   4,G
+   1,L
+   4,R
+  14,L,U,Z
+   1,S
+   9,X
+   2,R,J
+   9,R,U,J,Z
+  63,R,U,J,G
+   1,L,J
+  42,R,J
+  60,R,U,J,G
+   2,R,D,J,G
+   1,R,U,J,G
+   4,R,D,J,G
+  16,R,U,J,G
+   5,U,J,G
    1,R
-  22,L,U,Z
+  20,L,U,Z
+   3
+   1,L
    1,S
    9,X
-   5,L,J,G
-   1,S
-   9,X
-   3,R,K
-  12,R,D,K,Z
-  40,R,U,K,G
-  81,U,G
-  17,D
-  14,U,Z
- 120,R,U,G
-  58,U,G
-  10,R,U,G
-  11,R,D
-  11,U,Z
- 135,R,U,G
-   1,D
-   6,R,D
-  15,L
-  14,U,Z
-  71,R,U,G
-  15,R,D,G
+   5,R,J
+  10,R,D,J,Z
+  64,R,U,J,G
+   1,U,J,G
+   1,R,J,G
+   6,U,J,G
+   7,J
+  14,U,J,Z
+ 224,R,U,J,G
+   1,R,J,G
+   1,R,U,J,G
+   1,R,J,G
+   3,R,U,J,G
+   4,R,D,J
+   1,J
+   5,R,J
+  11,U,J,Z
+ 132,R,U,J,G
+   1,U,J,G
+   3,R,U,J,G
+   1,U,J,G
+   1,R,D,J
+   1,J
+   6,R,J
+   1,J
+  12,U,J,Z
+  70,R,U,J,G
+  10,R,D,J,G
    1,S
    9,O
-   1,J
-  33,J,G
-  23,R,U,J,G
-   3,R,G
-  26
-   1,R,U,G
- 118,F,46.3
-   2,G
- 128,R,U,G
-   1,R
-   3
-   5,U,X
+   1,K
+   5,L,K,G
+   3,R,K,G
+   4,R,K
+   3,K
+  14,R,U,Z
+  16,R,G
+  27,R,U
+  70,F,51.41
+  45,O,F,51.41
+   4,F,0
+   1,F,0,0.69
+ 110,R,U,G
+   2,R
+   7,U,Z
+  10,R,J
+   2,R
+  13,G
+  14,R,G
+   9,G
+   1,D
+   7
+  16,U,X
+  13,G
+   8,R,G
+   5,G
+   1,D
+   6,R
    1,R,J
-  11,L,J
-  11,L,J,G
-   4,L,U,J,G
-  20,R,U,J,G
-   2,U,J,G
-   1,D
-   7
+   3,R
+  10,U,X
+  21,G
+   4,L,G
+  16,L,J,G
+   5,L,J
   16,U,X
-  12,U,G
-  10,R,U,G
-   9,U,G
-   1,D
-   9,R
-  11,U,X
-  12,U,G
-  15,R,U,G
-  13,L,U,J,G
-   1,D
-   8
+  15,G
+  13,L,G
+   7,R,J,G
+   9,R,J
   12,U,X
-  12,U,G
-  20,R,U,G
-   2,U,G
-   7
-  14,U,X
-  20,U,G
-  24,R,U,G
-   7,R
+  34,R,G
+   7,R,J
   14,R,U,X
-  12,R,U,G
-  14,U,G
-   1,D
-   7
-  16,U,X
-  12,U,G
-  16,R,U,G
-  11,U,G
-   1,D
-   7
+  21,R,G
+   8,R,J
+  17,U,X
+  38,G
+   4,D,J
+   3
+   1,J
   13,U,X
-  12,U,G
-  16,R,U,G
-   9,U,G
-   1,D
-   7
-  16,U,X
-  29,U,G
-   1,D
+  19,R,G
+   5,G
+   5,R,G
+   5,R
+   9,U,X
+   1,R,J
+   7,R
+   1
+  45,L,U,J,G
+   1,L,J
   15,U,X
-  15,U,C
-   3,L,J,G
-   8,L
-  14,U,X
+   6,L
+  12,K,G
+  15,U,X
    9,L,J
    1,L,K,G
    1,J
@@ -601,7 +594,7 @@ Read,9,Start,Farewell
    1,S
    1,D,J
   18
-ChapterTime: 10:06.798(35694)
+ChapterTime: 10:03.058(35474)
 
 #Let moon berry sfx play
  100
