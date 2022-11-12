@@ -336,27 +336,30 @@ Read,9,Start,Farewell
   21,R,G
    8,R,J
   17,U,X
-  38,G
+  35,G
+   3,R,G
    4,D,J
    3
    1,J
   13,U,X
   19,R,G
-   5,G
-   5,R,G
-   5,R
-   9,U,X
-   1,R,J
-   7,R
+   3,G
+   2,R,G
+   3,G
+   1,R
+  13,U,X
+  25,R,K
+  19,U,X
+  15,U,C
+   3,L
+   8,L,K,G
    1
-  45,L,U,J,G
-   1,L,J
-  15,U,X
+   1,L,J,G
+   1,R
    6,L
-  12,K,G
-  15,U,X
-   9,L,J
-   1,L,K,G
+  14,U,X
+   8,L,J
+   2,L,K,G
    1,J
   40
 
@@ -594,7 +597,7 @@ Read,9,Start,Farewell
    1,S
    1,D,J
   18
-ChapterTime: 10:03.058(35474)
+ChapterTime: 10:02.803(35459)
 
 #Let moon berry sfx play
  100
