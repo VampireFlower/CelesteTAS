@@ -4053,22 +4053,19 @@ endrepeat
   15,R,D,X
    6,R
    6
-   2,R
-  11,R,J
-   2,J
-  12,L,D,X
+   5,D,X
   12
-   3,L
-   4,Z
-  24,L,J
-   5,J
-   1,L,K,G
-   1,R,K
-   1,L,J,G
-  10,L
+   1,L,J
+   5,L
+   3,L,J
+   1,L
+  34,L,X
+   1,J
    6,L,J
-   1,L,K,G
-   9,L,J,G
+  14,L,U,X
+  10,L,K,G
+   7,L
+   7,K
   14,R,D,X
    1,L,J
    5,L,D,X
@@ -4225,7 +4222,7 @@ endrepeat
   15,U,X
   38
 #End_IGT
-ChapterTime: 9:13.010(32530)
+ChapterTime: 9:12.993(32529)
 
 # optional waiting for
 # visuals to play out
