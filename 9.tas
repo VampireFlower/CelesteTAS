@@ -3969,21 +3969,22 @@ endrepeat
    1
    4,K
   14,R,U,X
-  58,L,D,G
-  10,R,D,G
-   1,G
-   3,R,G
-   2,D,G
-  11,R
-   8,R,D
-  16,R
+  44,L,D,G
+   7,R,D,G
+   1,D,G
+  14,R,D,G
+   1,R
+  19,R,D
+   7,R
+   1,R,D
+   8,R
+   2,R,D
   15,R,U,Z
    1,L
   10
    1,G
    1,J,G
-   1,L,K,G
-   8,K
+   9,L,K,G
    1,R,K
    1,L,K
    4,J,G
@@ -3996,45 +3997,51 @@ endrepeat
    1,R
   11,U,X
   78,R,U,J,G
-  54,R,D,G
-   1,G
+  52,R,D,G
    1,D,G
+   1,R,D,G
+   2,D,G
    1
    1,L
-   4,X
+   1
+   5,L,Z
    1,L,J
-   5,L
-   4,L,J
-   3,L
-  11,D
-   2
    1,L
-   2
+   3,R
+   1,R,J
+   8,R
+   1,L
+   5,R
+   1,D
+   1
    5,R,Z
-   1,R,K
-   1,R,J,G
+   1,R,J
+   1,R,K,G
    7,R
-   2,R,K
-  10,R,X
+   7,R,K
+   2,R
+   5,R,D,X
    1,R,J,G
    1,R,K,G
+   6,R
+   1,S
+   1,X
+   9,J
+   1,R,J
    1,R
-   2,R,J,G
-   1,R
-   2,R,K,G
-   7,R
-   6,R,J
+   7,R,J
    5,R,D,X
-  14,R,G
-  11,R,U,J,G
+  14,R,U,G
+  10,R,U,J,G
   40
 
 #lvl_j-15
    7,R,G
-   2,R,G
-  12,R,K,G
+   1,R,D,G
+   1,R,G
+  11,R,K,G
   37,R,D,G
-  52,R,U,G
+  47,R,U,G
   26
   27,R,G
    2,R,D
@@ -4048,24 +4055,20 @@ endrepeat
    6
    2,R
   11,R,J
-   2
+   2,J
   12,L,D,X
   12
    3,L
    4,Z
-  23,L,J
-   6,J
+  24,L,J
+   5,J
    1,L,K,G
    1,R,K
-   1
    1,L,J,G
-   1,L
-   1
-   7,L
-   7,L,J
+  10,L
+   6,L,J
    1,L,K,G
-   5,L,J,G
-   4,L
+   9,L,J,G
   14,R,D,X
    1,L,J
    5,L,D,X
@@ -4222,7 +4225,7 @@ endrepeat
   15,U,X
   38
 #End_IGT
-ChapterTime: 9:13.163(32539)
+ChapterTime: 9:13.010(32530)
 
 # optional waiting for
 # visuals to play out
