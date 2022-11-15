@@ -3410,13 +3410,19 @@ Set,AnalogMode,Precise
    1,R,D
    7,R
   13,U,X
-  14,G
-  32,R,D,G
+  26,R,G
+   1,G
+  16,R,G
+   1,G
+   1,R,G
    1,R
   28,R,D
-   2,R
+   1,D
    1,R,D
-   3,R
+   1,D
+   1,R,D
+   4
+   2,D
    9,L,Z
    1,R,J
    6,R
@@ -3425,63 +3431,60 @@ Set,AnalogMode,Precise
   21,R,U,C
    7,L
   15,L,D,X
-   1
-   2,D
-   1,R,J
-  14,L,Z
-   1,R,J
-   7,R
+   1,L,J
+   2,L
+  12,L,D,C
    1,R,K
-  12,R,D,X
-  14,R,K,G
+   7,R
+   1,R,J
+  11,R,D,X
+  14,R,J,G
   32,R,D,G
-   5,R,J,G
-   1,J,G
+   5,R,K,G
+   1,R,G
   40
 
 #lvl_j-10
-   3,J,G
-  60,L,D,G
-   4,L,D
-  16,R,D
-  12,R,X
-  57,L
-  31,G
-  10,L,U,G
-   2,J,G
-   5,R
-   1,L,J
-  17,L,D
-   3,L
-   3,L,D
-  10,U,X
-  14,R,J
-   8,R
-  13,R,J
-  20,R
-   2,L
-   8
-   9,L
-  31
-  48,R,G
-   5,G
+  26,R,D,G
+   1,R
+   1,R,D
+  19,L,D
+   8,R,D
+   1,D
+   4,R,D
+  13,R,Z
+  52,L
+   1
+   1,L
+   2
+   1,L
+   1,K,G
+   1,R
+   1,J
+   1,K
+  11,R,X
+  83,R,U,K,G
+  15,R,D,G
+  27,D,G
+   4,L,D,G
+   1,L,D
+  32,R
+  51,R,G
    1
    9,L,Z
    1,R,J
-   8
-   2,R
-   1,R,J
-   6,R
+   5
+  11,R
    5,R,U,X
   40,R,U,J,G
-  10,R
+  13,R
    2,G
-repeat,19
+repeat,21
    1
    1,G
 endrepeat
-   9,G
-   6,U,G
+   5,G
+   3,U,G
    1,R
    1,R,K,G
    1,R,J,G
@@ -3490,59 +3493,68 @@ endrepeat
   30,R,D,G
   12,R,U,G
   25,U,G
-   7
+   4
+   3,R
   14,R,U,X
-  56,R,G
-   3,R,D,G
-   3,R,G
-  49,R,D,G
-   1
+  53,R,U,J,G
+  28,R,D,G
+   1,R,G
+  28,R,D,G
+   1,R
   21,R,U,Z
-   5,R,U,X
-  22,R
-  16,R,D,X
-  30,R,D,G
-   6,R
-   1,J
-   4,X
-  11,R,J
-   5,R
+   6,R,U,C
+  21,R
+  12,R,D,X
+  29,R,D,G
+   8
+   3,L,D
+   4,R,D
+   1,R,J,G
+   2,J
+   5
+   1,L
    3
-   1,R,K
-   2
-   2
-  14,L,D,X
+   1,R
+   2,L
+   6,L,Z
    1,R,J
-   9,R,U,X
-  16,R,U,J,G
+   4,R
+   4,R,K
+  14,R,U,X
+  17,R,U,K,G
   40
 
 #lvl_j-11
-  37,R,U,J,G
-   8,R
-   1,R,K,G
-   4,L,K
-   8,R,K
-  19,R,K,G
-   1,K,G
-   1,R,K,G
-   1
-   4,L
-   1,L,K
-   2,L
-  10,R
-  22,G
-   3,U,G
-   1,R
+  39,R,U,K,G
+   2,R
+   3
    1,R,J,G
-   1,R,K,G
-   1,R,J,G
+   4,L,J
+   8,R,J
+  22,R,J,G
+   1,J
+   1,L
+   1,L,J
+   5,L
+   3
+   1,L
    5,R
-   1,J
+  19,G
+   1,U,G
+   1,G
+   1,U,G
+   1,G
+   2,U,G
+   1
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   5,R
+   1,K
    1,R
-   1,R,J
-   1,J
-   1,D,K
+   1,R,K
+   1,K
+   1,D,J
   13,R,U,X
   32,R,U,K,G
    1,R,G
@@ -4100,7 +4112,7 @@ endrepeat
   15,U,X
   38
 #End_IGT
-ChapterTime: 9:12.313(32489)
+ChapterTime: 9:11.650(32450)
 
 # optional waiting for
 # visuals to play out
