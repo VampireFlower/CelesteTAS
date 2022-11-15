@@ -3685,21 +3685,13 @@ Set,AnalogMode,Precise
    2,R
    1,R,J
    1,R
-  29,R,D,X
-  12,R,J
-   5,R
-  10,R,J
-  13,R
-   1,R,D
+  24,R,D,X
+   5,R,D,J
+   2,R,J
    1,R
-   1,R,D
-   1,R
-   1,R,D
-   2,R
-   1,R,D
-   2,R
-  19,R,X
-   4,Z
+  48,R,K
+   3,R,D
+  14,R,Z
    1,R,J
   11,R
   23,R,J
@@ -4122,7 +4114,7 @@ Set,AnalogMode,Precise
   15,U,X
   38
 #End_IGT
-ChapterTime: 9:11.208(32424)
+ChapterTime: 9:11.174(32422)
 
 # optional waiting for
 # visuals to play out
