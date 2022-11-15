@@ -3518,35 +3518,51 @@ endrepeat
   40
 
 #lvl_j-11
-  38,R,U,J,G
-   1,J
-  13,R,G
-   9,R,U,G
-   1,R,G
-   1,R,U,G
-   1,R,G
-   6,R,U,G
-   1,R
+  37,R,U,J,G
+   8,R
    1,R,K,G
-   1,R,J,G
+   4,L,K
+   8,R,K
+  19,R,K,G
+   1,K,G
    1,R,K,G
-   1,R,J,G
-   2,R
-   6
+   1
+   4,L
    1,L,K
-  17,L,D,G
-  33,R,D,G
-   8,D,G
+   2,L
+  10,R
+  22,G
+   3,U,G
    1,R
-  19,R,U,X
-  79,R,D,G
-  45,R,U,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   5,R
+   1,J
+   1,R
+   1,R,J
+   1,J
+   1,D,K
+  13,R,U,X
+  32,R,U,K,G
+   1,R,G
+   2,G
+   6,U,K,G
+  46,D,G
+   3,U,G
+  17,R,U,G
+   2,R,D,G
+  24,R,U,G
    1,R
   34
   77,R,U,J,G
    1,L
   15,R,D,X
-  19,R
+  13,R
+   1,R,D
+   1,R
+   3,R,D
+   1,R
   14,R
   19,R,X
    4
@@ -4084,7 +4100,7 @@ endrepeat
   15,U,X
   38
 #End_IGT
-ChapterTime: 9:12.381(32493)
+ChapterTime: 9:12.313(32489)
 
 # optional waiting for
 # visuals to play out
