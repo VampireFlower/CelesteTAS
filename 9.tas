@@ -3440,33 +3440,33 @@ Set,AnalogMode,Precise
   11,R,D,X
   14,R,J,G
   32,R,D,G
-   5,R,K,G
-   1,R,G
+   4,R,K,G
+   2,R,G
   40
 
 #lvl_j-10
-  26,R,D,G
-   1,R
-   1,R,D
-  19,L,D
-   8,R,D
-   1,D
-   4,R,D
-  13,R,Z
-  52,L
-   1
-   1,L
+  18,R,D,G
+   4,D,G
    2
-   1,L
-   1,K,G
+  15,D,X
+   9,R,J
+  18,R
+   1
    1,R
-   1,J
-   1,K
-  11,R,X
-  83,R,U,K,G
-  15,R,D,G
-  27,D,G
-   4,L,D,G
+   3,D
+  25
+  15,L
+  20,R
+  38,L
+  13,L,U,X
+   1,R,J
+  22,R,U,J,G
+  16,R,D,G
+   1,R,D,J,G
+  24,R,D,G
+   9,L,D,G
+  15,D,G
+   4,L,U,G
    1,L,D
   32,R
   46,R,D,G
@@ -3507,22 +3507,25 @@ Set,AnalogMode,Precise
    1,R,G
   16,R,D,G
    1,R,G
-  29,R,D,G
+  30,R,D,G
    1,R
   21,R,U,Z
    6,R,U,C
-  21,R
+  19,R
+   2
   12,R,D,X
   28,R,D,G
-   8
+   7
    3,L,D
-   2,R,D
-   1,R
-   1,R,D
+   3,R,D
+   1
    1,R,J,G
    2,J
-   5
+   3
    1,L
+   1,R
+   1
+   1,R
    3
    1,R
    2,L
@@ -3535,26 +3538,26 @@ Set,AnalogMode,Precise
   40
 
 #lvl_j-11
-  39,R,U,K,G
+  28,R,U,K,G
+  10,R,U,G
    2,R
    3
    1,R,J,G
    4,L,J
    8,R,J
-  22,R,J,G
+  20,R,J,G
+   5,J,G
    1,J
+   2,L,J
    1,L
    1,L,J
-   5,L
-   3
+   3,L
+   4
    1,L
-   5,R
-  19,G
-   1,U,G
+   1,R,G
+   6,R
+  17,U,G
    1,G
-   1,U,G
-   1,G
-   2,U,G
    1
    1,R,K,G
    1,R,J,G
@@ -3575,29 +3578,21 @@ Set,AnalogMode,Precise
    1,D,G
    4,U,G
    1,R,G
-  15,R,U,G
-   5,R,D,G
-  17,R,U,G
+   6,R,U,G
    1,U,G
    1,R,U,G
-   1,U,G
-   1,R,U,G
-   1,G
-   1,R
+   1,D,G
+  31,R,U,G
+   1
   30
    8,R,U,X
-  45,R,G
-   6,R,G
-   1,U,G
-   6,R,D,G
-   1,R,G
-  25,R,D,G
-   4,R,G
+  47,R,G
+   3,R,U,G
   15,R,D,G
    1,R,G
-   4,R,D,G
-   4,D,G
-   1,R,D,G
+  43,R,D,G
+   1,G
+   2,D,G
   13,R,G
   10,R,U,G
   16,R
@@ -3627,12 +3622,12 @@ Set,AnalogMode,Precise
   40
 
 #lvl_j-12
-   2,R,U,J,G
+   2,R,J,G
   14,R,G
    1,G
    5,R,G
-   7,R,D,G
-  22,R,U,J,G
+   8,R,D,G
+  21,R,U,J,G
    6,R,G
    1,L
    1,R
@@ -3641,10 +3636,7 @@ Set,AnalogMode,Precise
   12,R
   14,R,U,X
    3,R,K,G
-   9,R
-   1,R
-  26,R
-   3,R,D
+  39,R
   15,R,D,X
    8,R,C
    1,R,K,G
@@ -3657,8 +3649,7 @@ Set,AnalogMode,Precise
   12,R,U,X
   10,R,J,G
    2,R
-   1,R,K,G
-   1,R,K
+   2,R,K,G
    1,K
    1,R,K
    1,K
@@ -4110,7 +4101,7 @@ Set,AnalogMode,Precise
   15,U,X
   38
 #End_IGT
-ChapterTime: 9:10.256(32368)
+ChapterTime: 9:10.086(32358)
 
 # optional waiting for
 # visuals to play out
