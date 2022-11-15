@@ -3627,35 +3627,36 @@ Set,AnalogMode,Precise
   40
 
 #lvl_j-12
-   2,U,J,G
-  19,R,G
-   8,R,D,G
-  30,R,U,J,G
-  29,R,D,G
-   6,R,U,J,G
-   4,R,U,G
+   2,R,U,J,G
+  14,R,G
+   1,G
+   5,R,G
+   7,R,D,G
+  22,R,U,J,G
+   6,R,G
    1,L
-  14,R,U,X
-   6,R,K,G
-   5,R
-  17,R,K
-  15,R,D,X
-   7,R,Z
-   1,R,J
-   6,R
-   9,R,J
+   1,R
+   2,R,K,G
    1
-  15,R,D,X
-   1,R,J,G
-   4
-   7,R
-  11,R,J
-   7,R
-   2,R,J
-   5,R
+  12,R
   14,R,U,X
-   9,R,J,G
+   3,R,K,G
+   9,R
+   1,R
+  26,R
+   3,R,D
+  15,R,D,X
+   8,R,C
+   1,R,K,G
+   9,R
+  12,R,K
+  15,R,D,X
    3,R
+  12,R,J
+   3,R
+  12,R,U,X
+  10,R,J,G
+   2,R
    1,R,K,G
    1,R,K
    1,K
@@ -4109,7 +4110,7 @@ Set,AnalogMode,Precise
   15,U,X
   38
 #End_IGT
-ChapterTime: 9:10.698(32394)
+ChapterTime: 9:10.256(32368)
 
 # optional waiting for
 # visuals to play out
