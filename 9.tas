@@ -1505,7 +1505,7 @@ console load 10
    1,R,J
    8,R
   15,R,X
-  16,L,U,G
+  16,L,G
    1,L,J,G
   12
    2,L,G
@@ -1741,34 +1741,36 @@ console load 10
    6,R
    1,J
    1,L
-  13
-  16,G
+  11
+   1,R
+   1,L
+  18,G
    2,D,G
    1
    1,K
    1,L,J,G
-  36,R,J
-   1
-  25,R,Z
-   7,L
-   1,L,D
-   2,L,J
+  37,R,J
+  21,R,Z
+  12
   14,R,D,X
-   5,R,J
+   7,R,J
    1,R
-   1,R,J
-   3,R
    2,R,J
    1,R
   11,R,J
-  15,R,U,Z
-  18,R,D
-  14,R,X
-   1,R,J,G
-   1,J
-   9,R,J
-   7
-   7,R,D,X
+  17,R,X
+   4
+  16,R,C
+   1
+   1,R
+   1,R,K,G
+   2,R,J,G
+   2,R
+   1,R,K,G
+   1
+  11,R,J,G
+   7,R
+   7,R,Z
    1,R,J
    6,R
    1,R,J
@@ -1784,7 +1786,7 @@ console load 10
    9,R,Z
    1,R,J
    7,R
-   1,R,K
+   1,R,J
 #Determination
   14,R,D,X
   40
@@ -4125,7 +4127,7 @@ Set,AnalogMode,Precise
   15,U,X
   38
 #End_IGT
-ChapterTime: 9:09.763(32339)
+ChapterTime: 9:09.712(32336)
 
 # optional waiting for
 # visuals to play out
