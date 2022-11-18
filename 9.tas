@@ -3271,64 +3271,74 @@ Set,AnalogMode,Precise
   14,R
   18,R,X
   15,R,C
-  14,R,U,X
-  51,R
-  13,R,U,X
+  14,R,U,Z
+  54,R
+  10,R,U,X
+   1,J,G
+   6
+   3,R
+   2,L
+  14,L,Z
+   1,R,J
+   5,R,D,X
    1,R,J,G
   10,R
   40
 
 #lvl_j-07
-  10,R,D,X
+   3,R
    3,R,J
-   1,J
-   2,R,J
-   4,R,K,G
+   3,R
    5,R,D,X
-   2,R,J,G
-  12,R
-  10,R,J
-  29,R,D,X
-   4,R,J
+   1,R,J,G
+   2,R
+   1,R,J,G
    1,R
+   1
+   9,R
+  11,R,J
+   5,R
    1,R,J
-  16,R,Z
-  45,R
-  15,R,U,Z
-  49,R
-   4
-  11,D,X
-  27
+   2,R
+   1,R,J
+   6,R
+  14,R,U,X
+   6,R,J
+  28,R,D
+   1,D
+  11,R,U,Z
+  51,R,D
+  12,D,X
+  17,R
   15,R,X
-  15,D
-   4,R,D
+  17,R,D
+   1,R
+   3
   30,R
   11,R,D,X
    1,R,J,G
    2,R,K,G
    1,R,J,G
    1,R,K,G
-   3,R
-   2
-  16,R,D
-   1,R,J
-   1,J
-   8,R,J
-   2,R
+   2,K
+   4
+  17,R
+   2,R,D
+  12,R,D,J
   15,R,D,X
-   3,R,J
-   1,J
-   3,R,J
-   1,R
-   6,R,D,X
-  11,R,J
-  15,R
+   7,R,J
+   2,R
+   7,R,D,X
+  15,R,J
+   4,R
+   1,R,J
+   7,R
   40
 
 #lvl_j-08
-   2,R
+   1,R
    6,R,J
-  36,R,X
+  38,R,X
    4,R,J
    1,R,K
    6,R
@@ -3349,8 +3359,7 @@ Set,AnalogMode,Precise
   15,R,U,X
   34,R,D
    6,R
-   1,R,D
-   1,R,D
+   2,R,D
   15,R,X
   18,R,U,C
   15,R,U,X
@@ -3522,9 +3531,9 @@ Set,AnalogMode,Precise
   14,R,X
   26,R,D,G
    8,D,G
-   4,U,G
+   4,G
    1,D,G
-   3,U,G
+   3,G
    1
    3,L
    7,L,Z
@@ -4116,7 +4125,7 @@ Set,AnalogMode,Precise
   15,U,X
   38
 #End_IGT
-ChapterTime: 9:09.899(32347)
+ChapterTime: 9:09.763(32339)
 
 # optional waiting for
 # visuals to play out
