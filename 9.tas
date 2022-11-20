@@ -833,27 +833,30 @@ console load 10
   10,L,J
    8,R,J
    2,K,G
-   7,J,G
-   5,R,J
+   6,J,G
+   6,R,J
   16,U,X
   15,U,C
+   1,L
   19,R
   15,U,X
-   4,R
-  13,R,D,X
+   3,R
+  12,R,D,X
+   1,L,J
+   3,L
    1,L,J
    4,L
-   2,L,J
-   4,L
-  16,L,Z
+   1
+   1,L,J
+   1,L
+  15,L,U,Z
   19,L,X
-   7,L,C
-  17
-  15,U,X
-   2,L
-  16,L,C
-  28,R
-  15,R,U,X
+   7,L,Z
+  20,L
+  20,L,U,X
+   9,L,C
+  27,R
+  16,R,U,X
   18,R,U,Z
    4,R,J
   10,U,X
@@ -4127,7 +4130,7 @@ Set,AnalogMode,Precise
   15,U,X
   38
 #End_IGT
-ChapterTime: 9:09.712(32336)
+ChapterTime: 9:09.678(32334)
 
 # optional waiting for
 # visuals to play out
