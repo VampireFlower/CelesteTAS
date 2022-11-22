@@ -1431,11 +1431,11 @@ AnalogMode,Precise
    4,F,60.621
   14,F,90
   21,F,121.2
-  19,F,86
+  12,F,89.5
+   7,F,30
 AnalogMode,Ignore
-   5,U,X
-  21,R
-  14,R,D,X
+  22,R,X
+  14,R,D,C
    4,R,J
   16,R,D,X
   44,L
@@ -1481,4 +1481,4 @@ AnalogMode,Ignore
   24,R,D,X
   21,R,D
  103,R
-ChapterTime: 3:26.091(12123)
+ChapterTime: 3:26.074(12122)
