@@ -849,11 +849,11 @@ console load 10
    1
    1,L,J
    1,L
-  15,L,U,Z
+  16,L,U,Z
   19,L,X
-   7,L,Z
-  20,L
-  20,L,U,X
+   6,L,Z
+  19,L
+  19,L,U,X
    9,L,C
   27,R
   16,R,U,X
@@ -4130,7 +4130,7 @@ Set,AnalogMode,Precise
   15,U,X
   38
 #End_IGT
-ChapterTime: 9:09.678(32334)
+ChapterTime: 9:09.644(32332)
 
 # optional waiting for
 # visuals to play out
