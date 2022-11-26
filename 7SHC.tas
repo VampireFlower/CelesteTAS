@@ -607,35 +607,41 @@ Read,7S,lvl_a-00,lvl_a-04b
    4,D,X
    1,R,J
    7,R
-  11,R,J
+  11,R,D,J
    3,R
-   9,R,K,G
-   4,R,J,G
-  14,U,X
-  13,L,J
-   1,J
+   3,R,K,G
+   2,K
+  15,U,X
+  15,U,C
+   1,R
+  10,L,J
+   3,L
+   1,R,K,G
+   2,R,J,G
    1,L,J
-  15,L,U,Z
-   1,R,J,G
+   1,R,J
+   1,L,J
+   1,R,K,G
+   4,R
+   1
    2,R
-   2,R,K,G
-   5,R
-   2
    5,R,Z
    3,R,J
    1,R,K,G
-  10,R
+   5,R
+   1,R,J
+   4,R
    1,R,J
   15,R,D,X
-  16,L
-   9,L,D
+   5,L
+  20,L,D
    9,U,X
    2,L,J
    1,L
    1,L,K,G
    1,L,J,G
    5,L,K,G
-   1,L
+   1
    7,L,Z
    1,L,J
    6,L
@@ -644,8 +650,8 @@ Read,7S,lvl_a-00,lvl_a-04b
    1,L,J
    1,J
   15,L,D,X
-  21,R,D
- 207
+  12,R,D
+ 216
    1,S
    1,D,J
  141
@@ -2502,4 +2508,4 @@ read,7HC,lvl_g-00b,Exit
   15,R,J
    2,K,G
 read,7S,7SHC5
-FileTime: 9:56.768(35102)
+FileTime: 9:56.666(35098)
