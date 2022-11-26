@@ -325,46 +325,53 @@ console load 10
    1,R,K,G
    2,L,K
    1,R,K
-   7,R
-   6,R,J
+   3,R
+   7,R,K,G
    1,R
-   5,R,Z
+   4
+   1,R
+   1
+   7,L,Z
    1,R,J
-   4,R
+   1
+   5,R
+   1,R,J
   40
 
 #lvl_b-03
-   2,R
    1,R,J
-   2,R
-  18,R,D,X
-  24,R,D,C
-   4,R,J
-   7,R,Z
-   2,R,J
+  16,R,D,X
+   1,R,J
+   9,R
+   1,R,J
+   4,R
+   1
    1,R
    1,R,J
-  16,R
-   4,R,D
-   1,R,K
-   2,R
+  15,R,D,X
+   1,D
+   2
+  12,D
+   1,R,D
+   1,L,J
+   1,L
   29,R,Z
    4,R,J
    1,R,K
-   9,R,Z
+   1,R
+   8,R,Z
   10,R,J
    7,R
-   1,R,J
-   1,R
    2,R,J
-   9,R
-   6,D
+   2,R
+   1,R,J
+  14,R,D
   10,R,U,X
    8,R
    1,R,J
   13,R,U,X
    1,J,G
-   1,L
+   1,L,J
    1,R,K,G
    1,R,J,G
    1,R
@@ -1641,42 +1648,32 @@ console load 10
   12,R,J
   15,U,X
   14,R
-   6,L,D,X
+  14,R,Z
    1,R,J
-   1,R
-   4,R,K
-   1,R,J,G
-   5,R
-   1,R,K
-   4,R
-   1,R,K
-   3,R
+   9,R,D,X
+   1,R,J
+   2
   40
 
 #lvl_f-07
-   2,R
+   7,R
+   1
+   1,R
+   3
+   6,R,Z
+   1,R,J
+   1,R
+   1,R,J
+   8,R
+   4,R,D
   10,R,J
-   1,J
-   2,R,J
-  18,R,D,X
-  18,R,J
-   1,J
-   4,R,J
-   1,L,J
-  10,G
-   2,D
+   5,R
+  17,L,G
+   5,L
+   3,L,K,G
+   5,L
    1
-   1,G
-   1,D
-   1,L
-   1,G
-   1
-   2,G
-   2
    6,G
-   3,U,G
-   1,G
-   2,U,G
    1,L,J,G
    1,K,G
    1,J,G
@@ -2882,7 +2879,7 @@ AnalogMode,Precise
   44,R,U
   12,F,90
 Read,9,Stubbornness,End_IGT
-ChapterTime: 10:04.605(35565)
+ChapterTime: 10:04.401(35553)
 
 # Optional waiting for
 # visuals to play out
