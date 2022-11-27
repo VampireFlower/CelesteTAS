@@ -84,20 +84,19 @@ Read,7S,lvl_a-00,lvl_a-04b
   28,R
   15,R,U,X
    4,D,C
-  10,R,C
+   9,R,C
    3,R,J
-  15,R,D,X
+  16,R,D,X
   40
 
 #lvl_a-06
-   2,R,D
-#+2f Berry
+   2,R
+#+1f Berry
   14,R,D,X
-   1,R,J
-  12,R,U,X
+   9,R,J
   42,R
-  19,R,X
-  18,R,U,C
+  18,R,X
+  19,R,U,C
   43,R
   10,R,U,X
   19,L
@@ -2508,4 +2507,4 @@ read,7HC,lvl_g-00b,Exit
   15,R,J
    2,K,G
 read,7S,7SHC5
-FileTime: 9:56.666(35098)
+FileTime: 9:56.649(35097)
