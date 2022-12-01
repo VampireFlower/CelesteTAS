@@ -2109,11 +2109,11 @@ Add 58
    1,J
   30
 #Uncomment if the tas desyncs
-   #1,R
-   #1,F,90
-   #1,R
-  #1,F,90
-   #1,R
+#   1,R
+#   1,F,90
+#   1,R
+#   1,F,90
+#   1,R
    1,J
   46
 Add 1
@@ -2286,4 +2286,4 @@ read,7HC,lvl_g-00b,Exit
   15,R,J
    2,K,G
 read,7S,7SHC5
-FileTime: 9:56.479(35087)
+FileTime: 9:56.462(35086)
