@@ -22,16 +22,16 @@ console hard 3
    5,R,D,X
    1,R,J,G
   13,R
-   5,R,J
+   4,R,J
+   1
    5,R,X
   40
 
 #lvl_01
    6,R,X
    3,R,J,G
-  11,R,K,G
-   3,R
-  12,R,Z
+  12,R,K,G
+  14,R,Z
    8,R,J,G
   14,R
    1,R,J,G
