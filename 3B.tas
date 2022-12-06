@@ -296,7 +296,9 @@ console hard 3
    8,R,J
   13,R,X
    7,R,J,G
-  28,R
+   7,R
+   3,R,J
+  18,R
    1,R,J
    5,R,U,Z
   40
@@ -418,20 +420,21 @@ console hard 3
    1,R,J,G
    1
    1,J,G
-   3
-  19,R,D
-  44,R,D
-   4,R
-   2,R,D
-  19,R,Z
+   1
+  20,R,D
+   1
+  49,R,D
+  18,R,Z
    1,L
-   2,J,G
-   5,R,J
-  16,R
+   3,J,G
+   3,R,J
+   5,R
+   3,R,J
+   9,R
   37,R,J
-   1,R,D
-   2,R
-   1,R,D
+   2,R,D
+   1
+   1,D
    4,Z
    1,R,J
    3,R
@@ -547,7 +550,7 @@ console hard 3
    4,R,K
    8,R
    2,R,J,G
-   9,R,U,Z
+   9,R,U,X
    1,R,K,G
    6,R
    1,R,J,G
@@ -810,4 +813,4 @@ console hard 3
   14,R,J
   15,R,U,X
  135,R,D
-ChapterTime: 1:29.760(5280)
+ChapterTime: 1:29.726(5278)
