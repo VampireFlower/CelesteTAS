@@ -2107,25 +2107,28 @@ console load 7
   16,L,J
   15,L,X
   11,R,Z
-   1,L,J
-  10
-   6,L
+   2,L,J
+   1
+   1,J
+   1
+   1,L
+   7
+   4,L
   20,L,J
   14,U,X
   18,R,J
   12,K,G
   12,J,G
-   2,K
+   1,K
+   1
    5,R,X
-   1,R,J,G
-   1,J
-   9,R,J
+  10,R,J,G
    6,R
-   1,R,J
-   8,R
+   3,R,J
+   6,R
 
 #CP-17
-  11,R,J
+  11,R,K
    1,R
    1,R,K,G
    5,K
@@ -2732,4 +2735,4 @@ AnalogMode,Ignore
    1,S
    1,D,J
   18
-ChapterTime: 6:40.435(23555)
+ChapterTime: 6:40.418(23554)
