@@ -753,17 +753,22 @@ console load 9
 #lvl_d-03
    6
    2,R
-  13,L,J
-   8,J
+   8,L,J
+   9,J
+   2,L,J
+   1,J
+  15,L,U,C
+   1,L
   18,U,X
-  19,L,U,C
-  18,U,X
-  19,U,C
-   3,R,J
+   5,R
+  15,U,X
+   4,R
+   1,J
+  16,U,X
+   4,R
+   2,R,J
   16,J
    1,K,G
-   1,R,K
-   4,K
    1,L,K
    1,K
   14,R,J,G
@@ -1351,4 +1356,4 @@ console load 9
   15,R,D,X
   14,R,J
  156,R,D,X
-ChapterTime: 2:51.258(10074)
+ChapterTime: 2:51.224(10072)
