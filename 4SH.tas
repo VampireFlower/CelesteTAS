@@ -347,18 +347,24 @@ console load 4
    3,R
    1,R,J
   18,R,D,X
-#4SHC
   15,R
    3
    1,S
    1,D,J
   34
-  15,D,X
-  14,L,D,C
-   4,R,J
+  18,L,D,X
+   1,L
+   2,L,D
+#4SHC
+   6,L,V
+   1,R,K
+   6,R
+   2,R,K
    5,R,D,X
-   4,R,J,G
-  14,R
+   3,R,J,G
+   5,R
+   2,R,J
+   7,R
    2,R,J
    2,R,K,G
    4,R
@@ -367,11 +373,11 @@ console load 4
 
 #lvl_a-08 (1)
    5,R,D,X
-   1
+   1,R
    2,R,J
-  24,R,D,X
-  16,R
-  13,R,D,J
+  29,R,D,X
+   8,R
+  12,R,D,J
   14,U,X
   15,U,C
   12,U,X
@@ -1885,4 +1891,4 @@ console load 4
    1,S
    1,D,J
   18
-ChapterTime: 3:35.492(12676)
+ChapterTime: 3:35.458(12674)
