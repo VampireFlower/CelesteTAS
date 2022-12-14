@@ -53,7 +53,23 @@ Read,LoadA
 
 Read,4SHC,Start
 
-Read,LoadA
+#Reenter Ridge
+Read,LoadA,0,control
+   1,L
+   9
+   1,J
+  43
+   1,J
+  30
+   1,R
+   1,F,90
+   1,R
+   1,J
+  46
+
+Read,4SH1,Start
+
+Read,LoadAFromB,SkipExit
 
 Read,5SHC,Start
 
