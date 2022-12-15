@@ -1702,58 +1702,55 @@ console load 3
 #lvl_08-x
   10,L,D
    6,D
-   5,L,D
-   1,D
-  14,U,Z
-   3,R,J
-   2,J
-   1,R,K,G
-   1,R,J,G
-   9,R
-  14,R,J
-   7,U,X
+   6,L,D
+  15,U,Z
+   2,R
+  21,R,K
   40
 
 #lvl_08-a (2)
-  12,R
-  15,R,J
-  12,R,Z
-   1,R,J
-   3
-   9,R,U,Z
+  15,R
+  16,R,U,X
+   2,R,J,G
+   7,R
+#+1f Berry
+  12,R,D,X
+   3,R,J
+   5,R,U,C
   40
 
 #lvl_09-b (3)
-   4,R,U,Z
-   1,L
-   1,J,G
+  10,R,U,C
   14,R,U,X
    1,R,J,G
-   8
+   6,R
+   3
   12,L
   13,U,X
    3,L,J
    1,R,K,G
   11,R,J,G
    7,R
-   9,R,J
-  15,U,Z
-   1,L,J,G
-   7,L
-  11,L,X
-#+2f berry
-   6,L,J
+   9,R,X
+  16
+   4,L,K,G
+   1
+  10,L,C
+   7,L,J
    1,S
    1,D,J
   34
-   2,L,J
+   2,J
+   1,L,J
 #Elevator Shaft
-  13,U,X
+  12,U,X
    1,J
   40
 
 #lvl_09-d
-   3,R
+   1,L
+   1,R
+   1,R,J,G
    1,R,K,G
    8,R,J,G
   13,R,X
@@ -2515,4 +2512,4 @@ console load 3
    1,S
    1,D,J
   18
-ChapterTime: 4:45.107(16771)
+ChapterTime: 4:45.073(16769)

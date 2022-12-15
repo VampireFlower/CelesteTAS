@@ -1210,14 +1210,16 @@ endrepeat
    1,S
    1,D,J
   34
-   1,K
+   1,L,K
 #Elevator Shaft
    9,U,Z
    1,J
   40
 
 #lvl_09-d
-   3,R
+   1,L
+   1,R
+   1,R,J,G
    1,R,K,G
    8,R,J,G
   13,R,X
