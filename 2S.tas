@@ -540,37 +540,30 @@ console load 2
    2,L
    2,L,J
    2,L
-   4,Z
+   4,D,X
    7,L,J
    5,L,K,G
-   7,L
+   6,L
    1,L,K
-  12,L
-   5,L,D
-   5,D
+  15,L
+   1
+   6,D
+   1,L
+   1,D
   20,R,U,X
    1,R,J,G
-   4,R
+   7,R
+   4,D,X
+   7,R,J
+   5,R
    6
-   4,R
-   9,R,D,J
-   8,J
-   1,R,J
-   1,J
-   1,R,J
-   4,K,G
-   1,R,J,G
-   1,R,K,G
-   2,R,J,G
-   1,J
-   1,R,J
-   1,R
-   1,L,K
+  15,U,X
    1,L,J,G
-   6,L,K,G
-   1,J
-   3,L,K,G
-  21,L,X
+   1,L,K,G
+   1,L,J,G
+   2,L
+  11,L,J
+  22,L,X
    4,L,J
    3,L,K
   11,U,X
