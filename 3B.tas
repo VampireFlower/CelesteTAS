@@ -140,8 +140,7 @@ console hard 3
    5,R
    3,R,J
    2,R,K,G
-  18,R
-   6,R,D
+  24,R,D
    2,D
    5,R,X
   18,L
@@ -150,10 +149,9 @@ console hard 3
    2,R,K
   12,J
   13
-   5,R
-  15,R,D
+  20,R,D
    1,R
-   1,R,D
+   1,D
    1,G
    9,R,J,G
    5,U,X
@@ -329,9 +327,9 @@ console hard 3
    4,R,K,G
    5,R
    1,R,K
-  29,R,D
-   1,R
-  66,R,D
+  43,R,D
+   4,R
+  49,R,D
 #Library
   14,R,D,X
    1,R,J
@@ -435,8 +433,8 @@ console hard 3
    2,R
    1,R,J
    5,R
-  34,R,J
-   3,R,D
+  35,R,J
+   2,R,D
    1,D
    1
    1,D
@@ -582,8 +580,7 @@ console hard 3
   40
 
 #lvl_16
-   5,R,U,Z
-   1,L
+   6,L
    6,K,G
   22,U,X
    1,K
@@ -691,8 +688,7 @@ console hard 3
    7,R
    1,R,J
   14,R,D,X
-   1,R,J
-   1,R
+   2,R,J
   14,R,D,X
    1,R,J
    9,R,D,X
@@ -727,24 +723,26 @@ console hard 3
    5,R,D,X
    1,R,J
   14,R,D,X
-  16,R,J
+  15,R,J
    4,R
+   1,R,J
   18,R,U,X
-  18,R,C
+  19,R,C
   18,R,X
   18,R,C
-  15,R,Z
-  27,R,D
+  15,R,X
+  26,R,D
+   1,R
   23,R,U,V
-  24,R,X
+  23,R,X
   21,R,C
-  16,R,J
-  23,R,D,X
-   7,R,Z
+  16,R
+  18,R,D,X
+   1,R
+  10,R,D,C
    1,R,J
-   7,R
-   1,R,K
-   8,R,D,X
+   4,R
+  12,R,D,X
    1,R,J
    4,R
   40
@@ -788,7 +786,8 @@ console hard 3
   10,L,J
    1,K
   12,R
-   6
+   5
+   1,R
   12,R,Z
    3,R,J
   14,D,X
@@ -821,4 +820,4 @@ console hard 3
   14,R,J
   15,R,U,X
  135,R,D
-ChapterTime: 1:29.624(5272)
+ChapterTime: 1:29.607(5271)
