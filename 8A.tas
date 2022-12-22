@@ -102,46 +102,43 @@ Read,8S,lvl_b-07b,lvl_c-00 (0)
    2,R
   18,R,D,X
    9,R
-   1,R,D
-  16,R,U,X
-  11,R,K,G
-   2,R
-   9,R,Z
-   1,R,J
-   9,R
-   1,R,J
-  15,R
+  24,R,U,X
+   2,R,G
+   3
+   5,R,X
+   1,R,K,G
+   2,R,J,G
+   1,R,K,G
+   1,R,J,G
+   3,R
+   1
+  12,R
+   1,R,K
+   4,R
   40
 
 #lvl_c-02
+   2,R
+   2,R,K
+   2,R
+   1,R,K
    3,R
-   1
-   1,R,J
-  14,R,D,X
-   2,R,J
-   1,R
-   2,R,J
-   1,R
-   1,R,J
-   1,R
   14,R,U,X
-   9,R,J,G
-   6,R
-   2,R,J
-   5,R
-  21,D
-   2
+   3,R,K,G
+  15,R,Z
+  13,R
+  11,D
+   1,R,D
+   1,D
    1,R
+   1,R,D
    2,D
-   1,R
    1,L,J,G
-   1
-   3,L
+   2
+   2,L
    4
    1,D
-   1
-   1,R
-   5
+   7
    2,L
    1,L,D
    4,L
@@ -265,4 +262,4 @@ Read,8S,lvl_d-01,lvl_d-06
 
 #lvl_d-07
 Read,8S,lvl_d-07
-ChapterTime: 2:27.951(8703)
+ChapterTime: 2:27.560(8680)
