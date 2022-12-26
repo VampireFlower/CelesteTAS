@@ -93,57 +93,58 @@ console hard 6
    1
    1,L
   14,U,Z
-  27,L,U
-AnalogMode,Precise
-  44,F,6.2
-  11,F,300
-  11,F,240
-   6,F,180
-  11,F,181
-  12,U,Z
-repeat,13
+  26
+   1,L,U
+AnalogMode Precise
+  43,F,3.201
+   1,F,357.91
+  11,F,298
+  10,F,264.41
+   5,L,D,X
+  26
+   1,R,U
+   2,F,5.541
+Repeat 8
    1,S,N
-   1,N,O
-  11
-endrepeat
+  10,J
+   2,F,5.541
+Endrepeat
    1,S,N
-   1,N,O
-   9
-AnalogMode,Square
-   1,F,40
-AnalogMode,Precise
-   1,F,1
+  10,J
+   1,F,9.493
+   1,F,45.776
    1,S,N
-   1,N,O
-  11,F,1
-   1,S,N
-   1,N,O
-  12,F,1
-  26,F,49.91
-  18,F,5
+  10,J
+  29,F,45.776
+   1,F,43.67
+  14,F,10.5
+   1,F,0
   40
 
 #lvl_a-02
-  47,F,5
-  22,F,28
-   1,F,28,0.69
-   6,R
-  14,U,X
+   1,F,0
+  43,F,3.339
+   1,F,3.766
+  10,F,39.7,0.69
+   7,R
+  15,U,Z
+   5,J
+  10,R,J
   40
 
 #lvl_a-03
-   1,R,J
-   9,R
-   1
-   6,R,D,X
+   2,R
+   1,R,J,G
+   1,R,K,G
+   7,R
+   5,R,Z
    1,R,J
   12,R
-  16,R,K
+  12,R,J
+   1,J
+   3,R,J
    5,R,D,X
-   1,R
-   1
-   1,R
-  30
+  33
    4,Z
    1,R,J
    1,R
@@ -162,17 +163,18 @@ AnalogMode,Precise
   11,R
   32,R,U,Z
    1
-AnalogMode,Square
+AnalogMode Square
   27,F,299.569
-AnalogMode,Precise
+AnalogMode Precise
    5,F,272.904
-  11,F,333
-  19,F,10.837
-   1,F,12.026
+   1,F,278.1
+  10,F,333
+  19,F,10.91
+   1,F,11.9
   11,F,72
   11,F,132
   21,F,139.367
-   1,F,138.002
+   1,F,138.2
   11,F,78
   10,F,42.179
   13,R,Z
@@ -560,25 +562,7 @@ endrepeat
 #lvl_b-04
   18,D
   16,R,D
-  27,L,D
-
-#***
-#   1,L,D
-#repeat,8
-#   1,S,N
-#   1,N,O
-#  11,L,D
-#endrepeat
-#repeat,8
-#   1,S,N
-#   1,N,O
-#  11,D
-#endrepeat
-#  20,D
-#   5,L,D
-#  30,D
-
-  16,L,D
+  43,L,D
   12,D
   15,L,X
   19,R,D
@@ -681,20 +665,6 @@ endrepeat
    1,R,D
   15,L,D,C
    7,R,D
-
-#repeat,9
-#   1,S,N
-#   1,N,O
-#  11,R,D
-#endrepeat
-#   3
-#repeat,9
-#   1,S,N
-#   1,N,O
-#  11,D
-#endrepeat
-#  20,D
-
   14,R,D
    1,R
    1,R,D
@@ -1080,36 +1050,35 @@ endrepeat
    2,D
    8,R,D
   37,L,D
-  22,D
-repeat 2
+  16,D
+   3,R,D
+   1,D
+   1,R,D
+   3,D
+   1,R,D
    1,S,N
-   1,N,O
-   9
-   2,D
-endrepeat
-repeat 7
+  10,J
+   1,D
+   1,R,D
+repeat 6
    1,S,N
-   1,N,O
-   9
+  10,J
    2,R,D
 endrepeat
-repeat 2
+repeat 3
    1,S,N
-   1,N,O
-   9
+  10,J
    2,R
 endrepeat
    1,S,N
-   1,N,O
-   9
+  10,J
    5,R,D,X
 repeat 2
    1,S,N
-   1,N,O
-   9
-   2
+  10,J
+   2,R,D
 endrepeat
-  71,R
+  69,R
   15,R,X
   14,R
    1
@@ -1461,4 +1430,4 @@ AnalogMode,Ignore
   24,R,D,X
   21,R,D
  103,R
-ChapterTime: 3:18.781(11693)
+ChapterTime: 3:17.302(11606)
