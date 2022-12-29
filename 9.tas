@@ -549,76 +549,51 @@ console load 10
   10,L,U,C
    1,L,K,G
    7,L
-   3,L
-  16,U,X
-  10,R,Z
-   5,R,J
-  14,R,U,X
-   2,R,K,G
-   1,R,J,G
-   2,R,K,G
-   3,R,J,G
-   7,R,D,X
-  13,R,G
-   3,R,J,G
-   8,R,G
-   2,R,J,G
-   1,S,N
-  10,J
-   1,R,G
-   1,R,J,G
-   1,S,N
-  10,J
-   1,L
+  16,R
+   5,R,J,G
+  15,R,U,X
+  16,R,C
+   1,G
+   4,Z
    1,R,J
-   1,S,N
-  10,J
-   2,R,J
-   1,S,N
-  10,J
-   2,R,J
-   1,S,N
-  10,J
-   2,R,J
-   1,S,N
-  10,J
-   5,R,D,X
-   1,S,N
-  10,J
-   2,R
-   1,S,N
-  10,J
-   2,R
-   1,S,N
-  10,J
+   1,R,K,G
+   2,R,J,G
+   1,R,K,G
+   2,R,J,G
+   4,R
    6,R,D,X
-   8,R,J
-   2,R
-   9,R,D,X
+  13,G
+  12,R,K,G
+   1,L
+   4,X
+repeat,5
+   1,S,N
+   1,O
+  11,R,D
+endrepeat
+   2,R,D
+   5,R,J
+   3,R
+   8,R,D,X
   40
 
 #lvl_c-alt-00
-   7,R,D,X
-   1,R,J
-   4,R
-  15,R,D,X
-   4,R,J
-  10,R,U,X
-   3,R,J,G
-   4,R
-  17,R,D,X
-   5,R
-  12,R,J
-  14,J
-  11
-  14,D
+  10,R,D
+   2,R,J
+  13,J
+  15,R,D,J,X
+   8,J
+   1,L,K
+   2,R,K
+  34,K
+  16,D
   40
 
 #lvl_c-alt-01
-   4,D
-   1,R,D
+   5,D
+  13,R,D
    1,D
-  25,R,D
+  12,R,D
   40
 
 #lvl_c-03
@@ -628,8 +603,8 @@ console load 10
    2,R,J
    2,R
    4,R
-  11,L
-   4
+  10,L
+   5
   17,U,X
   17,G
   14,R,G
@@ -795,6 +770,10 @@ console load 10
   15,U,X
   12,R,U,C
   45,U,X
+#-----------------
+#Spinner Cycle 0-2
+   1
+#-----------------
   60,L,U,C
   40
 
@@ -1156,6 +1135,8 @@ console load 10
    5,R
    8,R,J
   26,R,D,X
+#spinner cycle
+#manip in e-00yb
    4,R,V
    1,S,N
   10,N,O
@@ -2011,8 +1992,7 @@ Endrepeat
   15,R,D,C
    9,D,X
 #-----------------
-#Spinner Cycle
-#0-2
+#Spinner Cycle 0-2
    1
 #-----------------
  109,R,C
@@ -2468,6 +2448,8 @@ Endrepeat
    3,R
    1,D,J
    1
+#Spinner cycle
+#manip in h-02
    1,S,N
   10,O
    2
@@ -3373,7 +3355,7 @@ Set,AnalogMode,Precise
 #---------------
 #Lightning cycle
 #0-14
-   4
+  13
 #---------------
    7,R,D,C
    1,L,J
@@ -3605,6 +3587,8 @@ Set,AnalogMode,Precise
   40
 
 #lvl_j-11
+#lightning cycle
+#manip in j-08
    4,R,J,G
    1,S,N
   10,O
@@ -3619,8 +3603,7 @@ Set,AnalogMode,Precise
    1,S,N
   10,O
    3,R
-  15,R,D,X
-   2,R
+  17,R,D,X
    1,R,J
   18,R
   12,R,U,X
@@ -3637,9 +3620,7 @@ Set,AnalogMode,Precise
    1,R,K
    5,R
    9,R,K
-   1,K
-   1,L,K
-   1,K
+   3,K
    3,R,K
    6,R,J
   12,R,K,G
@@ -3651,7 +3632,7 @@ Set,AnalogMode,Precise
    4,R,D
    9,R,J
   15,R,D,X
-# can Wait 1f by brushing
+#can Wait 1f by brushing
    7,R,J
    7,R,D,X
    1,R,J,G
@@ -3674,7 +3655,7 @@ Set,AnalogMode,Precise
    4,R,K
   12,R
    5
-# can wait 1f
+#can wait 1f
   13,R,U,X
    5,J,G
   40
@@ -3697,17 +3678,17 @@ Set,AnalogMode,Precise
 #lvl_j-15
    8,R,J
    8,J
-  14,R,U,Z
+  14,R,U,X
    1,R,J,G
-  10,R,D
+  10,R
   40
 
 #lvl_j-16
   14,R,D
   12,R,U,X
    1,L,J,G
-  15,R,D
-   1,D
+  15,R
+   1
   18,R,D
   21,R,U,J,G
   36,R,G
@@ -3720,11 +3701,11 @@ Set,AnalogMode,Precise
    2,R,J
   15,L,U,X
    8,R
-  38,R,U,J,G
-   9,D
-  12,U,X
-  37,R,U,J,G
-  38,R
+  33,R,U,J,G
+  10,D
+  11,U,X
+  42,R,G
+  38
   14,U,Z
   27,L,U
   89,F,1.36
@@ -3732,7 +3713,7 @@ Set,AnalogMode,Precise
   14,U,X
   38
 #End_IGT
-ChapterTime: 8:10.042(28826)
+ChapterTime: 8:09.209(28777)
 
 # optional waiting for
 # visuals to play out
