@@ -4,6 +4,9 @@ console rmx2 5
 #Start
   61
 
+#Spinner Cycle
+   2
+
 #lvl_00
   10,R,X
    9,R,J
@@ -31,73 +34,98 @@ console rmx2 5
    4
    1,R
    6,R,Z
-   1,R,J
-   2,R
+   4,R,J
+   1,R
    1,R,J
    9,R
-   1,R,J,G
-   9,R
-   1,R,J
+  10,R,U,Z
   40
 
 #lvl_01
-  14,R,D,X
-   6,R,J
-   1,R
-   1,R,J
-  17,R
-  20,R,Z
-   4,D,X
-   1,R,J
-   7,R
-   3,R,J
+   4,R,U,Z
+   6,K
+   8
+   1,L,G
+   1
+   1,G
+   3,L,J,G
+   8,J
+   1
+  10,K,G
+   1,R,K
+   2,R
    5,R,D,X
-   1,R,J,G
-   6,R
+   5,X
+   5,R,X
+   1,K
+   4,X
+repeat,5
+   1,S,N
+   1,O
+  11,R,D
+endrepeat
+   1,S,N
+   1,O
+  10,R,D
+   2,D
+  11,R,D
+   1,R
   40
 
 #lvl_02
-   1,R,J
    4,R
-  25,R,D,K
-  11,U,X
-  25,R,J
-  25,R,X
-  32,R,D,C
-  15,R,U,Z
-   1,L,J,G
-   5,L,K,G
-  14,J
-  11,K,G
-   1,J
-  10,K,G
-  28,R,K
    1,R,D
-  53,R
-  11,J,G
-   8,K,G
-   2,R,K
-   2,L,K
-  10,R,Z
-   1,R,J
-   7,R
-   1,R,J
+   8,R,D,J
+   5,R
+   2,R,J
+   1,S,N
+   1,O
+  10,R,J
+   1,R
+repeat,2
+   1,S,N
+   1,O
+  11,R
+endrepeat
+   1,S,N
+   1,O
+  10,R
+   4,Z
+   1,S,N
+   1,O
+  11,R
+   1,S,N
+   1,O
+  10,R
+   9,R,K,G
+   5,R
+   1,R,K
+repeat,2
+   1,S,N
+   1,O
+  11,R,K
+endrepeat
+repeat,3
+   1,S,N
+   1,O
+  11,R,D
+endrepeat
+   6,R,D
+   1,R,D,J
    9,R
-  14,R,Z
-  26,R,C
-  13,U,X
+  10,D,C
+  26,R,X
+  13,U,C
   13,R,J
    1,J
    1,R,J
    8,R
-   2,R,J
-   1,R
-   5,R,J
+   8,R,J
   32,R
   69,R,X
   18,R,U,C
-  18,R,D,X
-  12,R
+  16,R,D,X
+  14,R
   10,U,Z
   10,R,J
    6,R
@@ -108,8 +136,9 @@ console rmx2 5
    1,L
    1,J
    7,R,D
-   3,L
-   5
+   3,L,D
+   2,D
+   3
    8,R
    5,R,D
    1,D
@@ -122,4 +151,5 @@ console rmx2 5
    5,D
    1,L,G
   47,L,J,G
-ChapterTime: 0:17.731(1043)
+
+ChapterTime: 0:17.289(1017)
