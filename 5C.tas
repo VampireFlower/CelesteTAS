@@ -67,53 +67,49 @@ endrepeat
    1,S,N
    1,O
   10,R,D
-   2,D
-  11,R,D
-   1,R
+   1,D
+   3,R,D
+   2,R
+   9,R,D
   40
 
 #lvl_02
-   4,R
-   1,R,D
-   8,R,D,J
-   5,R
-   2,R,J
+   3,R
+   4,R,D
+  10,R,D,J
+   3,R
    1,S,N
-   1,O
-  10,R,J
+  10,O
+   2,R
+   1,S,N
+  10,O
+   2,R,K
+   1,S,N
+  10,O
+   2,R,K
+   1,S,N
+  10,O
    1,R
-repeat,2
-   1,S,N
-   1,O
-  11,R
-endrepeat
-   1,S,N
-   1,O
-  10,R
-   4,Z
-   1,S,N
-   1,O
-  11,R
-   1,S,N
-   1,O
-  10,R
-   9,R,K,G
-   5,R
    1,R,K
-repeat,2
    1,S,N
-   1,O
-  11,R,K
-endrepeat
-repeat,3
+  10,O
+   2,R
    1,S,N
-   1,O
-  11,R,D
-endrepeat
-   6,R,D
-   1,R,D,J
-   9,R
-  10,D,C
+  10,O
+   2,R
+   1,S,N
+  10,O
+   1,R
+   5,R,D
+   1,R,J
+   8,R
+  12,R,Z
+   1,L
+   6,J,G
+   5
+   1,R
+   1,R,K
+  15,R,D
   26,R,X
   13,U,C
   13,R,J
@@ -152,4 +148,4 @@ endrepeat
    1,L,G
   47,L,J,G
 
-ChapterTime: 0:17.289(1017)
+ChapterTime: 0:16.660(980)
