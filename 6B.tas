@@ -1072,13 +1072,17 @@ repeat 3
 endrepeat
    1,S,N
   10,J
-   5,R,D,X
+   1,R
+   1,R,D
 repeat 2
    1,S,N
   10,J
    2,R,D
 endrepeat
-  69,R
+   4,R,Z
+   1,R,J
+  21,D
+  44,R
   15,R,X
   14,R
    1
@@ -1430,4 +1434,4 @@ AnalogMode,Ignore
   24,R,D,X
   21,R,D
  103,R
-ChapterTime: 3:17.302(11606)
+ChapterTime: 3:17.268(11604)
