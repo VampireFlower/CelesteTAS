@@ -2633,9 +2633,10 @@ Endrepeat
    1
    1,R
    1
-   6,L,Z
+   3,L
+   4,D,X
    1,R,J
-   6,R
+   5,R
    5,R,D,J
   15,R,D,X
    1,R,J
@@ -2649,13 +2650,17 @@ Endrepeat
   14,R,U,X
    1,R,J,G
   12,R
-  32,R,J
+  12,R,J
+   5,R
+   9
+   4,R,J
   14,U,X
-  16,R,J
+  17,J
   40
 
 #lvl_d-20
-  11
+   5
+   6,R
    8,U,X
    2,R,J
   11,R
@@ -3090,4 +3095,4 @@ Endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 6:31.357(23021)
+ChapterTime: 6:31.340(23020)

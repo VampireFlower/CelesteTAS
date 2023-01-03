@@ -93,28 +93,26 @@ console hard 6
    1
    1,L
   14,U,Z
-  26
-   1,L,U
+  27,L,U
 AnalogMode Precise
   43,F,3.201
    1,F,357.91
   11,F,298
   10,F,264.41
    5,L,D,X
-  26
-   1,R,U
+  27,R,U
    2,F,5.541
 Repeat 8
    1,S,N
-  10,J
+  10,O
    2,F,5.541
 Endrepeat
    1,S,N
-  10,J
+  10,O
    1,F,9.493
    1,F,45.776
    1,S,N
-  10,J
+  10,O
   29,F,45.776
    1,F,43.67
   14,F,10.5
@@ -342,17 +340,16 @@ AnalogMode Precise
    4,X
 repeat,5
    1,S,N
-   1,O
-  11,R,U
+  10,O
+   2,R,U
 endrepeat
    3
    1,S,N
-   1,O
-   9
+  10,O
    2,R,K,G
    1,S,N
-   1,O
-  16,R,K
+  10,K,O
+   7,R,K
    1,K
    2,R,K
    4
@@ -664,8 +661,7 @@ endrepeat
    6,D
    1,R,D
   15,L,D,C
-   7,R,D
-  14,R,D
+  21,R,D
    1,R
    1,R,D
    4
@@ -1045,40 +1041,40 @@ endrepeat
 #Spinner cycle 3
    2,D
 #---------------
+  11,R,D
+  36,L,D
    1,D
-   2,R,D
-   2,D
-   8,R,D
-  37,L,D
-  16,D
-   3,R,D
+   1,L,D
+  15,D
+   4,R,D
    1,D
+   1,L,D
    1,R,D
-   3,D
-   1,R,D
+   1,L,D
    1,S,N
-  10,J
-   1,D
+  10,O
    1,R,D
-repeat 6
+   1,D
+repeat 5
    1,S,N
-  10,J
+  10,O
    2,R,D
+endrepeat
+repeat 2
+   1,S,N
+  10,O
+   1,R,D
+   1,R
+   1,S,N
+  10,O
+   2,R
 endrepeat
 repeat 3
    1,S,N
-  10,J
-   2,R
-endrepeat
-   1,S,N
-  10,J
-   1,R
-   1,R,D
-repeat 2
-   1,S,N
-  10,J
+  10,O
    2,R,D
 endrepeat
+   2,R,D
    4,R,Z
    1,R,J
   21,D
@@ -1434,4 +1430,4 @@ AnalogMode,Ignore
   24,R,D,X
   21,R,D
  103,R
-ChapterTime: 3:17.268(11604)
+ChapterTime: 3:17.251(11603)
