@@ -29,7 +29,7 @@ Read,4HC,lvl_b-02 (0)
 
 Read,LoadA
 
-Read,5A,Start,lvl_b-01b
+Read,5HC,Start,lvl_b-01b
 
 #lvl_b-01b
    3
@@ -42,7 +42,7 @@ Read,5A,Start,lvl_b-01b
    1,R
   10,R,X
    6,R,J
-   1,R
+   1
    6,R,Z
    1,R,J
    6,R
