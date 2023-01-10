@@ -269,6 +269,10 @@ AnalogMode Precise
    2
    1,J,G
    2
+#------------------
+#a-06 spinner cycle
+   1
+#------------------
    1,L
    4
    4,Z
@@ -323,22 +327,36 @@ AnalogMode Precise
   10,R,J
    1,R,K,G
   47,R,J,G
-   1,K,G
-   1,L,K
-  10,R,K
-  14,R,D
-   5
-   2,R,G
-  15,R,D,X
-  21,L,D,C
-  21,L
-  16,U,G
-  12,G
+   6,K,G
+   3,J
+  12
+   7,L
+   1,L,D
+  14,R,Z
+   1,R,J
+  16,L,X
+   4,L,J,G
+   9,L
+  10,G
+   1,D,G
+   1,G
    1
+   1,J
    1,L,K,G
-   3,J,G
+   3,K
+   3,R
+   1
+   4,R
+   1
+   4,R,D
+   1,L,D,J
+   1,L,K,G
+   1,J,G
+   4
+   1,J,G
+   1
    4,X
-repeat,5
+repeat,4
    1,S,N
   10,O
    2,R,U
@@ -346,41 +364,59 @@ endrepeat
    3
    1,S,N
   10,O
-   2,R,K,G
-   1,S,N
-  10,K,O
-   7,R,K
-   1,K
-   2,R,K
-   4
-  10,U,X
+   1,R,U
+  11,R,J,G
    1,J
-   1,K
-  30,D
-  13,L,D
-   2,R,D
-   2,R
+   1,R,J
+   1,J
+   9,U,Z
+   1,J
+   2,K
+  28,D
+  15,L,D
+   5,R,D
    1,J
    1,L,K,G
-   3,R,K
+   5,R,K
    5,R
-  20,R,K
-   1,G
+  19,R,K
+   2,G
+   1,R,J,G
+   3,L,J
    1,L,J
-   5,L,K
-   5,L
-  11,L,K
+   3,R,J
+   1,R
+   2
+   1,R
+   1
    1,J
-   3,K,G
-   7,R,K
-   8,J
-   7
+   1,R
+   1,R,J
+   1,R
+   1,K,G
+   5,R
+   1
+   1,L
+   2,L,D
+   2,J
+   1,K,G
+   1,J,G
+   1,K,G
+   1,R,K
+   1,J
+   1,K,G
+   2,L,K
+   3,R,K
   15,U,Z
    1,J,G
-   3,R
-   1
    4,R
+   1
+   2,R
    7,R,Z
+#-----------------
+#+1f Spinner cycle
+   1,R,Z
+#-----------------
    2,R,J
   40
 
@@ -1037,47 +1073,40 @@ endrepeat
    1,L
   15,R,D,X
   16,L,D
-#---------------
-#Spinner cycle 3
    2,D
-#---------------
   11,R,D
-  36,L,D
-   1,D
-   1,L,D
-  15,D
-   4,R,D
-   1,D
-   1,L,D
-   1,R,D
-   1,L,D
+  36,L
+  18
+#alternate cycle
+#would work if 1f is
+#saved earlier in the level
+#  12,D
+#   1,S,N
+#  10,O
+#   2,D
+#repeat 8
+#   1,S,N
+#  10,O
+#   2,R,D
+#endrepeat
+#   1,S,N
+#  10,O
+#   1,R,D
+#  15,R,Z
+  13,D
    1,S,N
   10,O
-   1,R,D
    1,D
-repeat 5
+   1,R,D
+repeat 8
    1,S,N
   10,O
    2,R,D
 endrepeat
-repeat 2
    1,S,N
   10,O
-   1,R,D
-   1,R
-   1,S,N
-  10,O
-   2,R
-endrepeat
-repeat 3
-   1,S,N
-  10,O
-   2,R,D
-endrepeat
-   2,R,D
-   4,R,Z
-   1,R,J
-  21,D
+  15,R,Z
+  23,R,D
   44,R
   15,R,X
   14,R
@@ -1430,4 +1459,4 @@ AnalogMode,Ignore
   24,R,D,X
   21,R,D
  103,R
-ChapterTime: 3:17.251(11603)
+ChapterTime: 3:16.163(11539)
