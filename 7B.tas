@@ -751,10 +751,10 @@ Add 58
    1,O
   30
 #Uncomment if the tas desyncs
-#   1,R
-#   1,F,90
-#   1,R
-#   1,F,90
+   1,R
+   1,F,90
+   1,R
+   1,F,90
    1,J
   46
 
@@ -1128,6 +1128,7 @@ EndStunPause
 #lvl_g-00
 #CP-20
   73
+
 #3000M
   10,R,X
    2,R,J
@@ -1266,6 +1267,9 @@ EndStunPause
 #lvl_g-01
 #CP-14
  109
+#CP-09 Spinner Cycle
+   1
+#---------------
   11,L,Z
    2,L,J
    1,L
@@ -1423,73 +1427,70 @@ EndStunPause
    6,R,J
    3,R
   26,R,X
-  13,U,C
-   6,J
+  12,U,C
+   7,J
    1,K
+   1,R,J,G
+   5,L
+   9,R
    1
-   4,L
-   3
-#-------------------
-#Spinner Cycle CP-09
-   0
-#-------------------
-  13,L,D,X
-   2,L,J
-   9,L,D,X
+   6,R,Z
+   1,L,J
+   1,L,K,G
+   3,K
+   5,L,K
+  15,L,D,X
+   3,L,J
+   4,L,K,G
+   7,L,U,X
    3,L,J,G
-   4,L
-   3
-   1,L
-   2,L,J
-   1,J
-  10,L,K,G
-   2,L
-  11,L,D,X
+   9,L
+   8,L,D,X
    1,L,J,G
    7,L
-   1,L,K
-   8,L
+   1,L,J
+   9,L
 
 #CP-09
-   7,L,J
-   3,L
-  19,L,D,X
-   1,L,D,J
+   1,L,J
+   7,L
+  15,L,D,X
+   1,L
+   7,L,D,J
    5,L
-   3,L,K
-   2,L
-   1,K
-   1,L
-   8
-   4,D
-  21,L,Z
-   8
-  15,L,Z
-   9
-  15,L,Z
-  21,R
-   1,L
-  10,L,X
-   9,L,J
+   4,L,D,X
+AutoInput, 2
+   1,J,S,N
+  10,J,O
+StartAutoInput
+  10,L,D,J,X
+EndAutoInput
+   1,L,D,J,X
+   3,L,J
+AutoInput, 2
+   1,J,S,N
+  10,J,O
+StartAutoInput
+   3,L,D,J
+   5,L,K
+EndAutoInput
+   1,L,K
 StunPause
-   5,L
-   1,L,Z
-SkipAutoInput
-   3
-  27,L
-   1,L,Z
-SkipAutoInput
-   3
-   8,L
+   7,L,J
 EndStunPause
-  14,L,J
-  19,L,D
-   3
-   2,D
-  16,L,Z
-   1,L
-   4,J
-  12,L,K
+StunPause
+   1,J
+   8,L,J
+   2,L
+   1,L,J
+   1,L,K,G
+EndStunPause
+   4,L,J
+  28,L,D
+   1,D
+  10,L,U,Z
+   1,R
+  11,L,K
   10,R,Z
   10,L,J
    1,L
@@ -1860,4 +1861,4 @@ EndRepeat
   10,R
   15,L
    5,R
-FileTime: 4:45.518(16854)
+FileTime: 4:44.325(16725)

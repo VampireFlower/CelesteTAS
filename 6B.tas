@@ -102,18 +102,12 @@ AnalogMode Precise
    5,L,D,X
   27,R,U
    2,F,5.541
-Repeat 8
-   1,S,N
-  10,O
-   2,F,5.541
-Endrepeat
-   1,S,N
-  10,O
+StunPause, Input
+  16,F,5.541
    1,F,9.493
-   1,F,45.776
-   1,S,N
-  10,O
-  29,F,45.776
+   3,F,45.776
+EndStunPause
+  27,F,45.776
    1,F,43.67
   14,F,10.5
    1,F,0
@@ -269,10 +263,9 @@ AnalogMode Precise
    2
    1,J,G
    2
-#------------------
 #a-06 spinner cycle
-   1
-#------------------
+   0
+#--------
    1,L
    4
    4,Z
@@ -323,69 +316,74 @@ AnalogMode Precise
    1,K,G
    2,J,G
    4
-   9,J,G
-  10,R,J
-   1,R,K,G
-  47,R,J,G
-   6,K,G
-   3,J
-  12
-   7,L
-   1,L,D
-  14,R,Z
-   1,R,J
-  16,L,X
+   2,J,G
+  13
+  14,L,D
+   3
+  15,L,Z
+   9,R,D
+   1,L,J,G
+   2,K,G
+   1,R,K
+  21,L,K
+   1,K
+   3,G
+   1
+   1,J
+  16,L,K,G
+   1,L,J,G
+   2,L,K,G
+   1,K
+   1,L,K
+   1,L
+  17,L,X
    4,L,J,G
    9,L
-  10,G
-   1,D,G
-   1,G
+   9,G
    1
    1,J
-   1,L,K,G
-   3,K
-   3,R
-   1
-   4,R
-   1
-   4,R,D
-   1,L,D,J
-   1,L,K,G
-   1,J,G
+   3,L,K,G
    4
-   1,J,G
+   5,R
    1
-   4,X
-repeat,4
-   1,S,N
-  10,O
-   2,R,U
-endrepeat
-   3
-   1,S,N
-  10,O
-   1,R,U
-  11,R,J,G
+   1,R,D
    1,J
+   5
+   1,R
+   1
+   1,R
+   1,R,J
+   1,L,K,G
+   2,R,K
+   1,L,K
+   1,J,G
+   6,R,U,X
+StunPause, Input
+SkipInput, 3, 6
+  10,R,U,X
+   1,R,J,G
+EndStunpause
+   8,R,J
+   2,J
    1,R,J
    1,J
-   9,U,Z
+  10,U,X
    1,J
-   2,K
+   1,K
   28,D
-  15,L,D
-   5,R,D
+  16,L,D
+   4,R,D
    1,J
    1,L,K,G
-   5,R,K
+   4,R,K
    5,R
-  19,R,K
+  10,R,K
+  10,R
    2,G
    1,R,J,G
    3,L,J
    1,L,J
-   3,R,J
-   1,R
+   4,R,J
    2
    1,R
    1
@@ -394,14 +392,14 @@ endrepeat
    1,R,J
    1,R
    1,K,G
-   5,R
-   1
+   4,R
+   2
    1,L
-   2,L,D
-   2,J
+   3,L,D
+   1,L,J
    1,K,G
    1,J,G
-   1,K,G
+   2,K,G
    1,R,K
    1,J
    1,K,G
@@ -1081,31 +1079,20 @@ endrepeat
 #would work if 1f is
 #saved earlier in the level
 #  12,D
-#   1,S,N
-#  10,O
+#StunPause, Input
 #   2,D
-#repeat 8
-#   1,S,N
-#  10,O
-#   2,R,D
-#endrepeat
-#   1,S,N
-#  10,O
-#   1,R,D
+#  17,R,D
+#EndStunPause
 #  15,R,Z
+#  23,R,D
   13,D
-   1,S,N
-  10,O
+StunPause, Input
    1,D
-   1,R,D
-repeat 8
-   1,S,N
-  10,O
-   2,R,D
-endrepeat
-   1,S,N
-  10,O
-  15,R,Z
+  17,R,D
+SkipInput, 3, 1
+   5,R,Z
+EndStunPause
+  10,R,Z
   23,R,D
   44,R
   15,R,X
@@ -1459,4 +1446,4 @@ AnalogMode,Ignore
   24,R,D,X
   21,R,D
  103,R
-ChapterTime: 3:16.163(11539)
+ChapterTime: 3:15.942(11526)
