@@ -1137,31 +1137,24 @@ EndStunPause
    1,K,G
    1,J,G
   15,R,D,X
+  12,R,D
    1,R
    1,R,D
+   1,R
+   1
+   8,R
+   7,R,U,X
+StunPause
    4,R
-   1,R,D
-  12,R
-   3,R,D
-   2,R
-  18,R,U,X
-  20,R,C
-   9,L,D,X
-   9,L,J,G
-   2,L
-   3
-   1,L
-   2,J
-  12
-   1,R
-   4,L
-   1,L,D
-   1,J
-  10,K,G
-   1,R,K
+SkipInput,3
+   6,R
+   1,J,G
+EndStunPause
+   5,J,G
+  15,U,X
+  18,R,Z
   18,U,X
-  18,U,C
-  14,U,X
+  14,U,C
   40
 
 #lvl_d-01
@@ -1446,4 +1439,4 @@ AnalogMode,Ignore
   24,R,D,X
   21,R,D
  103,R
-ChapterTime: 3:15.942(11526)
+ChapterTime: 3:15.840(11520)
