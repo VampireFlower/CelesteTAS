@@ -102,7 +102,7 @@ AnalogMode Precise
    5,L,D,X
   27,R,U
    2,F,5.541
-StunPause, Input
+StunPause,Input
   16,F,5.541
    1,F,9.493
    3,F,45.776
@@ -308,10 +308,8 @@ AnalogMode Precise
   22,L
    1,R
    1,L
-   7,U,G
-   1,G
+  18,G
    1,U,G
-  10,G
    1,J,G
    1,K,G
    2,J,G
@@ -358,8 +356,8 @@ AnalogMode Precise
    1,L,K
    1,J,G
    6,R,U,X
-StunPause, Input
-SkipInput, 3, 6
+StunPause,Input
+SkipInput,3,6
   10,R,U,X
    1,R,J,G
 EndStunpause
@@ -1079,17 +1077,17 @@ EndStunpause
 #would work if 1f is
 #saved earlier in the level
 #  12,D
-#StunPause, Input
+#StunPause,Input
 #   2,D
 #  17,R,D
 #EndStunPause
 #  15,R,Z
 #  23,R,D
   13,D
-StunPause, Input
+StunPause,Input
    1,D
   17,R,D
-SkipInput, 3, 1
+SkipInput,3,1
    5,R,Z
 EndStunPause
   10,R,Z
@@ -1154,7 +1152,7 @@ EndStunPause
   15,U,X
   18,R,Z
   18,U,X
-  14,U,C
+  14,U,V
   40
 
 #lvl_d-01

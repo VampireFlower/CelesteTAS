@@ -415,18 +415,13 @@ console hard 1
    1,R,J,G
    4,R
    1,L,J,G
-   3,R,J,G
+   3,R,J
    8,R
+  15,L,D
    1,L
-   1,L,J
-  21,L,D
-   1,R,D
-   1,D
+  11,L,D
+   4,R,D
    1
-   1,R
-   2
-   1,R,D
-   3,R
   20,R,J
   10,K
    3,J
@@ -661,4 +656,4 @@ console hard 1
   15,L,X
  130,L
    1,R
-ChapterTime: 1:05.399(3847)
+ChapterTime: 1:05.382(3846)

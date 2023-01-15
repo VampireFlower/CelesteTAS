@@ -1,4 +1,4 @@
-#console load 7 3088 -1768
+#--------#console load 7 3088 -1768
 #play,500M,37
 
 #console load 7 5912 -4328
@@ -1413,9 +1413,9 @@ console load 7
 #lvl_f-00
   78
 #2500M
-#f-04 Spinner Cycle
+#Spinner Cycle
    2
-#--------
+#-------------
    4,Z
    2,R,J
    5,R,K,G
@@ -1480,12 +1480,12 @@ console load 7
 
 #lvl_f-04
    2,R,J
-   5,R
-   1,R,J
    4,R
+   1,R,J
+   5,R
    3
    1,R
-   2
+   2,D
    8,L,Z
    1,R,J
    6
@@ -1497,37 +1497,36 @@ StunPause, Input
    4,R,J,G
 EndStunPause
    2,R,J
-  15,R,D,X
-   1,R,D
+  16,R,D,X
   40
 
 #lvl_f-03
 #ties
 #  11,R,D
-#   2,R
-#   3
+#   1,R
 #   1,R,J
-#   2,J
-#   2
-#  13,R,U,Z
-#   1,L,J,G
-#   9,R,J
-#   3,R
+#   8,R
+#  12,R,U,Z
+#   2,L,J,G
+#   8,R,J
+#   5,R
 #  15,R,D,X
 #   1,L,D
-#  16,R,D
+#  15,R,D
 #   7,R,Z
   11,R,D
-   1,R
+   2,R
+   3
    1,R,J
-   8,R
-  12,R,U,Z
-   2,L,J,G
-   8,R,J
-   5,R
+   2,J
+   2
+  13,R,U,Z
+   1,L,J,G
+   9,R,J
+   3,R
   15,R,D,X
    1,L,D
-  15,R,D
+  16,R,D
    7,R,Z
   40
 

@@ -1075,7 +1075,6 @@ console load 7
    3,R
    1,R,K
    3,R
-#7SHC3
    1,R,J
   15,D,X
    3,L,D
@@ -2393,6 +2392,9 @@ console load 7
   16,R,J
   14,R,U,X
    4,R,J,G
+#Spinner cycle
+   2
+#-------------
   58,R,C
   10,R,D,X
    1,R,J
@@ -2421,62 +2423,67 @@ console load 7
   43
 
 #lvl_f-04
-   1,R,D,X
-   1,R,J
-   8,R
-   5
-   7,R,D,X
+   2,R,J
+   5,R
    1,R,J
    4,R
-   1,R,K
+   3
    1,R
-   1,R,K
-  16,R,J
-  14,K,G
-   3,J
-   5,R,X
-   1,R,J,G
-   1,J
-   9,R,J
-  15,R,D,X
-  11,R
+   2
+   8,L,Z
    1,R,J
-  10,R,D,X
-   1,R,J
+   6
+   5,L,J
+   7,R,J
+   6,R,U,X
+StunPause, Input
+   8,R,U,X
+   4,R,J,G
+EndStunPause
+   2,R,J
+  16,R,D,X
   40
 
 #lvl_f-03
-   7,R
-   4,R,J
-  14,R,Z
-   2,R,J
-   2,R,D,K
-  15,R,D,X
-  15,R,D,C
-   3,R,D
-   7,R,J
-  10,R,U,Z
-   1,L,K,G
-   9,R,J
-  14,R,U,X
-   1,R,J,G
-  15,R
-  15,D,X
-   1,R,D
-  14,R,D,C
+#ties
+#  11,R,D
+#   1,R
+#   1,R,J
+#   8,R
+#  12,R,U,Z
+#   2,L,J,G
+#   8,R,J
+#   5,R
+#  15,R,D,X
+#   1,L,D
+#  15,R,D
+#   7,R,Z
+  11,R,D
+   2,R
+   3
    1,R,J
+   2,J
+   2
+  13,R,U,Z
+   1,L,J,G
+   9,R,J
+   3,R
+  15,R,D,X
+   1,L,D
+  16,R,D
+   7,R,Z
   40
 
 #lvl_f-05 (1)
-   6,R,D,X
+   3,R,Z
    1,R,J
    3,R
    1,R,J
    3,R
   20,R,J
-  16,R,U,X
-  14,U,C
-   7,J
+  17,R,U,X
+  14,U,Z
+   6,J
   40
 
 #lvl_f-07
@@ -3884,4 +3891,4 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 8:51.352(31256)
+ChapterTime: 8:51.063(31239)

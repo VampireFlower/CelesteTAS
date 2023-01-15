@@ -1,4 +1,4 @@
-#17:56.797
+#17:52.836
 #Start from Begin
 
 Read,StartFullGameFile
@@ -31,20 +31,7 @@ Read,6B,Start
 
 Read,LoadBCheatMode
 
-Read,7B,Start,Overworld
-
-Add 58
-   4
-   1,O
-  30
-   1,R
-   1,F,90
-   1,R
-   1,F,90
-   1,J
-  46
-
-Read,7B,2000M
+Read,7B,Start
 
 Read,LoadBCheatMode,0,Core
    1,R

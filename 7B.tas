@@ -750,7 +750,10 @@ Add 58
    4
    1,O
   30
-Set,Engine.Scene.Current.checkpoint,4
+   1,R
+   1,F,90
+   1,R
+   1,F,90
    1,J
   46
 
@@ -1455,22 +1458,15 @@ EndStunPause
    7,L,D,J
    5,L
    4,L,D,X
-AutoInput, 2
-   1,J,S,N
-  10,J,O
-StartAutoInput
-  10,L,D,J,X
-EndAutoInput
-   1,L,D,J,X
+StunPause
+  10,L,D,J
+SkipInput, 4
+   1,L,D,J
    1,J
    2,L,J
-AutoInput, 2
-   1,J,S,N
-  10,J,O
-StartAutoInput
    6,L,D,J
    2,L
-EndAutoInput
+EndStunPause
    4,L
    1,L,D,J
    6,L
@@ -1487,15 +1483,19 @@ EndAutoInput
   15,L,X
   10,R,D,C
    6,L,J
-   2,L
-   2
-   1,J
-   4
-   1,L,J,G
-   8,R,J
    1
-  15,L,Z
-   2,L
+   1,J
+   1,L
+   4,L,J
+   1,L
+   1
+   1,L,G
+   3,J,G
+   2,L,J
+   1,R,J
+   2,J
+   1
+  16,L,Z
   10,R,D,X
   10,L,J
    1,L
@@ -1866,4 +1866,4 @@ EndRepeat
   10,R
   15,L
    5,R
-FileTime: 4:42.914(16642)
+FileTime: 4:42.897(16641)

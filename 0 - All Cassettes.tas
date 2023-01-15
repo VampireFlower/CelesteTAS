@@ -1,4 +1,4 @@
-#25:39.724
+#25:39.061
 #Start from Begin
 
 Read,StartFullGameFile
@@ -142,7 +142,58 @@ Read,7A,Start,lvl_d-02
 
 Read,7HC,lvl_d-02,lvl_d-05 (1)
 
-Read,7A,lvl_d-05
+Read,7A,lvl_d-05,2500M
+
+#Spinner Cycle
+   0
+#-------------
+
+Read,7A,-------------,lvl_f-02
+
+#lvl_f-02
+   1,R
+   9,R,J
+   4,R
+   1,R,K,G
+  17,R,D
+   1,L
+   3,D
+   4,R,D
+   3,R
+   3
+  14,R,Z
+   1,J,G
+   1,L,J
+  10,R,D,X
+   6,R,J
+  14,R,U,X
+   4,R,J,G
+   6,R,D,X
+   3,R,J
+  43
+
+#lvl_f-04
+   2,R,K
+   4,R
+   1,R,D
+   1,R,J
+   7,R
+   4,D
+   8,L,Z
+   1,R,J
+   6
+   5,L,J
+   7,R,J
+   6,R,U,X
+StunPause, Input
+   8,R,U,X
+   4,R,J,G
+EndStunPause
+   2,R,J
+  16,R,D,X
+  40
+
+Read,7A,lvl_f-03
 
 Read,LoadCoreFromSummit
 
