@@ -109,29 +109,28 @@ console rmx2 4
    1,R
    1
    7,R
+   1,R,J
    6,R,D,X
    1,R,J
    7,R
    1,R,J
-   8,R,D,X
+   7,R,D,X
   40,J
 
 #lvl_02
-   5,R,J
-  17,R,K
-   2,R
+   1,R,J
+  22,R,K
+   1,R
    1,R,K
-   3,R
+   2,R
   14,R,U,X
    3,R,J,G
-  28,R,D
-   2,R
+   1
+  27,R,D
+   4,R
    1,R,D
-   2,R
-   9,R,J
-   1,J
-   1,R,J
-   4,J
+  12,R,J
+   3,J
   10,R,X
    7,J
    1,R,J
@@ -183,4 +182,4 @@ console rmx2 4
   10,R
   27,R,J
  141,R,U,X
-ChapterTime: 0:24.922(1466)
+ChapterTime: 0:24.905(1465)

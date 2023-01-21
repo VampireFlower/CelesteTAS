@@ -2880,7 +2880,7 @@ AnalogMode,Precise
   12,F,90
 Read,9,Stubbornness,Lightning cycle
 #0-14
-   3
+   7
 #---------
    7,R,D,C
    1,L,J
@@ -2905,43 +2905,8 @@ Read,9,Stubbornness,Lightning cycle
   40
 
 #lvl_j-09
-Read,9,lvl_j-09,lvl_j-16
-
-#lvl_j-16
-  14,R,D
-  12,R,U,X
-   1,L,J,G
-  15,R,D
-   1,D
-  18,R,D
-  21,R,U,J,G
-  33,R,G
-   1,S
-  10,O
-   3,R,G
-   5,R,D,G
-   3,R,D,J,G
-   1,L
-   4,K
-  11,R,K
-  40,R,U,J,G
-   2,R,J
-  15,L,U,X
-   8,R
-  38,R,U,J,G
-   9,D
-  12,U,X
-  37,R,U,J,G
-  38,R
-  14,U,Z
-  27,L,U
-  89,F,1.36
- 117,F,0.5
-  14,U,X
-  38
-#End_IGT
-#Read,9,Lightning cycle
-ChapterTime: 9:06.125(32125)
+Read,9,lvl_j-09,End_IGT
+ChapterTime: 9:05.462(32086)
 
 # Optional waiting for
 # visuals to play out

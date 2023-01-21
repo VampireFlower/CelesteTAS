@@ -527,28 +527,19 @@ console load 10
   16,U,X
    5,L,J,G
    5,L,X
+   1
+   7,R
    5
-   1,R
-   1
-   1,R
-   1
-   2,L
-   2
-  15,L,U,X
-  13,U,Z
-   1,R,K
-   1,R,J,G
-   1
-   2,L
-   1
-   2,L
-   1
-   3,L,K
   14,U,X
-   2,L,J
-  10,L,U,C
+   5,L,J
+   1,L
+  12,L,U,C
    1,L,K,G
+   2,L,J,G
    7,L
+   8,L,K
+  16,U,X
+   7,L,C
   16,R
    5,R,J,G
   15,R,U,X
@@ -566,15 +557,11 @@ console load 10
   10,R,K,G
    1,L,K
    1,R
-   1,S,N
-  10,O
-   5,R,D,X
-repeat,4
-   1,S,N
-  10,O
-   2,R,D,X
-endrepeat
-   2,R,D,X
+   4,R,D,X
+StunPause
+   8,R,D,X
+EndStunPause
+   3,R,D,X
    4,R,J
    4,R
    7,R,D,X
@@ -772,7 +759,7 @@ endrepeat
   45,U,X
 #-----------------
 #Spinner Cycle 0-2
-   1
+   0
 #-----------------
   60,L,U,C
   40
@@ -1991,10 +1978,6 @@ Endrepeat
   45,R,X
   15,R,D,C
    9,D,X
-#-----------------
-#Spinner Cycle 0-2
-   1
-#-----------------
  109,R,C
   26,R,D,X
   12,R,J
@@ -2275,6 +2258,10 @@ Endrepeat
    1,L
    2
   18,L,D
+#-----------------
+#Spinner Cycle 0-2
+   1
+#-----------------
   15,R,X
   14,R,U,C
    1,J,G
@@ -2449,24 +2436,18 @@ Endrepeat
    1,D,J
    1
 #Spinner cycle
-#manip in h-02
-   1,S,N
-  10,O
+#manip in h-07
+StunPause
    2
-   1,S
-  10,O
-   5,R,D,X
-repeat,2
-   1,S,N
-   1,O
-  11,R,D
-endrepeat
-   3,R,D
-repeat,2
-   1,S,N
-   1,O
-  11,R,D
-endrepeat
+   1,Z
+SkipInput
+   3
+   2,R,D
+EndStunPause
+   4,R,D
+StunPause
+   6,R,D
+EndStunPause
    5,R
    2,R,K
    6,R
@@ -3355,7 +3336,7 @@ Set,AnalogMode,Precise
 #---------------
 #Lightning cycle
 #0-14
-   0
+   2
 #---------------
    7,R,D,C
    1,L,J
@@ -3456,24 +3437,27 @@ Set,AnalogMode,Precise
   22,R,J,G
   16,R,G
    1,R,D,J,G
-  24,R,D,G
-   9,L,D,G
-  15,D,G
-   4,L,U,G
-   1,L,D
-  32,R
-  46,R,D,G
-   3,R
-   9,L,Z
-   3,R,J
-   7,R
-  40,R,U,J,G
-   8,R,J
-   9,U,J,G
+  16,R,D,G
+   6,R,G
+   4,D,G
+   3,R,D,G
+   1
+   9,L
+  50,R
+  32,R,G
+   9,R
+  10,L,Z
+   2,R,J
+   2,R
    6,R,J
-   9,U,J,G
-   7,R,J
-  10,G
+  40,R,U,J,G
+   5,R,J
+   6,G
+   1,U,G
+   1,G
+   2,U,G
+   3,R
+  30,G
    1,U,G
    1
    1,R,K,G
@@ -3496,11 +3480,9 @@ Set,AnalogMode,Precise
    7,J
   14,R,U,X
   49,R,U,J,G
-  14,R,D,G
+  13,R,D,G
    1,R,G
-  16,R,D,G
-   1,R,G
-  22,R,D,G
+  40,R,D,G
    3,R,G
    4,G
    1,D,G
@@ -3512,10 +3494,14 @@ Set,AnalogMode,Precise
    8,R,G
    7,R
   14,R,X
-  37,R,D,G
-   3,R,G
+  33,R,D,G
+   1,R,G
+   1,R,D,G
+   4,R,G
+   1,R,D,G
    1,G
-   2,D,G
+   1,D,G
+   1,G
    1,D
   13,R,Z
    1,L,J
@@ -3529,39 +3515,37 @@ Set,AnalogMode,Precise
   13,L,K
   15,L,D,X
   20,L
-   3,L,J
-   3,L
-   9,L,D,X
-   1,L,J,G
+   5,L,J
    1,L
-   1
-   6,L
-   1,L,J
-   7,L
-  43,L,K
+   9,L,D,X
+   1,L,K,G
+  17,L
+  41,L,K
   18,L,U,X
   15,U,C
-  20,L
-   2,L,J,G
+  21,L
+   1,L,J,G
    1,R,J
    1,J
    1,R,J
    1,L,J
-   8,J
+   5,J
+   3
    1,K,G
    7
    1,R
    8,L,J
-   9,L
+   8,L
    1,L,K
+   1,L
   10,R,D
   14,D,G
    5,G
-   1,D,G
-   7,G
-   3,U,G
-   1,G
    1,U,G
+   7,G
+   2,U,G
+   1,G
+   2,U,G
    1
    1,R,J,G
    1,R,K,G
@@ -3725,7 +3709,7 @@ Endrepeat
   14,U,X
   38
 #End_IGT
-ChapterTime: 8:08.478(28734)
+ChapterTime: 8:08.206(28718)
 
 # optional waiting for
 # visuals to play out

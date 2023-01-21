@@ -988,47 +988,53 @@ EndStunPause
   13,L,Z
   17,U,X
    7,R,V
-   9,R,K,G
-  27,R,D
-  22,L,D
-   4,R,D,X
+  13,R,K,G
+  15,R,D,X
+  11,L
+  16,L,D
+   2,R,D
+   1,R
+   1
+   1,R,D
+   6,R,Z
    1,R,J
-   3,R
-   1,R,J
-   3,R
+   6,R
    3,R,J
-   2,R
+   1,R
   40
 
 #lvl_f-02
-   4,R
-   4,R,J
+   1,R
+   1,R,J
+   3,R
+   3,R,J
   14,R,U,Z
-   9,R,J,G
-   4,R
-   2
-   6,R,K
+  11,R,J,G
+   5,R
+   4,R,J
    1,R,J,G
-   1,L,J,G
    1,L
-   1,R,K,G
-   3,R,J,G
+   4,R,K,G
+   1,R
+   5
+   2,R,J
+   1,R
+   1,R,J
+   7,R,D
    3,R
-   2
-   3,R
-   4,R,K
-   6,R
    5,R,X
   28,R,J
-  12,R,K,G
-   7,R,J,G
-  15,R
-   3,L
-  10,J
-   9
-   1,R,K
-   6,R
-   1
+   1,K,G
+   1,L,K
+  15,R,J,G
+   2,R,K,G
+  16,R
+   1,J
+   6,R,J
+   3,J
+   7
+   4,J
+   8
    1,R
   10,L,Z
    2,R,J
@@ -1383,7 +1389,7 @@ EndStunPause
    4
    1,R
 #CP-09 Spinner Cycle
-   1,D
+   2,D
 #---------------
    2,L,J
    3,J
@@ -1460,7 +1466,7 @@ EndStunPause
    4,L,D,X
 StunPause
   10,L,D,J
-SkipInput, 4
+SkipInput,4
    1,L,D,J
    1,J
    2,L,J

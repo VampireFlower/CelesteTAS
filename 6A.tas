@@ -12,6 +12,9 @@ console load 6
   34
 
 #lvl_start
+# [02] spinner cycle
+   1
+#-------------------
    4,D,X
    1,R,J
    3
@@ -144,92 +147,34 @@ AnalogMode,Precise
    1,L
    1,R
    1,L
-  24,G
-   1,S,N
-  10,O
-   2,G
-   1,S,N
-  10,O
+  25,G
    1,D,G
-   1,G
-   1,S,N
-  10,O
-   2,U,G
-   1,S,N
-  10,O
-   1,U,G
-   1,J,G
-repeat 4
-   1,J,S,N
-  10,J,O
-   2,J
-endrepeat
-   1,J,S,N
-  10,J,O
-   1,J,G
+StunPause
+   2,G
+   3,U,G
+  10,J,G
    1
-   1,S,N
-  10,O
-   5,R,U,Z
-   1,S,N
-  10,O
-   2,R,U
-   1,S,N
-  10,O
-   2,R,U
-   1,S,N
-  10,O
-   1,R,U
+SkipAutoInput,3,1
+  10,R,U,Z
    1,J,G
-   1,J,S,N
-  10,J,O
    1,L,J
    1
-   1,S,N
-  10,O
-   1,R,J,G
-   1,J
-   1,J,S,N
-  10,J,O
+   2,R,J,G
    1,L,J
-   1,J
-   1,J,S,N
-  10,J,O
-   2,J
-   1,J,S,N
-  10,J,O
-   1,J
-   1
-   1,S,N
-  10,O
-   1
-   1,L
-   1,S,N
-  10,O
+   4,J
    2
-   1,S,N
-  10,O
+   1,L
+   2
    1,R
    1
-   1,S,N
-  10,O
    1,D,J
    1,R,J
-   1,S,N
-  10,O
    2,L,J
-   1,S,N
-  10,O
    2
-   1,S,N
-  10,O
-   5,L,X
-   1,S,N
-  10,O
+SkipAutoInput,3,1
+   8,L,X
+EndStunPause
    2,L
-   1,S,N
-  10,O
-   3,L
    1,R,J
    4,J
   15,D,X
@@ -241,14 +186,13 @@ endrepeat
    1
    1,R
    1,L
-   7,G
+   6,G
    5,U,G
-   1,J,G
-   9,U,X
-   1,S,N
-  10,O
-   6,U
-  23,L
+   2,J
+   5,U,X
+  20,L,J
+   1,L,K,G
+   7
   13,U,X
   40
 
@@ -316,7 +260,7 @@ AnalogMode,Ignore
    3,R,J
    1,R
 #---------------
-#Spinner Cycle 1
+#[06] Spinner Cycle
    2,J
 #---------------
    4,Z
@@ -572,7 +516,7 @@ AnalogMode,Precise
    1,L,K
    5,U,X
 #---------------
-#Spinner Cycle 2
+#[b-03] Spinner Cycle
    0
 #---------------
    1,R,J
@@ -1864,4 +1808,4 @@ AnalogMode,Precise
    1,D,J
   18
 AnalogMode,Ignore
-ChapterTime: 4:36.080(16240)
+ChapterTime: 4:35.638(16214)
