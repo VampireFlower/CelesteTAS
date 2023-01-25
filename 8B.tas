@@ -114,9 +114,10 @@ console hard 9
 
 #lvl_a-02
    3,R
-  40,R,J
-   3
-   3,R
+  36,R,J
+   8
+   1,R
+   1
   14,L,D,X
    1,L,J
   18,L,D,X
@@ -185,8 +186,7 @@ console hard 9
    2
    1,R,J,G
    1,R,K,G
-  12,R
-   2,R
+  14,R
    1,R,J
    2,R
   40
@@ -201,8 +201,7 @@ console hard 9
    3
    1,R
   21,L
-   6
-   1,R
+   7,R
   27
   15,R,Z
   10
@@ -255,8 +254,7 @@ EndRepeat
    1,L
    5,R,J
    5,R
-  10,R,J
-   2,R
+  12,R,J
   14,G
    6,J,G
    1,L,J
@@ -318,9 +316,9 @@ EndRepeat
    9,R,V
   11,R,K
    9,R
-   1,R,J
+   1,R,K
    1,R
-   1,R,J
+   1,R,K
    1,R
    8
   13,R,Z
@@ -709,65 +707,66 @@ EndRepeat
   20,R,K,G
   39,R
    1,R,J
-  16,R
-   1,R,D
-   1,R,J
-   3,R
-   5,U,X
-   7
-  33,R,D
-   1
-  10,R,U,Z
-  23,R
-  15,R,D,X
-   1,R,J
-  10,R
-  40,K
+  20,R
+  18,R,K
+   1,R
+   1,R,K
+   2,R
+   1,R,K
+  12,R
+  14,R,U,X
+   1,R,J,G
+   9,R
+   1,R,D,K
+   5,R
+  40
 
 #lvl_c-06
-  13,R,K
-   1,R
-   8,R,J
-   5,R
-  10,R,J
-  31,R
+  12,R
+  11,R,J
+#Guaranteed to have
+#room for improvement
+  15,R,D
    1,D
-   4,R
+  17,R,D
    1,D
-   4
-   1,D
-   5,L
+   1,R,D
+   1,R,K,G
+  18,R
 #Max theoretical
 #liftboost is 77.26
+   2,D
+   4,L
+   2,D
+   4,L
+   2
   14,L,Z
    1,R,J
-  12,R,K,G
-  18,R
-   1,R,K
-  17,R
-  28,R,U,X
+  11,R,K,G
+  19,R
    3,R,J
-   5,R
-   4,R,J
-   7,R
+  14,R
+  28,R,U,X
+   1
+   9,R,J
+   8,R
   40
 
 #lvl_c-08
-   5,R
-   8,R,D
-   1,R
-   1,R,D
-   1
+  11,R,D
    1,D
-   4,D,X
+   2,R
+   1,D
+   1
+   4,Z
    1,R,J
    9,R
    5,R,D
    8,R,J
    5,R
-   1,R,J
-   2,J
-   1,R
+   2,R,J
+   1,J
+   1
    1,R,J
    2
    1,L
@@ -898,4 +897,4 @@ EndRepeat
   14,R,J
   14,R,U,C
  135,R
-ChapterTime: 2:04.746(7338)
+ChapterTime: 2:04.491(7323)
