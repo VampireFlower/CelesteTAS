@@ -388,29 +388,30 @@ console hard 1
 
 #lvl_08b
    6
-  27,R,G
+  27,G
    6,J,G
    1,L,J
-   6
+   4
+   1,L
+   1
    1,R
-   2,L,J,G
+   1,L,J,G
    3,R,J
    5,L,J
    1,L,K,G
-   1,J,G
-   3,L,J,G
-   2,L
-   3
-   1,L
-   1,R
+   1,L,J,G
+   1,K,G
+   2,L,K
+   1,K
+   5
+   2,R
    2,R,J
-   2
+   1,J
    1,R,K,G
    2,R,J,G
+  12,R
+   1,R,J
   13,R
-   2,R,J
-   3,R
-  10,R,J
   14,R,Z
    1,R,J,G
    4,R
@@ -656,4 +657,4 @@ console hard 1
   15,L,X
  130,L
    1,R
-ChapterTime: 1:05.382(3846)
+ChapterTime: 1:05.331(3843)

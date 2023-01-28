@@ -494,32 +494,27 @@ endrepeat
    1,R,J
   15,R,D,X
    2,R
-   1,R,J
-   9,R,D,X
+   1,R,K
+   6,R
   40
 
 #lvl_c-01
-   5,R,D,X
-   2,R,J
-   7,J
-  10,U,X
-  44,R,J
-  17,K
-   3,R,K
-   2,R
-  29,R,D,X
-   1,K
-   4,L,K
-   4,R,K
-  15,R
-   2
-   2,R
-   2
-   1,R
+   5,R,K
+  12,R,U,Z
+   1,L,J,G
+   6,R,J
+  19,R
+  20,R,K
+   1,L,K
+   1,R,K
+   1,J
+   2,K,G
+  11,L,K
+  15,L,U,X
+  55,R
    3,R,D
-   1,R
    7,R,Z
-   1,R,J
+   1,R,K
    6,R
    6,R,D,J
   40
@@ -686,39 +681,40 @@ endrepeat
    1,R,J,G
    5,R,G
    6,R,J,G
-  10,R,G
-   2,R,J
-  14,L,D,X
-   1,R,J
-  10,R,D,X
-  13,R,G
-   4,R,J,G
-   1,J,G
+   9,R,G
+   1,R,K,G
+   4,K,G
+   8,R,U,K,Z
+  16,R,K,G
    5,R,J,G
-   1,J,G
-   1,R,D,J
-  10,U,X
-  21,R,G
-  16,R,K
-  14,R
-  15,R,D,X
-  16,R
-   3,D
-   2
-   4,Z
-   1,R,J
-  13,R,G
+   3,J,G
+   1,D,J
+  11,U,X
+  22,R,G
+   5,R
+   2,R,J
+  12,R
+  12,R,J
+  17,R,D,X
+   3,R
+   1,D
+   3,R
+   9,D
+   1
+   5,R,Z
+   1,R,K
+  13,G
    1,R,J,G
    8,J,G
    1,J
   14,L,U,X
    1,J
   30,R,D
-   2,D
+   2
   11,R,Z
    1,R,J
-   1,R,K,G
-   3,R,K
+   3,R,K,G
+   1
    5,R,D,X
   13,R,G
    4,R,J,G
@@ -860,4 +856,4 @@ endrepeat
    5,R
   14,R,U,X
  135,R,D
-ChapterTime: 1:41.949(5997)
+ChapterTime: 1:41.745(5985)

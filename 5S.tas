@@ -1834,27 +1834,37 @@ console load 5
    1,R,J
   14,R,D,X
    3,R,J
-  17,R,D,X
-  10,L,C
-   5,L,J
-   4,L
+   3,R
+   3,R,J
+   1,R
    1
+   1,R
+   5,R,X
+   7,L,K
+   1,K
+  18
    1,L
-  11
-  15,R,Z
-  14,R,X
-   1,R,J
-   2,R
-  18,D,C
+   1,J
+  14,R,Z
+   1,R,K
+   1,R
+   3,R,K
+   1,R
+  16,R,D,X
+   4,R
+   1,L
+   1,R
+   2,R,J,G
+   3,L,J
+   1,L
+   1,R,K,G
    1,R,J,G
-   6,R,K,G
-   7,U,K,Z
+   1,R,K,G
    2,K
-   1
-   5,L,J
-  13,J
-   4,R,K,G
-   3
+  13,U,K,Z
+   4,L,J
+  14,J
+   8,R,K,G
    7,R,Z
    5,R,J
   40
@@ -3095,4 +3105,4 @@ Endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 6:31.340(23020)
+ChapterTime: 6:31.323(23019)

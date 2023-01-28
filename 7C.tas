@@ -41,22 +41,24 @@ console rmx2 7
    2,R
   10,L,Z
    9,R,J
-   1,R
+   2,R
+   2,R,J
+  26,R
+  15,R,X
+   2,R
+  15,R,U,Z
+   8,R
+   1
+   1,L,J,G
+   6,K,G
+   1,R,K
+   1,L,J,G
    1,R,J
-   1,R
+  10,L,J
+  12,L,K,G
+   7,J,G
    1,R,J
-  12,R
-   1,R,D
-  24,R
-  18,R,U,Z
-  14,R,U,C
-   1,J
-   1,L,K,G
-  12,K
-  12,J,G
-  12,K,G
-  12,J,G
-   2,R,K
+  12,L,K,G
   40
 
 #lvl_02
@@ -203,4 +205,4 @@ console rmx2 7
   11,R,J
   15,R,C
  135,R,D
-ChapterTime: 0:34.187(2011)
+ChapterTime: 0:34.153(2009)
