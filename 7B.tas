@@ -816,7 +816,7 @@ Add 58
    1
    1,G
    1
-   7,G
+   6,G
    8,R,Z
    1,R,J
    1,R,K,G
@@ -829,40 +829,34 @@ Add 58
    1,R,K,G
    1,R
    1,R,J,G
-   2
+   2,R
    8,R,K,G
    1,R,J,G
-   4,R
-   1
-   1,J
-StunPause
-   1,J
-   1
-  10,R,D,J
-EndStunPause
+   5,R
    1,R,J
-   1,R
+   1,J
 StunPause
-   4,R
-   2,R,J
-EndStunPause
-   2,R,J
-StunPause
-   3,R,J
-   1,R
-  10,R,J
-EndStunPause
-   3,R,J
-  15,R,U,V
-  13,R
-  15,U,C
-   4,R
    1
-   2,J
-   5,L,J
-  12,R,K
-   2,J,G
-   1,K
+   9,R,D,J
+EndStunPause
+   2,R,J
+StunPause
+   5,R
+   3,R,J
+EndStunPause
+   2,R,J
+StunPause
+   2,R,J
+   1,R
+   1,R,J
+   9,R
+EndStunPause
+  15,R,U,Z
+  13,R
+  14,U,X
+  18,R,J
+   3,R,K,G
+   1,J
   40
 
 #lvl_e-02
@@ -895,7 +889,7 @@ EndStunPause
   10,R,U,C
   40,L
 #Spinner Cycle 0-2
-   0
+   1
 #-----------------
   16,L,U,X
   16,L,Z
@@ -988,53 +982,47 @@ EndStunPause
   13,L,Z
   17,U,X
    7,R,V
-  13,R,K,G
-  15,R,D,X
-  11,L
-  16,L,D
-   2,R,D
-   1,R
-   1
-   1,R,D
-   6,R,Z
+   9,R,K,G
+  27,R,D
+  22,L,D
+   4,D,X
    1,R,J
-   6,R
+   3,R
+   1,R,J
+   3,R
    3,R,J
-   1,R
+   2,R
   40
 
 #lvl_f-02
-   1,R
-   1,R,J
-   3,R
-   3,R,J
-  14,R,U,Z
-  11,R,J,G
-   5,R
+   4,R
    4,R,J
+  14,R,U,Z
+   9,R,J,G
+   4,R
+   2
+   6,R,K
    1,R,J,G
+   1,L,J,G
    1,L
-   4,R,K,G
-   1,R
-   5
-   2,R,J
-   1,R
-   1,R,J
-   7,R,D
+   1,R,K,G
+   3,R,J,G
    3,R
+   2
+   3,R
+   4,R,K
+   6,R
    5,R,X
   28,R,J
-   1,K,G
-   1,L,K
-  15,R,J,G
-   2,R,K,G
-  16,R
-   1,J
-   6,R,J
-   3,J
-   7
-   4,J
-   8
+  12,R,K,G
+   7,R,J,G
+  15,R
+   3,L
+  10,J
+   9
+   1,R,K
+   6,R
+   1
    1,R
   10,L,Z
    2,R,J
@@ -1389,7 +1377,7 @@ EndStunPause
    4
    1,R
 #CP-09 Spinner Cycle
-   2,D
+   1,D
 #---------------
    2,L,J
    3,J
@@ -1872,4 +1860,4 @@ EndRepeat
   10,R
   15,L
    5,R
-FileTime: 4:42.897(16641)
+FileTime: 4:42.744(16632)
