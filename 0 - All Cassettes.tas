@@ -1,4 +1,4 @@
-#25:38.330
+#25:38.245
 #Start from Begin
 
 Read,StartFullGameFile
@@ -30,13 +30,9 @@ Read,1HC,lvl_10
 
 Read,LoadAFromB,SkipExit
 
-Read,2HC,lvl_start (2),Return
+Read,2HC,lvl_start (2)
 
-Read,LoadBFromA
-
-Read,2B,Start
-
-Read,LoadAFromB
+Read,LoadA
 
 Read,3HC,Start
 
@@ -140,62 +136,39 @@ Add 1
 
 Read,7A,Start,lvl_d-02
 
-Read,7HC,lvl_d-02,lvl_d-05 (1)
+Read,7HC,lvl_d-02,Return
 
-Read,7A,lvl_d-05,2500M
+Read,LoadBFromA
 
-#Spinner Cycle
-   0
-#-------------
+Read,7B,Start,Overworld
 
-Read,7A,-------------,lvl_f-02
+Add 58
+   4
+   1,O
+  30
+   1,J
+  46
+Add 1
 
-#lvl_f-02
+Read,7B,2000M
+
+Read,LoadAFromB,0,SkipExit
+
+#Epilogue
+Add 58
+  51
+   1,S
+   1,X
+  42
    1,R
-   9,R,J
-   4,R
-   1,R,K,G
-  17,R,D
-   1,L
-   3,D
-   4,R,D
-   3,R
-   3
-  14,R,Z
-   1,J,G
-   1,L,J
-  10,R,D,X
-   6,R,J
-  14,R,U,X
-   4,R,J,G
-   6,R,D,X
-   3,R,J
+   9
+   1,J
   43
+   1,J
+  46
+Add 1
 
-#lvl_f-04
-   2,R,K
-   4,R
-   1,R,D
-   1,R,J
-   7,R
-   4,D
-   8,L,Z
-   1,R,J
-   6
-   5,L,J
-   7,R,J
-   6,R,U,X
-StunPause, Input
-   8,R,U,X
-   4,R,J,G
-EndStunPause
-   2,R,J
-  16,R,D,X
-  40
-
-Read,7A,lvl_f-03
-
-Read,LoadCoreFromSummit
+Read,LoadCoreFromSummit,Epilogue
 
 Read,8AC,Start
   59
