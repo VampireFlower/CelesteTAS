@@ -401,12 +401,13 @@ Read,7S,lvl_c-07 (2),lvl_c-08
    2,R,K
    5,R
    1,R,K
-  12,R
-  20,R,Z
+  10,R
+  21,R,Z
    4,R,J
-   4,R
-   7,R,K
-   3,K
+   3,R
+   4,R,J
+   5,R
+   2,J
   14,U,X
    3,R,J
    2,R
@@ -1445,4 +1446,4 @@ read,7HC,lvl_g-00b,Exit
   15,R,J
    2,K,G
 read,7S,7SHC5
-FileTime: 9:56.428(35084)
+FileTime: 9:56.411(35083)
