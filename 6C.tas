@@ -52,12 +52,14 @@ AnalogMode Precise
   13,R
    1,R,D
   11,R
-  27,L,U
+AnalogMode Square
+  27,F,315.001
+AnalogMode Precise
    4,F,335.274
-  36,F,333.954
+  36,F,333.955
   11,F,270
   11,F,215
-  11,F,185.169
+  11,F,185.173
   18,F,145.473
   11,F,205
   10,F,233.45
