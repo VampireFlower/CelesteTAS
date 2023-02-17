@@ -564,26 +564,26 @@ console load 1
   18,R,D,J
    2,K
    2,L,J,G
-   4,L,K,G
+   3,L,K,G
+   2,L
    1,L,J,G
    1,L,K,G
-  13,L
-   1,L,J
   14,L
+   1,L,J
+  11,L
    1,G
-   5,J
-   1,L,J
-   1,J
-   1,L,J
-   5
+   2,L,D
+   1
+   1,L,D
+   1
+   1,L,D
+   7,J
    1,K
-   3,J,G
-   2
+   5,J,G
    1,R
    3
    3,J
-   1,R
-   2,R,J
+   3,R,J
    2,L
    1,L,K,G
    1,J,G
@@ -849,4 +849,4 @@ console load 1
    1,S
    1,D,J
   18
-ChapterTime: 1:16.415(4495)
+ChapterTime: 1:16.398(4494)
