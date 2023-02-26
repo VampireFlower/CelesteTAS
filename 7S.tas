@@ -2876,16 +2876,15 @@ EndStunPause
    2,R
    3
   12,R,U,X
-   1,J,G
+   1,L,J
    2,L
   14,L,D,X
    1,L,J
-  14,L,Z
-   1,L,J
-  15,D,C
-  11,R,D
+  11,L
+  15,D,X
+   9,R,D
   10,R,D,X
-   8,J
+   8,R,J
    7,L,D,X
    9,L,J
   14,L,U,X
@@ -3915,4 +3914,4 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 8:50.655(31215)
+ChapterTime: 8:50.604(31212)
