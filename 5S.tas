@@ -276,21 +276,70 @@ console load 5
   40
 
 #lvl_a-05 (0)
-  25,R,D
-  12,R,X
-   5,R,J
-   1,J
-  25,D
-  30,L,D,X
-  17,L,D,C
-   7
-   1,L,D
+   3,D
+  47,R,D
+  12,R,D,X
+   1,R,J
+   2,R,K,G
+   1,K
+   6,R,K
+  25,R,D,X
+  12,R,U,V
+   1,L
+   1,J,G
+   5
+   7,J
+   2,K,G
+   2
+   5,R
+  15,R,U,X
+  16,R
+   5,R,Z
+   2,R,J
+  40
+
+#lvl_a-06
+   1,R
+   1,R,J
+  24,R,D
+  14,R,D,X
+   2,R,K
+   1,L,J
+   1,K
+  14,J,G
+  14,U,X
+   9,R,U,J,C
+  36,R,J
+  15,L,U,X
    6,L
-   4,L,D
-   1,G
-  20,L,J,G
-  14,L,K,G
-   3,G
+   1
+   1,L,J,G
+   1,L,K,G
+   6,L
+  35,D,X
+   1,L,J
+  10,L
+   1,L,D,K
+   4,L
+   1,L,K
+  10,L,D,X
+   3,L,J
+  10,K,G
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  40
+
+#lvl_a-05 (1)
+  14,L,D,X
+   1,L,J
+   7,L
+   1,L,J
+  49,L
+  12,L,K,G
+   3,L,J,G
+  13,G
    1,J,G
    1,R,J
    1,K
@@ -341,117 +390,59 @@ console load 5
    5,R
    1,R,K
    5,R
-   5,R,Z
+   4,D,X
    1,R,J
-   4,R
-  40
-
-#lvl_a-05 (1)
-   2,R
-   1,R,K
-   2,R
-  14,R,D,X
-   7,R,J
-   6,R,K,G
-  15,R,D,X
-  14,R
-  14,R,U,Z
-   1,L,J,G
    5,R
-   8,R,J
-   2,J
-   1,R,J
-   1,K
-   3,R,K
-   7,R
-  15,R,U,X
-  16,R
-   6,R,Z
-   1,R,J
   40
 
-#lvl_a-06
-   1,R,J
-  16,R
-   9,L
-  15,R,D,X
-   1,L,J
-   1,L,K,G
-   1,L,J,G
-  14,K
-  14,U,X
-   9,R,U,J,C
-  36,R,J
-  15,L,U,X
-   6,L
-   1
-   1,L,J,G
-   1,L,K,G
-   6,L
-  35,D,X
-   1,L,J
-  10,L
-   1,L,D,K
-   4,L
-   1,L,K
-  10,L,D,X
-   3,L,J
-  10,K,G
-   6,L,Z
-   1,L,J
-   7,L
-   1,L,J
-  40
-
-#lvl_a-05 (2)
-   6,L,D,X
-   1,L,J
-   3,L
-   1,L,J
-   3,L
-   9,L,K
-   3,K
-   1,J
-   6,R,K,G
+#lvl_a-05(2)
    1,R
-   6,R,Z
-   1,R,J
-   6,R,K,G
+  12,R,K
+  13,U,V
+  28,R,K
+   1,R,J,G
+   2,L
+   1,R,J,G
+  11,R
+   5,R,X
+   5,R,K
+   5,R
+   1,R,K
+   4,R
+   1,R,K
    7,R
-   6,R,J
+  12,R,K
+   3,R,J,G
   14,U,Z
-   9,J
-   2
-   1,K,G
-   1,J
-   7,L
-  10,K
    3,R,K
-   3,J
-  18,U,X
+   9,L,K
   40
 
 #lvl_a-02
-  10,R,J
-   1,R
-  14,U,X
-   8,L,J
-   2,R,J
-   2,J
+   1,L
    1
+   1,L
+   1,K
+   1,J,G
+   1,R
+   1,R,K,G
+   5,R,J,G
+   1,R
+  15,U,X
+  10,J
+   5,R,J
    1,K
    7,R
-   6,R,Z
+   4,D,X
    1,R,J
-   6,R
+   7,R
    3,R,J
   15,R,D,X
   21,R
-   6,R,J
-   7,J
-   7,L,K
+  13,R,K
+   7,L,J
    4,L
-  18,L,D,X
+  18,L,D,C
    1,L
    1,L,D
    1,L
@@ -3116,4 +3107,4 @@ Endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 6:31.289(23017)
+ChapterTime: 6:30.966(22998)
