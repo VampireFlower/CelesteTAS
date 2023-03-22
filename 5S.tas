@@ -1487,17 +1487,24 @@ Endrepeat
 #lvl_b-05
    1,R,J
    7,R
-   7,R,J
-  17,R
+   6,R,J
+   5,R
+   4,R,J
+   8,R
   15,R,U,X
-  12,R
-   7
-   2,R
+  14,R
+   6
+   1,R
+   1,R
    4
-  25,R,J
-   2,R
-   7,U,X
-  17,L,J
+   2,R,K
+   5,R
+   3,R,K
+  13,R,U,V
+   1,L
+   6,K,G
+   8,R,K
+   9,J
   27,L,X
   11,L,U,C
    1,R
@@ -3107,4 +3114,4 @@ Endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 6:30.966(22998)
+ChapterTime: 6:30.898(22994)
