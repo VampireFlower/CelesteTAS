@@ -1930,27 +1930,29 @@ Endrepeat
    1,J
   14,U,Z
   10,L,J
-   4,R,J
-   8,R,K
-   7,R
-   6,R,Z
-   1,R,J
-   4,R
+   6,L,J
+   1,L,K,G
+   5,L
+   2
+   7,R,Z
+   2,R,J
+   1,R,K,G
+   9,R
   40
 
 #lvl_c-07
+   3,R,J
+  26,R,D,X
    2,R
-   2,R,J
-  35,R,D,X
-   1,R,J
-   5,R
-   1,R,J
-   2,R
+   8,R,D
+   1,R
+   4,R,J
   14,R,U,X
   16,R,J
   15,U,X
-   1,R,J,G
-  12
+   1,R,K,G
+   4,R
+   8,L
   14,R,D,X
    1,R,J
   16,R,D,X
@@ -3114,4 +3116,4 @@ Endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 6:30.898(22994)
+ChapterTime: 6:30.881(22993)
