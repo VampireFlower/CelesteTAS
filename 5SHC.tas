@@ -35,16 +35,7 @@ Endrepeat
   40
 
 #lvl_b-00 (0)
-read,5S,lvl_b-00 (0),+2f Berry (0)
-  11,R,X
-   5,R,J
-  13,U,X
-  40
-
-#lvl_b-20 (0)
-  11,R,J
-   6,R
-read,5S,5SHC0,5SHC1
+read,5S,lvl_b-00 (0),5SHC0
 
 #lvl_b-13 (1)
    1,R,K,G
@@ -88,7 +79,7 @@ read,5S,5SHC0,5SHC1
   58
 
 #lvl_b-13 (2)
-read,5S,lvl_b-13 (1),5SHC2
+read,5S,lvl_b-13 (1),5SHC1
 
 #lvl_b-17 (1)
   21,D
@@ -111,7 +102,7 @@ read,5S,lvl_b-13 (1),5SHC2
   16,D,C
   15,R,D,X
    6,R,C
-read,5HC,5SHC,lvl_b-11 (2)
+read,5HC,5SHC3,lvl_b-11 (2)
 
 #lvl_b-11 (2)
    1,L
@@ -164,14 +155,14 @@ read,5HC,lvl_b-04,lvl_b-02 (3)
   13,D
   18,R,D
   20,R,X
-read,5S,5SHC3,lvl_b-19
+read,5S,5SHC4,lvl_b-19
 
 #lvl_b-19
-read,5HC,lvl_b-19,5SHC3
+read,5HC,lvl_b-19,5SHC5
 
 #resync keydoor
   12
 
-read,5HC,5SHC3,lvl_b-16
+read,5HC,5SHC5,lvl_b-16
 read,5S,lvl_b-16
 ChapterTime: 7:01.566(24798)

@@ -981,17 +981,14 @@ console load 5
    1,R,K,G
    7,R
   11,R,J
-#+2f Berry (0)
-  14,R,X
-   2,R,J
-  14,U,X
+  11,R,X
+   5,R,J
+  13,U,X
   40
 
 #lvl_b-20 (0)
   11,R,J
-   5,R
-   2
-#5SHC0
+   6,R
    7,L,Z
    1,R,J
    7,R
@@ -1129,15 +1126,22 @@ console load 5
   40
 
 #lvl_b-20 (3)
-  21,R,D
-  18,D
-   5,J
-   4
-  11,D,X
+  10,R,D
+  22,D
+   1,R,D
+   3,D
+   1,L,D
+   2,D
+   2
+   6,R
+   2,R,K
+   1,R
+   9,D,X
   40
 
 #lvl_b-01 (4)
-  34,L,D
+   7,D
+  27,L,D
   11,L,X
    1,J
    1,K,G
@@ -1229,7 +1233,7 @@ console load 5
   12,R,J
   14,R,U,Z
 #+3f RTA berry
-#5SHC1
+#5SHC0
    5,K,G
    1
    3,R
@@ -1315,7 +1319,7 @@ console load 5
    1,S
    1,D,J
   34
-#5SHC2
+#5SHC1
   20,D,X
   11,R,D
    1,R
@@ -1487,7 +1491,7 @@ Endrepeat
    4,L
   21,R,D
   45,R,X
-#5SHC3
+#5SHC4
   27,U,C
   13,R,Z
    2,R,J
@@ -3126,4 +3130,4 @@ Endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 6:30.847(22991)
+ChapterTime: 6:30.813(22989)
