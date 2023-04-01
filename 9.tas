@@ -1,8 +1,5 @@
-#For loads Power Source - Determination
+#For loads Remembered - Determination
 Set,DashMode,Two
-
-#console load 10 9627 -1871.5
-#play,Power Source,37
 
 #console load 10 12807 -4216
 #play,Remembered,37
@@ -103,7 +100,7 @@ console load 10
    1,O
    2
    1,O
-   5
+  87
    1,O
   50
    1,O
@@ -115,7 +112,7 @@ console load 10
    1,O
    2
    1,O
-  87
+   5
    1,J
  160
    1,S
@@ -510,7 +507,6 @@ console load 10
   18,R,X
   20,R,C
   16,R,Z
-#Power Source
   11,R,V
    1,R,J
    6,R
@@ -519,6 +515,7 @@ console load 10
 
 #lvl_c-00
    1,R
+#Power Source
   12,R,Z
    1,R,J
    6,R
@@ -585,151 +582,135 @@ EndStunPause
   40
 
 #lvl_c-03
-   3,R,J
+   1,R,D
+   2,R,J
    5,R
-   1,R,J
-   7,R
-  10,L
-   1
-   3,L
-  17,U,X
-  17,G
-  14,R,G
+   2,R,J
+   2,R
+  13,R
+   2
    1,R
-  17,R,U,X
-   2,R,J,G
+  15,U,X
    1,R
-  21,R,G
-   3,L
-  16,L,U,X
-   5,U,C
-  31,L,G
-  12,R,J,G
-   1,L,K,G
+  13,G
+  11,R,G
+   1,L
+   3,R
+  15,U,X
+  10,R
+   7,L
+   8
+  15,U,X
+  15,U,C
+  17,R,J
   40
 
 #lvl_d-00
    1,S
    1,D,J
   34
-   7,R,J,G
-   3,R,G
-   1,G
-   1,R,G
-   9,L,G
-   4,L,J,G
-   5,J,G
-   3,L,J,G
+  11,J
+  10,U,X
+#Spinner Cycle 0-2
+   2
+#-----------------
+  36,R,U,C
    1,R,J,G
-   8,R,J
-   1
-  12,U,X
-  21,G
-   1,R
-   5,U,X
-   8,R,J
+  15,U,X
    7,R
-  26,R,G
-   1,R
-  11,R,X
-   1,R,J
-   2,R
-   1,K
-  11,U,X
-  23,G
-   1,R,G
-   1,R
-   6,R,X
-   2,R,J,G
-   1,R,K,G
-   3,R,J,G
-   1,R
-   3
-   1,R
-   2,R,J
-   1,J
-  31,R,G
-   2,R
-   6,R,U,X
-   9,L
-  15,U,C
-   8,R
-  14,U,C
+  14,R,U,C
+   1,R,J,G
+   7,R
+   6,R,K
+  14,U,X
+  10,R,J
    4,J
-   1,K
+   1,R,J
+  15,U,X
+   4,R
+   2
+   7,R,U,X
+   8
+  15,U,X
+   6,R
+  15,U,X
+   4,K
+   1,L,J
    7,L
-  16,L,X
+  10,L,X
+   6
    1,R,J
    4,R
-  22,L,X
+  10,L,X
+  12
    5,R
-  16,R,D,C
+  15,R,D,X
+   1,D
    1,L,D
    1,D
-  17,L,D
-   4,L
-   1,L,D
-   1,L
-   1,L,D
-  21,L,X
-  21,L,C
-   4,Z
+  20,L,D
+   3,L
+  24,L,X
+  19,L,C
+   4,D,X
    1,L,J
-  16,L,G
-  19,L,K,G
-   8,L,K
-  13,U,Z
-  16,G
-   8,L,G
-   2,L
+   6,L
+  11,L,J
+  13,L,X
+   6,L,J
+  14,U,X
    1,J
-   8,L,K
-   1,L
-   7,U,X
-   2,J
-  21,G
+  14,U,X
+  13,L,J
+   1,L,K,G
+   2
+   5,R
+  11,U,X
   43
 
 #lvl_d-05
-   1,R
-   1,R,J,G
-   2,L,J
-   4,R,J
-   2,J
-   3
-   8,R,X
-  13,R,G
-   3,R,J,G
-   3,J,G
-   5,R,J,G
-  10,R,G
-   2,R,J,G
-   1,R,G
-   1,R,J,G
+   1,L
+   1,L,K,G
+   1,L,J,G
+   8,L,K,G
+  14,L,V
    1,R,J
-   2,R
+   7,R,D,X
+StunPause
+   4,R,D,X
    1,R,J
-   2,R
-  15,U,X
-  16,G
-   6,R,G
-   1,R
-  14,U,X
+   3,R
+   1,R,J
+   3,R
+   8,R,D,J
+   1,R,K,G
+EndStunPause
+   8,R,K
+   6,K
+  19,U,X
+  18,U,C
+   1,L
+   5,R,J
   40
 
 #lvl_e-00y
-   3,R,J
-   1,J
-  10,R,J
-   1,R
-  16,R,U,X
-  14,R,Z
+   1,K,G
+   1,R,K
+   1,L,K
+   1,K
+   1,L,K
+   1,L
+  19,R,J
+  21,R,U,X
+  12,R,V
    1,R,J,G
-   2,R,K,G
+   1,R,K,G
+   1
    1,R,J,G
-   3,J
-   5,R,J
-   5,R
+   2
+   1,K,G
+   5,R,K
+   6,R
   40
 
 #lvl_e-00yb
@@ -739,8 +720,7 @@ EndStunPause
    1,R,K,G
    2,R,J,G
    5,R
-   1,R,J
-   1,J
+   2,R,J
    2
    3,J
   18,R,U,X
@@ -757,9 +737,8 @@ EndStunPause
   15,U,X
   12,R,U,C
   45,U,X
-#-----------------
 #Spinner Cycle 0-2
-   0
+   2
 #-----------------
   60,L,U,C
   40
@@ -888,8 +867,7 @@ EndStunPause
    3,L
   18,U,C
   15,U,X
-  18,U,C
-   1
+  19,U,C
    9,R,J
   14,R,U,Z
    4,R,J,G
@@ -1122,24 +1100,24 @@ EndStunPause
    5,R
    8,R,J
   26,R,D,X
-#spinner cycle
+#Spinner cycle
 #manip in e-00yb
    4,R,V
    1,S,N
-  10,N,O
+  10,O
 Repeat 4
    2,R,V
    1,S,N
-  10,N,O
+  10,O
 Endrepeat
    1,R,V
    1,R,K,G
    1,S,N
-  10,N,O
+  10,O
    1,R,J,G
    1,R
    1,S,N
-  10,N,O
+  10,O
    1,R,K,G
    5,R,J,G
    9,R
@@ -1149,15 +1127,15 @@ Endrepeat
 #lvl_e-08
    4,R,K
    1,S,N
-  10,N,O
+  10,O
    1,R,K
    4,R,D,X
    1,S,N
-  10,N,O
+  10,O
 Repeat 3
    2,R,D,X
    1,S,N
-  10,N,O
+  10,O
 Endrepeat
    5,R,D,X
    1,R
@@ -1226,8 +1204,7 @@ Endrepeat
    2,D
    1,R,D
    1,D
-   1,R
-   2,R
+   3,R
    5
    3,R,D,J
   14,R,U,C
@@ -1259,9 +1236,8 @@ Endrepeat
    1,R,J
    6,R,D,X
    1,R,J,G
-   1,R
    1
-   5,R
+   6,R
    1,R,J
    4,R
    9,R,J
@@ -1315,12 +1291,14 @@ Endrepeat
   10,R,X
    1,R,J,G
    9,R
-   3,R,J
+   2,R,J
+   1,J
   40
 
 #lvl_f-03
-   2,J
-   4,R,J
+   2,R,J
+   1,J
+   3,R,J
   15,R,D,X
   21,R,J
    1,R
@@ -1872,8 +1850,7 @@ Endrepeat
    6,R
   25,R,D,X
    4,R
-   1,R,J
-   1,R
+   2,R,J
   14,D,X
   40
 
@@ -2258,7 +2235,6 @@ Endrepeat
    1,L
    2
   18,L,D
-#-----------------
 #Spinner Cycle 0-2
    1
 #-----------------
@@ -2439,9 +2415,9 @@ Endrepeat
 #manip in h-07
 StunPause
    2
-   1,Z
+   1,R,D,X
 SkipInput
-   3
+   3,R,D,X
    2,R,D
 EndStunPause
    4,R,D
@@ -3709,7 +3685,7 @@ Endrepeat
   14,U,X
   38
 #End_IGT
-ChapterTime: 8:08.206(28718)
+ChapterTime: 8:08.138(28714)
 
 # optional waiting for
 # visuals to play out

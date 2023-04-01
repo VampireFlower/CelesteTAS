@@ -1684,6 +1684,7 @@ Endrepeat
  525
   19,R,D,X
   19,L,D,C
+AnalogMode,Square
    6,F,204.6
   19,L,U,X
   17,L,U,C
@@ -1693,6 +1694,7 @@ Endrepeat
   19,L,D,C
   11,L,D,X
   19,F,270
+AnalogMode,Ignore
   19,U,X
   18,L,U,C
   10
