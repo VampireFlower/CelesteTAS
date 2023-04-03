@@ -786,7 +786,7 @@ Add 58
    5,R,Z
    1,R,J
    5,R,D
-   8,R,D,K
+   8,R,K
   13,R
    5,R,K
   15,U,X
@@ -892,7 +892,7 @@ EndStunPause
    1
 #-----------------
   16,L,U,X
-  16,L,Z
+  16,L,V
   52,R
   18,R,X
   15,R,C
@@ -1606,20 +1606,20 @@ EndStunPause
    2,L,J,G
    1,L
   15,U,X
-   7,L,Z
-   1,L,J
-   5,L
-   1,L,K
-   1,L
-  11,L,J
-   1,L
-  13,L,Z
-
-#CP-04
+   9,L,Z
    1,L,J
    6,L
-  21,L,J
-  13,U,Z
+   2,L,J
+   2,L
+  14,L,X
+   1,L,J,G
+   8,L,U,X
+   1,L,J,G
+  11,L
+
+#CP-04
+  14,L,J
+  14,U,Z
   10,R,J
   15,U,X
   16,L,J
@@ -1866,4 +1866,4 @@ EndRepeat
   10,R
   15,L
    5,R
-FileTime: 4:42.727(16631)
+FileTime: 4:42.710(16630)
