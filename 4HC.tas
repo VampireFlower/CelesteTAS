@@ -12,8 +12,8 @@ Read,4A,lvl_a-00,lvl_a-08
   12,R,J
    6,R
    1,R,K
-  21,R,U,X
-   3
+  22,R,U,X
+   2
   10,R,Z
    1,L,J
    4,L
@@ -265,4 +265,4 @@ Read,4SH0,lvl_b-05 (1),lvl_b-08b
 
 #lvl_b-08b
 Read,4A,lvl_b-08b
-ChapterTime: 2:14.164(7892)
+ChapterTime: 2:14.113(7889)
