@@ -69,23 +69,27 @@ console load 4
    1,J,G
    6,L
    1,R
+   6,J
+  15,U,Z
+   1,L,J,G
    2,R,J
-  16,U,Z
-   1,L,J,G
-   3,R,J
-   1,J
-   1,L,K,G
-   1,L,J,G
+   1,R
+   6,L
+   4,Z
+   4,L,J
+   2,L,K,G
+   1,K
    7,L
-   2,L,J
-  14,L,Z
-   1,L,J
-  12,L
+   2,L,K
+   2,L
+   3
+   1,L
+   3
    4,Z
    1,R,J
    6,R
    2,R,J
-  14,R,D
+  14,R
   15,D,X
   15,R,D
    2,R
@@ -120,14 +124,16 @@ console load 4
 
 #lvl_a-02
    9,R
-   1,R,K
+   1,R,D,K
   12,R,U,X
    7,K,G
   10,R
-  18,L,D
-  11,L
-   2,L,D
+   3
+  16,L,D
    1,L
+   2,L,D
+   7,L
+   1
    2,J,G
    2,R
    1,K
@@ -262,35 +268,37 @@ console load 4
 #lvl_a-07
    6,R
   13,R,U,Z
-  15,U,X
-   6
-  15,L,U,X
+  21,U,X
+  15,L,U,C
   42,R,D
   15,U,X
-  15,R,C
-   2,R
-   5
+  16,R,C
+   1
+   1,R
+   4
    1,L,J
    6,L
    7,L,J
   10,L
-   3,L,D
-   4,R,D
-   5,L,D
-   7,R,D
-#+1f Berry
-  11,R,X
-   4,R,J
-   8,R,U,X
-   2,R,K,G
-   3,R
-   5,R,D,J
-   1,K
-  15,L,J,G
-  14,U,X
-   5,L
-   1,L,J,G
+  16,L,D
+   2,L
+   1,L,D
+   4,Z
+   1,R,J
+   2
+   4,R
+   7,R,D,J
+   1,R,K,G
+   2,J,G
+   2,R,J
+   5,R
+   1,L,J
+  12,K,G
+   2,J,G
+  20,U,X
+   1,J,G
    7,L
+#+1f Berry
   11,L,D,X
   27,R,J
    9,R,U,X
@@ -396,77 +404,49 @@ console load 4
    1,R,J,G
    3,R
   15,D,X
+Repeat 7
    5,L,D
    5,R,D
-   5,L,D
-   5,R,D
-   5,L,D
-   5,R,D
-   5,L,D
-   5,R,D
-   5,L,D
-   5,R,D
-   5,L,D
-   5,R,D
-   5,L,D
-   5,R,D
-  12,D,J
-   1,K,G
-   1,L,K
-  10,R,K
-   1,J,G
-   1,L,J
-  10,R,J
-   1,K,G
-   1,L,K
-   7,R,K
-   1,J,G
-   1,L,J
-   8,R,J
-   1,L,J
-   1,R
-   1,K,G
-   1,L,K
-  10,R,K
-   3,J,G
-   2,L,J
-   7,R,K,G
-   1,L,K
-   2,R,K
-   1,L,K
-   1,R,K
-   1,L,K
-   1,R,K
-   2,J,G
-   1,L,J
-   1,R
-   1,K,G
-  19,L,K
-   1,J
-   1,K
-   3,L,K
-   1,R,K
-   1,J
-   2,K,G
-   1,L,K
-  32,L
-   5,L,D
-  13,R,U,X
-   8,R,J,G
-   1
-  13,R
-   1,R,G
-  27,R,J,G
-  11,K,G
-   1,L,K
-   1,J
-   1,K
-  12,L,K
-  11,J,G
-   1,R,J
+EndRepeat
+   5,J
   12,K
   12,J
-   7,K
+  12,K
+  12,J
+  12,K
+  11,J,G
+   1,L
+   1,R,J,G
+   7,J
+   3
+   1,R
+   1,J
+   2,K,G
+  18,L,K
+   1,J
+   8,L
+   1,L,J
+   1,L
+   1,L,J
+  11,L
+   1,L,J,G
+   7,L,K,G
+   5,L
+   1,L,K
+   1
+   1,L,K
+   4,L
+  37,R
+  15,U,X
+  24,R,J
+   2,L,J
+   1,K,G
+  10,L,K
+   1,R,K
+  12,R,J
+   7,K,G
+   1,L,K
+  12,J
   40
 
 #lvl_b-00 (0)
@@ -487,66 +467,93 @@ console load 4
   40
 
 #lvl_b-01
-   5,R,D,X
-   1,R,J
-   2,R
-   1,R,J
-   1,R
+   4,R,D,X
+   2,R,J
+   4,R
    1,R,G
    1,R,J,G
    2,L,J
-   2,R,J
-   6,R
+   3,R,J
+   3,R,K,G
+   5
+   1,K
+   1
+   2,R
+   4
+   3,L
+   3,R,D
+   4,D,X
    1,R,J
-   5,R
-   6,L,Z
-   1,R,J
-   6,R
-   4,R,J
    1,R,K,G
-   5,R
-   1,R,J
-  21,R,D
+   1,R,J,G
    8,R
+   1,R,K
+   1,R
+   1,R,J,G
+   7,R
+   1,R,J
+   4,R
+   1,L,K,G
+   3,R
+   1,L
+   2,K,G
+   1,R
+  13
+  14,R,D
+   1
+   4,R
+   1
+   1,R,G
+  14,R,J,G
   20,U,X
    2,J
-  26,L,D
-   1,L
+  12
+  12,L,D
+  17,L
+   1,L,D
    1,L,G
    2,L,J,G
-  16,L
-   3,L,J
-   1,J
-  14,U,X
-  13,R,J
-  31,L,D
-  13,R,D
-   2,R,D,J
-   5,L,D,X
-   5,R
-   6,L,J
-   1,L
-   7,L,J
-   8,L,K,G
+   1,R,J
+   1,L,J
    6,L
-   2,L,J
-   1,L
+   1,L,J
+  12,L
+   2,L,D
+   9,R,D,X
+   5,R,X
+   1,L,K
+   8,L,D,X
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+   5,L
+   2
+   1,D
+   1,L,D,J
+   1,D,K
+   4,R,J,G
+  11,L,J
   14,L,U,X
-   9,L,J,G
+   3,L,J,G
+   2,L
+   3
   40
 
 #lvl_b-00 (1)
-  15,L,D,X
-   5,L,D,J
-   8,J
-  14,R,U,X
-  13,R,J,G
+  14,L,D,X
+   3,J
+  15,U,Z
+#Far right subpix
+#would save 1f
+   8,R
    1,R,K,G
+  12,R,J,G
    7,R
-   4,R,J
-  10,J
+   6,J
+   8,R,J
   18,U,X
-   4,R,J
+   3,R,J
+   1,R
    1,R,K,G
    7,R
    4,X
@@ -1312,7 +1319,7 @@ console load 4
   15,L,X
   16,L
   16,L,X
-#+1f Berry
+#+4f Berry
    4,Z
    8,L,J
    4,L
@@ -1818,4 +1825,4 @@ console load 4
    1,S
    1,D,J
   18
-ChapterTime: 3:24.782(12046)
+ChapterTime: 3:24.340(12020)
