@@ -1995,7 +1995,7 @@
    1,L,J
   15,L,X
   13,R,D
-   6,L,D
+   7,L,D
    4,L,D,X
    5,L,X
   18,L,J
@@ -2377,7 +2377,7 @@
   14,U,X
   16,R,J
   40
- 
+
 #lvl_d-20
   11,L
    7,U,X
@@ -2393,7 +2393,10 @@
   15,L
    8,L,J
    1,R
-  15,R,D,X
+   4,R,D,X
+#idk what happened here
+Set Player.Speed.X 350
+  11,R,D,X
   10,R,C
    1,R,J,G
    7,R

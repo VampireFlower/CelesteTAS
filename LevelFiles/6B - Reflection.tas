@@ -224,7 +224,12 @@
   11,F,150
   16,F,131
   15,L,X
-  39,G
+  29,G
+Invoke Player.MoveV 2
+   2,L,G
+Set Player.Ducking True
+Invoke Player.MoveV -5
+   8,L,G
    1,J,G
    3,K,G
    2
@@ -239,7 +244,9 @@
    5,L
   20,R,G
    1,L
-   6,L,G
+   3,L,G
+Set Player.Ducking True
+   3,L,G
   30,R,G
    8,R,J
   10,R
@@ -249,14 +256,15 @@
   25,L
   10,J
   14,L,J
-  19,L,G
+  20,L,G
   20,R,J
    4,L,K
   29,R,D
    1,J
   15,R,J
    3,R,G
- 122,G
+ 121,G
+   1,U,G
    9,L,J
   28,D
   12,R,D
@@ -775,13 +783,14 @@
    2,F,48
   11,F,90
   10,F,150
-  11,F,155
+  11,F,156
   11,F,90
   10,U,X
    1,R,J
    1,J
-   6,R,J
+   3,R,J
    1,J
+   3,R,J
    1,R,K,G
    6,R,J,G
   40,L

@@ -1,3 +1,4 @@
+Unsafe
 #To sync:
 #Use Celeste v.1.2.6.1
 #Use the controller bindings in the CelesteTAS readme
@@ -48,7 +49,7 @@ Read,0 - Prologue.tas,lvl_0
 #Forsaken City
  196
    1,J
-  41
+  43
    1,J
  230
    1,J
@@ -59,9 +60,11 @@ Read,1SH,lvl_1
 #Old Site
  165
    1,J
- 275
+  83
+   1,S
+ 194
    1,J
-  41
+  43
    1,J
  230
    1,J
@@ -72,9 +75,11 @@ Read,2S,lvl_start
 #Celestial Resort
  165
    1,J
- 275
+  83
+   1,S
+ 194
    1,J
-  41
+  43
    1,J
  230
    1,J
@@ -85,9 +90,11 @@ Read,3SH,lvl_s0
 #Golden Ridge
  165
    1,J
- 275
+  83
+   1,S
+ 194
    1,J
-  41
+  43
    1,J
  230
    1,J
@@ -98,9 +105,11 @@ Read,4SH,lvl_a-00
 #Mirror Temple
  165
    1,J
- 275
+  83
+   1,S
+ 194
    1,J
-  41
+  43
    1,J
  230
    1,J
@@ -111,9 +120,11 @@ Read,5S,lvl_a-00b (1)
 #Reflection
  165
    1,J
- 275
+  83
+   1,S
+ 194
    1,J
-  41
+  43
    1,J
  230
    1,J
@@ -128,7 +139,8 @@ Read,6HC,6,Return
   31
 
 #Overworld
-  58
+  51
+   1,S
    1,R
    1,J
  304
@@ -140,13 +152,15 @@ Read,6B,lvl_a-00
    1,J
  361
    1,J
- 106
+  84
+   1,S
    1,X
-  40
+  42
    1,R
   12
    1,J
-  41
+
+  43
    1,J
   45
    1,J
@@ -175,9 +189,9 @@ Read,7S,lvl_a-00-intro
 #Core
   96
    1,J
- 423
+ 430
    1,J
-  41
+  43
    1,J
   45
    1,S
@@ -195,13 +209,17 @@ Read,8S,lvl_00
    1,J
 
 #Epilogue
- 104
-   1,X
-  40
+  83
+   1,S
+ 194
+   1,J
+ 200
+   1,L
+   9
    1,L
   12
    1,J
-  41
+  43
    1,J
  115
   10,L,X
