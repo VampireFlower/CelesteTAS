@@ -1752,38 +1752,37 @@ Endrepeat
    1,D
    1,R,D
    2,D
-  13,L,J
+  11,L,J
+   2,L
   23,L,U,X
   23,L,U,C
   15,D,X
   12,L,D
   39,R,D
   26,R,X
-  11,R,Z
+  10,R,Z
    1,R,J
    7,R
-  20,R,K
+  18,R,K
+   3,R
    1,R,J,G
-   7
-   2,R
-   2,R,J
-  15,R
+   7,R
+  17,R
    1,G
    1,J,G
    1,L,J
    7,R
-   2,R,J
-  16,R,D
+   1,R
+  17,R,D
   11,D
    1,R,D
-   1,D
-   2,R,D
+   1
+   2,R
    2,R
    9,R,Z
    1,L
    2,J,G
-   4
-   1,R
+   5
   15,R,X
   11,R
   15,R,Z
@@ -1796,12 +1795,9 @@ Endrepeat
   10,R
    1
    4,R
-  15,R,Z
-   1,R
+  16,R,Z
    8,L,J
-   1
-   1,R
-   1
+   3
   15,L,U,Z
   16
   11,R,X
@@ -1842,17 +1838,20 @@ Endrepeat
    1,R,J,G
    1,R,K,G
    4,R
-   9,R,U,Z
+   7,R,U,Z
+   2,R,K,G
+   1,R,J,G
    1,R,K,G
+   1,R
    2,R,J,G
-   1,R,K,G
-  11,R,J,G
+  10,R
+   1,R,J
   40
 
 #lvl_h-00b
-   6,R
-  25,R,D,X
-   4,R
+   8,R,J
+  24,R,D,X
+   3,R
    2,R,J
   14,D,X
   40
@@ -1983,7 +1982,7 @@ Endrepeat
    1,R,J
   19,R,Z
    1,R,J,G
-   1,L,J,G
+   1,L,J
    2,R,J
    3,R
   19,R,Z
@@ -2246,9 +2245,6 @@ Endrepeat
    1,L
    2
   18,L,D
-#Spinner Cycle 0-2
-   2
-#-----------------
   15,R,X
   14,R,U,C
    1,J,G
@@ -3323,7 +3319,7 @@ Set,AnalogMode,Precise
 #---------------
 #Lightning cycle
 #0-14
-   5,D
+   8,D
 #---------------
    7,R,D,C
    1,L,J
