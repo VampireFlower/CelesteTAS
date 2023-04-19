@@ -2442,14 +2442,10 @@ Endrepeat
    1
 StunPause
    2
-   1,R,D,X
-SkipInput
-   3,R,D,X
-   2,R,D
-EndStunPause
-   4,R,D
-StunPause
-   6,R,D
+SkipInput 3 1
+   6,R,D,X
+SkipInput 3
+  10,R,D
 EndStunPause
    5,R
    2,R,K
@@ -3339,7 +3335,7 @@ Set,AnalogMode,Precise
 #---------------
 #Lightning cycle
 #0-14
-  11,D
+  12,D
 #---------------
    7,R,D,C
    1,L,J
@@ -3524,33 +3520,34 @@ Set,AnalogMode,Precise
    1,L
    9,L,D,X
    1,L,K,G
-  17,L
-  41,L,K
+   1,L
+   1
+  14,L
+  40,L,K
+   1,L,D
   18,L,U,X
   15,U,C
-  21,L
-   1,L,J,G
+  23,L
+   2,L,J,G
    1,R,J
    1,J
    1,R,J
    1,L,J
-   5,J
-   3
+   6,J
+   4
    1,K,G
    7
    1,R
    8,L,J
-   8,L
-   1,L,K
+   3,L
+   1
    1,L
-  10,R,D
+   1,L,J
+   5,L
+   9,R
   14,D,G
-   5,G
-   1,U,G
-   7,G
-   2,U,G
-   1,G
-   2,U,G
+  10,G
+   3,U,G
    1
    1,R,J,G
    1,R,K,G
