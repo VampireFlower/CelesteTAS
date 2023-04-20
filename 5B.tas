@@ -396,9 +396,10 @@ endrepeat
    4,R,K,G
    7,R
   26,G
-  27,U,G
+  24,U,G
+   1,G
    1
-   1,R,J,G
+   2,R,J,G
    8,R,U,Z
   36,U,X
   11,L,C
@@ -856,4 +857,4 @@ endrepeat
    5,R
   14,R,U,X
  135,R,D
-ChapterTime: 1:41.745(5985)
+ChapterTime: 1:41.728(5984)
