@@ -263,9 +263,6 @@ AnalogMode Precise
    2
    1,J,G
    2
-#a-06 spinner cycle
-   0
-#--------
    1,L
    4
    4,Z
@@ -356,7 +353,7 @@ AnalogMode Precise
    1,L,K
    1,J,G
    6,R,U,X
-StunPause,Input
+StunPause
 SkipInput,3,6
   10,R,U,X
    1,R,J,G
@@ -1202,30 +1199,30 @@ EndStunPause
    1,R,J,G
   15,R
   44,R
-  15,R,X
-  22,R,D
-   3,R
-   1,R,D
-   4,Z
-   6,R,J
-   2,R
+  19,R,U,X
+   1,R,K,G
+   1,L
+   9,R
+  14,R,D,X
+   1,R,J
+  14,R,D,X
   40
 
 #lvl_d-02
-   2,R
-   1,J
+   2,R,D
+   2,D
+   1,R,D
+   5,D
+   3,R,D
+   1,D
+   9,R,D
    1
-   1,J
-   2
-   7,R,D
-   1,D
-  14,R,D
-   1,D
    1,R
-   4
-  12,R,U,V
-  19,R
-  19,R,D,X
+   3
+   1,R
+  11,R,U,V
+  20,R
+  18,R,D,X
   33,L
    1,R,J
    3,R
@@ -1245,9 +1242,10 @@ AnalogMode,Precise
    4,F,90
    4,R,X
   11,R,D,X
-  13,R,D
-   1,D
+  11,R,D
+   2,D
    1,R,D
+   1,D
   22,R
   15,R,U,Z
    1,R,J
@@ -1439,4 +1437,4 @@ AnalogMode,Ignore
   24,R,D,X
   21,R,D
  103,R
-ChapterTime: 3:15.806(11518)
+ChapterTime: 3:15.738(11514)
