@@ -1207,23 +1207,25 @@ EndStunPause
    3,R
    1,R,D
    4,Z
-   5,R,J
-   1,R
-   2,R,J
+   6,R,J
+   2,R
   40
 
 #lvl_d-02
-   1,R
-   1,R,J
+   2,R
+   1,J
    1
    1,J
-  14,D
-   3,R,D
-   2,D
-  15,R,X
-  10
-  17,R
-  22,R,D,X
+   2
+   7,R,D
+   1,D
+  14,R,D
+   1,D
+   1,R
+   4
+  12,R,U,V
+  19,R
+  19,R,D,X
   33,L
    1,R,J
    3,R
@@ -1437,4 +1439,4 @@ AnalogMode,Ignore
   24,R,D,X
   21,R,D
  103,R
-ChapterTime: 3:15.840(11520)
+ChapterTime: 3:15.806(11518)
