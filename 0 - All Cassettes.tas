@@ -1,4 +1,4 @@
-#25:37.055
+#25:37.038
 #Start from Begin
 
 Read,StartFullGameFile
@@ -38,9 +38,9 @@ Read,3HC,Start
 
 Read,LoadA
 
-Read,4HC,Start,lvl_b-02 (0)
+Read,4HC,Start,lvl_b-00
 
-Read,4A,lvl_b-02
+Read,4A,lvl_b-00
 
 Read,LoadA
 
