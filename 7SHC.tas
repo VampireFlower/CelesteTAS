@@ -929,16 +929,7 @@ Read,7S,lvl_c-09,lvl_d-02
 Read,7HC,lvl_e-00 (1),lvl_e-03
 
 #lvl_e-03
-   2,R,J
-  15,R,D,X
-   1,R,J
-   6,R,K,G
-   5,R,D,X
-   2,R,J,G
-  12,R
-   7,R,J
-  12,R,D,X
-  40
+Read,7A,lvl_e-03,lvl_e-04
 
 #lvl_e-04
    3,R,D,X
