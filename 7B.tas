@@ -739,7 +739,7 @@ console hard 7
  295
 
 #lvl_e-00
-  78
+  37
 #Exit
    1,S
    1,U,J
@@ -1866,4 +1866,4 @@ EndRepeat
   10,R
   15,L
    5,R
-FileTime: 4:42.710(16630)
+FileTime: 4:42.013(16589)
