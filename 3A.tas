@@ -279,46 +279,28 @@ console load 3
    1,R
    1,R,J
    1,R
-   1,R,J
-   1,R
-   1,R,J
+   3,R,J
    9,R
   13,R,Z
-   1,R,J,G
-   1,L
-   3,R
-   1
-   1,R
-   2,L
-   3
-   4,D,X
-   1,R,J
-   6,R,D
-   2,R,D,J
-   1,J
-   1,R,J
-   2,R
-   1,L
-   5,K,G
-   1,R,J,G
-   2,J
+   1,J,G
+   4
    4,R
-  15,R,D,X
-   2,R,D
-   1,R
-   1,R,D
-   1
    1,R,J
-   2,J
-   1,L,K,G
-   7,U,X
+   3,R,D
+   9,R,J
+   5,R
+   7,R,J,G
+  21,R,D,X
+   7,R,D,J
+   6,U,X
    5,R,J
   40,J
 
 #lvl_07-a (0)
-  11,R,J
+   3,R,J
+   9,J
   10,R,K
-  16,U,X
+  15,U,X
   40
 
 #lvl_07-b (0)
@@ -804,23 +786,24 @@ endrepeat
   40
 
 #lvl_10-c (0)
-  11,L,J
-  13,L,Z
+   9,L,J
+   2,L
+  12,L,Z
    1,L,J
-   5,L
-   7,L,U,Z
+   3,L
+   3,L,J
+   1,L
+   7,L,U,V
    1,R
-   5,J,G
-   1
+   4,J,G
    7,L
-   1,L,J
-  12,L,K
+   8,L,D,J
+   6,J
   13,U,X
-   5,R,J
+   4,R,J
+  11,R
+   2,R,J
    3,R
-   1,R,J,G
-   3,R
-   9
   14,L,D,X
    1,R,J
    5,R,D,X
@@ -1745,4 +1728,4 @@ endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 3:14.395(11435)
+ChapterTime: 3:14.344(11432)

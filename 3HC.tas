@@ -5,10 +5,10 @@ console load 3
   61
 
 #lvl_s0
-read,3A,lvl_s0,lvl_09-b (0)
+Read,3A,lvl_s0,lvl_09-b (0)
 
 #lvl_09-b (0)
-read,3SH,lvl_09-b (0),lvl_12-b (0)
+Read,3SH,lvl_09-b (0),lvl_12-b (0)
 
 #lvl_12-b (0)
    6,R
@@ -137,8 +137,7 @@ read,3SH,lvl_09-b (0),lvl_12-b (0)
    3,L,J,G
    7,L
    5,D,X
-
-read,3SH,3HC0,lvl_11-c (1)
+Read,3SH,3HC0,lvl_11-c (1)
 
 #lvl_11-c (1)
    1,S
@@ -165,7 +164,7 @@ read,3SH,3HC0,lvl_11-c (1)
   40
 
 #lvl_12-d
-read,3SH,lvl_12-d,lvl_11-d
+Read,3SH,lvl_12-d,lvl_11-d
 
 #lvl_11-d
    2,L,D,X
@@ -212,10 +211,10 @@ read,3SH,lvl_12-d,lvl_11-d
   40
 
 #lvl_10-c
-read,3SH,lvl_10-c,lvl_11-y
+Read,3SH,lvl_10-c,lvl_11-y
 
 #lvl_11-y
-read,3A,lvl_11-y,lvl_11-z
+Read,3A,lvl_11-y,lvl_11-z
 
 #lvl_11-z
    1,D
@@ -250,7 +249,7 @@ read,3A,lvl_11-y,lvl_11-z
   40
 
 #lvl_10-y
-read,3A,lvl_10-y,lvl_10-x (1)
+Read,3A,lvl_10-y,lvl_10-x (1)
 
 #lvl_10-x (1)
   10,R
@@ -338,7 +337,7 @@ read,3A,lvl_10-y,lvl_10-x (1)
   40
 
 #lvl_09-d
-read,3A,lvl_09-d,lvl_04-d
+Read,3A,lvl_09-d,lvl_04-d
 
 #lvl_04-d (0)
   15,L,D
@@ -562,5 +561,5 @@ read,3A,lvl_09-d,lvl_04-d
   40
 
 #lvl_00-d
-read,3A,lvl_00-d
-ChapterTime: 3:41.612(13036)
+Read,3A,lvl_00-d
+ChapterTime: 3:41.578(13034)
