@@ -12,7 +12,7 @@ console load 6
   34
 
 #lvl_start
-# [02] spinner cycle
+# [02] Spinner Cycle
    1
 #-------------------
    4,D,X
@@ -142,8 +142,7 @@ AnalogMode,Precise
    1,D,X
    3,R
    6,L
-   2,R
-   1,R
+   3,R
    1,L
    1,R
    1,L
@@ -154,7 +153,7 @@ StunPause
    3,U,G
   10,J,G
    1
-SkipAutoInput,3,1
+SkipInput,3,1
   10,R,U,Z
    1,J,G
    1,L,J
@@ -1741,11 +1740,13 @@ AnalogMode,Precise
   14,U,X
   13,R,J
   15,U,X
-  10,R
+   7,R
+   3
   10,R,X
    6,J
-  15,U,X
-  18,L,J
+  14,U,Z
+  15,L,J
+   3,R,J
   15,U,X
   14,L,J
    4,R,J
@@ -1808,4 +1809,4 @@ AnalogMode,Precise
    1,D,J
   18
 AnalogMode,Ignore
-ChapterTime: 4:35.638(16214)
+ChapterTime: 4:35.621(16213)
