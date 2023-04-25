@@ -1566,13 +1566,17 @@ console load 10
    1
    8,R
    1,R,J
-  14,R,D,X
-   1,R,J
+  15,R,D,X
    1,R
+   1,R,J
+   3,R
    7
-  15,D,C
-   1,X
-   1
+   1,R
+   3
+   1,R
+   1,R,N
+   1,R
+   6
 
 # ---------
 
@@ -1581,22 +1585,19 @@ console load 10
 #add a frame to this
 #until it syncs
 
-   0
+   1
 
 # ---------
 
- 106,R
+  99,R
    1,X
   19
-   5,L,Z
+  15,R,Z
    1,R,J
-   4
-   3,R
-   1,D
-   4,L,D,J
+   9,L,J
    1,R,J
-  20,L,J
-  11,L
+  11,L,J
+  13,L
   15,L,Z
    5,L
    5,L,J
@@ -2880,7 +2881,7 @@ AnalogMode,Precise
   12,F,90
 Read,9,Stubbornness,Lightning cycle
 #0-14
-  10
+  14
 #---------
    7,R,D,C
    1,L,J
