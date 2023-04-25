@@ -92,13 +92,19 @@ console hard 3
    1,K
    2,J,G
    8,R,J
-  40,R,D
-  15,R,Z
-   4
+  36,R,D
+   4,R
+   1,D
+  18,R,Z
+   1,L
+   3,J,G
+   8,R,J
+   5,R
+   2,R,J
    1,R
-  18,R,J
-   6,R
-   4,Z
+   2,R,J
+   2,R
+   4,D,X
    2,R,J
    3
   40
@@ -820,4 +826,4 @@ console hard 3
   14,R,J
   15,R,U,X
  135,R,D
-ChapterTime: 1:29.607(5271)
+ChapterTime: 1:29.590(5270)
