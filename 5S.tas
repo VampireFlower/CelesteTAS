@@ -268,16 +268,14 @@ console load 5
   40
 
 #lvl_a-04 (1)
-   6,L
-  15,D,X
-   2,R
-   2,R,J
-  10,D,X
+   9,L
+  12,R,D
+   9,L,D
   40
 
 #lvl_a-05 (0)
    3,D
-  47,R,D
+  45,R,D
   12,R,D,X
    1,R,J
    2,R,K,G
@@ -3132,4 +3130,4 @@ Endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 6:30.813(22989)
+ChapterTime: 6:30.796(22988)
