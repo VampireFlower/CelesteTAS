@@ -1,4 +1,4 @@
-#console load 9 6176 -2040
+#console load 9 5877 -2202
 #play,Heart of The Mountain,37
 
 console hearts 4
@@ -578,6 +578,7 @@ console load 9
    1,R,K,G
    1,R,J,G
    5,R
+#Heart of The Mountain
    5,R,Z
    1,R,J
    6,R
@@ -587,66 +588,62 @@ console load 9
   14,R,U,X
    2,R,J,G
   29,R,D
-   2,L,D
-   1,D
+   3,L,D
   40
 
 #lvl_c-03 (1)
-  31,R,D
-#Heart of The Mountain
-  13,R,D,X
+  24,L,D
+   3,D
+   1
+   2,D
+   4,L,D
+   1,L
+   1
+   1,L,D
+   9,L,Z
+  24,L,K
+   1,G
+   4,L,K,G
+   8,L,G
+  22,L,U,G
+   2,L,G
    1,R,J
-   5,R
+   1,R
+  16,R,D,X
+  11,R,D,J
+   3,J
   40
 
 #lvl_c-04
-   1,R,K
-   3,R,J
-   5,J
-   8,R,K,G
-  14,R,U,X
-   9,R,K,G
-   5,R
-   4,R,K
-   2,R
-   1,R,K
-   2,R
-   1,R,J,G
-  14,R
-   1
-   7,R
-  21,R,K,G
-  16,K
-   2,R,D
-   2,D
-  20,R,U,X
-  14,R,C
-   8,R,J,G
-   5,R
    1,R,J
-  19,R
-   1
-   8,R
-   1
-   1,R
-   2,L,D
-   4,L
-   1,L,D
-   1,L
-   4,D,X
-   1,R,J
+   3,L,J
+   2,K,G
+  17,R,U,X
+   9,R,J,G
+   5,R
+   6,R,K,G
    4,R
-   7,R,K
-  40,K
+  19,R,D,X
+   1,D
+  10,R,U,C
+   1,R,K,G
+   8
+  22,R,D
+   5,R,U,V
+  40
 
 #lvl_d-00
-   6,R,K
-   1,L,J,G
-  21,R,J
-  19,U,V
+   5,R,U,V
+   1,L,K,G
+  14,R,K
+   3,K
+   1,R,K
+  17,U,X
+  14,K
    7,R,K
-  15,K
-  25,U,X
+  18,U,X
+   1,L
+   2,R
   33,L,G
    3
   40
@@ -756,32 +753,43 @@ console load 9
   40
 
 #lvl_d-03
-   6
-   2,R
-   8,L,J
-   9,J
-   2,L,J
+   1,R
+   1
+   1,R
+   2
+   3,R
+   5,L,J
    1,J
-  16,L,U,C
+   2,L,J
+   4,J
+   2,L,J
+   2,J
+   1,L,J
+   3,J
+  15,L,U,C
+   1,L
   18,U,X
    5,R
   15,U,X
    4,R
    1,J
   16,U,X
-   4,R
-   2,R,J
-  16,J
+   1
+   3,L
+   1,R,J
+  13,J
+   3,R,J
    1,K,G
-   1,L,K
-   1,K
-  14,R,J,G
+   2,L,K
+  15,R,J,G
    1,R,K,G
-  16,R,J,G
-  15,U,X
-  13,L
-  26,R,U,X
-  53,G
+   1,R,J,G
+   1,K,G
+  10,R,K
+   9,L,K
+  18,U,X
+  26,R,U,C
+  54,R,G
    3
   40
 
@@ -1359,4 +1367,4 @@ AnalogMode,Precise
   15,R,D,X
   14,R,J
  156,R,D,X
-ChapterTime: 2:48.640(9920)
+ChapterTime: 2:47.977(9881)
