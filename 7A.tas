@@ -1732,10 +1732,10 @@ EndStunPause
    1,L,J
    1,L,K,G
    6,L
-  10,L,J
+   7,L,J
+   3,L
   31,L,K
-   6,J,G
-   1
+   7,J,G
    1,L
    1,R,K
    1,R,J
@@ -1745,34 +1745,38 @@ EndStunPause
   15,R,K,Z
    2,D,K
    1,L,K
-  10,D,K
-   2
+  11,D,K
+   1
    1,R
    1
   21,R,Z
   19,R,U,C
   57,L
+   3,J,G
+   1,R,J
+   1,K
    1,L,J,G
    1,R,J
-   1,R
-   1,L
-   1,K,G
-   1,R,K
-  15,L,J,G
-   1,L,K,G
-   1,L,J,G
-   1,L
-   1
+   9,L,J
    7,L
-  11,L,J
+   1,L,J
+   1,L,K,G
+   2,L,J,G
+   1,K,G
+  14,L,K
   15,L,U,Z
-   1,R,J,G
-  19,J
-   7,R,J
-  12,R,K,G
-  13,L,J
-  12,L,K,G
-  15,L,G
+   1,J
+   5,L,J
+  17,J
+  11,R,K
+   1,R
+   8,J,G
+   1,L
+   1,L,K
+  12,L,J
+   1,L
+   7
+  14,G
    1
    1,J
    6,R,J
@@ -2728,4 +2732,4 @@ AnalogMode,Ignore
    1,S
    1,D,J
   18
-ChapterTime: 6:39.653(23509)
+ChapterTime: 6:39.636(23508)

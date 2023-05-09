@@ -308,17 +308,17 @@ EndRepeat
    1,L,D
    4,D
    1,R
-   2,L,D
-  13,D
+   3,D
    1,R,D
-   1,L
-   1,K
-   2,J,G
-   5,R,J
+   3,D
+   2
+   1,D
+   2
    5,R
-   2,R,J
-   1,L,K,G
-   1,J
+   6,R,J
+   5,R
+   3,R,J
+   2,R,K
   14,U,X
   21,R,J
   25,R,X
@@ -425,42 +425,47 @@ Endrepeat
    7,R,J
    1,L,K,G
   11,R,K
-  11,U,Z
+   4,R,K
+   9,U,X
   40
 
 #lvl_b-03
-   8,R,J
-  10,L,J
-   6,L,K
-   2,L
-  14,U,X
-  11,R,J
+   4,R
+   6,L,J
+   8,J
+   1,L,J
+   1,J
+   1,L,J
+  15,U,X
+  13,R,J
   11,R
   14,R,Z
    7,R,J
-   2,R
+   1,R
    1,R,J
-  20,R,D
-   3,D
+  21,R,D
+   4,D
    1,R,D
-  19,L,D
+  17,L,D
+   1,R,D
   14,L,D,X
   16,L,J
    3,L
   14,L,U,X
-   7,R,J,G
+   6,R,J,G
+   1,R
   13
-  14,L,D
-   4
-  16,R,U,X
-  10,R,Z
-  28,R,J
-  17,R,U,X
+  12,L,D
+  15,R,U,X
+   1,R
+  11,R,Z
+  26,R,J
+  18,R,U,X
    1,R,J,G
    2,L
    5,R
-   1,R,J
-  13,U,Z
+   3,R,J
+  11,U,Z
    6,R,J
    7,L,J
    4,R,J
@@ -556,7 +561,7 @@ Endrepeat
   26,R,X
   15,R,Z
 #c-01 Spinner Cycle
-   1
+   2
 #------------------
   32,R,U,X
   16,R,Z
@@ -767,43 +772,44 @@ EndStunPause
    1,R
    1,R,D
   14,R,Z
+   1,R,J
+   6,R
    3,R,J
-   9,R,D,X
   40
 
 #lvl_d-00
-   5,R,D,X
-   1,R,J
-  19,R,D,C
+   2,R,J
+   2,R
+  15,R,D,X
+  15,R,D,C
+   2,R,J
    5,R
    2,R,J
-   9,R
-   2,R,J
-  11,R,U,X
-  11,R,J,G
-   6,R
-   1,J
-  16,R,D
-   1,R,J,G
-  24,R,D
    2,R
-   1,D
-   1
-   4,J
-   1,R
-  11,L,Z
-   1,R,J
-   3,R
    1,R,J
    1,R,K
-  10,R,D,X
-  25,R,K,G
-  12,R
-   2,R,J,G
-   5,R
+  11,R,U,X
+  24,R,J,G
+  14,R
+   9,R,D
+   3
+   2,R
+   5,J
+   1
+   9,L,Z
    1,R,J
-  15,R
-   4
+   1,R
+   1,R,J
+   2,R
+   1,R,K
+  10,R,D,X
+  21,R,K,G
+   1,K
+   8,R,K
+   9,R
+   4,R,J,G
+  22,R
+   3,D
    5,R,D,X
    1,R,J
    1
@@ -846,13 +852,15 @@ EndStunPause
    2,R
    1
   14,R
-  16,R,U,Z
-   7,U,X
-  13,R,J
+  15,R,U,Z
+   1,J
+   6,U,X
+  14,R,J
   11,R
-   5,R,Z
-   3,R,J
+   4,R,Z
+   1,R,J
    3,R
+   2,R,J
    2,R,K,G
    6,R
    2,R,K
@@ -995,4 +1003,4 @@ EndStunPause
   28,R,K
   14,R,X
  139,L,D
-ChapterTime: 2:01.108(7124)
+ChapterTime: 2:00.887(7111)

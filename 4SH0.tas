@@ -545,24 +545,26 @@ EndRepeat
    1,R,K,G
   12,R,J,G
    7,R
-   5,J
-   9,R,J
-  18,U,X
-   4,R,J
-   1,R,K,G
-   1,L
-   6,R
-   1,R,J
-   4,X
-   7,R,J
-   6,R,K,G
-   2,K
+   6,R,J
+   8,J
+  15,U,X
+   2,R
+   1
+   2,L,K
+   1,K
+   1,J
+   1,K,G
+   1,R
+   1,R,J,G
+   8,R,K,G
+   7,R
+   6,R,X
+   3,R,K
   40
 
 #lvl_b-02 (0)
-   1,K
-   3
-  12,R,Z
+   6,K
+  10,R,V
    1,R,J
   12,R
    2,R,K,G
@@ -1822,4 +1824,4 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 3:24.306(12018)
+ChapterTime: 3:24.289(12017)
