@@ -790,26 +790,23 @@ EndStunPause
    1,R,K
   11,R,U,X
   24,R,J,G
-  14,R
-   9,R,D
-   3
-   2,R
-   5,J
-   1
-   9,L,Z
+  17,R
+   7,D
+   4
+  10,L,D,X
    1,R,J
    1,R
    1,R,J
    2,R
    1,R,K
-  10,R,D,X
-  21,R,K,G
-   1,K
-   8,R,K
-   9,R
-   4,R,J,G
+  12,R,D,X
+   1,R,J,G
+   3,J
+   5,R,J,G
+  30,R
+   3,R,J,G
   22,R
-   3,D
+   3
    5,R,D,X
    1,R,J
    1
@@ -1003,4 +1000,4 @@ EndStunPause
   28,R,K
   14,R,X
  139,L,D
-ChapterTime: 2:00.887(7111)
+ChapterTime: 2:00.819(7107)
