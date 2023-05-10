@@ -196,12 +196,22 @@ console load 3
   10,R,J
   11,R
   28,L,D,X
-   5,L
-  10,U,X
+   2,L
+   1
+   1,L
+   1
+   1,D,J
    1,L,J
-  11,L
-  12,R,D
+   9,U,X
+   1,L,J
+   3
+   6,L
+   1,L,J
+   3,L
+   8,R
+   1
   11,L,D
+   1,L
    8,R,D,X
   40
 
@@ -224,7 +234,7 @@ console load 3
   23,R
   12,D,J
   12,R,K,G
-  14,D
+  14
   14,L,D
    1,L
    7,L,Z
@@ -1158,7 +1168,7 @@ endrepeat
    3
    1,L
    5,R
-   4,Z
+   4,D,X
    1,L,J
    2,L
    2,L,J
@@ -1728,4 +1738,4 @@ endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 3:14.344(11432)
+ChapterTime: 3:14.361(11433)

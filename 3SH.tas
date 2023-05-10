@@ -411,13 +411,21 @@ console load 3
   14,R,Z
    1,R,J
   10,R
-  33,L,D,X
-   2,L,J
+  30,L,D,X
+   2,L
+   1
+   1,D,J
+   1,L,J
    9,U,X
    1,L,J
-  11,L
-  12,R,D
+   3
+   6,L
+   1,L,J
+   3,L
+   8,R
+   1
   11,L,D
+   1,L
    8,R,D,X
   40
 
