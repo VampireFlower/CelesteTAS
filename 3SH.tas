@@ -406,20 +406,18 @@ console load 3
    4,Z
    1,R,J
    6,R
-   3,R,J
-   1,R
-  14,R,Z
-   1,R,J
-  10,R
-  30,L,D,X
-   2,L
+   5,R,K
+   5,R
+   8,R,K
+   9,R
+  28,L,D,X
+   4,L
+  10,U,X
+   1,L,J
    1
-   1,D,J
-   1,L,J
-   9,U,X
-   1,L,J
-   3
-   6,L
+   1,L
+   2
+   5,L
    1,L,J
    3,L
    8,R
@@ -443,7 +441,7 @@ console load 3
    3,R,J,G
    7,R
    2,R,J
-  23,R
+  24,R
    2,R,J
   24,R
   12,D,J
@@ -840,8 +838,12 @@ console load 3
 #lvl_07-a (1)
    8,L,D
   10,D
-  10,R,D
-  99
+   9,R,D
+Repeat 5
+   9,L
+   9,R
+Endrepeat
+  10,L
   14,L,D,X
    1,R,J
    5,R,D,X
