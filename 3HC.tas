@@ -20,26 +20,24 @@ Read,3SH,lvl_09-b (0),lvl_12-b (0)
    2,R,K,G
    4,R
    9,R,D,X
-   3,R,J,G
-   5,R
-   1,R,J
+   9,R,K,G
   40
 
 #lvl_13-b (0)
-   1,R,J
-   1,R
-   9,R,U,X
-  13,R,J,G
-  12,J
-   4
-   1,R
-  29,L,D
-   6,L,Z
-   7,L,J
-   1,L
-   1,L,J
-   2,L
-   3,L,J
+   5,R
+   2,R,K
+   1,R,J,G
+  23,R,K,G
+   9,R
+  15,D,X
+   5,D
+   5,L,D
+   3,L
+   1,D
+   4,D,X
+   7,L,K
+   4,L
+   2,L,J
   12,L,D,X
    3,L,J
   10,L,D,X
@@ -265,7 +263,7 @@ Read,3A,lvl_10-y,lvl_10-x (1)
    9,L,J
    8,L,D,X
  103
-   4,Z
+   4,D,X
    3,L,J
    4,L
    8,L,D,J
@@ -562,4 +560,4 @@ Read,3A,lvl_09-d,lvl_04-d
 
 #lvl_00-d
 Read,3A,lvl_00-d
-ChapterTime: 3:41.578(13034)
+ChapterTime: 3:41.510(13030)
