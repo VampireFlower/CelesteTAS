@@ -553,15 +553,18 @@ EndStunpause
   33,R,D
   15,R,X
   16,D
-  31,R,D
-  40,L,D
-  15,D,X
-  13,D
-  13,L,D
+  24,R,D
+   2,R
+   2,R,D
+   3,R
+   8,D
+  24,L
+  15,L,D,X
+   2,L,D
+  16,R,D
    1,D
-   1,L,D
-   4,D
-   1,L,D
+   3,R,D
+  16,L,D
    4,Z
    1,R,J
    8,R
@@ -1437,4 +1440,4 @@ AnalogMode,Ignore
   24,R,D,X
   21,R,D
  103,R
-ChapterTime: 3:15.738(11514)
+ChapterTime: 3:15.687(11511)
