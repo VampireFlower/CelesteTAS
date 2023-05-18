@@ -674,28 +674,22 @@ EndRepeat
 
 #lvl_c-05
   71
-   4,Z
+   5,R,Z
    1,R,J
-   3,R
-   1,R,J
-   3,R
-   2,R,J
-   7,R,K,G
-  12,R,D,X
-   1,R,J
-   3,R
-   1,R,J
-   3,R
-   7,R,J
-   1,J
-   1,R,K,G
-   1,J,G
-  10
-   3,L
-   1,J
-   3,R,K
    7,R
-   3,R,K
+   1,R,J
+   2,R,K,G
+   1
+   6,R
+   1,R,J,G
+  10,R
+   1,R,J
+  10,R,U,Z
+   1,L
+   9,J,G
+   5
+   8,R,J
+   6,R
    2,G
    1
    1,J
@@ -897,4 +891,4 @@ EndRepeat
   14,R,J
   14,R,U,C
  135,R
-ChapterTime: 2:04.491(7323)
+ChapterTime: 2:04.423(7319)
