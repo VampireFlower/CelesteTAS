@@ -1987,26 +1987,27 @@ AnalogMode,Ignore
 
 #lvl_c-09
    3,R,J
-   5,R,D
+   4,R,D
    1,R,J
-   5,R
-   1,R,J
-   3,R
-   1
    1,R
-  15,D,X
-   4,D,C
-   1,L,J
-   1,L
-  13
-   4,D
-  14,L,D,X
+   2,R,J
+   1,J
    1,R,J
+   1,R
+   1,R,J
+   9,D
+  10,L,D,X
+   3,L,J
+   2,L
+  17,L,D,X
+  13,L,D,C
+   2,R,J
   19,R,D,X
   17,R,J
   16,U,X
   14,R,J
-  11,R
+   8,R
+   3
    4,D,X
    1,R,J
    2,R,K,G
@@ -3130,4 +3131,4 @@ Endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 6:30.796(22988)
+ChapterTime: 6:30.762(22986)
