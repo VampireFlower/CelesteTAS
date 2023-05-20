@@ -232,24 +232,22 @@ console hard 9
   11,R,J,G
    1,R
    6,R,K,G
-   3,L,K
-   1,L
-   1,R,J,G
-   3,R
+   3,K
    1
-  10,R
+   1,R,J,G
+  11,R
    6
-   2,R
+   1,L
    6
-   2,R
-   1,J
-  50,R,J
-  16,R,Z
-Repeat 4
+   5,R
+  49,R,J
+   2,R,D
+  16,R,V
+Repeat 5
    1,G
    1
 EndRepeat
-   2,G
+   1,G
   12,R,J,G
    6,R
    1,R,J
