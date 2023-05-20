@@ -107,16 +107,23 @@ console rmx2 3
    3,R,J
   20,R,U,X
   25,R,J
-  26,L
-   5,J,G
+   1,L,D
+  28,D
+   1
+   1,D
+   8,J,G
+   1,K,G
+   5,L
+   2,J
+   1,R,J
+   1
+   1,R,K
+   5,R,D,X
+   1,L,J,G
+   6,R,J
+   5,R
+   2,R,J
    8
-   1,J
-   6
-   2,R
-   1,K
-   9,R,D,X
-  23,R,J
-   1,L,J
   57,L,D,X
   85,L,D,C
-ChapterTime: 0:15.963(939)
+ChapterTime: 0:15.878(934)
