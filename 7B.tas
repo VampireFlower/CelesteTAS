@@ -1166,38 +1166,45 @@ EndStunPause
    3,L,K,G
    6
    9,L
-   4,Z
-   5,L,J
-   4,L
-   2,L,J
+   4,D,X
+   6,L,J
+   1,L
+   1,J
+   1,L,J
+   1,L
+   1,L,J
   13,L,X
    1,R,J
    3,R
   15,U,X
    1,L
-  11,R,J
-  14,U,X
-  16,R,J
-   1,J
-  10,U,Z
-  16,R,J
+  16,J
    1,L
+   2,K
+  14,U,X
+   8,R,J
+   1,J
+   3,R,J
+   9,J
+   2,L,K,G
+   1,L,J,G
    1,K
-   3,J,G
-   5,R
-  17,R,K
-  15,U,Z
-   7,R,J
-   3,L,J
-   5,R,J
-   3,J
+   6,J,G
+   6,R,J
+   7,R,K
+  15,R,X
+  14,U,Z
+   9,R,J
+   1,J
+   4,L,J
+   1,R,J
    1,K,G
-   3
-   4,L
+   4
+   3,L
 
 #CP-17
-   8,L,J
-   3,J
+   9,L,J
+   2,J
   15,L,U,X
   15,U,Z
    2,L,J
@@ -1385,7 +1392,7 @@ EndStunPause
    4
    1,R
 #CP-09 Spinner Cycle
-   2,D
+   0,D
 #-------------------
    2,L,J
    3,J
@@ -1870,4 +1877,4 @@ EndRepeat
   10,R
   15,L
    5,R
-FileTime: 4:41.945(16585)
+FileTime: 4:41.792(16576)
