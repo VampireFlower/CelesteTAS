@@ -900,18 +900,20 @@ EndStunPause
    4,L
    1,R
    1,L,K
-  25,R,D,X
-  13,R,Z
-  49,L
-  15,U,X
-   1,L
-  15,U,C
-   1,L
-  19,J
+  26,R,D,X
+  12,R,Z
+  52,L
+   1,J,G
+   2
+   7,J,G
+   2,K
+  14,U,X
+  12,R,J
+  14,U,X
   44,L
-   6,L,U,X
+   8,L,U,X
 StunPause
-   9,L,U,X
+   7,L,U,X
 SkipInput,3,1
   18,L,U,Z
 EndStunPause
@@ -1877,4 +1879,4 @@ EndRepeat
   10,R
   15,L
    5,R
-FileTime: 4:41.792(16576)
+FileTime: 4:41.673(16569)
