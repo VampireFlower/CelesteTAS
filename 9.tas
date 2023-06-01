@@ -3344,7 +3344,7 @@ Set,AnalogMode,Precise
 #---------------
 #Lightning cycle
 #0-14
-   1,J
+   5
 #---------------
    7,R,D,C
    1,L,J
@@ -3491,53 +3491,46 @@ Set,AnalogMode,Precise
   48,R,U,J,G
   15,R,D,G
    1,R,G
-  38,R,D,G
-   3,R,G
-   3,G
-   1,R,G
-   1,D,G
-   4
-  21,R,U,X
-   5,R,U,C
-  13,R,G
-  12
-   8,R,G
-   7,R
-  14,R,X
-  33,R,D,G
-   1,R,G
-   1,R,D,G
-   4,R,G
-   1,R,D,G
-   1,G
-   1,D,G
-   1,G
-   1,D
-  13,R,Z
-   1,L,J
+  45,R,D,G
+   1,R
+  13,R,U,Z
+   8,R
+   6,R,U,X
+  16,R
+   3
+   1,R
    1
-   5,L
+  15,R,D,X
+   5,R
+  31,R,G
+   7,R,J,G
+   5,R,J
+  14,R,Z
    1,L,J
    5,L,D,X
   17,L,J,G
    9,L,K,G
    1,R,K
-  13,L,K
+  16,L,K
   15,L,D,X
-  20,L
+  18,L
    5,L,J
    1,L
    9,L,D,X
    1,L,K,G
    1,L
    1
-  14,L
-  40,L,K
-   1,L,D
-  18,L,U,X
+  15,L
+  34,L,K
+   1,L
+   4,L,D
+   1,L
+   2,L,D
+  19,L,U,X
   15,U,C
-  23,L
-   2,L,J,G
+  22,L
+   2,L,K,G
+   1,L,J,G
    1,R,J
    1,J
    1,R,J
@@ -3720,7 +3713,7 @@ Endrepeat
   14,U,X
   38
 #End_IGT
-ChapterTime: 8:06.574(28622)
+ChapterTime: 8:06.319(28607)
 
 # optional waiting for
 # visuals to play out
