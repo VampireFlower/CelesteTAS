@@ -319,30 +319,30 @@ console hard 7
    1,R
    5,R
   12,R,D,X
-   1,R,J,G
-   3,R
+   2,R,J,G
+   2,R
   20,R,D,X
    2,R,J
   15,R,U,X
    7,L,D,C
    1,R,J
-   7,R
-  40,R,J
-  17,R,X
-  17,R,U,Z
-   1,L,J,G
-   3,L,K,G
-   2,R,J
-  20,R
-   1
-  22,R
-  12,R,X
-   1,R,K,G
-   5
-   1,R
+   3,R
    1,R,J
-   5,R
-  15,R,Z
+   3,R
+  20,R,K
+  17,R,U,X
+  12,R,V
+   1,R,J,G
+  13,R
+   1,K,G
+   4,R
+   1,R,K
+   1,R
+   2
+   2,R
+  40,R,D
+  29,R,X
+  15,R,V
    1,R,J,G
    3,L,J
    1,R,K,G
@@ -1353,7 +1353,7 @@ EndStunPause
    3
   15,R
   15,R,Z
-  13,D
+  13
    7,R
   15,R,U,X
    9,R
@@ -1365,9 +1365,8 @@ EndStunPause
   12,R,Z
    4,R,J
    1
-  15,R,Z
-   1,R
-  13,R,Z
+  16,R,Z
+  13,R,V
    1,R,J
    1,J
   14,R,Z
@@ -1385,7 +1384,7 @@ EndStunPause
    1
   16,U,X
   14,R,J
-   1,R
+   1
    5,R,D,X
    1,R,J,G
    1,R
@@ -1396,8 +1395,8 @@ EndStunPause
 #CP-09 Spinner Cycle
    0,D
 #-------------------
-   2,L,J
-   3,J
+   1,L,J
+   4,J
   15,U,X
    7,L,J
   10,R,Z
@@ -1421,7 +1420,7 @@ EndStunPause
    3,J
   16,R,K
   15,L,J
-   1,J
+   1
   23,R,K
    9,R,D,X
    1,L
@@ -1879,4 +1878,4 @@ EndRepeat
   10,R
   15,L
    5,R
-FileTime: 4:41.673(16569)
+FileTime: 4:41.588(16564)
