@@ -620,7 +620,7 @@ EndStunPause
   11,J
   10,U,X
 #D-05 Cycle 0-2
-   1
+   2
 #--------------
   36,R,U,C
    1,R,J,G
@@ -663,22 +663,20 @@ EndStunPause
    4,D,X
    1,L,J
    6,L
-  11,L,J
-  13,L,X
-   6,L,J
+  12,L,J
+   7,L
+   7,L,J
+  14,U,Z
+  15,J
   14,U,X
-  11,L,K
-  14,U,X
-   2,J
-  12,R,J
-   1,K
-   2,J,G
-   1,L,J
+  10,R,K
+   1,J
+   2,K,G
+   1,L,K
   43
 
 #lvl_d-05
-   5,L
-   6
+  11,L
   14,L,Z
    1,R,J
    6,R,D,X
@@ -1111,6 +1109,8 @@ EndStunPause
    5,R,K,G
    9,R
   40
+
+#lvl_e-08
    2,R,K
    3,R
 StunPause
