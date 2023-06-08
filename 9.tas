@@ -28,6 +28,10 @@ console load 10
 #Start
   98
 
+#c-00 Cycle 0-2
+   1
+#--------------
+
 #lvl_intro-00-past
   15,R,X
   10,R,D,C
@@ -502,20 +506,25 @@ console load 10
   20,R,C
   15,R,X
   15,R,D,C
-   7,D
-   1,R,D
-   5,L,D
-   5,L
    1,D
+   1,R,D
+   1,D
+   1,R,D
+   4,D
+  10,L,D
   15,L,Z
   18,L,U,X
   15,L,C
-  18,L,D,X
-  16,R,D
-  18,R,X
-  20,R,C
-  16,R,Z
-  11,R,V
+  15,L,D,X
+   2,L,D
+   3,D
+   1
+   1,L,D
+  14,D
+  17,R,X
+  18,R,C
+  15,R,X
+  13,R,Z
    1,R,J
    6,R
    1,R,J
