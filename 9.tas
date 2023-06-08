@@ -1101,45 +1101,27 @@ EndStunPause
    5,R
    8,R,J
   26,R,D,X
-   4,R,V
-   1,S,N
-  10,O
-Repeat 4
-   2,R,V
-   1,S,N
-  10,O
-Endrepeat
-   1,R,V
-   1,R,K,G
-   1,S,N
-  10,O
+   4,R,Z
+StunPause 
+   9,R,Z
    1,R,J,G
-   1,R
-   1,S,N
-  10,O
-   1,R,K,G
-   5,R,J,G
+   2,R,K,G
+   1,R,J,G
+EndStunPause
+   5,R,K,G
    9,R
-   1,R,K
   40
-
-#lvl_e-08
-   4,R,K
-   1,S,N
-  10,O
-   1,R,K
-   4,R,D,X
-   1,S,N
-  10,O
-Repeat 3
-   2,R,D,X
-   1,S,N
-  10,O
-Endrepeat
-   5,R,D,X
+   2,R,K
+   3,R
+StunPause
+   1,R
+SkipInput 3 1
+  11,R,D,X
+EndStunPause
+   4,R,D
    1,R
   21,R,D,C
-   2,R
+   1,R
   12,R,V
    3,R,K,G
    4,K
@@ -1979,7 +1961,7 @@ Endrepeat
   16,R,X
   17,R,Z
 #H-09 Cycle 0-2
-   1
+   2
 #--------------
   45,R,X
   15,R,D,C
@@ -3603,8 +3585,8 @@ Endrepeat
   40
 
 #lvl_j-12
-   7,R,K
-   4,R
+   6,R,K
+   5,R
   14,R,U,X
    5,R,J,G
    8,R
@@ -3616,7 +3598,7 @@ Endrepeat
    4,R
   15,R,D,X
    6,R,J
-   2,J
+   2
   40,J
 
 #lvl_j-13
