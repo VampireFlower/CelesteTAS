@@ -1,4 +1,4 @@
-#v
+#long live archie
 console load 1
    1
 
@@ -324,43 +324,45 @@ console load 1
   14,R,J
   14,R,U,X
    1,J,G
-   5
+   3
    2,L
-   3,D,J
-  16,U,X
-  12,R,J
+   1
+   1,L
+   1,J
+  14,U,X
+   1,J
+   1,R,K,G
+   7
+  11,U,X
   40
 
 #lvl_10a
-   3,R,J
-   3,R
-   1,R,J,G
-   1,R,K,G
-   3,R
-  10,R,X
-   8,R,J
-  14,U,X
-   4,R,J
-   2,J
    1,R,J
-   8,J
-  15,R,U,X
-   9
-   6,L,Z
-   7,L,J
-   2,L
-   1,L,K,G
-   9,L
-   1,L,K
-  30,L,D
-   1,G
-   7,L,J,G
-   2,J
-  15,U,Z
+   3,R
+   1,R,K,G
+   9,R
+  15,R,J
+  14,U,Z
+  24,R,J
+  10,R,Z
+   3,L,J
    1,J
-   3,R,K,G
-   7,R
-   3,R,J
+   2,L,J
+   1,L
+   5,L,J
+  10,L,K,G
+  15,L,D,X
+  15,L,D
+   4,L
+   1
+   4,L
+  14,U,Z
+   5,L,K
+   1,K
+   3,L,K
+   1,J
+   7
+   3,L,J
   15,U,X
    5,L,J
    3,R,J
@@ -450,4 +452,4 @@ console load 1
    1,S
    1,D,J
   18
-ChapterTime: 0:49.147(2891)
+ChapterTime: 0:49.130(2890)
