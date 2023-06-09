@@ -112,9 +112,9 @@ Read,7SHC,lvl_f-00
 
 Read,LoadCoreFromSummit
 
-Read,8S,Start,lvl_d-11
+Read,8S,Start,lvl_d-10c
 
-Read,8AC,lvl_d-11
+Read,8AC,lvl_d-10c
 
 Read,Load1B
 
