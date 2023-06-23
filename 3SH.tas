@@ -388,39 +388,37 @@ console load 3
    8,R,J
    1,R,K,G
    1,R,J,G
-  11,R
-  13,L,D,X
-   6,R,J
-   5,R,U,Z
+   1,R
+   1
+   7,R
+   1,R,J
+  17,R,D,X
   40
 
 #lvl_02-b (1)
-  12,R,U,Z
-  14,U,X
-   4,J
-   7,R,J
+   2,R,D
+  11,R,J
+  15,U,Z
+  11,J
+   2,R
    1,R,K,G
-   1,K
-   1
+   7,R
+   3,R,K
    5,R
-   2,R,K
-   1,R
-   2,R,K
-   4,R
-   4,Z
+   4,D,X
    1,R,J
-   6,R
-   5,R,K
-   5,R
-   8,R,K
-   9,R
-  28,L,D,X
-   4,L
+   7,R
+   7,R,K
+  10,R
+  10,L,D
+  27,L,D,X
+   2,L
+   2
   10,U,X
    1,L,J
-   1
-   1,L
    2
+   1,L
+   1
    5,L
    1,L,J
    3,L
@@ -445,7 +443,7 @@ console load 3
    3,R,J,G
    7,R
    2,R,J
-  24,R
+  23,R
    2,R,J
   24,R
   12,D,J
@@ -1734,27 +1732,34 @@ Endrepeat
    2,R,J,G
    7,R
 #+1f Berry
-  12,R,D,X
-   3,R,J
-   5,R,U,C
+  13,R,X
+   2,R,J
+   5,R,U,X
   40
 
 #lvl_09-b (3)
-  10,R,U,C
+   5,R,U,X
+   1,L
+   4,J,G
   14,R,U,X
    1,R,J,G
-   6,R
-   3
-  12,L
-  13,U,X
+   5,R
+   1,R,J
+   2
+  15,L
+   2
+  15,U,X
+   1,R,J,G
    3,L,J
-   1,R,K,G
-  11,R,J,G
+   2,R,K,G
    7,R
-   9,R,X
-  16
-   4,L,K,G
-   1
+   4,D,X
+   1,R,J
+   3,R
+   1,R,J
+   6
+  10,L
+   5,L,K,G
   10,L,C
    7,L,J
    1,S
@@ -2539,4 +2544,4 @@ Endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 4:44.852(16756)
+ChapterTime: 4:44.750(16750)
