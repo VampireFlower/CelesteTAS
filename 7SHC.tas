@@ -358,27 +358,28 @@ Read,7HC,lvl_c-06c,lvl_c-06b (2)
    4,R,J
    1,R,K
   15,R,U,C
-   6,R,Z
+  14,R,Z
    1,R,J
-   7,R
-   1,R,J
+   1,R
   15,D,X
+#+1f berry
    3,L,D
    1,D
    2,L,D
    5,D
    9,R,D
-  10,L,D
-  11,L
-   6,L,D
-   3,R,D
+  12,L,D
+  10,L
+   1,L,D
+   1,L
+   4,L,D
+   2,R,D
    1,R,J
    2,R
    2,K,G
    1,R
    1
-   1,R
-   1
+   2,R
   15,D,X
    3,R
   15,R,D
@@ -413,34 +414,36 @@ Read,7S,lvl_c-07 (2),lvl_c-08
    2,R
    9,L,U,X
    3,L,K,G
-   3,L
+   5,L
    1
    1,L
-   3
-#+1f Berry
-  13,L,Z
+  11,L,Z
    1,L,J
-   1,L
+   3
    6,R,Z
    1,R,J
    7,R
    1,R,J
   18,R,D,X
-   6,R
+   4,R
+   2,R,D
   17,R,Z
    4,R,J
-   1,R,K
-  21,R,X
+   2,R,K
+  20,R,X
    4,R,J
    1,R,K
   15,R,D,X
-   5,R
-  26,R,X
+   3,R
+   5,R,D
+  22,R,U,C
    4,R,J
-  10,R,K
-  14,R,Z
-   1,R,J
-   9,R,D,X
+  11,R,V
+   5,R,K
+  15,R,D,X
+   1,R,K
+   4,R
+   5,R,U,V
   40
 
 #lvl_c-09
@@ -1437,4 +1440,4 @@ read,7HC,lvl_g-00b,Exit
   15,R,J
    2,K,G
 read,7S,7SHC5
-FileTime: 9:56.343(35079)
+FileTime: 9:56.309(35077)

@@ -1161,41 +1161,41 @@ console load 7
    1,R,J
    6,R
    1,R,J
-  18,R,D,X
-   6,R
+  20,R,D,X
+   4,R
   17,R,Z
    4,R,J
-   1,R,K
-  21,R,X
+   2,R,K
+  20,R,X
    4,R,J
    1,R,K
   15,R,D,X
    5,R
-  26,R,X
+   3,R,D
+  22,R,U,C
    4,R,J
-  10,R,K
-  14,R,Z
-   1,R,J
-   9,R,D,X
+  11,R,V
+   5,R,K
+  15,R,D,X
+   1,R,K
+   4,R
+   5,R,U,V
   40
 
 #lvl_c-09
-   5,R,D,X
-   1,R,J
-   9,R,D,X
+   7,L
+   3,K,G
+  15,R,D,X
+  22,R,U,V
+   4,R,K
    4,R,J
-   9,R
-  26,R,U,Z
-   4,R,J
-   2,R,K
-   2,L,J,G
-   6,U,V
-   3,R,J
-  37,J
+  11,U,X
+  14,J
+  24
   15,L,U,X
-  18,L,U,C
-   4,L,J
-   4,Z
+  17,L,U,C
+   4,L,K
+   4,D,X
    1,L,J
   22,L,D
   12,L,Z
@@ -2419,7 +2419,7 @@ console load 7
   14,R,U,X
    4,R,J,G
 #Spinner cycle
-   1
+   0
 #-------------
   58,R,C
   10,R,D,X
@@ -2471,19 +2471,6 @@ EndStunPause
   40
 
 #lvl_f-03
-#ties
-#  11,R,D
-#   1,R
-#   1,R,J
-#   8,R
-#  12,R,U,Z
-#   2,L,J,G
-#   8,R,J
-#   5,R
-#  15,R,D,X
-#   1,L,D
-#  15,R,D
-#   7,R,Z
   11,R,D
    2,R
    3
