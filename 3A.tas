@@ -14,7 +14,7 @@ console load 3
   61
 
 #lvl_s0
-   4,Z
+   4,D,X
    1,R,J
    7,R
    4,R,J
@@ -210,18 +210,14 @@ console load 3
    1,G
   12,L,D
   18,R,D
-   1,D
-   7
-   1,D
-   1
-  15,R,X
-  16,R,C
-   3,R,J,G
+   6,R,D
+  30,R,Z
+   6,R,J
    7,R
-   1,R,J
-  21,R
-   1,J
-  23,R
+   2,R,J
+  15,R,D
+   2,R,J
+  24,R
   12,D,J
   12,R,K,G
   14
@@ -1191,11 +1187,10 @@ endrepeat
    1,J
    9,L,J
    4,L
-   8,L,K,G
+   9,L,K,G
    1,S
    1,D,J
   34
-   1,L,K
 #Elevator Shaft
    9,U,Z
    1,J
@@ -1269,12 +1264,11 @@ endrepeat
    1,L,J
    2,L
    2,L,J
-   4,L,D
+   4,L
   40
 
 #lvl_06-d
-   2,L,D
-  12,L,D
+  14,L,D
   11,R,D
    7,L,D
    1,L
@@ -1728,4 +1722,4 @@ endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 3:14.344(11432)
+ChapterTime: 3:14.310(11430)
