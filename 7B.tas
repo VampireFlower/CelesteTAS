@@ -1323,8 +1323,7 @@ EndStunPause
   22,R
   25,R,D,X
    2,D
-  14,R,U,Z
-   1,L
+  15,R,U,Z
    1,L,J,G
    1,L,K,G
    1,J,G
@@ -1364,18 +1363,18 @@ EndStunPause
   15,R,U,X
   12,R,Z
    4,R,J
-   1
+   1,R
   16,R,Z
   13,R,V
-   1,R,J
-   1,J
+   2,R,J
   14,R,Z
    2,R,J
-   2,R
   15,R,Z
-  22,D,C
-   7,J
+  18,L
+   1,D
   12,R,J
+   1,J
+   7,R,J
   15,R,C
   11,R,X
 
@@ -1393,7 +1392,7 @@ EndStunPause
    4
    1,R
 #CP-09 Spinner Cycle
-   0,D
+   1,D
 #-------------------
    1,L,J
    4,J
