@@ -7,91 +7,7 @@ console load 7
  246
 
 #lvl_a-00
-Read,7S,lvl_a-00,lvl_a-04
-
-#lvl_a-04
-   2,R,D,X
-   1,R,J
-   1,R
-  14,R,D,X
-  20,R,J
-  15,R,U,X
-   1,R
-  14,U,Z
-   1,J
-   1,R
-   6,L,U,X
-  13,R
-  15,U,X
-   2,R
-   3,R,J
-   9,L,J
-   1,J
-   9,L,J
-   2,L,K,G
-   5,L,Z
-   1,L,J
-   3,L
-   1,L,J
-   3,L
-   6,L,J
-  11,U,X
-   4,L,J
-   5,L,K
-   7,U,X
-  40
-
-#lvl_a-04b
-   2
-   5,R,J
-   1,J
-   3,L,J
-   5,R,J
-   4,R
-  15,R,X
-  10,L
-  15,L,U,X
-  35,L,D
-   2,L
-   1,L,D
-   9,L,Z
-   1,L,J
-   6,L
-  23,L,J
-   7,U,X
-   8,R,J
-  10,R
-  12,R,J
-  22,L,X
-  24,R,D
-  15,R,X
-  13,R,Z
-   2,R,J
-  14,R,D,X
-   2,R,J
-   8,D,X
-  40
-
-#lvl_a-04 (2)
-   3,L,D
-  11,R,D
-   6,R,D,X
-   1,R,J
-   4,R
-   1,R,K
-   3,R
-   4,D,X
-   1,R,J
-   6,R
-   4,R,J
-   5,R,D,X
-   1,R,J,G
-   6,R
-   1,R,K
-  40
-
-#lvl_a-05
-Read,7S,lvl_a-05,lvl_a-06
+Read,7S,lvl_a-00,lvl_a-06
 
 #lvl_a-06
    2,R
@@ -134,9 +50,24 @@ Read,7S,lvl_a-05,lvl_a-06
  141
 
 #lvl_b-00
-Read,7S,lvl_b-00,7SHC1
+Read,7S,lvl_b-00,7SHC0
+   2
+   5,L,Z
+   3,L,J
+   6,L,K,G
+   1,L
+   4,L,J,G
+   1,L
+   2,L,K,G
+  12,L,U,Z
+  40
+
+#Lvl_b-02 (1)
+Read,7S,lvl_b-02b (1),7SHC1
 
 #lvl_b-02e
+   4,R
+   3
    5,R,D,X
    7,R,J
    1,R,K,G
@@ -152,7 +83,7 @@ Read,7S,lvl_b-00,7SHC1
   40
 
 #lvl_b-02b (2)
-   3,R,D
+   3,R
    2,R,J
    2,R
   15,R,D,X
@@ -1440,4 +1371,4 @@ read,7HC,lvl_g-00b,Exit
   15,R,J
    2,K,G
 read,7S,7SHC5
-FileTime: 9:56.309(35077)
+FileTime: 9:56.292(35077)

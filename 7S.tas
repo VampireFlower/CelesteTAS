@@ -191,56 +191,56 @@ console load 7
   15,U,X
    2,R
    3,R,J
-   3,L,J
-   1,R,J
-  15,L,J
+   9,L,J
+   1,J
+   9,L,J
    2,L,K,G
    5,L,Z
    1,L,J
-   7,L
+   3,L
+   1,L,J
+   3,L
    6,L,J
-  12,U,Z
+  11,U,X
    4,L,J
-   2,L,K
-   7,L,U,C
-   1,L,J,G
-   1,K
+   5,L,K
+   7,U,X
   40
 
 #lvl_a-04b
-   1,L,J,G
-   4,L
-   6
-   4,L,Z
+   2
+   5,R,J
+   1,J
+   3,L,J
+   5,R,J
+   4,R
+  15,R,X
+  10,L
+  15,L,U,X
+  35,L,D
+   2,L
+   1,L,D
+   9,L,Z
    1,L,J
-   8,L
-  22,L,J
+   6,L
+  23,L,J
    7,U,X
    8,R,J
-   9,R
-   6,R,J
-   7,R
+  10,R
+  12,R,J
   22,L,X
-   7,R
-  15,R,D
-   1,R
-   1,R,D
+  24,R,D
   15,R,X
   13,R,Z
-   1,R,J
-   6,R
-  12,R,J
-   1,K,G
-   8,J,G
-   4,R,J
-  25,R,X
-  15,L,U,C
-  23,L,D
-  18,R,D
+   2,R,J
+  14,R,D,X
+   2,R,J
+   8,D,X
   40
 
 #lvl_a-04 (2)
-  12,R,D
+   3,L,D
+  11,R,D
    6,R,D,X
    1,R,J
    4,R
@@ -283,10 +283,10 @@ console load 7
   40
 
 #lvl_a-06
-   1,R
-   1,R,J
+   2,R
+#+1f berry
   14,R,D,X
-   8,R,J
+   9,R,J
   43,R
   19,R,X
   17,R,U,C
@@ -402,11 +402,14 @@ console load 7
   15,U,X
    1,L,J,G
    5,L
-   2
-   5,L,Z
-   3,L,J
-   6,L,K,G
-   1,L
+#7SHC0
+#+5f berry
+   7,L
+   6,L,D,X
+   1,L,K
+   6,L,J,G
+   1,J
+   1
    4,L,J,G
    1,L
    2,L,K,G
@@ -484,65 +487,66 @@ console load 7
   14,U,X
   13,R,J
    1,K
-   4,R
-   3
 #7SHC1
-   5,R,D,X
-   7,R,J
-   1,R,K,G
-   2,R
+   7,R
+#+3f berry
+  12,R,V
+   1,R,K
+   4,R,J,G
   14,R,D,X
    1,R,J
   14,R,D,X
-   1,R,J
-   3,R
-  22,R,D,X
+   4,R,J
+  15,R,D,X
+   8,R,V
   40
 
 #lvl_b-02b (2)
-   2,R,D
+   1,S
+   1,D,J
+  69,O
+   5,L,Z
    1,R,J
    1,R
-  15,D,X
-  42,D
-  14,R,D,G
-   1,R,G
-  11,R,D
-   4,R,G
-   1,R
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-  15,R,D,X
-  18,R,D
   40
 
 #lvl_b-02 (2)
-   1,R,D
-  13,R
-   7,R,U,V
-   1,R,J,G
-  10,R
+   5,R
+   1
    3,R,J
-   1,J
+  18,R,D,X
+   2,R,K
+   3,R
+   2,R,K,G
+   1,R
+   8,R,U,V
+   6,R,K,G
+   3,R
+  10,R,D,X
+   1,R,K,G
+   9,R
   40
 
 #lvl_b-03 (1)
-   8,R,J
+   1,R
+  12,R,K
   15,R,D,X
-   2,R,J
-   6,R
-   2
-   5,R,U,Z
+   1,R,D,K
+   4,R
+   7,R,K,G
   40
 
 #lvl_b-04
-   9,L
+   4,K
+   7
+  12,R,U,V
    1,K,G
    1,R,K
-  16,R,U,X
-  31,L,D,C
+   1,L,K
+   3,K
+   1,L
+  25,L,D,X
+   6,L
   15,L,U,X
   11,L,V
    2,L,J
@@ -2418,7 +2422,7 @@ console load 7
   14,R,U,X
    4,R,J,G
 #Spinner cycle
-   1
+   0
 #-------------
   58,R,C
   10,R,D,X
@@ -3897,4 +3901,4 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 8:50.553(31209)
+ChapterTime: 8:50.468(31204)
