@@ -1097,23 +1097,22 @@ console load 7
   40
 
 #lvl_c-07 (2)
-   1,R,J
-   6,R
+   2,R,J
+   5,R
    6,R,K
   14,R,U,X
    1,R,J,G
-   1,R
    1
-   7,R
-  28,R,J
-  15,R,D,X
-   4,R
-   8,R,K,G
-  18,R,X
+  11,R
+  22,R,J
+   2,R
+  19,R,D,X
+   5,R,K,G
+  21,R,X
+   4,R,K
    4,R,J
-   2,R,K
   15,R,D,X
-  24,R,Z
+  22,R,V
    4,R,K
    1,R,J
   15,R,D,C
@@ -2419,7 +2418,7 @@ console load 7
   14,R,U,X
    4,R,J,G
 #Spinner cycle
-   0
+   1
 #-------------
   58,R,C
   10,R,D,X
