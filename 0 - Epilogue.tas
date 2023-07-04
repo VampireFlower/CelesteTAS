@@ -5,12 +5,12 @@ console load 8
   69
 
 #lvl_outside
-   4,D,X
-  10,L,J
-   3,L,K,G
- 126
-   4,D,X
-  32,L,J
+   8,L,X
+   7,L,K
+   8,L,V
+   1,R,K
+ 122
+  33,L,J
    1,S
    1,D,J
   95
