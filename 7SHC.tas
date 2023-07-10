@@ -1279,19 +1279,18 @@ read,7HC,lvl_f-00 (2),7SHC4
   20,R,D,X
   40
 
-#lvl_f-05 (2)
-   9,R,D
+#lvl_f-05 (1)
+   9,L,D
   16,R,Z
-  16,R,V
-   1,L
-  19,L,J,G
-   7,L,K,G
-   1,J
+  15,R,V
+   4,L
+  13,L,J,G
+   1,K,G
+  10,R,K
   40
 
 #lvl_f-07 (2)
-   8,L
-   1
+   9,L
    1,J
   11,L,J
    1,R,J
@@ -1321,7 +1320,7 @@ read,7HC,lvl_f-00 (2),7SHC4
   20,L,D,X
   40
 
-#lvl_f-05 (3)
+#lvl_f-05 (2)
   15,R,D,X
    1,L,D
    6,R,D
@@ -1371,4 +1370,4 @@ read,7HC,lvl_g-00b,Exit
   15,R,J
    2,K,G
 read,7S,7SHC5
-FileTime: 9:56.292(35077)
+FileTime: 9:56.275(35075)

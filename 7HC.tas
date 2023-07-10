@@ -895,12 +895,13 @@ read,7S,lvl_f-00 (1),lvl_f-01
   40
 
 #lvl_f-05 (1)
-   9,R,D
+   9,L,D
   16,R,Z
-  16,R,V
-   1,L
-  19,L,K,G
-   8,R,J
+  15,R,V
+   4,L
+  13,L,K,G
+   1,J,G
+  10,R,J
   40
 
 #lvl_f-07 (2)
@@ -1029,4 +1030,4 @@ Read,7A,lvl_f-07,lvl_g-00b
   15,R,J
    2,K,G
 Read,7A,7HC1
-ChapterTime: 7:50.509(27677)
+ChapterTime: 7:50.492(27676)
