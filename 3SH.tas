@@ -1018,22 +1018,21 @@ Endrepeat
    1,R,J
    3,R
    3,R,J
-  13,R,K,G
-  15,R,D,X
-   1,R
-   2,R,D,J
-   1,R
-   2,R,K,G
-   4,R
-   9,R,D,X
-   1,R,J,G
+   4,R,K,G
+   3,R
+  10,R,D,X
+   3,R,J,G
    5,R
+   1,R,J
+   6,R
    3,R,J
+  10,R,D,X
+   1,R,J,G
+   9,R
   40
 
 #lvl_13-b (0)
-   1,R,J
-  10,R,U,X
+  11,R,U,X
   42,R,J,G
    2
    6,L,J
@@ -2537,4 +2536,4 @@ Endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 4:44.682(16746)
+ChapterTime: 4:44.665(16745)
