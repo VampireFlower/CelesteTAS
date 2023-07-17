@@ -706,7 +706,7 @@ EndStunPause
    5,R,J
   40
 
-#lvl_e-00y
+#lvl_e-00y (0)
    1,K,G
    1,R,K
    1,L,K
@@ -753,7 +753,7 @@ EndStunPause
   60,L,U,C
   40
 
-#lvl_e-00y
+#lvl_e-00y (1)
   52
   14,U,X
    2,J
@@ -2488,7 +2488,7 @@ EndStunPause
   15,R,X
   14,R,Z
   27,R,U
-Set,AnalogMode,Precise
+AnalogMode,Precise
   10,F,105
   39,F,109.022
   22,F,95.99
@@ -3606,19 +3606,18 @@ Endrepeat
    4,R,J,G
    4,R
   15,R,D,X
-   6,R,J
-   2
+   7,R
+   1
   40,J
 
 #lvl_j-13
-   4,R,D,J
+   1,R,D,J
+   1,D,J
+   2,R,D,J
    8,R,K
   15,R,D,X
-#2f need to be saved to cut
-#the pause; can save 1f here
-   1,R
-   1,R,J
-   6,R,K,G
+   2,R,J
+   5,R,K,G
    7,R,D,X
    1,R,J,G
    5,R
@@ -3633,69 +3632,59 @@ Endrepeat
 
 #lvl_j-14
    1,R,J
-   5,R
-   3,R,J
-   1,R
-   1,J
-   1
-   1,J
-   5
+   8,R
+   2,R,J
+   6,R
   14,R,U,X
-   1,R,J,G
-   1,S,N
-  10,O
-   2,J
+   1,J,G
+   2,R
   40
 
 #lvl_j-14b
-   5,J
-   5,R,U,X
-   1,J,G
-   8,R,J
-   3,R
-   6
+   1,R
+   9,R,U,X
+   1,R,J,G
+   3,J,G
+   5,R,J
+   5,R
+   1,R,J
+   2,R
   40
 
 #lvl_j-15
-   1,J
-   3
-   3,R
-  13,R,U,Z
-   1,L,J,G
-   2,J
-   3,R,J
-   3,R
-   1,R,K,G
+   7,R
+  12,R,U,Z
+   2,L,K,G
+   7,R,K
+   4,R,J,G
    5,R
-   1,R,J
-   4,R
   40
 
 #lvl_j-16
-  14,R,D
-  11,R,U,X
-   1,L,J,G
-  24,R,D
-   1,D
-   6,R,D
+   1
+  29,R,J
+  10,R,D
    1,R
-   1,R,D
-  42,R,U,G
-  10,R,G
-   4,G
-   7,D,G
-   1,R
-   2,R,J
-  54,R,J,G
-   2,R,J
+  14,R,X
+  46,R,U,J,G
+   2,U,G
+   1,L
+   2,R
+   4
+   1,L,J
+  12,K
+  20,K,G
+  17,R,K,G
+   2,R
   15,L,U,X
    8,R
-  32,R,J,G
-   2,D
-   8,R
-  11,U,X
-  25,R,G
-  16,G
+  40,R,G
+   4,D
+   5,R
+  12,U,X
+  28,R,G
+  15,G
+   6,D
   38
   14,U,Z
   27,L,U
@@ -3703,8 +3692,9 @@ Endrepeat
  117,F,0.5
   14,U,X
   38
+AnalogMode,Ignore
 #End_IGT
-ChapterTime: 8:06.319(28607)
+ChapterTime: 8:05.979(28587)
 
 # optional waiting for
 # visuals to play out
