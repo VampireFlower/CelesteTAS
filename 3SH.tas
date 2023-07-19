@@ -1511,18 +1511,22 @@ Endrepeat
    8,R,D,J
    4,R
    1,L
-   4,J,G
+   5,J,G
    4
-   1,R,J,G
-  14,R,D,X
+   7,L,D,X
    1,R,J
-   5,R
-   3,R,J
-   8,R
-  14,U,Z
+   3,R
+   1
+   3,R
+   5,R,D
    2,R,J
-   5,J
-  37,D
+   5,R
+   9,R,J
+  14,U,Z
+   1,J
+   1,R
+  21
+  15,D
    2
    1,D
    4,D,X
@@ -1651,7 +1655,7 @@ Endrepeat
    9,L,J
    8,L,D,X
  103
-   4,Z
+   4,D,X
    3,L,J
    4,L
    8,L,D,J
@@ -2536,4 +2540,4 @@ Endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 4:44.665(16745)
+ChapterTime: 4:44.648(16744)
