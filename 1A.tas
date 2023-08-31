@@ -1,4 +1,4 @@
-#long live archie
+#sunny supremacy
 console load 1
    1
 
@@ -16,7 +16,7 @@ console load 1
   14,R,U,X
    1,R,J,G
    7,R
-   4,Z
+   4,D,X
    1,R,J
    6,R
    9,R,J
@@ -33,7 +33,7 @@ console load 1
    6
    1,R,J
    2,R
-   4,Z
+   4,D,X
    1,R,J
    2
    4,R
@@ -268,33 +268,28 @@ console load 1
    3,L,J,G
    2
    5,R
-   9,R,X
-   6,R,J
-   5,R
-   1,R,J
-   1,R
-   1,R,J
-   6,R,D,X
-   1,R,J
-   2,R
+   7,R,Z
+  12,R,J
+   1,R,K,G
+   4,K
+   5,R,K
   40
 
 #lvl_8b
-   4,R
-   2,R,J
+   1,R,K
   15,R,D,X
-   7,R
-   5
-   8,L,D,X
    1,R,J
-   2,R
-   3,R,J
-  15,R,D,K
-   3,J
+  15,R,D,X
+   3,R
    1,R,J
-  16,U,X
-   3,R,J
-  14,L,J
+   4,R
+  15,R,D,X
+   2,L
+   2,L,J
+   8
+   7,U,G
+   8,U,V
+  17,J
   40
 
 #lvl_9
@@ -453,4 +448,4 @@ console load 1
    1,S
    1,D,J
   18
-ChapterTime: 0:49.130(2890)
+ChapterTime: 0:49.079(2887)
