@@ -624,7 +624,7 @@ console load 3
    1,L,J,G
    1,L,K,G
    7,L
-   4,Z
+   4,D,X
    1,L,J
    7,L
    1,L,J
@@ -688,7 +688,7 @@ console load 3
    1,R
    1,L
    3
-   4,Z
+   4,D,X
    1,R,J
    2,R,K,G
    7,R
@@ -1423,7 +1423,7 @@ Endrepeat
    8,R,D
    5,R
    1,R,D
-  11,R,Z
+  11,R,V
    1,R,J
    1,R,J,X
    1,S
@@ -1432,23 +1432,27 @@ Endrepeat
    3,R,J
   15,L,D,X
   15,D,C
-  22,R,D,X
-   5,D
-   2
-  22,L,D
-  14,R,D,X
-   1,R,J
-  19,R,D,X
-   3,R
-   1,R,J
+  15,R,D,X
+   6,D
+   2,R,D
+   1,R
+   2,R,D
+   4,D,X
+   1,R,K
+  12,R
+   5,R,D
+   8,D
+  24,R,D
   17,R,D,X
+   2,D
   40
 
 #lvl_10-x (0)
-   6,R,D
-   2,R
+   4,R,D
+   3,R
    1,R,D
-   4,Z
+   1,R
+   4,D,X
    1,R,J
    2,R
   40
@@ -2538,4 +2542,4 @@ Endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 4:44.597(16741)
+ChapterTime: 4:44.529(16737)
