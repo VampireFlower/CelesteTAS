@@ -795,7 +795,8 @@ console load 3
   40
 
 #lvl_08-b
-   5,L,D
+   1,D
+   4,L,D
    6,D
    3,R,J
   15,L,D,X
@@ -1854,21 +1855,26 @@ Endrepeat
    1,L
    2,L,D
    2,L
-   3,L,D
-   1,L
-   1,L,D
+   2,L,D
+   1,D
+   1
+   1,D
    4,D,X
    1,L,J
-   6,L
-   7,L,J
+   6
+   1,L,J
+   2,J
+   8,L,J
+   2,L
   14,L,U,X
    1,L,K,G
-   2,R,K
-   1,R
-   1,L,J,G
-   1,L,K,G
-   7,L
-  10,L,Z
+   3
+   2,L
+   1
+   2,L
+   1,L,J
+   1,L
+   4,D,X
    1,L,J
    5,L
    1,L,J
@@ -2549,4 +2555,4 @@ Endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 4:44.444(16732)
+ChapterTime: 4:44.410(16730)

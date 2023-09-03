@@ -467,18 +467,21 @@ console load 4
   10,R
   15,R,X
   16,R,U,Z
-  18,U,V
-   7,R,J
+  14,U,V
+   6,R,J
   10,J
+   3,R,J
+   1,J
    1,K,G
-   6,R
-   2
+   1
+   3,R
+   1
+   1,R
+   1,R,J
    4,L
    5,R,Z
    1,R,J
-   1,R
-   1,R,J
-   2,R
+   4,R
   14,R,J
   15,R,D,X
   31,R
@@ -921,4 +924,4 @@ console load 4
    1,S
    1,D,J
   18
-ChapterTime: 1:46.794(6282)
+ChapterTime: 1:46.760(6280)

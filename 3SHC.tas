@@ -129,7 +129,7 @@ read,3SH,lvl_03-b,lvl_02-c (1)
    1,R,K,G
    2,R,J,G
    4,R
-   4,Z
+   4,D,X
    9,R,J
   40
 
@@ -155,4 +155,4 @@ Read,3HC,lvl_04-d (1),lvl_00-d
 
 #lvl_00-d
 read,3SH,lvl_00-d
-ChapterTime: 4:55.562(17386)
+ChapterTime: 4:55.528(17384)

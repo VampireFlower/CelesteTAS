@@ -402,7 +402,8 @@ console load 3
   33,D
    2,R,J
   14,R,D,X
-   2,L,J
+   1,L,J
+   1,L
   14,L,D,X
   12,L,J
    1,L
@@ -424,7 +425,7 @@ console load 3
    2,L,J
    1,L
    1,L,J
-  13,L,U,Z
+  13,L,U,V
    1,L,J,G
   10,L
    9
@@ -598,7 +599,7 @@ endrepeat
    3,R
    1,R,D
    1,R
-   4,Z
+   4,D,X
    1,R,J
    2,R
   40
@@ -722,18 +723,17 @@ endrepeat
    3,L,J
    4,L
    8,L,D,J
-   5,L
-  14,U,X
-  12,L,J
+   4,L
+   1,R
+   1,R,K,G
+   6,K
+  10,R,J
+  15,U,X
   40
 
 #lvl_09-b (1)
-   2,R
-   1,L,J,G
-  10,L,K,G
-   1,L
-   6,L,J,G
-   1,L
+  11,L,J
+   3,L
    6,L,Z
    1,L,J
    6,L
@@ -1283,21 +1283,25 @@ endrepeat
    1,L
    2,L,D
    2,L
-   3,L,D
-   1,L
-   1,L,D
+   2,L,D
+   1,D
+   1
+   1,D
    4,D,X
    1,L,J
-   6,L
-   7,L,J
+   6
+   1,L,J
+   2,J
+   8,L,J
+   2,L
   14,L,U,X
    1,L,K,G
-   2,R,K
-   1,R
-   1,L,J,G
-   1,L,K,G
-   7,L
-  10,L,Z
+   3
+   4,L
+   1
+   1,L,J
+   1,L
+   4,D,X
    1,L,J
    5,L
    1,L,J
@@ -1729,4 +1733,4 @@ endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 3:14.225(11425)
+ChapterTime: 3:14.174(11422)
