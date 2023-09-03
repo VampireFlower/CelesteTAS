@@ -389,29 +389,24 @@ console hard 2
    6,L
    5
   27,U,X
-   1,R,J
-  21,R,D
-   3,R
-  20,R,U,X
-   4,R,J
+   2,R,J
+  19,R
+   5,R,D
+  19,R,U,X
+   4,J
+   1,R
    1,R,K
-   7
-   2,R
-   1
-   6,R
+  16,R
    1,R,J,G
-   9,R,K,G
+   8,R,K,G
+   5,R
+   1,R,K
+  13,R
+   7,R,D
+   1,G
+   1,R,J,G
    9,R
-   2,R,K
-  11,R,D
-   1,D
    2
-   2,R
-   1,R,G
-   1,R,J,G
-   8,R,D
-   2,D
-   1,R,D
    1,R,G
    9,R,J,G
   27,U,Z
@@ -540,4 +535,4 @@ console hard 2
    5,J
   16,U,X
  135
-ChapterTime: 1:15.667(4451)
+ChapterTime: 1:15.650(4450)
