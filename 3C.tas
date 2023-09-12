@@ -77,41 +77,39 @@ console rmx2 3
    1,R,K,G
    1,R,J,G
   34,R,D
-   3,R
-   2,R,D
+   4,R
+   1,R,D
   10,R,X
    1,R,J,G
    3,J
-   1
-   5,R
-  14,R,U,X
-   3
-   4,R,J,G
-  23,R,D,X
-   6,R,U,C
-   1,L
-  10,J,G
-   3,R,J
-  14,R,Z
+   7,R,J
+  16,R,U,X
+   1,R,J,G
+   3,R
+  18,R,D,X
+   4,R,D
+   2,R
+  18,R,U,X
+  13,R,Z
    1,R,J
+   1,R
   14,R,D,X
-  16,R,J
-   2,J
-   5,R,J
-   5,J
-   1,R,J
-   8,R
-  18,R,X
-   3
-  15,R,Z
-   3,R,J
-  20,R,U,X
-  25,R,J
-   1,L,D
-  28,D
+  29,R,J
+   4,R
    1
-   1,D
-   8,J,G
+   2,R
+  18,R,X
+   9,R,Z
+   1,R,J
+   7
+  13,R,J
+  10,R,U,X
+  12
+  25,R,J
+  13
+   7,D
+   1,L
+   5,J,G
    1,K,G
    5,L
    2,J
@@ -122,8 +120,9 @@ console rmx2 3
    1,L,J,G
    6,R,J
    5,R
-   2,R,J
-   8
+   2,J
+   1,R
+   7
   57,L,D,X
   85,L,D,C
-ChapterTime: 0:15.878(934)
+ChapterTime: 0:15.861(933)

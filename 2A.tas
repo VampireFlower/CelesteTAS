@@ -483,25 +483,34 @@ console load 2
    4,D
    5,L,Z
    1,L,J
-   7,L
-   8,L,D,J
-  20,L,X
-   4,L,J
-  13,L,D,X
-   4,R,J
-   5,R
+  10,L
+   5,L,D,J
    2,R,J
-   7,R
-   4,D
-  46,L,D
-  13,L,X
-   2,L,J
-  15,L,D,C
+  20,L,X
+   4,J
+   1
+  10,L,D,X
+   1,R,J
+   2,R
+   1,R,J
+   6,R
+  15,R,D,X
+   1,L,D
+   6,R,D
+   1,R
+   3,R,D
+  10,D
+  21,L,D
+   3,L
+  12,L,Z
+   3,L,J
+  15,L,D,X
    5,R,D
   40
 
 #lvl_2
-  19,R,D
+   1,D
+  18,R,D
   10,L,D
   12,D
   13,R,D
@@ -664,4 +673,4 @@ console load 2
    1,S
    1,D,J
   18
-ChapterTime: 1:25.034(5002)
+ChapterTime: 1:25.017(5001)
