@@ -273,7 +273,7 @@ Read,6A,6HC1,[b-03] Spinner Cycle
 #lvl_11
 #---------------
 #Spinner Cycle 2
-   0
+   1
 #---------------
    1,R,J
    1,R,K
@@ -288,4 +288,4 @@ Read,6A,6HC1,[b-03] Spinner Cycle
   40
 
 Read,6A,lvl_12a
-FileTime: 5:12.698(18394)
+FileTime: 5:12.681(18393)
