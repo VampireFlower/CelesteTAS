@@ -1362,21 +1362,20 @@ Add 1
 #lvl_b-11 (1)
    4,L
    2,L,J
-   8,L
+   4,L
+   4
   11,D,X
   40
 
 #lvl_b-12
-   8,R,D
-   1,L
-  15,L,D
-   3
+   7,R,D
+   1,R
+  23,L,D
+   2,D
    2,L,D
    1
-   6,L
-   1,L,D
-   1,L,J,G
-  13,L,K,G
+   1,L,K,G
+  13,L,J,G
   12,U,X
    6,J
   11,R,K,G
@@ -3141,4 +3140,4 @@ Endrepeat
    1,S
    1,D,J
   18
-FileTime: 6:31.629(23037)
+FileTime: 6:31.612(23036)

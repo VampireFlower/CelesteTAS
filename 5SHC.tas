@@ -86,38 +86,33 @@ read,5S,lvl_b-13 (1),5SHC1
   16,D,C
   15,R,D,X
    6,R,C
-read,5HC,5SHC3,lvl_b-11 (2)
+read,5HC,5SHC3,lvl_b-13 (2)
+
+#lvl_b-13 (2)
+   1,J
+   1,L
+   1,L,J
+   2,L
+   4,L,D
+   6,L,J
+   5,L
+   1,L,J
+   1,L
+   9,L,D,X
+   4,L,J,G
+   3,L
+  40
 
 #lvl_b-11 (2)
+   5,L,J
+   7,L
+   1,L,K
    1,L
-   2,L,J
-   5,L
-   3,L,J
   11,D,X
   40
 
 #lvl_b-12
-   1,L
-   2,R
-   7,R,D
-  16,L,D
-  12,L
-   1,L,J,G
-  13,L,K,G
-  12,U,X
-   5,R,J
-   2,R
-   9,R,K,G
-   1,R
-   1,R,J,G
-   5,R
-   2
-   2,R,J
-  14,U,X
-  40
-
-#lvl_b-17 (2)
-read,5S,lvl_b-11 (2),lvl_b-02 (3)
+read,5S,lvl_b-12,lvl_b-02 (3)
 
 #lvl_b-02 (4)
    8,R,D
@@ -149,4 +144,4 @@ read,5HC,lvl_b-19,5SHC5
 
 read,5HC,5SHC5,lvl_b-16
 read,5S,lvl_b-16
-FileTime: 7:02.382(24846)
+FileTime: 7:02.348(24844)
