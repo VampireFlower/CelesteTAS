@@ -1413,16 +1413,14 @@ console load 10
    5,R
    6,R,J
   26,U,X
-  27,R,C
-  22,D,X
-   3,R,D
-   8,R,U,Z
-   1,L
-   1,J,G
-   6
+  22,R,C
    5,R
-   4,R,K
-   4,R
+  18,D,X
+   4,R,G
+  15,R,Z
+   1,R,K,G
+   9,R
+   1,R,K
   14,L,D,X
    1,R,J
    5,R,D,X
@@ -3872,7 +3870,7 @@ endrepeat
  116,F,1
   15,U,X
   38
-ChapterTime: 10:30.632(37096)
+ChapterTime: 10:30.530(37090)
 
 # Optional waiting for
 # visuals to play out
