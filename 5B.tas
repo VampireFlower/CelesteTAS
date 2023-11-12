@@ -204,39 +204,6 @@ endrepeat
    5,K,G
   20,U,C
   18,L,X
-#1.4 spikes dont succ, they suck; would save 23f
-#Set,Player.Position,3045.7666,-552
-#  30,D
-#  16,L,X
-#  14,U,C
-#  12,L,J
-#  31,L,X
-#  15,L,D,C
-#   2,D
-#   1,L
-#   1,R
-#  10,J,G
-#   6,L
-#   1,L,J,G
-#   1,L,K,G
-#  38,L,D
-#   4,Z
-#   2,L,J
-#   8,L
-#   1,L,J
-#   5,L,D,X
-#   1,L,J
-#   3,L
-#   1,L,J
-#   3,L
-#  10,L,J
-#   1,J
-#  14,L,Z
-#   1,R,J
-#   9,R,U,X
-#   8,R,J,G
-#  14,R
-#  33,U,X
   31,D
   16,L,X
   14,U,C
@@ -251,6 +218,7 @@ endrepeat
    1
    1,L
    4
+#going under is 1f off
    8,J,G
    4,L,J
    7,L
@@ -260,20 +228,21 @@ endrepeat
    1,L
    6,D
   21,L,D
-   4,Z
+   4,D,X
    1,L,J
   12,L
+   4,D,X
    1,L,J
-   6,L,D,X
+   3,L
    1,L,J
-   7,L
-   8,L,J
-   4,J
-  14,L,Z
+   3,L
+  13,L,D,J
+  14,L,V
    1,R,J
-   9,R,U,X
-   8,R,J,G
-  14,R
+   8,R,U,X
+   7,R,K,G
+   5,R
+  11,R,K
   33,U,X
   40
 
@@ -866,4 +835,4 @@ endrepeat
    5,R
   14,R,U,X
  135,R,D
-ChapterTime: 1:41.660(5980)
+ChapterTime: 1:41.626(5978)
