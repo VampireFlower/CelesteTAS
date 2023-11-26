@@ -2241,23 +2241,26 @@ AnalogMode,Ignore
    1,R,J,G
   11,R
    1,R,J
-  21,R
+   9,R
+   1,R,J
+   9,R
+   2,R,D
   24,R,K,G
   18,U,X
   19,R,U,C
-  11,R,J,G
+  10,R,J,G
   11,K,G
+   1
    1,J,G
    2,L,J
    8,L,K
    7,L
-   7,L,Z
-   2,L,J
-   1,L
+   4,D,X
+   5,L,J
    1,L,K,G
-  10,L
+  12,L
    1,L,J
-   6,L
+   3,L
   14,L,D,X
    1,R,J
    1,R
@@ -2303,8 +2306,7 @@ AnalogMode,Ignore
   13,U,X
    5,J
    1
-   1,K
-   2,L,K
+   3,L,K
    7,L
    6,L,Z
    1,L,J
@@ -2532,6 +2534,8 @@ AnalogMode,Ignore
    1
    1,L,J,G
    7,L
+#key cycle
+   1
    8,L,Z
    1,L,J
    6,L
@@ -3140,4 +3144,4 @@ Endrepeat
    1,S
    1,D,J
   18
-FileTime: 6:31.612(23036)
+FileTime: 6:31.595(23035)
