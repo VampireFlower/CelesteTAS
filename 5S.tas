@@ -362,8 +362,7 @@ console load 5
    6,L,U,Z
    1,R
    2,J,G
-   6
-   1,L
+   7
    4,D,X
    2,L,J
    1,L
@@ -525,14 +524,14 @@ console load 5
    1,G
    2
    2,G
-   3,L
-Repeat 9
+   4,L
+Repeat 10
    3,R
    3,L
 Endrepeat
-   4,R
-   3,L
-  14,L,D,X
+   3,R,D
+   3,L,D
+   8,L,D,X
    1,R,J
    6,R
    1,R,J
@@ -558,25 +557,26 @@ Endrepeat
    3,L,J
   13,L,K,G
   15,L,D,X
-   1,L,J
-   5,L
-   1,L,J
-   3
-   1,L
+   1,L,D,J
+  10,L
   58
 
 #lvl_a-01 (2)
-   5,L,K
-   1,L,D,J
-  15,L,D,X
-  29,L,D
-   1,L
-   6,L,D
-  10,R,D,X
-   4,R,J
+   4,L
+   2,L,J
+  25,L,D,X
    1,R
-  15,R,D,X
-   9,R,J
+   2,R,D
+   1,L,D
+  14,R,D
+   1,R
+   1,R,D
+   1,R
+   8,R,D
+  14,R,D,X
+   1,R,J
+  12,R,D,X
+   8,R,K
   14,R,D,X
    1,R,J
    9,D,X
@@ -636,7 +636,7 @@ Endrepeat
 #+1f Berry
   36,U,C
   16,R,X
-  20,D
+  20,L,D
   31,L,X
   15,D,C
   11,L,D
@@ -847,6 +847,7 @@ Add 1
 
 #Depths
   36
+
 #lvl_b-00
    4,R
    8,R,J
@@ -3151,4 +3152,4 @@ Endrepeat
    1,S
    1,D,J
   18
-FileTime: 6:31.493(23029)
+FileTime: 6:31.476(23028)
