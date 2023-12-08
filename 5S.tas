@@ -1580,6 +1580,7 @@ Endrepeat
   31,R
   17,R,Z
    1,J
+#5HC0
   30,U,X
    6,R,Z
    1,R,J
@@ -1645,7 +1646,7 @@ Endrepeat
    1,R,J,G
   18,R
  137,R,X
-#5HC
+#5HC1
   14,R,Z
    1,R,J
    7,R,U,V

@@ -86,7 +86,7 @@ read,5S,lvl_b-13 (1),5SHC1
   16,D,C
   15,R,D,X
    6,R,C
-read,5HC,5SHC3,lvl_b-13 (2)
+read,5HC,5SHC2,lvl_b-13 (2)
 
 #lvl_b-13 (2)
    1,J
@@ -134,7 +134,7 @@ read,5HC,lvl_b-04,lvl_b-02 (3)
   13,D
   18,R,D
   20,R,X
-read,5S,5SHC4,lvl_b-19
+read,5S,5SHC4,5HC1
 
 #lvl_b-19
 read,5HC,lvl_b-19,5SHC5
@@ -144,4 +144,4 @@ read,5HC,lvl_b-19,5SHC5
 
 read,5HC,5SHC5,lvl_b-16
 read,5S,lvl_b-16
-FileTime: 7:02.212(24836)
+FileTime: 7:02.195(24835)
