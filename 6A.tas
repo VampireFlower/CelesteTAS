@@ -13,7 +13,7 @@ console load 6
 
 #lvl_start
 # [02] Spinner Cycle
-   0
+   1
 #-------------------
    4,D,X
    1,R,J
@@ -116,27 +116,23 @@ AnalogMode,Precise
   40
 
 #lvl_02
-  13,J
-  14,U,Z
+  11,J
+  14,U,X
   27,L,U
-   9,F,335.077
-   1,F,332.952
-  29,F,323.869
-   1,F,325.04
-  11,F,25
-  30,F,25.979
-   1,F,25.778
-   6,F,19.192
-   1,F,18.15
-   1,F,2.678
+  11,F,343.024
+  31,F,324.327
+  10,F,25
+  31,F,26.977
+   8,F,18
    5,L,U,X
    1,L
   12,L,J,G
    6,L,K,G
    2,L
-   6
-   1,R
-  15
+   4
+   1,R,J
+   1,J
+  16
    1,R
    4,X
    1,D,X
@@ -518,7 +514,7 @@ AnalogMode,Precise
    5,U,X
 #---------------
 #[b-03] Spinner Cycle
-   1
+   0
 #---------------
    1,R,J
    1,R,K
@@ -716,22 +712,22 @@ AnalogMode,Precise
   40
 
 #lvl_19
-   1,R
   14,R,D,X
    1,R,J
   15,R,D,X
-   2,R,D
-   2,R
-  19,R,D
-  20,D
-   1,L
-   5,R,X
+  31,R,D
+   1
+   2,D
+   6
+   1,R
+   2
+   5,R,D,X
   27,R,U
- 119,F,89.76
-  17,R,U
+ 119,F,86.203
+  14,R,U
   14,R,X
   27,R,D
-  96,F,102.32
+  97,F,102.32
   14,R,Z
    1,R,J
   13,R,D,X
@@ -977,29 +973,31 @@ AnalogMode,Precise
    6,R
    1,R,J
    2,R
+
 ###
-   1,R,D,J
 stunpause
-   1,R,J
+   2,R,D,J
    1,R
 skipinput,3,1
    5,R,D,C
    1
-   1,L,J,G
 endstunpause
+   1,L,J,G
 ###
 
 #Alternate Cycle
 ###
+#   1,R,D,J
 #stunpause
-#   2,R,D,J
+#   1,R,J
 #   1,R
 #skipinput,3,1
 #   5,R,D,C
 #   1
-#endstunpause
 #   1,L,J,G
+#endstunpause
 ###
+
    5,R
    2,R,J
   10,R
@@ -1823,4 +1821,4 @@ AnalogMode,Precise
    1,D,J
   18
 AnalogMode,Ignore
-ChapterTime: 4:35.213(16189)
+ChapterTime: 4:35.128(16184)
