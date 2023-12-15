@@ -316,21 +316,25 @@ console hard 7
   11,K,G
    5,R
    1
-   1,R
-   5,R
+   6,R
   12,R,D,X
    2,R,J,G
    2,R
-  20,R,D,X
-   2,R,J
-  15,R,U,X
-   7,L,D,C
-   1,R,J
-   3,R
-   1,R,J
-   3,R
-  20,R,K
-  17,R,U,X
+  15,R,D,X
+   1,D
+   4,R,D
+   7,R,J
+   1,R
+   3,R,K,G
+   1,R
+   6,R,U,X
+   1,R,J,G
+   1,R
+   1
+   7,R
+  12,R,K
+   7,R
+  18,R,U,X
   12,R,V
    1,R,J,G
   13,R
@@ -1877,4 +1881,4 @@ EndRepeat
   10,R
   15,L
    5,R
-FileTime: 4:41.588(16564)
+FileTime: 4:41.571(16563)
