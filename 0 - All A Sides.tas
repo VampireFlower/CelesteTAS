@@ -1,4 +1,4 @@
-#25:38.024
+#25:38.905
 #Start from Begin
 
 Read,StartFullGameFile
@@ -62,11 +62,21 @@ Read,5HC,Start,lvl_b-01b
   18,R,J
   23,R,X
   15,U,C
-  18,R,J
-  10,L,K
-   7,L
-   4,L,J
-   9,U,X
+  17,L,J
+   1,R,J
+   1,K,G
+   1,L,K
+   1,R,J,G
+   3,R,K,G
+   1,K
+   1,R,K
+   1,R,J,G
+   1,R,K,G
+   2,R
+   1
+   4,R
+   2,R,K
+  10,U,X
   40
 
 Read,5HC,lvl_b-04
