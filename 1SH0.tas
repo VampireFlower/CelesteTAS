@@ -59,27 +59,28 @@ console load 1
 #lvl_3
    2,R,J,G
   14,R,K,G
-   2,K
+   2
   12,U,X
-#+4f Berry
+#+2f Berry
    1,R,J
    1,J
    2
-  18,R
-  10,R,D,X
+  19,R
+  10,L,D,X
    2,R,J
-   4,R
+  16,R
+   2,R,D
+   1,L
+   1,K,G
+   1
+   8,K
    2,R,J
-  11,R
-   3
-  15,R,U,X
-   2
-   1,K
-  12,L,J
-   8,L,K,G
+   2,R
+  15,U,X
+   7,L,J,G
    7,L
-   7,J
-   4,L,J
+   7,K
+   4,L,K
   14,U,X
   40
 
@@ -943,4 +944,4 @@ console load 1
    1,S
    1,D,J
   18
-ChapterTime: 1:49.089(6417)
+ChapterTime: 1:49.055(6415)
