@@ -19,7 +19,51 @@ Add 58
 Add 1
 
 #lvl_b-00 (0)
-read,5S,Depths,5SHC0
+read,5S,Depths,+2f berry (2)
+  11,R,X
+   5,R,J
+  13,U,X
+  40
+
+#lvl_b-20 (0)
+  11,R,J
+   6,R
+   7,L,Z
+   1,R,J
+   7,R
+   5,R,D
+   3,R,K
+   5,R
+   4,R,K
+   1,R
+   1,R,K
+   4,R
+  10,R,J,G
+   7,R
+  14,R,U,Z
+   1,J
+   2,K,G
+   4,L,K
+   7,L
+   1,L,K
+   4,L
+   4,D,X
+   1,L,J
+   6,L
+   4,L,D,J
+  10,L,D,X
+   5,L,J
+   8,L,U,Z
+   1,R
+   3,K,G
+   2
+  12,L
+  15,D,X
+  23,L,D
+  40
+
+#lvl_b-01 (2)
+Read,5S,lvl_b-01 (2),5SHC0
 
 #lvl_b-13 (1)
    1,R,K,G
@@ -147,4 +191,4 @@ read,5HC,lvl_b-19,5SHC5
 
 read,5HC,5SHC5,lvl_b-16
 read,5S,lvl_b-16
-FileTime: 7:02.059(24827)
+FileTime: 7:01.991(24823)
