@@ -897,38 +897,44 @@ EndRepeat
   40
 
 #lvl_b-secb
-   6,R
-   5,R,J
-   1,R
-  14,R,D,X
-  11,R,J
-   3,R
-   5
-   6,L,Z
+   7,R
    1,R,J
-   6,R
-  19,R,J
-  15,U,Z
-   3,L,J,G
-   8,L
-   4
-   6,R,Z
-   1,L,J
-   3,L
-  11
-  14,L,Z
-   1,L,J
-   4,L
-  13,L,J
-  15,L,D,X
-   6,L,J
-  11,L,D,X
-   1,J
-   3,R,J
+   5,R
+   1
+   1,R,K,G
+  14,R,D,X
+   8,R,J
    1,R
-   4
-   1,J
-  23,L,D
+   2,R,J
+   4,R
+   6,L,D,X
+   1,R,K
+   6,R
+  16,R,J
+   3,J
+  17,U,Z
+   1,L,K,G
+   1,L,J,G
+   9,L
+  10,L,K
+   1,K
+  15,R,D,X
+   4,D,C
+   1,L,J
+   1,L
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+   6,L
+   1
+   1,D
+   4,L,D,J
+   9,L
+   1,L,J
+   9,L
+   1
+   1,K
+  33,D
    9,L,Z
   40
 
@@ -1821,4 +1827,4 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 3:24.221(12013)
+ChapterTime: 3:23.983(11999)
