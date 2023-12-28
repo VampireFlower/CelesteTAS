@@ -763,35 +763,34 @@ endrepeat
   12,R,X
   15,R,G
    2,G
-  11,D,G
-   2,R,D
-   1
-   2,R
+   9,D,G
+   2,R,D,G
+   2,D
+   1,R
    6,R,X
   51,R,D,G
-  25,R,G
+   2,R,G
+   1,R,D,G
+   1,R,G
+   1,D,G
+  20,R,G
    1,L
    7,U,X
    2,J
   11
    4,D,X
    1,R,J
-  13,L,G
-   2,R,G
-   1,L,G
+  15,R,G
+   3,L,G
+   1,R,J,G
+  24,L,D,G
    1,R,G
-   1,L,G
-   1,L,J,G
-  19,L,D,G
-   1,R,D,G
-   4,L,D,G
-   1,G
    1,R,D,G
    3,R,G
-   1,R
-   1
-  18,R,U,X
+   2,R
+  17,R,U,X
    6
+   1,R
    9,L,D,C
    1,R,K
    6,R
@@ -858,4 +857,4 @@ endrepeat
    5,R
   14,R,U,X
  135,R,D
-ChapterTime: 1:41.320(5960)
+ChapterTime: 1:41.286(5958)
