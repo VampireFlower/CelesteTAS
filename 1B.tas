@@ -534,15 +534,17 @@ EndRepeat
    3
   26,R,D
   15,R,Z
-  22,R,D
-  17
-   1,L
-   9,L,J
-  10,R,X
-   2,R,J
-   6,R
-   2,R,J
-   7,R
+  18,R,D
+   4
+   1,R
+   5
+   3,L
+   5
+   7,R,G
+   4,U,G
+  10,R,Z
+   1,R,J
+  14,R
    5,L
   15,R,Z
    1,L
@@ -682,4 +684,4 @@ EndRepeat
   20,L,J
  100,L,X
   46,L,D
-ChapterTime: 1:04.838(3814)
+ChapterTime: 1:04.770(3810)
