@@ -426,13 +426,13 @@ AnalogMode,Precise
   40
 
 #lvl_09
-   4,Z
+   4,D,X
    3,R,J
    6,R
    1,J
    3
   27,L,D
-   4,Z
+   4,D,X
    1,R,J
    1,R,K
    1,R,J
@@ -1353,17 +1353,27 @@ endstunpause
   15,D,X
   11,R,Z
    9,R,J
-  12,R
+   6,R
    1,R,J
-   8,R,D,X
+   4,R
+   1
+   4,D,X
+   1,R,K
+   3,R
+   1,R,J
   40
 
 #lvl_boss-11
-   3,R,D,X
+   1,R,D
+   1,R
+   6,R,D
    1,R,J
-  23,R,D
-  13,R,X
-   8,R,J
+   5,R
+   6,R,K
+  15,R,D,X
+   5,R
+   2,R,K
+   8,R,U,C
   38,L
   15,R,D,X
    3,D
@@ -1821,4 +1831,4 @@ AnalogMode,Precise
    1,D,J
   18
 AnalogMode,Ignore
-ChapterTime: 4:35.128(16184)
+ChapterTime: 4:35.111(16183)
