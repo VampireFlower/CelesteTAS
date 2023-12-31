@@ -559,12 +559,9 @@ console load 1
   10,L
    1
    1,G
-   2,L,D
-   1
-   1,L,D
-   1
-   1,L,D
-   7,J
+   6
+   5,J
+   2,L,J
    1,K
    5,J,G
    1,R
