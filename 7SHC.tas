@@ -976,7 +976,7 @@ Add 1
   40
 
 #lvl_f-00 (2)
-read,7HC,lvl_f-00 (2),7SHC4
+Read,7HC,lvl_f-00 (2),7SHC4
    9,R,D,X
    4,R,J
    2,R
@@ -1086,10 +1086,10 @@ read,7HC,lvl_f-00 (2),7SHC4
   40
 
 #lvl_f-08b
-read,7S,lvl_f-08b,lvl_g-00b
+Read,7S,lvl_f-08b,lvl_g-00b
 
 #lvl_g-00b
-read,7HC,lvl_g-00b,Exit
+Read,7HC,lvl_g-00b,Exit
   59
    1,X
   30
@@ -1104,5 +1104,5 @@ read,7HC,lvl_g-00b,Exit
   14,U,C
   15,R,J
    2,K,G
-read,7S,7SHC5
-FileTime: 9:55.527(35031)
+Read,7S,7SHC5
+FileTime: 9:55.510(35030)
