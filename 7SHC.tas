@@ -628,92 +628,7 @@ Read,7A,lvl_e-03,lvl_e-04
   40
 
 #lvl_e-05
-   2,R
-   9,R,D,J
-  21,R,D,X
-   2,R,D,J
-   1
-  27,R,D,X
-  10,R,D,J
-   9,R
-   1,R,K
-  11,R,D
-  14,R,X
-  11,R,J,G
-   4,R
-  15,R,D,X
-   9,R,J
-  10,R
-   1
-  15,R,U,X
-  11,U,C
-   1,L,J
-   2,L
-   1,R,K
-   7,R
-   7,R,Z
-   1,R,J
-   1,R
-  40
-
-#lvl_e-06
-   5,R
-   1,R,J
-  10,R,D,X
-   2,R,J
-   1,R
-   1,R,K
-   2,R
-   1,R,G
-  14,R,U,X
-   2,R,J,G
-   7,R
-  10,R
-  42,D
-   1
-   1,U
-   6,J
-   3,L,J
-   3,L
-  15,D,X
-   4,R,Z
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   6,R
-   1,R,J
-   1,R
-   5,R,D
-   3,R,J
-   4,J
-   5,R
-   2,R,J
-   1,R
-   2,R,J
-   1,R
-  14,R,U,Z
-   1,L,J,G
-  19,R,J
-   3,R
-   3,L
-  15,R,D
-   1,D
-  14,R,U,Z
-   1,L
-   1,K
-   2,J,G
-   2,R,J
-   4,R
-  15,U,X
-  10,R
-   5,R,Z
-   1,R,J
-   7,R
-   2,R,J
-  14,R,D,X
-  40
+Read,7S,lvl_e-05,lvl_e-07
 
 #lvl_e-07
    1,R,D,X
@@ -1105,4 +1020,4 @@ Read,7HC,lvl_g-00b,Exit
   15,R,J
    2,K,G
 Read,7S,7SHC5
-FileTime: 9:55.510(35030)
+FileTime: 9:55.306(35018)

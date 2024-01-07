@@ -1824,40 +1824,33 @@ console load 7
 #lvl_e-05
    2,R
    9,R,D,J
-  21,R,D,X
-   2,R,D,J
-   1
-  27,R,D,X
-  10,R,D,J
-   9,R
-   1,R,K
-  11,R,D
-  14,R,X
-  11,R,J,G
-   4,R
+   1,R
+  22,R,D,X
+   2,R,D,K
+  22,R,D,X
+  34,R,J
   15,R,D,X
-   9,R,J
-  10,R
-   1
-  15,R,U,X
-  11,U,C
-   1,L,J
-   2,L
+   7,R,K
+   5,R
    1,R,K
-   7,R
-   7,R,Z
+  11,R
+  10,R,U,Z
+   6
+  22,R,D
+  16,U,X
+   6,R,Z
    1,R,J
    1,R
   40
 
 #lvl_e-06
-   5,R
-   1,R,J
-  10,R,D,X
+   6,R
+   1,R,K
+   9,R,D,X
    2,R,J
    1,R
-   1,R,K
-   2,R
+   1,R,J
+   3,R
    1,R,G
   14,R,U,X
    2,R,J,G
@@ -1918,7 +1911,6 @@ console load 7
    3,R
    1,R,J
    1,G
-#BerryCollect1
    6,R,J,G
    4,D,X
    6,R,X
@@ -1966,7 +1958,6 @@ console load 7
    3,R
   15,U,X
   24,L,U,C
-#BerryCollect2
    4,D,X
    1,L,J
    6,L
@@ -3867,4 +3858,4 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 8:49.584(31152)
+ChapterTime: 8:49.380(31140)
