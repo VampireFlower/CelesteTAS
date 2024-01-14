@@ -318,19 +318,20 @@ console hard 1
    2,L,J,G
    2,R,J
    1,J
-   2,R,J
-   1,J
-  26,R,K
+   1,R,J
+   1,R
+   1
+  27,R,K
   17,R,U,X
    1
-  10,R
+   9,R
    1,G
-  10,J,G
-  26,U,G
-   1
-   1,J
-   1,K,G
-  19,L,K
+  28,U,G
+   8,J,G
+   1,K
+   1,J,G
+  12,L,J
+   7,L
    7,R,J
   10,L,K
   10,R,J
@@ -678,4 +679,4 @@ EndRepeat
   20,L,J
  100,L,X
   46,L,D
-ChapterTime: 1:04.736(3808)
+ChapterTime: 1:04.719(3807)
