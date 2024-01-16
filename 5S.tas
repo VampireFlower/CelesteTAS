@@ -2798,52 +2798,56 @@ Endrepeat
   13,G
    1,R,J,G
   28,R,D,G
-   1,R,J,G
+   1,R,K,G
    5,R,G
   40
 
 #lvl_e-01
    1,R,K,G
-   9,R,G
+   1,R,G
+   1,R,K,G
+   7,R,G
   21,R,J,G
    1,J,G
    1,R,J,G
    1,J,G
   10,K,G
-   1,R,K
+   1,R
   14,U,X
   13,G
    8,R,G
    8,R
    4,D,X
    1,R,J
-  19,D
-  15,R,D
-  14,L,D,X
-   1,R,J
-   6,R,D,X
-  21,R,G
-   1,R,K,G
-   3,R,G
+  10,R
+  23,D,X
+   9,L,D
+  10,L,D,X
+   2,R,K
+   5,R,J,G
+   3,R,K,G
+   8,R,D,X
+  13,G
+  11,R,J,G
   40
 
 #lvl_e-02
-  11,R,G
-  11,R,J,G
-   9,R,G
    1,R,J,G
-   2,L,G
-  12,R,G
-  25,R,J,G
-   3,R,D,J
-   5,R,J
-  10,R,D,X
+   6,R,G
+   5,R,J,G
+   1,R,G
+   1,R,J,G
+   5,R,G
+  36,R,K,G
+   3,R,D,K
+#+2f theo subpixels
+  11,R,D,X
    1,L,J
-   7,L
-   8
-  14,L,D,X
-   1,R,J
-   3,J
+   5
+  11,L
+  14,L,D,C
+   1,R,K
+   3,K
   15,R,D,X
    5,R,D,C
   13,G
@@ -3030,61 +3034,56 @@ Endrepeat
 
 #lvl_e-08
    2,R,J,G
-  15,R,G
-   5,D,G
-   3,L,D,G
+  17,R,G
+   6,L,D,G
    1,L,D
-   5,L,D,X
+   4,D,X
    1,R,K
    1,R,J,G
-   2
-  31,R,D,G
-   1,R,G
+   3
+  31,R,G
    1,R,J,G
-   5,R,G
+   6,R,G
    2,R,J,G
-   1,R,G
-   1,R,J,G
+   1,R,K,G
    5,R,G
   40
 
 #lvl_e-09
-   9,R,G
+   1,R,K,G
+   8,R,G
    8,R,J,G
-  11,R,G
-   1,G
-   1,J
-  14,L,D,X
-   1,R,J
-   3
-   1,R
+   7,R,G
+   2,R,J,G
+   1,R,G
+   2,R,J,G
    1
-   1,R
-   1,R,J
-   3,R,D
+  13,L,Z
    1,R,K
+   2
    5,R
-   1,K
-   2,R,K
+   3,R,D
+   1,R,J
    1,R
-  16
-   5,L
-   3,L,J
-   5,L
-   2,L,J
-   4,L
-   7,R,J
-   4,R,D,J
-   6,J,G
-   2,U,J,G
-   2,R,J
-   1,R,K,G
+   4
+   3,J
+   6
+  23,L,K
+   1,L
+   3
+   1,L
+   7,D
+   6,R,D
+   6,G
+   3,U,G
+   2,R
    1,R,J,G
    1,R,K,G
    1,R,J,G
+   1,R,K,G
    6,R
    1
-   1,R,K
+   1,R,J
    6,R,U,Z
   16,G
   10,R,G
@@ -3177,4 +3176,4 @@ Endrepeat
    1,S
    1,D,J
   18
-FileTime: 6:31.323(23019)
+FileTime: 6:31.170(23010)

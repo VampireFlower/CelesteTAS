@@ -570,13 +570,11 @@ read,5S,lvl_d-19b (1),lvl_e-06
   14,J
   13,R,D,X
    3,L,J
-  15,D,X
-   4,R,D
-   2,D
-   1,R,D
-  14,L,Z
+  16,D,X
+   6,R,D
+  14,L,D,X
    1,R,J
-   6,R,D,X
+   5,R,D,X
   13,R,G
    1,R,J,G
   14,R,G
@@ -616,4 +614,4 @@ read,5S,lvl_d-19b (1),lvl_e-06
 
 #lvl_e-07
 Read,5S,lvl_e-07
-ChapterTime: 3:09.975(11175)
+ChapterTime: 3:09.805(11165)
