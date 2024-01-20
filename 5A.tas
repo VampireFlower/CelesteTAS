@@ -550,7 +550,7 @@ read,5S,lvl_c-07,lvl_d-01 (0)
 
 #lvl_d-19b (1)
 read,5S,lvl_d-19b (1),Spinner Cycle
-   2
+   0
 read,5S,-------------,lvl_e-06
 
 #lvl_e-06
@@ -611,5 +611,100 @@ read,5S,-------------,lvl_e-06
   40
 
 #lvl_e-07
-Read,5S,lvl_e-07
-ChapterTime: 3:07.510(11030)
+Read,5S,lvl_e-07,lvl_e-08
+
+#lvl_e-08
+   4,R,G
+   1,R
+   8,R,U,X
+  15,R,G
+StunPause
+   4,R,G
+EndStunPause
+  16,R,G
+   1,R,D,G
+   8,R,D
+  11,R,K
+   2,R
+   2
+   5,R,D,X
+  13,R,G
+  40
+
+#lvl_e-09
+Read,5S,lvl_e-09,lvl_e-10
+
+#lvl_e-10
+   8,R,K,G
+   5,R,G
+   2,R,K,G
+   1,R,G
+   3,R,J,G
+   5,J,G
+   1,J
+   1,R
+   1
+  14,U,X
+  13,G
+   9,L,G
+   1,K,G
+   8,R,K,G
+   3,K,G
+   1
+   5,L
+   1,L,K
+   1,K
+   7,L,Z
+   1,R,J
+   6,R
+   1,R,K
+  14,R,D,X
+  25,R,G
+   1,R,J,G
+   4,R,G
+  40
+
+#lvl_e-11
+   5,R,G
+   2,R,J,G
+   7,R,G
+   3,R,K,G
+  10,R,G
+   1,R
+   4,D,X
+   1,L,J
+  12
+   7,R,Z
+   1,R,K
+   2,R
+   1,R,J,G
+   4
+   5,R
+   2,R,K
+  15,R,D,X
+   1,R,J
+   5,R,D,C
+  13,G
+   6,R,K,G
+   7,R,G
+   3,R,J,G
+  11,R,G
+   1,R,K,G
+  18,R,G
+   1,R,J,G
+  18,R,G
+  10,R,K,G
+   2,R,G
+   1,R
+   9,R,U,X
+  13,R,G
+  19,R,D,G
+   4,R,G
+   2,R,J,G
+   7,R,G
+   2,R,K,G
+   9
+   1,S
+   1,D,J
+  18
+ChapterTime: 3:07.391(11023)

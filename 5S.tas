@@ -2793,7 +2793,7 @@ Endrepeat
    1,D,J
   34
 #Spinner Cycle
-   1
+   2
 #-------------
   14,L,Z
    1,R,J
@@ -2884,46 +2884,47 @@ Endrepeat
    1,D
    1,L,D
    1,G
-   1,L,J,G
-   6,L
+   1,L,K,G
+   1,L
+   1,L,K
+   4,L
   14,L,Z
-   5,R,J
+   4,R,J
   15,R,D,X
-   1,R,J
-  10,R,D,X
-  13,G
+   1,R,K
+  11,R,D,X
+  13,R,G
    1,R,J,G
-  12,R,G
+  11,R,G
   40
 
 #lvl_e-04
-   2,R,G
-   8,R,K,G
-   9,R,G
-   1,R,J,G
-  12,R,D,G
-  15,R,J,G
-   2,R
+   3,R,G
+   7,R,K,G
+  22,R,G
+  14,R,J,G
+   1,R
    1,R,K,G
-   8,R,K
+   4,R,K
+   4,K
+   1
   11,U,X
    8,R,J
-  14,R
-  16,L,D
-   6,D
-   4,L,D
-   1,L
-   2,L,D
-   3,D
+  11,R
+   1
+   1,R
+  11
+   8,D
+  14,L,D
    8,L,Z
-   1,R,J
+   1,R,K
    6,R
    1,R,J
    5,R,D,X
   13,G
-   1,R,J,G
+   1,R,K,G
    8,R,G
-   2,R,J,G
+   2,R,K,G
   40
 
 #lvl_e-06
@@ -3061,77 +3062,74 @@ EndStunPause
 #lvl_e-10
    8,R,K,G
    5,R,G
-   1,R,K,G
+   2,R,K,G
    1,R,G
-   1,R,K,G
-   8,R,J,G
-   2,R,J
+   5,R,J,G
+   3,J,G
+   1,J
+   1,R
+   1
   14,U,X
   13,G
-   9,R,G
-  10,R,K,G
-   2,R
-   1,J,G
-   2
-   3,L
-   1,J
+   9,L,G
+   1,K,G
+   8,R,K,G
+   3,K,G
    1
-   1,J
-   7,L,D,X
-   1,R,K
+   5,L
+   1,L,K
+   1,K
+   7,L,Z
+   1,R,J
    6,R
    1,R,K
   14,R,D,X
-  14,R,G
-  12,R,J,G
-   1,R,K,G
+  25,R,G
+   1,R,J,G
    4,R,G
   40
 
 #lvl_e-11
-   1,R,G
-   3,R,K,G
-  11,R,G
-   1,R,J,G
-   1,R,G
-   7,R,J,G
-   1,J,G
-   3,G
-   7
-  14,L,D,X
-   1,R,K
-   6,R
-   2,R,J
-  15,R,D,X
-   1,R,K
-   5,R,D,X
-  13,G
-   6,R,J,G
-   8,R,G
-   3,R,J,G
    5,R,G
    2,R,J,G
-   5,R,G
+   7,R,G
+   3,R,K,G
+  10,R,G
+   1,R
+   4,D,X
+   1,L,J
+  12
+   7,R,Z
+   1,R,K
+   2,R
    1,R,J,G
+   4
+   5,R
+   2,R,K
+  15,R,D,X
+   1,R,J
+   5,R,D,C
+  13,G
+   6,R,K,G
+   7,R,G
+   3,R,J,G
+  11,R,G
+   1,R,K,G
   18,R,G
    1,R,J,G
-  17,R,G
-   1,G
-   1,R,J,G
-   1,G
-  16,R,G
+  18,R,G
+  10,R,K,G
+   2,R,G
    1,R
-   9,R,Z
-   1,R,J
-   9,R,K,G
+  10,R,U,X
   13,G
-   1,R,K,G
-  21,R,G
-   1,G
+  19,R,D,G
+   4,R,G
    2,R,J,G
-   1,J,G
-   8
+   7,R,G
+   1,R,K,G
+   9
    1,S
    1,D,J
   18
-FileTime: 6:28.875(22875)
+FileTime: 6:28.790(22870)
