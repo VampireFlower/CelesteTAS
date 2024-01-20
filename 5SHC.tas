@@ -191,71 +191,25 @@ read,5HC,lvl_b-19,5SHC5
 
 read,5HC,5SHC5,lvl_b-16
 
-#lvl_b-16
-  11,J
-  13,U,X
-#Spinner Cycle
-   1
- 197,U,C
-   1,J
-  10,L,X
-  13,L,J
-   1,R,K,G
-   8,L,J
-   3,J
-  10,L,D,X
-   5,R,J
-   6,R,U,X
-   1,R,K,G
-   9,R
-   1,R,J
-  14,R,D,X
-   1,R,J
-   7,R
-   3,R,J
-  13,R,D,X
-   1,L,J
-   3,J
-   6,L,J
-   3,L,K,G
-  12,L
-   1,L,J
-  14,L
-  10,R,J
-   1,S
-   1,D,J
-  18
-
 #lvl_void
-read,5S,lvl_void,lvl_e-09
+read,5S,lvl_b-16,Spinner Cycle
+   2
+read,5S,-------------,lvl_e-09
 
 #lvl_e-09
+#todo: cut a pause
    1,R,G
-   1,G
-   1,S,N
-  10,O
+   2,R,K,G
+   3,R,G
+StunPause
    2,R,G
-   1,S,N
-  10,O
-   2,R,G
-   1,S,N
-  10,J
+   4,R,J,G
+EndStunPause
    2,R,J,G
-   1,S,N
-  10,J
-   1,R,G
-   1,R,K,G
-   1,S,N
-  10,O
-   6,R,K,G
-   7,R,G
-   3,G
-   1,D
-  15,R,D,X
-  12,R,U,C
-  13,G
-  40
+  10,R,G
+   3,R,K,G
+  40,K
 
 #lvl_e-10
 read,5S,lvl_e-10
-FileTime: 7:01.107(24771)
+FileTime: 6:59.730(24690)

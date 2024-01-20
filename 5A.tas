@@ -549,7 +549,9 @@ read,5S,lvl_c-07,lvl_d-01 (0)
   40
 
 #lvl_d-19b (1)
-read,5S,lvl_d-19b (1),lvl_e-06
+read,5S,lvl_d-19b (1),Spinner Cycle
+   2
+read,5S,-------------,lvl_e-06
 
 #lvl_e-06
    5,R,G
@@ -589,29 +591,25 @@ read,5S,lvl_d-19b (1),lvl_e-06
    3,R,J,G
    9,R,G
    3,R,J,G
-  10,R,G
-  14,R,U,X
-   6,R
-  13
-   2,R
-   1,R,D
-  12,R,Z
-   2,L,J
-   6,L
-   1,L,J
-   5,L
-   4,L,Z
-   5,R,J
-   2,R
-   3,R,J
+   8,R,G
+   1,R
+  15,R,U,X
+  15
+   4,L,J
+   4,J
+   9
+   1,J
+   8
+   2,L
+   9,L,Z
    1,R,K
+   4,R
+   1,R,J
    7,R,D,X
-  24,R,G
-   9,R,D,G
+  34,R,D,G
    2,R,G
-   1,R,D,G
   40
 
 #lvl_e-07
 Read,5S,lvl_e-07
-ChapterTime: 3:08.887(11111)
+ChapterTime: 3:07.510(11030)
