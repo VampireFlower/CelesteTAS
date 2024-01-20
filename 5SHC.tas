@@ -194,22 +194,61 @@ read,5HC,5SHC5,lvl_b-16
 #lvl_void
 read,5S,lvl_b-16,Spinner Cycle
    2
-read,5S,-------------,lvl_e-09
+read,5S,-------------,lvl_e-08
+
+#lvl_e-08
+   4,R,G
+   1,R
+   8,R,U,X
+  15,R,G
+StunPause
+   4,R,G
+EndStunPause
+  16,R,G
+   1,R,D,G
+   8,R,D
+  11,R,K
+   2,R
+   2
+   5,R,D,X
+  13,R,G
+  40
 
 #lvl_e-09
-#todo: cut a pause
-   1,R,G
-   2,R,K,G
-   3,R,G
-StunPause
-   2,R,G
-   4,R,J,G
-EndStunPause
-   2,R,J,G
-  10,R,G
-   3,R,K,G
-  40,K
+Read,5S,lvl_e-09,lvl_e-10
 
 #lvl_e-10
-read,5S,lvl_e-10
-FileTime: 6:59.730(24690)
+   8,R,K,G
+   5,R,G
+   1,R,K,G
+   1,R,G
+   1,R,K,G
+   8,R,J,G
+   1,R,J
+   1,J
+  14,U,X
+  13,G
+   7,R,G
+   2,G
+  10,R,K,G
+   2,R
+   1,J,G
+   2
+   3,L
+   1,J
+   1
+   1,J
+   7,L,D,X
+   1,R,K
+   6,R
+   1,R,K
+  14,R,D,X
+  14,R,G
+  12,R,J,G
+   1,R,K,G
+   4,R,G
+  40
+
+#lvl_e-10
+read,5S,lvl_e-11
+FileTime: 6:59.560(24680)
