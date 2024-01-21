@@ -494,20 +494,18 @@ console hard 2
    4,R
    1,R,J,G
    1,R,K,G
-   1,R
-   2,R,K,G
+   1,R,K
    5,R
-   5,R,D,X
+   1,R,K
   10,R
-  54,R,U,X
-   4,L,J
+  60,R,U,X
   48,L,U,Z
    4,R,G
   47,R,U,X
    4,R,J
   11,R,K
    1,K
-   1,R,K
+   1,R
   14,U,X
    8,R,J
   40
@@ -535,4 +533,4 @@ console hard 2
    5,J
   16,U,X
  135
-ChapterTime: 1:15.650(4450)
+ChapterTime: 1:15.633(4449)
