@@ -1,3 +1,4 @@
+console clrsav
 #console load 5 2288 32
 #play,Depths,1
 
@@ -2257,38 +2258,35 @@ AnalogMode,Ignore
    8,L,D,X
    1,L,J
   10,L
-  33,R,D
-   9,L,D
-   6,R,D
+  31,D
+  21,L,D
+   2
+   4,D,X
+   2,R,K
+   1,R,J,G
+   9,R
+   5,R,K
   12,R,D,X
-   2,R,J
+   1,R,J,G
+   2
    1,R
-   3,R,J
-  10,R,D,X
-   1,R,J,G
-  11,R
-   1,R,J
-   9,R
-   1,R,J
-   9,R
-   2,R,D
-  24,R,K,G
-  18,U,X
-  19,R,U,C
-   1,R,J,G
-   3,L,J
-   1,R,J
-   5,J
-   8,K,G
+   2
+  10,R
+  28,R,K
+  18,R,U,X
+  16,R,U,C
+  11,J,G
+   1,R,K,G
+   1,L,K
    1,R,K
-   1,R
+   7,K
    1,J
-  10,K,G
-   2,L,K
+  11,K,G
+   1,L,K
    7,L
    4,D,X
-   5,L,K
-   1,L,J,G
+   5,L,J
+   1,L,K,G
   12,L
    1,L,J
    3,L
@@ -2627,7 +2625,7 @@ Endrepeat
    2,K
    2,J
    1,R,K,G
-  23,D,X
+  25,D,X
    1,J
    7,L,V
    1,L,J
@@ -3132,4 +3130,4 @@ EndStunPause
    1,S
    1,D,J
   18
-FileTime: 6:28.790(22870)
+FileTime: 6:28.739(22867)

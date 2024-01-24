@@ -1,3 +1,4 @@
+console clrsav
 unsafe
 console load 5
    1
@@ -195,4 +196,4 @@ read,5HC,5SHC5,lvl_b-16
 read,5S,lvl_b-16,Spinner Cycle
    1
 read,5S,-------------
-FileTime: 6:59.424(24672)
+FileTime: 6:59.373(24669)
