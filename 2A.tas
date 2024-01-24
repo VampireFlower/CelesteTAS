@@ -366,24 +366,29 @@ console load 2
    1,L,J
    7,L
    3,L,D,J
-   5,L
-  11,R,J,G
-   8,L,K,G
-  10,L,X
-   6,L,J
+   2,L
+   3
    2,J
+   6,U,X
+   3,L,J
+   1,J
    1,L,J
-   1,L
-  11,U,X
-  11,L,J
-   3,L
-   1,R,K,G
+   2,L
+   1,L,K,G
+   1,L,J,G
+   9,L
+  13,L,D,J
+  10,U,X
+   8,L,J
+   5,L
    2,R,J,G
+   1,R,K,G
+   1,K
    7,R
    3,R,J
-  10,R,Z
+  11,R,Z
    1,R,J
-   4,R
+   3,R
   20,R,D,X
    4,R,J
    2,R,K
@@ -662,4 +667,4 @@ console load 2
    1,S
    1,D,J
   18
-ChapterTime: 1:24.983(4999)
+ChapterTime: 1:24.966(4998)
