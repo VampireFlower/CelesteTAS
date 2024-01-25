@@ -8,8 +8,8 @@ console clrsav
 #console load 5 3200 2290
 #play,Search,39
 
-#console load 5 2951.528 1286.125 406.4265 7.5
-#play,Rescue,33
+#console load 5 2964 1288 402 53
+#play,Rescue,37
 
 unsafe
 console load 5
@@ -645,7 +645,7 @@ Endrepeat
   31,L,X
   15,D,C
   11,L,D
-#+2f berry (1)
+#+2f berry
   11,L,X
    2,L,J
    2,R,K
@@ -1015,16 +1015,14 @@ Add 1
    1,R,K,G
    7,R
   11,R,J
-#+2f berry (2)
-  14,R,X
-   2,R,J
-  14,U,X
+  11,R,X
+   5,R,J
+  13,U,X
   40
 
 #lvl_b-20 (0)
   11,R,J
-   5,R
-   2
+   6,R
    7,L,Z
    1,R,J
    7,R
@@ -1044,19 +1042,20 @@ Add 1
    7,L
    1,L,K
    4,L
-   4,D,X
+#+1f berry
+  11,L,V
+   5,L,K
+  11,L,D,C
+   4,L,K
+   9,L,U,V
+   1,R
+   2,K,G
+   2
+   4,L
    1,L,J
    6,L
-   4,L,D,J
-  10,L,D,X
-   5,L,J
-   8,L,U,Z
-   1,R
-   3,K,G
-   2
-  12,L
   15,D,X
-  23,L,D
+  24,L,D
   40
 
 #lvl_b-01 (2)
@@ -2731,67 +2730,75 @@ Endrepeat
    1,R,J,G
   12,R
   12,R,J
-   5,R
+   2
+   3,R
    9
-   4,R,J
-  14,U,X
-  17,J
+   1,R,K
+  15,U,X
+   8,R,J
+   3,L,J
+   4,J
+   2,R,J
+   1,R,K,G
+   1,R,J,G
   40
 
 #lvl_d-20
-   5
-   6,R
-   8,U,X
-   2,R,J
-  11,R
-   6,R,J
-  10,U,Z
-   8,R,J
-   7,L,J
-   1,K,G
-  12,L
-   5
-   1,G
-  21,L,J,G
+   2
+  13,R,K,G
+   1,L
+   3,K,G
+   1,R,K
+  15,U,X
+  18,J
+   3,L,K,G
+  13
+   1,L,D
    1
+   1,L
+   1
+   1,G
+   8,L,J,G
+  13,L
    1,K,G
-   4
-   2,L
+   8
    1,R
-  11,R,J
-   2,J
-   1,L,K,G
-   2
-   4,J,G
-   2
-  16,R
-   8,L,D,X
-  14,R
+  12,R,J
+   1,L
+   1,K
+   2,J,G
+   3,R,J
+   3,J
+  14
+   9,L,D,X
+  12,R
+   1
   12,R,Z
-   2,R,J
-   1,J
+   2,R,K
+   1
   21,R,D,X
    4,R
    1,R,J
    5,R,D,X
-   1,R,J
-#Rescue
-   5,R
+   1,R,K
+   7,R
   40
 
+#Rescue
 #lvl_e-00
-   1,R
    9,R,J
-   6,R
+   5,R
    2,R,J
-   4,R
+   1,R
+   3,R,J
+   2,R
   14,R,U,X
-   8,R,J,G
+   8,R,K,G
    1,S
    1,D,J
   34
 #Spinner Cycle
-   2
+   0
 #-------------
   14,L,Z
    1,R,J
@@ -3040,7 +3047,8 @@ EndStunPause
    1,R,D,G
    8,R,D
   11,R,K
-   3,K
+   2,R
+   2
    5,R,D,X
   13,R,G
   40
@@ -3062,11 +3070,10 @@ EndStunPause
    5,R,G
    2,R,K,G
    1,R,G
-   5,R,J,G
-   3,J,G
+   4,R,J,G
+   4,J,G
    1,J
-   1,R
-   1
+   2
   14,U,X
   13,G
    9,L,G
@@ -3130,4 +3137,4 @@ EndStunPause
    1,S
    1,D,J
   18
-FileTime: 6:28.739(22867)
+FileTime: 6:28.637(22861)

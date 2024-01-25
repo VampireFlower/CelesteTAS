@@ -20,11 +20,7 @@ Add 58
 Add 1
 
 #lvl_b-00 (0)
-read,5S,Depths,+2f berry (2)
-  11,R,X
-   5,R,J
-  13,U,X
-  40
+read,5S,Depths,lvl_b-20 (0)
 
 #lvl_b-20 (0)
   11,R,J
@@ -195,5 +191,25 @@ read,5HC,5SHC5,lvl_b-16
 #lvl_void
 read,5S,lvl_b-16,Spinner Cycle
    1
-read,5S,-------------
-FileTime: 6:59.373(24669)
+read,5S,-------------,lvl_e-08
+
+#lvl_e-08
+   4,R,G
+   1,R
+   8,R,U,X
+  15,R,G
+StunPause
+   4,R,G
+EndStunPause
+  16,R,G
+   1,R,D,G
+   8,R,D
+  11,R,K
+   3,K
+   5,R,D,X
+  13,R,G
+  40
+
+#lvl_e-09
+Read,5S,lvl_e-09
+FileTime: 6:59.305(24665)
