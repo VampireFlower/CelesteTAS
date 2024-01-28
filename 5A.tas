@@ -602,57 +602,7 @@ read,5S,-------------,lvl_e-06
   40
 
 #lvl_e-07
-Read,5S,lvl_e-07,lvl_e-08
-
-#lvl_e-08
-   4,R,G
-   1,R
-   8,R,U,X
-  15,R,G
-StunPause
-   4,R,G
-EndStunPause
-  16,R,G
-   1,R,D,G
-   8,R,D
-  11,R,K
-   2,R
-   2
-   5,R,D,X
-  13,R,G
-  40
-
-#lvl_e-09
-Read,5S,lvl_e-09,lvl_e-10
-
-#lvl_e-10
-   8,R,K,G
-   5,R,G
-   2,R,K,G
-   1,R,G
-   3,R,J,G
-   5,J,G
-   1,J
-   1,R
-   1
-  14,U,X
-  13,G
-   9,L,G
-   1,K,G
-   8,R,K,G
-   3,K,G
-   1
-   5,L
-   2,K
-   7,L,Z
-   1,R,J
-   6,R
-   1,R,K
-  14,R,D,X
-  25,R,G
-   1,R,J,G
-   4,R,G
-  40
+Read,5S,lvl_e-07,lvl_e-11
 
 #lvl_e-11
    5,R,G
@@ -697,4 +647,4 @@ Read,5S,lvl_e-09,lvl_e-10
    1,S
    1,D,J
   18
-ChapterTime: 3:07.170(11010)
+ChapterTime: 3:07.119(11007)

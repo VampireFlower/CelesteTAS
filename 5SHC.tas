@@ -190,7 +190,7 @@ read,5HC,5SHC5,lvl_b-16
 
 #lvl_void
 read,5S,lvl_b-16,Spinner Cycle
-   1
+   0
 read,5S,-------------,lvl_e-08
 
 #lvl_e-08
@@ -203,13 +203,55 @@ StunPause
 EndStunPause
   16,R,G
    1,R,D,G
-   8,R,D
-  11,R,K
-   3,K
+   6,R,D
+   2,R
+  10,R,K
+   2
+   2,R
    5,R,D,X
   13,R,G
   40
 
 #lvl_e-09
-Read,5S,lvl_e-09
-FileTime: 6:59.271(24663)
+   1,G
+   4,R,K,G
+   3,R,G
+StunPause
+   4,R,J,G
+EndStunPause
+   2,R,J,G
+  10,R,G
+   3,R,K,G
+  40,K
+
+#lvl_e-10
+   8,R,K,G
+   5,R,G
+   2,R,K,G
+   1,R,G
+   4,R,J,G
+   4,J,G
+   1,J
+   2
+  14,U,X
+  13,G
+   9,L,G
+   1,K,G
+   9,R,K,G
+   2,K,G
+   1
+   5,L
+   2,L,K
+   7,L,Z
+   1,R,J
+   6,R
+   1,R,K
+  14,R,D,X
+  25,R,G
+   1,R,J,G
+   4,R,G
+  40
+
+#lvl_e-11
+Read,5S,lvl_e-11
+FileTime: 6:59.169(24657)
