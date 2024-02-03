@@ -1596,42 +1596,40 @@ EndStunPause
   15,U,C
    1,L
   15,L,U,X
-  21,L
-   2
-   4,D,X
-   1,L,J
-   7,R
-   1,L
-   1,L,J
-   5,L
-   1,K
-  16,R,J,G
-   1,R,K,G
-   4,L,K
-   2,R,K
-   3,R
-   1,R,J,G
-   1,R,K,G
-   7,R
-   1
-   5,R,X
-   1,R,J
+  40,L
    3
-   1,L,K,G
-   7
-  23,R,D
+   2,J
+   2,L,J
+   1,L
+   3,L,J
+   2,L
+   1
+   1,L,D,K
+   6,K
+  12,J
+   5,K,G
+   2,L,K
+   2,R,K
+   5,L,D,X
+   1,R,J
+   1,R,K
+   3,R,J,G
+   5,R
+   2,R,J
+   4,R
+  18,R,D
+   1,D
   43
 
 #lvl_f-09
-   4,R,D
+   1,D
+   3,R,D
+   4,R,D,J
+   6,R
    1,R,J
-  16,R
-  15,R,Z
-  18,D,C
-  25,U,X
-  18,R,U,C
-  15,R,D,X
-  19,R
+   1,R
+  25,R,Z
+  39,R,V
   36,R,U,C
   15,R,X
   31,R,D
@@ -2594,14 +2592,16 @@ AnalogMode,Precise
   26,F,310
    2,F,305
   15,L,Z
-  19,U,C
+  15,U,C
+   4,R
   27,R,U
-  51,F,16
-  49,F,1
-  19,F,314
-   1,F,314,0.69
+  48,F,13.44
+  51,F,1.399
+   2,F,0
+  18,F,314
+   1,F,312,0.69
 AnalogMode,Ignore
-   9,L
+   8,L
   15,L,U,X
    4,D,C
    7,L,C
@@ -2735,4 +2735,4 @@ AnalogMode,Ignore
    1,S
    1,D,J
   18
-ChapterTime: 6:39.194(23482)
+ChapterTime: 6:38.565(23445)
