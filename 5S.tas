@@ -250,17 +250,16 @@ console load 5
   40
 
 #lvl_a-08 (1)
-  10,L,D
-   7,D
-   8,L,D
-   1,D
-  15,D,X
-   4,D,C
-   5,L,J
-  16,L
-  10,L,Z
-   3,L,J
-   2,J
+  22,D
+   4
+   1,R
+  14,L,D,X
+   2,L,J
+  15,L,D,X
+   3,L
+   3,L,J,G
+   1
+   9,L
   40
 
 #lvl_a-10 (0)
@@ -3104,4 +3103,4 @@ EndStunPause
    1,S
    1,D,J
   18
-FileTime: 6:27.345(22785)
+FileTime: 6:27.277(22781)
