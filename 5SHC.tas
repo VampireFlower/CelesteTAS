@@ -190,6 +190,6 @@ read,5HC,5SHC5,lvl_b-16
 
 #lvl_void
 read,5S,lvl_b-16,Spinner Cycle
-   2
+   0
 read,5S,-------------
-FileTime: 6:58.030(24590)
+FileTime: 6:57.979(24587)
