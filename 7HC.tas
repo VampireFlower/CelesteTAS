@@ -102,43 +102,39 @@ Read,7A,lvl_b-00,lvl_b-02
 
 #lvl_b-02b
    3,L,U,Z
-   2,R,J,G
-   3,K
+   1,J
+   4,K
    1,L,K
    7,K
    4,K,N
+  16,U,X
+   2,L,J
+  14,J
   15,U,X
-  18,R,J
-   1,K,G
-   2,R,K
-   1,L,K
-   1,R,K
-  10,R,J,G
-   6,R
+   1,R,J,G
+   6
    1,L
-   1,R,K,G
-   2,J,G
-   1,L
-   1,R,K,G
-   8,R,K
-   1,L,K
-   1,R,K
-   1,L,K
-   3,R
-   4
-   1,G
-   1,L,J
-   2,L,K
-   5,U,X
-  14,L,J
-  14,L
-  10,R
-  15,R,U,X
+   6,R,J,G
+   8,G
+   1,J,G
+  11,R,J
+   6,R,J
+   2,R,J
+   2,J
+   1,R
+   1,R,J
+   7,K
+   1,R
+   1,J
+  22,R,J
+   4,K,G
+   3,R,K
+   7,R
    7,R,Z
    1,R,J
    6,R
    1,R,D,J
-   7,R,D,X
+   5,R,D,X
   40
 
 #lvl_b-02c (0)
@@ -1035,4 +1031,4 @@ Read,7A,lvl_f-07,lvl_g-00b
   15,R,J
    2,K,G
 Read,7A,7HC1
-ChapterTime: 7:49.387(27611)
+ChapterTime: 7:49.370(27610)
