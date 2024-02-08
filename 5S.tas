@@ -3039,68 +3039,50 @@ EndStunPause
    1,R,J
    3,J
   14,U,X
-  20,G
-   1,R,G
+  21,G
    1,K,G
-  10,R,K,G
-   1,K
+   7,R,K,G
+   4,K
    1
-   4,L
+   5,L
    1
-   1,L
-   7,L,Z
+   6,L,Z
    1,R,J
    6,R
-   1,R,K
+   3,R,K
   14,R,D,X
-  25,R,G
-   1,R,J,G
-   4,R,G
+  22,R,G
+   4,R,J,G
+   1,D
+   3,R,K,G
+   1,K
+   5,R,D,X
+  14,R,G
+   1,R,D,J
+  13,R,D,X
+  13,G
   40
 
 #lvl_e-11
-   5,R,G
+   2,R,K,G
+  19,R,G
+   5,R,D,G
    2,R,J,G
-   7,R,G
-   3,R,K,G
-  10,R,G
-   1,R
-   4,D,X
-   1,L,J
-  12
-   7,R,Z
-   1,R,K
-   2,R
-   1,R,J,G
-   4
-   5,R
-   2,R,K
-  15,R,D,X
-   1,R,J
-   5,R,D,C
+   4,R,D
+   5,R,D,X
   13,G
-   6,R,K,G
-   7,R,G
-   3,R,J,G
-  11,R,G
-   1,R,K,G
-  18,R,G
-   1,R,J,G
-  18,R,G
-  10,R,K,G
-   2,R,G
-   1,R
-   9,R,U,X
-  13,R,G
-  19,R,D,G
-   4,R,G
    2,R,J,G
+   8,R,G
+   1,R,K,G
    7,R,G
+   5,R,J,G
+  23,R,G
    1,R,K,G
-   1,K,G
-   1,R,K,G
-   8
+  15,R,G
+   1,R,J,G
+  16,R,G
+  14,R
    1,S
    1,D,J
   18
-FileTime: 6:27.277(22781)
+FileTime: 6:26.376(22728)
