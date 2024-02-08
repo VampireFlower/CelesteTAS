@@ -434,29 +434,24 @@ Read,7S,lvl_c-09,lvl_d-02
 
 #lvl_d-03 (2)
    9,R,D
-  31,R,D,X
-  14,R,D,C
-   8,R,J
+  37,R,D,X
+  10,R,C
+  13,R,K
   14,R,U,X
-  12,K,G
-   1,J,G
-   1
-   5,R,Z
+   5,R,K,G
+   5,R,V
    1,R,J
    5
    1,R
    1,D,J
-   6,R,J
-   2,J
-   1,R,J
+   5,R,J
    1,J
    2
-  17,D,X
-   5,R,D
-   1,D
-   1
-   1,L
-   1,L,D
+   4,J
+  15,D,X
+   2,R
+   4,R,D
+   4,D
    5,L,X
    1,R,J
   10,L
@@ -981,4 +976,4 @@ Read,7HC,lvl_g-00b,Exit
   15,R,J
    2,K,G
 Read,7S,7SHC4
-FileTime: 9:55.119(35007)
+FileTime: 9:55.068(35004)
