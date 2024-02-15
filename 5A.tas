@@ -545,33 +545,34 @@ read,5S,lvl_d-19b (1),Spinner Cycle
 read,5S,-------------,lvl_e-06
 
 #lvl_e-06
-   5,R,G
-   6,R,J,G
-   3,J,G
-   1,G
-   1
-  14,R,U,X
-  23,R,G
+   4,R,G
+  10,R,J,G
+   1,J,G
    2,G
-  12,R,K,G
-   9,R,G
+   1
+   1,R,K,G
+   4,K
+   5,R,K
    1,R
-   9,R,V
-   9,R,K
+  14,R,U,X
+  31,R,J,G
+   1,R,K
+   9,R,Z
+   6,R,J
    1,R
-   2,R,K
-   7,K
+   6,R,J
+   3,J
+   1,R,J
    9
-  13,R,D,C
-   3,L,K
+  13,R,D,X
+   1,L,J
+   2
   15,D,X
-   4,R,D
-   2,D
-   1,R,D
+   7,R,D
   14,L,D,X
    1,R,J
    5,R,D,X
-  13,R,G
+  13,G
    1,R,J,G
   14,R,G
    2,R,J,G
@@ -583,18 +584,19 @@ read,5S,-------------,lvl_e-06
 
 #lvl_e-05
    3,R,J,G
-   9,R,G
-   2,R,J,G
    5,R,G
-   4,R,J,G
+   3,R,J,G
+   2,R,G
+   1,R,K,G
+   9,R,G
    1,R
   15,R,U,X
   15
    4,L,J
    4,J
-   5
+   7
    1,J
-  12
+  10
    2,L
    9,L,Z
    1,R,K
@@ -607,4 +609,4 @@ read,5S,-------------,lvl_e-06
 
 #lvl_e-07
 Read,5S,lvl_e-07
-ChapterTime: 3:05.079(10887)
+ChapterTime: 3:04.875(10875)
