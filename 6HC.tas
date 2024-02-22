@@ -1,3 +1,4 @@
+console clrsav
 unsafe
 console load 6
    1
@@ -273,7 +274,7 @@ Read,6A,6HC1,[b-03] Spinner Cycle
 #lvl_11
 #---------------
 #Spinner Cycle 2
-   0
+   1
 #---------------
    1,R,J
    1,R,K
@@ -289,4 +290,4 @@ Read,6A,6HC1,[b-03] Spinner Cycle
 
 #lvl_12a
 Read,6A,lvl_12a
-FileTime: 5:12.120(18360)
+FileTime: 5:12.103(18359)
