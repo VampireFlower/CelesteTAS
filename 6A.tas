@@ -1511,25 +1511,26 @@ endstunpause
   15,R,J
    7,L,K
   44
-  15,D,X
-   6,D
-   2,L,D
-   2,L
-   9,L,Z
-   1,R,J
-   7,R
-  12,R,J
-   5,R,D,X
+  19,D,X
+   3,R,D
+   1,D
+   2,R,D
+   5,J
+  14,R,D,X
+   1,R,K
+  13,R,U,X
    1,R,J,G
-   7,R
+   5,R
+   1,R,J
   40
 
 #lvl_boss-15
-   7,R
-  10,R,J
+   4,R
+   2,R
+  11,R,K
    5,R
-  24,R,J
-  16,R,X
+  25,R,K
+  14,R,X
   32,L
    1,L,J
   11,L
@@ -1840,4 +1841,4 @@ AnalogMode,Precise
    1,D,J
   18
 AnalogMode,Ignore
-ChapterTime: 4:35.026(16178)
+ChapterTime: 4:34.975(16175)
