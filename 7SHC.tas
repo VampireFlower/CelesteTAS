@@ -1,3 +1,4 @@
+console clrsav
 unsafe
 console load 7
    1
@@ -29,15 +30,16 @@ Read,7S,lvl_b-00,7SHC0
 Read,7S,lvl_b-02b (1),7SHC1
 
 #lvl_b-02e
-   4,R
-   3
-   5,R,D,X
-   7,R,J
-   1,R,K,G
-   3,R
-  14,R,D,X
-   1,R,J
-   8,R,D,X
+   7,U,X
+   8,R,J
+   5,R,V
+   2,R,K
+   2,R
+   1,R,K
+   1,R,J,G
+  10,R
+   1,R,K
+  13,R,D,X
    1,R,J
    7,R
    2,R,J
@@ -976,4 +978,4 @@ Read,7HC,lvl_g-00b,Exit
   15,R,J
    2,K,G
 Read,7S,7SHC4
-FileTime: 9:55.068(35004)
+FileTime: 9:55.034(35002)
