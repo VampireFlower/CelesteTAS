@@ -893,10 +893,9 @@ console load 7
   14,L,U,X
    7,J,G
   36,L,C
-   4,L,J
-  15,L,D,X
-   4
-  31,L,U,C
+   5,L,J
+  18,L,D,X
+  30,L,U,C
    7,U,X
    8,L,J
   20,D,X
@@ -2374,7 +2373,7 @@ console load 7
   14,R,U,X
    4,R,J,G
 #Spinner cycle
-   0
+   1
 #-------------
   58,R,C
   10,R,D,X
