@@ -198,15 +198,14 @@ console load 2
 #lvl_3
    1,R
   10,J
-   5,R,J,Z
+   6,R,J,Z
    1,S
    1,D,O
   34
    2,R,J
   11,R
    1,R,J
-   4,R
-  24,R,U,Z
+  26,R,U,Z
    5,R,J
    6,R,K
    2,K
@@ -670,4 +669,4 @@ console load 2
    1,S
    1,D,J
   18
-ChapterTime: 1:24.881(4993)
+ChapterTime: 1:24.864(4992)
