@@ -186,34 +186,45 @@ console load 2
    1
    1,R,J
    4,R
-   1,R,J,G
-  13,R
-   3,R,J
-   9,R,K,G
-   2,R,J,G
-  13,R,D,X
+   1,K,G
+   3,R,K
+   1
+   1,J
+   1
+   1,J
+   5
+   2,J
+  10,R,V
    1,R,J
+   3,R,K,G
    1,R
+   9,R,U,Z
+   2,R,K,G
+   8,R
   40
 
 #lvl_d4 (0)
-   1
+   1,R
+   7,R,D,X
+   3,R,J,G
+   6,R
+   1,R,J
+   2,R
+   2,R,D,J
    5,R
-   6,R,D,J
-  14,R,D,X
-   7,R,J
-   4,R
-  11,R,J,G
-   7,R
+   1,R,J
    1
-   1,J
+   2,R
+   1,R,J
+   1,R
+  14,R,K,G
   15,U,X
    1,R,J,G
-  18,R
-   9,D
-   4,R,D
-   6,L,D
-  12,R,D
+  19,R
+   8,D
+   3,R,D
+   7,L,D
+  13,R,D
    4,Z
    1,R,J
    2,R
@@ -1132,4 +1143,4 @@ console load 2
    1,S
    1,D,J
   18
-ChapterTime: 2:23.973(8469)
+ChapterTime: 2:23.871(8463)
