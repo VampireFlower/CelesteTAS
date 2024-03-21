@@ -366,22 +366,26 @@ EndRepeat
    3
   15,R,U,X
    3
-   8,R
+   9,R
    1
-   5,R
-  34,R,J
+   4,R
+  25,R,J
+   9,R
   15,R,X
   23,R,D
-   7,L
-   1,R
-   3,L,D
-  10,L,G
+   1,D
+   1
+   1,D
+   5,L
+  10,G
    1,R,J
-  37,R,K
-  26,R,X
-  29,R,Z
-  14,R,G
-   7,K,G
+  29,R,K
+   5,R
+  29,R,X
+   3,R,D
+  25,R,Z
+  15,R,G
+   8,K,G
   20,R
   14,D
    1,L
@@ -390,8 +394,7 @@ EndRepeat
   30,R,J
    1,R
    8,R,D
-  30,R,Z
-   1
+  31,R,Z
   28,R,C
    3
   14,R,G
@@ -584,8 +587,7 @@ EndRepeat
   15,U,X
    1,R
   12,R,J
-  12,R,G
-  32,R,G
+  44,R,G
    1,L,J
   10,U,X
   40
@@ -891,4 +893,4 @@ EndRepeat
   14,R,J
   14,R,U,C
  135,R
-ChapterTime: 2:04.083(7299)
+ChapterTime: 2:04.049(7297)
