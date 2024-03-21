@@ -1271,9 +1271,10 @@ EndStunPause
   15,U,X
    6,R
   15,U,X
-  15,U,C
-   4,R
-  13,L,J
+   5,R,U,C
+  10,L
+  15,U,X
+   6,U,C
  153
 
 #lvl_g-01
@@ -1348,12 +1349,12 @@ EndStunPause
    1,D
    4
   15,R,Z
-  21,D
+  20,D
+   9,L,D
   15,R,X
-  22,L,D
-   1
-   1,D
-   3
+  16,L
+   1,L,D
+   1,L
   15,R
   15,R,Z
   13
@@ -1881,4 +1882,4 @@ EndRepeat
   10,R
   15,L
    5,R
-FileTime: 4:41.571(16563)
+FileTime: 4:41.520(16560)
