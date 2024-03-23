@@ -589,38 +589,33 @@ console load 7
   12,R
    8
   15,U,C
-  33,R,D
-   4,R
+  37,R,D
   11,R,C
    7,R,J,G
-  15,R,D,X
-   1,R
-   2,R,D
-   1,R
-   3,L
-  19,U,X
-  12,R,J,G
-   4
-   2,L
-   1,R
+  19,R,D,X
+  11
+  15,R,U,Z
    3,J,G
-   3,L
-   5,R,Z
-   3,R,J,G
-   1,K
+   1,L,J
+   1,R,K,G
+   1,L,K
+  16,R,K
    1,R,J,G
-   3,J
+   3,R,K,G
+   1,J
+   9,R,K,G
+   5,R,Z
    3,R,J
-   8,R,K,G
   40
 
 #lvl_b-06
-   7,R
+   3,R,J
+   4,R
    1,G
    3,K,G
    2,L,K
-   3
-   1,L
+   3,K
+   1,L,K
   14,R,Z
    1,L,K
   12,L,D,X
@@ -2372,7 +2367,7 @@ console load 7
   14,R,U,X
    4,R,J,G
 #Spinner cycle
-   1
+   2
 #-------------
   58,R,C
   10,R,D,X
