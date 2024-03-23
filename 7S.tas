@@ -1539,10 +1539,9 @@ console load 7
    2,R,J
   22,R,V
   18,R,U,C
-  29,R,X
-   3,R,D
-  27,R,Z
-   4,D,X
+  26,R,X
+  33,R,V
+   4,D,C
    4,R,J
   40
 
@@ -1753,9 +1752,7 @@ console load 7
    6,R,Z
    2,R,J
    1,R,K,G
-   1,R
-   1
-   7,R
+   9,R
    1,R,J
    5,R
    1,R,J
@@ -1767,13 +1764,12 @@ console load 7
    1,R,J
   15,R,U,X
   10,R,Z
-   3,R,J
-   8,J
-   5,U,X
-   5,R,J
-   5,J
-   5,R,Z
-   1,R,J
+   8,R,K
+  15,R,U,V
+   1
+   1,K
+   6,L,V
+   1,R,K
    7,R
   40
 
