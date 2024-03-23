@@ -1270,42 +1270,45 @@ console load 7
 #lvl_e-08
    7,R
    1,R,K,G
-   8,R,J,G
+   6,R,J,G
    1,R
-  10,R,K,G
-   3,K
-   4,R,J
-   2,R
-   8,R,C
+   5,R,C
    1,R,K,G
+   3,K
+   3,R,K
+   3
+  11,R,U,C
+   1,J,G
+   5
    1,K
-   5,R
-  10,R,D,X
-   3,R,J
+  12
+   5,L,V
+   1,R,K
+   6,R
   40
 
 #lvl_e-10
-   2,R,J
-   1,R
+   3,R,D,J
    5,R,D,X
    1,R,J,G
   11,R
-   1,R,D,J
-  10,R
-  13,R,U,X
-   9,R,J,G
-   9,R
-   1,R,J
+   5,R,J
    7,R
+  10,R,U,X
+   7,R,J,G
+   8,R
+   3,R,J
+   6,R
   14,R,U,X
    1,R,J,G
-  11,R
-  10,R,J
-   4,R
-  15,R,D,X
-  10,R,D
+   9,R
+   3,R,J
+   5,R
+   2,R,J
   12,R
-   6,R,Z
+   9,R,D
+  15,R
+   5,R,Z
   40,R,U,C
   40,R,U,Z
   27,R,X
@@ -1371,11 +1374,10 @@ console load 7
   40
   15,L,D,X
   17,L,Z
-  17,L,C
-  15,L,D,X
-   5,L
-  18,L,X
-  42
+  20,L,X
+  15,L,D,C
+  20,L,X
+  41
   10,L,U,X
   37
   15,R,U,X
@@ -1459,7 +1461,7 @@ console load 7
   15,R,D,X
   18,R,D,C
 #Spinner Cycle
-   2
+   1
 #-------------
   58,R,X
    9,R,D,C
@@ -2745,4 +2747,4 @@ AnalogMode,Ignore
    1,S
    1,D,J
   18
-ChapterTime: 6:38.480(23440)
+ChapterTime: 6:38.378(23434)
