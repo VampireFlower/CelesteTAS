@@ -1442,29 +1442,26 @@ Endrepeat
   40
 
 #lvl_10-c
-  28,D
-   6,L,D
-  10,R,D
+   2,L,D
+  42,D
   40
 
 #lvl_09-b (1)
-   8,R,D
-   6,R
-   1,R,D
-   9,R,X
-   1,K,G
-   6
-   2,L
+   2,D
+   5
+  15,R,D,X
+   1,J,G
+   7
+   1,L
    1,R
-   1,L,X
+   1,L,N
    1,S
    1,D,J
   34
-   6,L
-  15,D,C
-  15,R,D,X
-   7,D
-   1,R,D
+   4,L
+  15,D,X
+  15,R,D,C
+   8,D
    1,R
    2,R,D
    4,D,X
@@ -2581,4 +2578,4 @@ Endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 4:44.172(16716)
+ChapterTime: 4:44.104(16712)
