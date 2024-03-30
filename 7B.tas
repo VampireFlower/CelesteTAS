@@ -1213,68 +1213,78 @@ EndStunPause
    2,J
   15,L,U,X
   15,U,Z
-   2,L,J
-  16,R,J
-   7,R,K,G
-   1,R,J,G
-   4,L,J
-   8,R,J
+   6,J
+   1,L,J
+   1,J
+   1,L,J
+   9,J
    1,R,K,G
+   3,J,G
+   1,L,J
+   1,J
+  13,R,K,G
    1,R,J,G
+   3,R,K,G
    7,R
 
 #CP-16
-   2,R,J
-   1,J
    1,R,J
    1,R
-  12,U,X
+  13,U,X
   18,L
   15,U,X
-  19,R,U,C
+  17,R,U,C
+   2
   14,L
   15,L,U,X
    9,L,C
-  31,R
-  29,R,U,X
+  30,R
+  30,R,U,X
   22,R,C
-  12,R,J,G
-  12,R,K,G
-  10,R,J,G
-   3,K,G
-   1,R
-   4,R
-   1
+  12,J,G
+  12,K,G
+  12,J,G
+# +1f subpixel manip
+   1,K,G
+   3,R
+   3
+   1,K
    1,L
 
 #CP-15
-   3
+   2
   15,U,X
   15,R,U,C
-  16,U,X
+  15,U,X
   15,U,C
-   2,R
-   1
+   1,R
   15,U,X
-  15,R,U,C
+   7,R,U,Z
+   8,L
   15,L,U,X
-  15,L,U,C
-  15,U,X
-  17,R,U,C
-  15,U,X
-  19,R,U,C
+  14,L,U,C
    2,L
-  15,L,U,X
-  16,L,U,C
-  18,L,U,X
-  15,R,U,C
   15,U,X
-   6,R
-  15,U,X
-   5,R,U,C
+   7,R,U,C
   10,L
   15,U,X
-   6,U,C
+  19,R,U,C
+   3,L
+  15,L,U,X
+  13,L,U,C
+   2,R
+   7,L,U,X
+  11,R
+  15,R,U,X
+  15,U,C
+   4,R
+   1
+   1,R
+   2,L
+  15,U,X
+   8,R,U,C
+   8,L
+  15,U,X
  153
 
 #lvl_g-01
@@ -1882,4 +1892,4 @@ EndRepeat
   10,R
   15,L
    5,R
-FileTime: 4:41.469(16557)
+FileTime: 4:41.418(16554)
