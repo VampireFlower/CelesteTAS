@@ -549,8 +549,8 @@ Read,7HC,lvl_d-05 (1),lvl_d-05 (2)
    2
    1,L,J,G
    1,J
-  10,L,V
-   3,L,K
+   5,L,V
+   7,L,K
   43
 
 #lvl_d-08
@@ -982,4 +982,4 @@ Read,7HC,lvl_g-00b,Exit
   15,R,J
    2,K,G
 Read,7S,7SHC4
-FileTime: 9:54.898(34994)
+FileTime: 9:54.881(34993)

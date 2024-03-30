@@ -1517,22 +1517,19 @@ console load 7
    1,L
    2
    2,L,J,G
-  10,L,V
-   3,L,K
+   5,L,Z
+   7,L,J
   43
 
 #lvl_d-07
    1,L
-   2,L,K
-   1,L
+   1,L,J
+   6,L
    1
-   1,L,K
-  15,L,V
-   3
-  15,L,U,C
-   5
-  28,L,V
   15,L,Z
+  20,L,U,X
+  28,L,Z
+  15,L,V
    6,R
    1,L
    8,R
@@ -2372,7 +2369,7 @@ console load 7
   14,R,U,X
    4,R,J,G
 #Spinner cycle
-   0
+   1
 #-------------
   58,R,C
   10,R,D,X
