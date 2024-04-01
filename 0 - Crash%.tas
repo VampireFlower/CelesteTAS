@@ -1,0 +1,59 @@
+#0:30.906
+#Start from Begin
+Read,StartFullGameFile
+
+Read,LoadEnableCheatMode
+
+Read,LoadBCheatMode,SelectB,Core
+   1,R
+   9
+   1,J
+  43
+   1,J
+  30
+Read,LoadA,11
+
+Read,2A,Start,lvl_d0 (1)
+
+#lvl_d0 (1)
+  10,L,K
+  43,L,C
+   4,L,K
+  10,L,J
+  36,U,X
+  16,U,C
+   8,K,G
+   7
+  11,L,K
+   5,L,V
+   1,L,J
+   2,L
+  40
+
+#lvl_d1
+   4,L
+   6,L,K
+   1,L
+  15,L,D,X
+  25,L,D
+   1,L
+   2,L,D
+  15,L,D,C
+   1,L
+  15,L,D
+   4,D,X
+   1,R,K
+   5,R
+   1
+   7,R
+  11,R,K
+  22,R,D,C
+   4,R,K
+   4,D,C
+   1,R,J
+  14,R,D
+  43
+   1,S
+   1,D,J
+  18
+#Oooops!
