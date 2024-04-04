@@ -258,7 +258,7 @@ AnalogMode,Ignore
    1,R
 #---------------
 #[06] Spinner Cycle
-   2,J
+   1,J
 #---------------
    4,Z
    1,R,J
@@ -357,62 +357,59 @@ AnalogMode,Precise
    1,F,46.39456
   10,F,350
    8,F,310
-  14,F,290.83236
+  13,F,290
+   1,F,294.92175
   14,L,X
   12,L,J,G
-   1,L,K,G
-   7,K
-   4,R,K
-   1,L,J,G
-   5,R,J
-   5,L,J
-   6,L
-   1
-   1,K
-  15,L
-   6,R,Z
+  12,K,G
+   2,J,G
+  12,K,G
+   7
+   7,L
+   4,Z
    1,R,J
-   4,R
-   3,R,D,J
-   2,R
-  15,R,D,X
+   1
+   3,R
+   1,D
+   2,R,D,J
    5,R
-   9
-   2,D
+  15,R,D,X
+   9,R
+   2
+   1,D
+   1
+   3,D
    1,S
   10,O
    2,D
-  11,L,J
-   1,R,J
-   5,J
+  12,L,J
    4
-   6,K,G
-   1,R,K
+   1,R
+   1,J
+   4
+   7,J,G
    7,R,D,X
   40
 
 #lvl_07
    8,R,D,X
-  11,D
-   1,R,D
-   9,D
-   2,R,D
-   1,R,D,J
-   6,R
+  10,D
+   3,R,D
+   3,D
+   5,R,D
+   6,R,J
+   7,R,D,X
   40
 
 #lvl_08a
-   1
-  18,R
-   5,R,D
-   6,R,U,Z
-   1,L,J,G
-   2,R,J
-   9,R
-   2,R,J
-   9,R
-  11,R,D
-   2,D
+   8,R,D,X
+   8,D
+   2,R
+   5,R,U,Z
+   1,L
+   3,J,G
+   9
+  23,R,D
    8,R,U,Z
    1,J
    6,L,K,G
@@ -519,7 +516,7 @@ AnalogMode,Precise
    5,U,X
 #---------------
 #[b-03] Spinner Cycle
-   1
+   0
 #---------------
    1,R,J
    1,R,K
@@ -696,21 +693,20 @@ AnalogMode,Precise
    1,R
    1,R,J
    2,R
-   5
-   1,R
+   4
+   2,R
    5,D,X
-  28,R
+  29,R
    6,D,X
-  27,R
+  26,R
   15,D,X
-  30,R
-  15,R,U,X
-  23,R,D
-   1,D
-   6,R,D
-   1,D
-   1,R,D
-  32,R
+   1
+  36,R
+  16,R,X
+   3
+   5,R
+   1
+  33,R
   12,R,U,X
    1,R,J,G
   10,R
@@ -981,27 +977,27 @@ AnalogMode,Precise
    2,R
 
 ###
-   1,R,D,J
 stunpause
-   1,R,J
+   2,R,D,J
    1,R
 skipinput,3,1
    5,R,D,C
    1
-   1,L,J,G
 endstunpause
+   1,L,J,G
 ###
 
 #Alternate Cycle
 ###
+#   1,R,D,J
 #stunpause
-#   2,R,D,J
+#   1,R,J
 #   1,R
 #skipinput,3,1
 #   5,R,D,C
 #   1
-#endstunpause
 #   1,L,J,G
+#endstunpause
 ###
 
    5,R
@@ -1841,4 +1837,4 @@ AnalogMode,Precise
    1,D,J
   18
 AnalogMode,Ignore
-ChapterTime: 4:34.975(16175)
+ChapterTime: 4:34.533(16149)
