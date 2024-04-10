@@ -1007,16 +1007,13 @@ Read,7A,lvl_f-07,lvl_g-00b
   15,U,X
    4,C
   33,D,C
-   8,L,D
-  14,L,J
-  24,J
-  56,U,Z
+ 102,L
 #Exit
-  59
-   1,X
-  30
-   1
-  72,O
+   1,S
+   1,D
+   1,J,F,180
+SaveAndQuitReenter
+  36
    6,R,D,X
    1,L,J
    2,L
@@ -1028,4 +1025,4 @@ Read,7A,lvl_f-07,lvl_g-00b
   15,R,J
    2,K,G
 Read,7A,7HC1
-ChapterTime: 7:49.234(27602)
+FileTime: 7:48.044(27532)

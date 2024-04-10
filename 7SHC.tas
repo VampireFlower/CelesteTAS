@@ -967,11 +967,11 @@ Read,7S,lvl_f-08b,lvl_g-00b
 
 #lvl_g-00b
 Read,7HC,lvl_g-00b,Exit
-  59
-   1,X
-  30
-   1
-  72,O
+   1,S
+   1,D
+   1,J,F,180
+SaveAndQuitReenter
+  36
    6,R,D,X
    1,L,J
    3,L
@@ -982,4 +982,4 @@ Read,7HC,lvl_g-00b,Exit
   15,R,J
    2,K,G
 Read,7S,7SHC4
-FileTime: 9:54.881(34993)
+FileTime: 9:53.351(34903)
