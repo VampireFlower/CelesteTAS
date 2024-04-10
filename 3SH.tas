@@ -1262,33 +1262,47 @@ Endrepeat
    7,L,K,G
    3,L,J,G
    5,L,K,G
-  12,L,D,X
-   8,L,J
-   1,J
-   1
-   1,J
-   1,K
-   2,R
-   4,X
-  22,L,D,X
-   1,L,J
-  16,L
-  16,L,D,J
-  18,L,K,G
- 121,L,D,X
-   1,J
-  30
-   4,D
+  14,L,D,X
+   1,L,K
+  11,L,D,C
+   1,L,K
+   3,L
+   1,L,K
+   3,L
+   8,L,D,J
+   4,L
+  16,L,D,C
   40
 
 #lvl_11-b (2)
-   6,U,X
+   6,U,C
   40
 
 #lvl_11-c (1)
-   1,S
+  11,J
+  15,R,C
+  10,R,D,X
+   1,R,J
+   7,R
    1,D,J
-  69,O
+   7,R,D,J
+  25,L,D,X
+   1,L,K
+  17,L
+  35,R,X
+   1,R,K
+   5,K
+  32,U,C
+Repeat 13
+   1,J
+   1,K
+Endrepeat
+   1,S
+   1,D
+   1,J,F,180
+SaveAndQuitReenter
+#Spawn
+  36
   10,L,Z
    5,R,J
    4,R
@@ -2574,4 +2588,4 @@ Endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 4:43.968(16704)
+FileTime: 4:45.685(16805)

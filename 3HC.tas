@@ -136,12 +136,10 @@ Read,3SH,lvl_09-b (0),lvl_12-b (0)
    3,L,J,G
    7,L
    5,D,X
-Read,3SH,3HC0,lvl_11-c (1)
+Read,3SH,3HC0,Spawn
 
 #lvl_11-c (1)
-   1,S
-   1,D,J
-  69,O
+  36
   10,L,Z
    5,R,J
    4,R
@@ -575,4 +573,4 @@ Read,3A,lvl_09-d,lvl_04-d
 
 #lvl_00-d
 Read,3A,lvl_00-d
-ChapterTime: 3:40.898(12994)
+FileTime: 3:42.615(13095)
