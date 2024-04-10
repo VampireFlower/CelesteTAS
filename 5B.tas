@@ -453,7 +453,12 @@ endrepeat
   18
 
 #lvl_c-00
- 206
+ 110
+   1,S
+   1,D
+   1,J,F,180
+SaveAndQuitReenter
+  36
    7,L,Z
    1,R,J
    8
@@ -850,4 +855,4 @@ endrepeat
    6,R,K
   14,R,U,X
  135,R,D
-ChapterTime: 1:41.252(5956)
+FileTime: 1:44.040(6120)
