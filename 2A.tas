@@ -591,11 +591,16 @@ console load 2
   18
 
 #lvl_end_0
- 190
+ 110
+   1,S
+   1,D
+   1,J,F,180
+SaveAndQuitReenter
+  36
    5,L,D,X
    2,R,J
    8,R
-   4,Z
+   4,D,X
    1,R,J
    5,R
   40
@@ -675,4 +680,4 @@ console load 2
    1,S
    1,D,J
   18
-ChapterTime: 1:24.830(4990)
+FileTime: 1:28.230(5190)

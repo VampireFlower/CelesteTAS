@@ -1,4 +1,4 @@
-#21:25.557
+#21:25.387
 #Start from Begin
 
 Read,StartFullGameFile
@@ -13,7 +13,7 @@ Read,LoadANoCollects
 
 Read,2A,Start
 
-Read,LoadANoCollects
+Read,LoadA
 
 Read,3A,Start
 
