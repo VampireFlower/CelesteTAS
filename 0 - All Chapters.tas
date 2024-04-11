@@ -1,4 +1,4 @@
-#58:02.773
+#58:02.604
 #Start from Begin
 
 #Ensures variants postcard
@@ -48,7 +48,7 @@ Read,4HC,Start
 
 Read,LoadA
 
-Read,5HC,Spinner Cycle
+Read,5HC,Start
 
 Read,LoadA
 

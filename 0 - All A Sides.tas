@@ -1,4 +1,4 @@
-#25:26.923
+#25:26.770
 #Start from Begin
 
 Read,StartFullGameFile
@@ -79,15 +79,7 @@ Read,5HC,Start,lvl_b-01b
   10,U,X
   40
 
-Read,5HC,lvl_b-04,lvl_b-16
-
-Read,5A,lvl_b-16,lvl_d-19b (1)
-
-Read,5S,lvl_d-19b (1),Spinner Cycle
-   0
-Read,5S,-------------,lvl_e-06
-
-Read,5A,lvl_e-06
+Read,5HC,lvl_b-04
 
 Read,LoadA
 

@@ -1,9 +1,6 @@
 console load 5
    1
 
-#Spinner Cycle
-   1
-
 #Start
  110
 
@@ -473,4 +470,4 @@ SaveAndQuitReenter
 
 #lvl_b-16
 Read,5A,lvl_b-16
-FileTime: 3:56.419(13907)
+FileTime: 3:56.249(13897)

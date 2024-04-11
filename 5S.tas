@@ -1727,7 +1727,12 @@ AnalogMode,Ignore
   34
 
 #lvl_c-00
- 191
+ 111
+   1,S
+   1,D
+   1,J,F,180
+SaveAndQuitReenter
+  36
 #Unravelling
    4,D,X
    1,R,J
@@ -2772,7 +2777,7 @@ Endrepeat
    1,D,J
   34
 #Spinner Cycle
-   1
+   0
 #-------------
   14,L,Z
    1,R,J
@@ -3076,4 +3081,4 @@ EndStunPause
    1,S
    1,D,J
   18
-FileTime: 6:26.070(22710)
+FileTime: 6:25.883(22699)
