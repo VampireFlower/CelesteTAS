@@ -430,32 +430,36 @@ read,5S,5HC0,5HC1
 #lvl_b-15
    1,R,J
    1,L,K,G
-  16,R,K
-   4,R
-  16,U,X
-   7,R,J,G
-   1,R
-   5,K,G
-   8,R,K
+  17,R,K
    2,K
-   4,X
- 135,L,D,X
-  59
-   1,J
-  37,L,D
-   1,L
-   5,L,Z
-   1,L,J
-   4,L
+   1,R,K
+  16,U,X
+   1,R,J,G
+   2,J
+   1,R,J
+   1,R,K,G
+   2,R
+   1
+   4,R
+   2,R,J
+   9,U,X
+ 135,D
+#Exit
+   1,S
+   1,D
+   1,J,F,180
+SaveAndQuitReenter
+  36
+   4,D,X
+   1,L,K
   40
 
 #lvl_b-14 (2)
-   2,L
-  18,L,D,J
-   1,R,J
-  10,K,G
-   2,L,K
-   9,U,X
+   7,L
+  13,L,J
+   1,R,K,G
+   9,L,K
+  11,U,Z
    3,L,J
   11,L
   15,U,X
@@ -469,4 +473,4 @@ read,5S,5HC0,5HC1
 
 #lvl_b-16
 Read,5A,lvl_b-16
-ChapterTime: 3:54.226(13778)
+FileTime: 3:56.419(13907)
