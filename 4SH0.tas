@@ -980,22 +980,20 @@ SaveAndQuitReenter
    1,L,J
   14,L,D,X
    1,L,J
-  11,L,D,X
+   8,L,D,X
    1,L,J
+   2,L
   40
 
 #lvl_b-02 (2)
+   5,L
+   9,L,J
+   1,L
+  16,L,D,X
    1,L,J
-   3,L
-   1,L,J
-   3,L
-   8,L,J
-  15,L,D,X
-   1,L,J
-  13,L,D,X
-   1,L,D,X
-   1,L,J
-   6,F,330
+  14,L,D,X
+   2,L,J
+   6,F,0
   14,U,X
   17,L,J
   11,U,X

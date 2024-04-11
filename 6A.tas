@@ -88,7 +88,7 @@ AnalogMode,Precise
    1,U
    1,F,0
    1,U,J
-saveandquitreenter
+SaveAndQuitReenter
   36
 # [02] Spinner Cycle
    2
@@ -340,8 +340,7 @@ AnalogMode,Ignore
    1,J
    1,L,K,G
    5,R,U,X
-   1,L,J,G
-   8,J
+   9,L,J,G
    1
   17,R
   40
