@@ -939,16 +939,21 @@ EndRepeat
   14,U,Z
   17,L,J
    2,K,G
-   6,L
-   1,R
+   3
+   1,L
+   1
+#+9f berry
+   1,L
+   3
+  10,L,X
   14,R,J
-  11,R,K,G
+  11,K,G
    6,J,G
    1,L,J
    1,K
    1,J
-   8,L,J
-   1,J
+   7,L,J
+   2,J
   16,U,X
   19,L,J
    1,K
@@ -958,32 +963,42 @@ EndRepeat
    2,L,K
   11,L
    4,X
-  33,D,X
- 101,L,D
-  60
-   1,J
-  30
-   9,L,D
-   8,D
-   2,L,D
+ 135,D,X
+#Exit
+   1,S
+   1,D
+   1,J,F,180
+SaveAndQuitReenter
+  36
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
   14,L,D,X
    1,L,J
-  21,L,D,X
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  11,L,D,X
+   1,L,J
   40
 
 #lvl_b-02 (2)
-   3,L,D
-   6,L,J
-   6,L
-  16,L,D,X
-  11,L,D,C
    1,L,J
-   1,L
-   1,F,303.15
-   5,F,359.99
+   3,L
+   1,L,J
+   3,L
+   8,L,J
+  15,L,D,X
+   1,L,J
+  13,L,D,X
+   1,L,D,X
+   1,L,J
+   6,F,330
   14,U,X
-  19,L,J
-  10,U,X
+  17,L,J
+  11,U,X
   40
 
 #lvl_b-05 (1)
@@ -1088,24 +1103,25 @@ EndRepeat
   15,U,X
    4,L
   21,L,J
-#+2f Berry
-   8,L,K,G
-   1,J,G
-   2,R
-   7,L,K,G
-   7,L
-  15,L,X
-   1,R,D,J
+  12,K,G
+   3
+   3,J,G
+   7
+   6,R,Z
+   1,L,J
+   6
+   5,R,D,J
   40
 
 #lvl_c-01
-  11,R,J
-  12,R,K,G
-   6,R,J,G
-   1,K
-   1,R,J,G
-   3,L,J
-  24,L,K
+   6,R,D,J
+   1,R,K,G
+  12,R,J,G
+   6,R,K,G
+   1,J
+   1,R,K,G
+   3,L,K
+  24,L,J
    8,L
   29,R,D,X
 #+2f berry
@@ -1822,4 +1838,4 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 3:23.830(11990)
+FileTime: 3:25.292(12076)
