@@ -1,10 +1,10 @@
-#58:07.669
+#1:07:06.316
 #Start from Begin
 
 #Ensures variants postcard
 #does not appear after 8C
 Set,Settings.Instance.VariantsUnlocked,True
-
+#StartRecording
 Read,StartFullGameFileAlt
 
 Read,0 - Prologue,Start
@@ -175,3 +175,4 @@ Add 58
    9
    1,L
 Read,LoadJournal
+#StopRecording

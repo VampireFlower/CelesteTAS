@@ -1,6 +1,6 @@
-#35:41.014
+#41:04.050
 #Start from Begin
-
+#StartRecording
 Read,StartFullGameFileAlt
 
 Read,0 - Prologue,Start
@@ -114,3 +114,4 @@ Read,LoadA,0,control
    9
    1,L
 Read,LoadJournal
+#StopRecording

@@ -1,6 +1,6 @@
-#17:46.478
+#20:48.100
 #Start from Begin
-
+#StartRecording
 Read,StartFullGameFileAlt
 
 Read,LoadEnableCheatMode,Start
@@ -53,3 +53,4 @@ Add 7
   42
    1,L
 Read,LoadJournal
+#StopRecording
