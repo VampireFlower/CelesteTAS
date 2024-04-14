@@ -5,7 +5,7 @@
 #does not appear after 8C
 Set,Settings.Instance.VariantsUnlocked,True
 
-Read,StartFullGameFile
+Read,StartFullGameFileAlt
 
 Read,0 - Prologue,Start
 

@@ -1,7 +1,7 @@
 #21:25.557
 #Start from Begin
 
-Read,StartFullGameFile
+Read,StartFullGameFileAlt
 
 Read,0 - Prologue,Start
 

@@ -1,7 +1,7 @@
 #4.063
 #Start from Begin
 
-Read,StartFullGameFile
+Read,StartFullGameFileAlt
 
 Read,LoadEnableCheatMode
 
