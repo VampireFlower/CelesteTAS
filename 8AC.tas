@@ -69,48 +69,45 @@ AnalogMode,Ignore
    2,J
  257
    1,J
- 123
-  17,R
-   1,R,J
-  13,R
+  62
+   1,S
+   1,D
+   1,J,F,180
+SaveAndQuitReenter
+  36
+   6,R,V
   40
 
 #lvl_space
-   4,Z
-   1,R,J
-  12,R
+   8,R,V
    1,R,J
   14,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
-  13,R,D,X
+  14,R,D,X
+   1,R,J
+  11,R,D,X
    1,R,J
   12,R
   12,R,J
   15,R,D,X
   12,R,J
   15,R,D,X
-   2,R,J
+   1,R,J
   15,R,D,X
-  41,R,D,C
+  40,R,D,C
    7,R,J
   15,R,D,X
-   1,R,J
-  15,R,D,X
-  68,R,D,C
-   5,D
-   1,R,D
-   3,D
-   3
-  14,R,Z
-   1,R,J
-  15,R,D,X
-   1,R
    2,R,J
-  20,R,D,X
-   1,R
-  47,R,J
-  15,R,U,X
- 135,R,D
-ChapterTime: 2:33.561(9033)
+  15,R,D,X
+  81,R,D,C
+  14,R,Z
+   2,R,J
+  16,R,D,X
+   4,R,J
+  22,R,D,X
+   1,R,J
+  49,R,D,C
+ 152,R,D,X
+FileTime: 2:34.343(9079)
