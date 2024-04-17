@@ -3870,18 +3870,6 @@ endrepeat
  116,F,1
   15,U,X
   38
-ChapterTime: 10:30.530(37090)
-
-# Optional waiting for
-# visuals to play out
-# without IGT loss
-#-----------------
-  29
-   1,J
-  30
-   1,J
- 100
-#-----------------
    1,S
    1,D,J
   18
@@ -3900,3 +3888,4 @@ Add 2
  165
    1,J
  483
+#41141

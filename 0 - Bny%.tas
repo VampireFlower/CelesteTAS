@@ -1,11 +1,13 @@
-#29:08.000
+#28:46.883
 #Start from Begin
 #StartRecording
-Read,StartFullGameFileAlt
+Read,StartFullGameFile
 
 Read,0 - Prologue,Start
 
-Read,LoadANoCollects,Prologue
+ 195
+
+Read,LoadANoCollects,Control
 
 Read,1A,Start,lvl_9
 
@@ -199,17 +201,23 @@ Add 1
 
 Read,7B,2000M
 
-  59
-   1,J
- 196
-Read,LoadANoCollects,0,Prologue
-  48
-Add 7
+   1,S
+   1,U,J
+   1,O
+  31
 
 #Epilogue
+  51
    1,S
    1,X
   42
    1,R
-Read,LoadJournal
+   8
+   1,J
+  43
+   1,J
+  46
+Add 1
+
+Read,0 - Epilogue,Start
 #StopRecording

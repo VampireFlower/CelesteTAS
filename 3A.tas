@@ -1537,33 +1537,36 @@ endrepeat
   40
 
 #lvl_roof03
-   3,R,D,X
+   4,R,D,X
    1,R,J
-   5,R
-   1,R,J
-   1,R
-   7,R,J
-   5,R
    1
+   4,R
+   1,R,J
    1,R
-  18,R
-  15,R,X
-  30,R,D
-   4,Z
+   7,R,K
+   2,R
+   5,J,G
+   4,R,J
+   2,J
+   1,R,J
+  32,R,U,C
+  21,R,D
+   4,D,X
    2,R,J
    8,R
    1,R,J
-  10,R,D,X
+  11,R,D,X
    1,R,J
    3,R
    1,R,J
    3,R
-  19,R,J
-   1
+  17,R,J
+   2,J
+   1,R,J
   15,U,Z
    2,R,J
   42,R,D
-   4,Z
+   4,D,X
    1,R,J
    3,R
    1,R,J
@@ -1745,6 +1748,7 @@ endrepeat
 
 #lvl_roof07
    1,S
-   1,D,J
-  18
-ChapterTime: 3:14.004(11412)
+   1,U,J
+   1,O
+  31
+#12506

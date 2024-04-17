@@ -1,7 +1,8 @@
-Set,ScreenShake,Off
+console titlescreen
 Set,Everest.UseKeyboardForTextInput,False
 Set,CrouchDashMode,Press
 Set,GrabMode,Hold
+Set,ScreenShake,Off
 Set,DisableFlashes,True
 Set,SpeedrunClock,2
 Set,Everest.ShowModOptionsInGame,False
@@ -14,26 +15,13 @@ Add 1,J
 Add 94
 Add 1,J
 Add 61
-
-   1,D
+   2
    1,J
-Skip
-  70
-Add 41
-   1,D
-   1,F,180
-   1,R
+  94
    1,J
-   1,U
-   1,F,
-   1,L
+  61
    1,J
-   1,D
-   1,F,180
-   1,J
-   1,S
-  48
-   1,U
+  14
    1,J
 Add 131
 

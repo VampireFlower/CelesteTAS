@@ -1817,7 +1817,8 @@ AnalogMode,Precise
 #lvl_after-02
   43
    1,S
-   1,D,J
-  18
+   1,U,J
+   1,O
+  31
 AnalogMode,Ignore
-ChapterTime: 4:32.408(16024)
+#17787

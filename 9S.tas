@@ -524,11 +524,7 @@ AnalogMode,Precise
   20,K
   38
    1,S
-   1,D,J
-  18
-ChapterTime: 9:01.671(31863)
-
-#Let moon berry sfx play
- 100
-
-read,9,end-granny
+   1,U,J
+   1,O
+  31
+#35101

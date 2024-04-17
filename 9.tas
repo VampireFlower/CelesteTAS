@@ -3711,33 +3711,8 @@ EndStunpause
   38
 AnalogMode,Ignore
 #End_IGT
-ChapterTime: 8:05.554(28562)
-
-# optional waiting for
-# visuals to play out
-# without IGT loss
-#-----------------
-  29
-   1,J
-  30
-   1,J
- 100
-#-----------------
    1,S
-   1,D,J
-  18
-
-#end-granny
- 122
-   1,S
-   1,D,J
-  18
-
-#end-cinematic
-Add 2
-  61
-   1,S
-   1,D,J
- 165
-   1,J
- 483
+   1,U,J
+   1,O
+  31
+#31491

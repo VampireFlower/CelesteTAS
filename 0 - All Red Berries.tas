@@ -1,20 +1,19 @@
-#41:04.050
+#39:45.983
 #Start from Begin
 #StartRecording
-Read,StartFullGameFileAlt
+Read,StartFullGameFile
 
 Read,0 - Prologue,Start
 
-Read,LoadANoCollects,Prologue
+ 195
+
+Read,LoadANoCollects,Control
 
 Read,1SH0,Start
 
 #Reenter City
-Read,LoadA,0,control
-   1,L
-   9
-   1,J
-  43
+  51
+   1,S
    1,J
   30
    1,R
@@ -51,11 +50,8 @@ Read,LoadA
 Read,4SH0,Start
 
 #Reenter Ridge
-Read,LoadA,0,control
-   1,L
-   9
-   1,J
-  43
+  51
+   1,S
    1,J
   30
    1,R
@@ -99,19 +95,20 @@ Add 1
 
 Read,7S,Start
 
-Read,LoadCoreFromSummit
+Read,LoadA,0,Epilogue
+
+Read,LoadCoreFromSummit,Epilogue
 
 Read,8S,Start
-  59
-   1,J
- 196
 
 Read,LoadA,0,control
 
 #Epilogue
- 200
    1,L
-   9
-   1,L
-Read,LoadJournal
+   8
+   1,J
+  43
+   1,J
+  46
+Read,0 - Epilogue,Start
 #StopRecording

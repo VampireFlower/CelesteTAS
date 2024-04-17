@@ -1,25 +1,24 @@
-#1:19:07.116
+#1:17:40.950
 #Start from Begin
 
 #Ensures variants postcard
 #does not appear after 8C
 Set,Settings.Instance.VariantsUnlocked,True
 #StartRecording
-Read,StartFullGameFileAlt
+Read,StartFullGameFile
 
 Read,0 - Prologue,Start
 
-Read,LoadANoCollects,Prologue
+ 195
+
+Read,LoadANoCollects,Control
 
 Read,1SH0,Start
 
 #Reenter City
-Read,LoadA,0,control
-   1,L
-   9
-   1,J
-  43
-   1,J
+  51
+   1,S
+   1,O
   30
    1,R
    1,J
@@ -55,18 +54,16 @@ Read,LoadA
 Read,4SHC,Start
 
 #Reenter Ridge
-Read,LoadA,0,control
-   1,L
-   9
-   1,J
-  43
-   1,J
+  51
+   1,S
+   1,O
   30
    1,R
    1,F,90
    1,R
    1,J
   46
+Add 1
 
 Read,4SH1,Start
 
@@ -110,7 +107,12 @@ Add 1
 
 Read,7SHC,lvl_f-00
 
-Read,LoadCoreFromSummit
+Read,LoadA,0,Epilogue
+
+Read,LoadCoreFromSummit,Epilogue
+
+#Read,0 - Epilogue
+#Read,LoadCoreFromSummit,Core
 
 Read,8S,Start,lvl_d-10c
 
@@ -212,5 +214,12 @@ Add 58
    1,L
    9
    1,L
-Read,LoadJournal
+   8
+   1,J
+  43
+   1,J
+  46
+Add 1
+
+Read,0 - Epilogue,Start
 #StopRecording

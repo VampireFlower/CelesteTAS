@@ -1,11 +1,13 @@
-#24:52.800
+#24:18.816
 #Start from Begin
 #StartRecording
-Read,StartFullGameFileAlt
+Read,StartFullGameFile
 
 Read,0 - Prologue,Start
 
-Read,LoadANoCollects,Prologue
+ 195
+
+Read,LoadANoCollects,Control
 
 Read,1A,Start
 
@@ -115,5 +117,7 @@ Add 1
 
 Read,7A,Start
 
-Read,LoadCoreFromSummit,0,Core
+Read,LoadA,0,Epilogue
+
+Read,0 - Epilogue,Start
 #StopRecording

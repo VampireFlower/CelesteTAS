@@ -1,9 +1,9 @@
-#04:30.866
+#04:09.583
 #Start from Begin
 #StartRecording
-Read,StartFullGameFileAlt
+Read,StartFullGameFile
 
-Read,LoadEnableCheatMode
+Read,LoadEnableCheatMode,Start
 
 Read,LoadCCheatMode,SelectC
 
@@ -40,17 +40,19 @@ Read,LoadCCheatMode,Core
 
 Read,8C,Start
 
-  59
-   1,J
- 196
-Read,LoadANoCollects,0,Prologue
-  48
-Add 7
+Read,LoadCCheatMode,0,SelectC
 
 #Epilogue
    1,S
    1,X
   42
    1,L
-Read,LoadJournal
+   8
+   1,J
+  43
+   1,J
+  46
+Add 1
+
+Read,0 - Epilogue,Start
 #StopRecording

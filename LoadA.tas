@@ -1,16 +1,19 @@
-Add 197
- 165
-   1,J
-  83
-Add 7
+#Can cut these 52f if you exit
+#a level with no collectibles
+  51
    1,S
- 194
+   1,X
+  42
 #control
+   1,R
+   9
    1,J
   43
    1,J
 #Summit
- 230
+  46
+#Epilogue
+ 184
    1,J
  136
 Add 1

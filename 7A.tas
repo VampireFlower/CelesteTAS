@@ -2745,6 +2745,7 @@ AnalogMode,Ignore
    7,R,Z
    3,R,J
    1,S
-   1,D,J
-  18
-ChapterTime: 6:38.378(23434)
+   1,U,J
+   1,O
+  31
+#25740

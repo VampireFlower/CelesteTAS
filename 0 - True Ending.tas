@@ -1,11 +1,13 @@
-#37:20.666
+#36:12.783
 #Start from Begin
 #StartRecording
-Read,StartFullGameFileAlt
+Read,StartFullGameFile
 
 Read,0 - Prologue,Start
 
-Read,LoadANoCollects,Prologue
+ 195
+
+Read,LoadANoCollects,Control
 
 Read,1A,Start
 
@@ -119,11 +121,13 @@ Add 1
 
 Read,7A,Start
 
-Read,LoadCoreFromSummit
+Read,LoadA,0,Epilogue
+
+Read,LoadCoreFromSummit,Epilogue
 
 Read,8A,Start
 
-Read,LoadAFromB,0,Summit
+Read,LoadAFromB,SkipExit,Summit
   46
 Add 1
 
@@ -137,5 +141,10 @@ Add 58
    1,L
    9
    1,L
-Read,LoadJournal
+   8
+   1,J
+  43
+   1,J
+  46
+Read,0 - Epilogue,Start
 #StopRecording
