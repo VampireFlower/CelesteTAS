@@ -1,4 +1,4 @@
-#1:17:40.000
+#1:17:37.533
 #Start from Begin
 
 #Ensures variants postcard
@@ -40,7 +40,6 @@ Add 1
 
 Read,1SHC,Start
 
-#Old Site
 Read,LoadAFromB,SkipExit
 
 Read,2SHC,Start
@@ -52,20 +51,6 @@ Read,3SHC,Start
 Read,LoadA
 
 Read,4SHC,Start
-
-#Reenter Ridge
-  51
-   1,S
-   1,O
-  30
-   1,R
-   1,F,90
-   1,R
-   1,J
-  46
-Add 1
-
-Read,4SH1,Start
 
 Read,LoadAFromB,SkipExit
 

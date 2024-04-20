@@ -5,7 +5,7 @@ console load 4
   69
 
 #lvl_a-00
-Read,4SH0,lvl_a-00,4SHC
+Read,4SH,lvl_a-00,4SHC
 
 #lvl_a-10 (0)
    4,D,X
@@ -25,7 +25,7 @@ Read,4SH0,lvl_a-00,4SHC
 read,4HC,4SHC,lvl_a-09
 
 #lvl_a-09
-read,4SH0,lvl_a-09,lvl_b-03
+read,4SH,lvl_a-09,lvl_b-03
 
 #lvl_b-03
    6,R
@@ -87,5 +87,5 @@ read,4SH0,lvl_a-09,lvl_b-03
   40
 
 #lvl_b-00 (3)
-Read,4SH0,lvl_b-00 (3)
-#13803
+Read,4SH,lvl_b-00 (3)
+#14464

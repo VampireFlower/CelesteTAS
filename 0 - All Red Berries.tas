@@ -1,4 +1,4 @@
-#39:45.050
+#39:42.583
 #Start from Begin
 #StartRecording
 Read,StartFullGameFile
@@ -36,7 +36,6 @@ Add 1
 
 Read,1SH2,Start
 
-#Old Site
 Read,LoadAFromB,SkipExit
 
 Read,2S,Start
@@ -47,22 +46,9 @@ Read,3SH,Start
 
 Read,LoadA
 
-Read,4SH0,Start
+Read,4SH,Start
 
-#Reenter Ridge
-  51
-   1,S
-   1,J
-  30
-   1,R
-   1,F,90
-   1,R
-   1,J
-  46
-
-Read,4SH1,Start
-
-Read,LoadAFromB,SkipExit
+Read,LoadA
 
 Read,5S,Start
 
