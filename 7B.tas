@@ -32,7 +32,7 @@ console hard 7
    3,R,J
    1,R,K,G
    3,R
-   4,Z
+   4,D,X
    1,R,J
   12,R
    5,R,D,X
@@ -434,7 +434,7 @@ console hard 7
    3,R,K
   42,R,D,X
    4,R,J
-   4,Z
+   4,D,X
    1,R,J
   14,R
   38,R,U,C
@@ -471,14 +471,14 @@ console hard 7
    1,R
   24,R,U,C
    4,R,J
-   4,Z
+   4,D,X
    8,R,J
    3,R
    1,R,J
    1,R
   24,R,D,C
    4,R,J
-   4,Z
+   4,D,X
    1,R,J
    5,R
    1,R,J
@@ -767,7 +767,7 @@ Add 58
 #Spinner Cycle 0-2
    0
 #-----------------
-   4,Z
+   4,D,X
    1,R,J
    7,R
    3,R,J
@@ -1112,7 +1112,7 @@ EndStunPause
    1,R,K,G
    5
    2,L
-   4,Z
+   4,D,X
   14,L,J
   15,L,D,J,X
    3,L,J
@@ -1553,7 +1553,7 @@ EndStunPause
   13,U,C
   14,R,J
   13,R
-   4,Z
+   4,D,X
    7,R,J
    2,R
    2,R,J
@@ -1577,7 +1577,7 @@ EndStunPause
    2,D
 
 #CP-06
-   4,Z
+   4,D,X
    1,R,J
    8,R,D
    9,R,K
@@ -1651,7 +1651,7 @@ EndStunPause
    7,L
 
 #CP-03
-   4,Z
+   4,D,X
    1,L,J
    6,L
   18,L,D,J
@@ -1664,13 +1664,15 @@ EndStunPause
   16,U,X
   13,R,J,G
   12,R,K,G
-   7,R
+   4,R
+   2
+   1,R
 
 #CP-02
    9,L,Z
-   5,L,J
+   6,L,J
    1,L
-  15,L,J
+  14,L,J
    7,U,Z
    9,L,J
    8,L
@@ -1683,27 +1685,26 @@ EndStunPause
    4
   18,R,U,X
   14,R,C
-   1,R,J
-  14,R,D,X
-  11,R,J
-   1,R
-   2,R,J
-  15,R,D,X
-   6,R
-   2,R,D
-   1,R
-  15,R,C
-  19,L
-   4,R
-   2,L
-   1,R
-  11,R,J
-  11,R
-  26,R,Z
-  15,R,U,V
-   9,R
-   1,R,J
+  10,R,J
    2,R
+  19,R,Z
+   8,L,V
+   1,R,J
+   1,R
+   2
+   1,R
+   1,L,D,J
+  13,R
+   6,R,J
+  15,R,U,X
+  13,R,Z
+   5,R,J
+  17,R,Z
+  15,D,X
+  15,R,Z
+   4,R
+   2
+   2,R,J
   15,R,Z
   18,R,D,C
    3
@@ -1714,10 +1715,8 @@ EndStunPause
    3,R,J
   15,R,Z
   15,D,C
-   1,J
-   2,L,J
-   1,R
-   1,L
+   3,J
+   2,L
   14,R,Z
    5,R,J
    6,R
@@ -1892,4 +1891,4 @@ EndRepeat
   10,R
   15,L
    5,R
-#18135
+#18118

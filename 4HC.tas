@@ -263,7 +263,7 @@ Read,4A,lvl_a-09,lvl_b-00
   40
 
 #lvl_b-05
-Read,4SH0,lvl_b-05 (1),lvl_b-08b
+Read,4SH,lvl_b-05 (1),lvl_b-08b
 
 #lvl_b-08b
 Read,4A,lvl_b-08b
