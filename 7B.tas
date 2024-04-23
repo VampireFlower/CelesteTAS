@@ -581,12 +581,12 @@ console hard 7
    1,R
    2,R,K,G
    7,R
-  15,R,U,X
-   9,R,U,C
-   1,R,J,G
-   7,R
-  15,U,X
-  14,U,C
+   8,R,J
+  14,R,U,X
+   1,J,G
+   7,R,X
+  13,R
+  14,U,X
  331
 
 #lvl_d-00
@@ -1414,46 +1414,61 @@ EndStunPause
   15,U,X
    7,L,J
   10,R,Z
-   6,L,J
-   1,J
-   3
+   5,L,J
+   2,J
+   1,L
+   2
   14,L,D
    5,D
-   4,L,D
+   6,L,D
    1,D
-   2,L,D
   12,L,J
    5,L
    1,L,J
    2,L
   10,L,J
-  14,U,Z
+  13,U,Z
    8,L,J
-   1,J
+   2,J
    1,L,J
-   3,J
+   2,J
   16,R,K
   15,L,J
    1
   23,R,K
-   9,R,D,X
+   1,R
+   1,R,K
+   8,R,D,X
    1,L
-   8,J,G
-  14,R
-  10,L,D
-   2,R,D
-   1,L,D
-  11,R,J
+   6,J,G
+   2,R,J
+   8,R
+   1
+   5,R
+   8,L,D
+   1,D
+   2,L,D
+   1
+   1,R
+   2
+   4,X
+   1,J
+   1,R,J
+   2,J
+   3,R,J
+   8,R
+   3,R,J
    6,R
-   6,R,J
-   3,R
-  26,R,X
-  12,U,C
-   7,J
-   1,K
-   1,R,J,G
-   5,L
-   9,R
+  15,R,U,V
+   9,L
+  11,L,K
+   1
+   1,J,G
+  10
+   1,L
+   1
+   1,L
+   1,R
    1
    6,R,Z
    1,L,J
@@ -1891,4 +1906,4 @@ EndRepeat
   10,R
   15,L
    5,R
-#18118
+#18108
