@@ -1407,7 +1407,7 @@ EndStunPause
    4
    1,R
 #CP-09 Spinner Cycle
-   1,D
+   2,D
 #-------------------
    1,L,J
    4,J
@@ -1449,28 +1449,26 @@ EndStunPause
    1,D
    2,L,D
    1
-   1,R
-   2
+   2,R
+   1
    4,X
-   1,J
-   1,R,J
-   2,J
-   3,R,J
+   3,J
+   7,R,J
    8,R
-   3,R,J
-   6,R
-  15,R,U,V
-   9,L
-  11,L,K
-   1
-   1,J,G
-  10
-   1,L
-   1
-   1,L
+   1,R,J
+   1,R
+   1,R,J
+   1,R
+   3
    1,R
    1
-   6,R,Z
+  15,R,U,Z
+   4
+  12,L,J
+   4
+   3,L
+   8,R
+   5,R,Z
    1,L,J
    1,L,K,G
    3,K
@@ -1901,4 +1899,4 @@ EndRepeat
   10,R
   15,L
    5,R
-FileTime: 4:40.857(16521)
+FileTime: 4:40.806(16518)
