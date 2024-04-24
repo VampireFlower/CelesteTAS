@@ -51,22 +51,29 @@ AnalogMode,Ignore
   40
 
 #lvl_d-11
-   5,R,D,X
-   6,R,J
-   5,R
-   1,R,J
-   2,R
-  20
-   3,D
-   1,L,J
-   9,L
-   5
-  14,L,Z
-   1,R,J
-   6,R,K,G
-  14,R,U,X
-  62,R,J,G
+   4,R,D,X
    2,J
+  18
+   2,D
+   7,R,D
+   1
+   2,G
+   5,R,X
+   1,R,J,G
+   2,R,K,G
+   1,R,J,G
+   1,R,K,G
+   7,R
+   3,R,D
+  15,R,J
+   4,J
+   1
+   3,R,K,G
+   1
+   7,R
+  14,R,D,X
+  37,R,J
+  15,R,K
  257
    1,J
   62
@@ -110,4 +117,4 @@ SaveAndQuitReenter
    1,R,J
   49,R,D,C
  152,R,D,X
-FileTime: 2:34.224(9072)
+FileTime: 2:34.173(9069)
