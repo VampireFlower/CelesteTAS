@@ -1,4 +1,4 @@
-#1:09:07.150
+#1:09:06.912
 #Start from Begin
 
 #Ensures variants postcard
@@ -112,9 +112,9 @@ Read,7SHC,lvl_f-00
 
 Read,LoadCoreFromSummit
 
-Read,8S,Start,lvl_d-10c
+Read,8S,Start,lvl_d-11
 
-Read,8AC,lvl_d-10c
+Read,8AC,lvl_d-11
 
 Read,Load1B
 
