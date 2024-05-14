@@ -371,16 +371,18 @@ Repeat,5
    1,K
 EndRepeat
    1,L,K
-  17,R,D
+   8,R
+   9,D
    2
-  15,R,Z
-   1,L
-  20,L,J,G
+   1,D
+  15,R,V
+   3
+  15,L,J,G
   10,K,G
    2,R,K
-  12,R,J
-  12,L,K
-   9,R,J
+  12,J
+  12,K
+  10,J
   40
 
 #lvl_08b
@@ -679,4 +681,4 @@ EndRepeat
   20,L,J
  100,L,X
   46,L,D
-#4076
+#4075
