@@ -114,8 +114,10 @@ console hard 9
 
 #lvl_a-02
    3,R
-  36,R,J
-   8
+  26,R,J
+  11,R,D
+   6,D
+   1,R,D
    1,R
    1
   14,L,D,X
@@ -124,8 +126,10 @@ console hard 9
   13,L,J
   15,L,D,X
   14,L,U,C
-   2,L,K,G
-  23,L
+   1,L,J,G
+   6,L
+   1,L,J
+  16,L
   19,L,J
   15,U,X
   14,U,Z
@@ -898,4 +902,4 @@ EndRepeat
   14,R,J
   14,R,U,C
  135,R
-#7971
+#7970
