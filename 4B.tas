@@ -36,40 +36,44 @@ console hard 4
   40
 
 #lvl_a-01
-   5,R
-   3,R,J
-   5,R
-   3,R,J
-  14,R,Z
-   1,R,J
-   4,R,X
-   5,R,J
-   5,R
-   1,R,J
-   4,R
-   1
    1,R
-   6
+   6,R,J
+   6,R,D
+   8,R,J
+   5,R
+   1,R,J
+   5,R,X
+   4,R,J
+   6,R
+   3,R,J
+   5
+   1,R
+   2
    6,L,Z
    1,R,J
-   2,R
-   1,R,J
    1,R
+   1,R,J
+   2,R
    6,R,D,J
    6,R
   15,R,D,J,X
-   5,R,D,J
-  21,R,K
-  12,R
-  17,R,J
-  15,U,X
-   3,R
-   1,J,G
    2,R,J
-   1
+   3,R,D,J
+  12,R,K
+   6,R
+   1,R,K
+   1,R
+   4,R,K
+   9,R
+  18,R,J
+  15,U,X
+   4,J,G
+   2,R,J
+   1,J
    1,R,K,G
-   1,K
-   7,R
+   3,R
+   1
+   3,R
    6,R,Z
    1,R,J
    3,R
@@ -112,43 +116,40 @@ console hard 4
   13,R,C
   11,K,G
    5,J
-  10,R,X
-   4,R,J
+   9,R,X
+   5,R,J
   43
 
 #lvl_a-03
-   7,R,J
-  24,R,U,X
-   1,G
-   1,J,G
-   1,L,J
-   1,R,K,G
-   3,R,J,G
-   1,R,K,G
+   9,R,J
+  23,R,U,X
+   1,L
    1,R,J,G
-   6,R
-   1,R,J
-   4,R
+   1
+   1,R,J,G
+   1,J
+   1,L,J
+   1,L
+  14,R
    2
-   3,R
+   2,R
   10,D
   10,L,D,X
    4,L,X
    1,R,J
-   8,R,D,X
+   7,R,D,X
    1,R,J,G
    1,R,K,G
-   1,R,J,G
-   2,R
-   3
-   1,R,J
-   5,R,D
+   5
+   3,R
+   2,R,D
    9,R,J
-   6,R
-   3,J
+   7,R
+   1,R,J
    1,R
-   1,J
-  12,R
+   1,R,J
+   4,R
+   8
    2,J,G
    1,L,J
    1,R,J
@@ -555,7 +556,7 @@ Endrepeat
   26,R,X
   15,R,Z
 #c-01 Spinner Cycle
-   0
+   2
 #------------------
   32,R,U,X
   16,R,Z
@@ -733,20 +734,18 @@ EndStunPause
    2,L,J
    5,J
   16,U,X
-  12,L,J
-   1,J
-   4,R,J
+  17,L,J
   40
 
 #lvl_c-04
-   1,R,J
-  10,R
-   2,R,J
+   5
+   1,J
+   2,K,G
+  11,R,K
+  12,R,X
+   5,R,J
+  10,R,K,G
    1,R
-  13,R,U,X
-   7,R,J,G
-   7,R
-   7,R,J
    5,R,Z
    1,R,J
    6,R
@@ -994,4 +993,4 @@ EndStunPause
   28,R,K
   14,R,X
  135,L,D
-#7658
+#7651
