@@ -20,20 +20,23 @@ Read,7A,Start,lvl_a-06
   15,L,X
   29,L,D
   16,L,X
-  41
-   5,R
+  46,R
   15,U,X
    8,L,U,C
-  39,R
-  37,R,U,X
-  26,R,C
-   1,J,G
-   1,L,J
-   1,R,K,G
+  33,R
+  28,R,C
+  27,R,X
+   6,R,K,G
+   3,L,K
+   1,L
    1,R,J,G
-   1,L,J
-   4,J
-   7,R
+   3,J
+   2,L,J
+   2,R,J
+   1,R
+   1,K,G
+   1
+   6,R
    6,L,D,X
    1,R,J
    6,R
@@ -1019,4 +1022,4 @@ Read,7A,lvl_f-07,lvl_g-00b
   15,R,J
    2,K,G
 Read,7A,7HC1
-#30283
+#30280
