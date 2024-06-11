@@ -316,34 +316,44 @@ AnalogMode Precise
   14,L,D
    3
   15,L,Z
-   9,R,D
-   1,L,J,G
-   2,K,G
-   1,R,K
-  21,L,K
-   1,K
-   3,G
-   1
-   1,J
-  16,L,K,G
-   1,L,J,G
-   2,L,K,G
-   1,K
-   1,L,K
+  11,L
+   2
+   2,R
    1,L
-  17,L,X
-   4,L,J,G
-   9,L
+   1,J,G
+   2
+   1,R
+   2
+   4,L,K,G
+   3
+   1,R
+   1
+   2,L,K
+   1,J,G
+   1,R
+   6,L,K,G
+   1,R,K
+   3,L,K
+   5,L
+   3,L,K
+   1,L,J,G
+   5,L,K,G
+  15,L,Z
+   2,L,J,G
+  11,L
    9,G
-   1
-   1,J
-   3,L,K,G
-   4
-   5,R
-   1
-   1,R,D
-   1,J
+   1,J,G
+   1,R,J
+   1,L,K,G
    5
+   3,R
+   1
+   1,R
+   1
+   1,D
+   1,J
+   4,R
+   1
    1,R
    1
    1,R
@@ -358,10 +368,9 @@ SkipInput,3,6
   10,R,U,X
    1,R,J,G
 EndStunpause
-   8,R,J
-   2,J
-   1,R,J
+  10,R,J
    1,J
+   1,R,J
   10,U,X
    1,J
    1,K
@@ -370,36 +379,29 @@ EndStunpause
    4,R,D
    1,J
    1,L,K,G
-   4,R,K
+   5,R,K
    5,R
   10,R,K
-  10,R
-   2,G
+   9,R
+   1,G
    1,R,J,G
-   3,L,J
-   1,L,J
-   4,R,J
-   2
-   1,R
-   1
-   1,J
-   1,R
-   1,R,J
-   1,R
-   1,K,G
-   4,R
-   2
+   4,L,J
+   3,J
+   6
+   2,R
+   1,J,G
+   7,R
    1,L
-   3,L,D
+   4,L,D
    1,L,J
    1,K,G
    1,J,G
    2,K,G
-   1,R,K
+   1,R
    1,J
    1,K,G
-   2,L,K
-   3,R,K
+   1,L,K
+   4,R,K
   15,U,Z
    1,J,G
    4,R
@@ -1452,4 +1454,4 @@ AnalogMode,Ignore
   24,R,D,X
   21,R,D
  103,R
-ChapterTime: 3:15.296(11488)
+ChapterTime: 3:15.194(11482)
