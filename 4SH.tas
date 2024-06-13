@@ -1079,25 +1079,24 @@ EndRepeat
   15,U,X
    4,L
   21,L,J
-  12,K,G
-   3
-   3,J,G
-   7
-   6,R,Z
-   1,L,J
-   6
-   5,R,D,J
+#+2f Berry
+   8,L,K,G
+   1,J,G
+   2,R
+   7,L,K,G
+   7,L
+  15,L,X
+   1,R,D,J
   40
 
 #lvl_c-01
-   6,R,D,J
-   1,R,K,G
-  12,R,J,G
-   6,R,K,G
-   1,J
-   1,R,K,G
-   3,L,K
-  24,L,J
+  11,R,J
+  12,R,K,G
+   6,R,J,G
+   1,K
+   1,R,J,G
+   3,L,J
+  24,L,K
    8,L
   29,R,D,X
 #+2f berry
@@ -1896,4 +1895,4 @@ EndRepeat
    1,U,J
    1,O
   31
-#13708
+#13710

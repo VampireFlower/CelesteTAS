@@ -99,9 +99,9 @@ Read,LoadCoreFromSummit,Epilogue
 #Read,0 - Epilogue
 #Read,LoadCoreFromSummit,Core
 
-Read,8S,Start,lvl_d-10c
+Read,8S,Start,lvl_d-11
 
-Read,8AC,lvl_d-10c
+Read,8AC,lvl_d-11
 
 Read,Load1B
 
