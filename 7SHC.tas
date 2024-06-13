@@ -167,7 +167,8 @@ Read,7S,lvl_b-03 (2),lvl_b-07
 Read,7S,lvl_b-08,lvl_c-06 (1)
 
 #lvl_c-06
-   3,R
+   2,L
+   1,R,J,G
    1,R,K,G
    7,R,J,G
   15,U,X
@@ -557,32 +558,39 @@ Read,7HC,lvl_d-05 (1),lvl_d-05 (2)
 Read,7S,lvl_d-07,lvl_d-10b
 
 #lvl_d-10b
-  20,L,J
+   5
+   2,J
+  16,L,J
   31,R
-  12,K,G
-   9,J,G
-  14,L
-  15,L,U,X
-   5,L
-   1,L,J,G
-   2,R,J
-   3,L,J
-   1,L,K,G
-   7,L,J,G
-  14,L,U,X
-  39,R,D
-  21,R,U,X
-  14,R,Z
+   8,J,G
    1,R,J
-   5,R
-#+0f berry
-  12,L,Z
-   2,L,J
    1,J
+   1,L,J
+   1,J
+   8,R,K,G
+   2,R
+   5,R,U,X
+  17,L
+  15,L,U,X
+   5,L,J,G
+   1,L
+  14,L,U,X
+   1,R
+   6,L,U,X
+  27,R
+  22,R,X
+  14,R,Z
+   2,J
+   5
+#+1f Berry
+  12,L,V
+   1,L,J
+   2,L
+   1
   15,L,D,X
   15,L,D,C
-  40,D
-  22,L,D
+  30,D
+  32,L,D
   40
 
 #lvl_d-10 (2)
@@ -639,7 +647,7 @@ Read,7S,lvl_e-05,lvl_e-07
    1,R,J
    1,G
   15,L,Z
-#+1f Berry
+#+2f Berries
   15,D,C
    5,L
   34
@@ -674,42 +682,49 @@ Read,7S,lvl_e-05,lvl_e-07
    1,L,J
    6,L
   13,L,J
-  10,L,K,G
-  10,L,J,G
-   9,L,K,G
-   1,L,J,G
-   1,R,J
-   3,J
-   4,R,J
-  22,R,K
-   2,R
-  15,R,U,X
-  10,R
-   1
-  18,U,X
-   6,L
-  15,L,U,Z
-   1,R
-  31,R,U,X
-  38,R,V
-   2,R,J,G
-   4,L,J
-   6,R,J
-   1,K,G
-  10,R,K
-   1,L,K
-   1,R,K
-  12,R,J,G
-  11,R,K,G
-   7,R,J,G
-   4,L,J
+  12,K,G
+   7,J,G
+   2
+  15,U,X
    1,J
-  20,L,K
+  15,U,X
+   1,R
+   1
+   3,R
+  26,R,J
+  18,R,D
+  18,L,D
    1,L
-   1,L,K
-   1,L
-  20,L,U,X
-  12,L,J
+   4,R,D
+   1,R
+   1,R,D
+   2,R
+  11,R,Z
+   3,R,J
+   1,R
+   1,R,J
+   2,R
+   9,R,J
+  16,K,G
+   7,J,G
+   1,R,J
+   1,J
+   1,R,J
+   1,L,J
+   1,J
+  13,R,K,G
+   1,J,G
+   3,R,J
+   4,J
+   1,R,J
+   1,L,J
+   1,J
+  13,R,K,G
+   5,R,J,G
+  14,U,X
+  26,L,J
+  14,U,X
+   7,J
   40
 
 #lvl_e-08
@@ -985,4 +1000,4 @@ SaveAndQuitReenter
   15,R,J
    2,K,G
 Read,7S,7SHC4
-FileTime: 9:53.130(34890)
+FileTime: 9:52.535(34855)
