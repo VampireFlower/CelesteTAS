@@ -893,17 +893,17 @@ Add 1
 Read,7HC,lvl_f-00 (2),7SHC
 
 #lvl_f-02b
-   8,R,D,J
+   1,R
+   2,R,D,J
+   5,R
   40
 
 #lvl_f-07 (1)
-   2,R
+   2,R,J
   21,R,D,X
    5,L,D
-   3
-   1,L
-   1,D
-   1,L,D
+   3,D
+   2,L
    7,R,J
    1,R
    8,R,J
@@ -985,4 +985,4 @@ SaveAndQuitReenter
   15,R,J
    2,K,G
 Read,7S,7SHC4
-FileTime: 9:53.147(34891)
+FileTime: 9:53.130(34890)
