@@ -125,16 +125,15 @@ Read,7S,lvl_b-02b (1),7SHC1
   40
 
 #lvl_b-04
-   5,R
-   7,R,D,J
-   2
-  12,R,U,Z
-   3,J,G
-   1,L,J
-   2,J
+   4,R
    1
-  25,L,D,X
-   6,L
+   2,R,D,J
+   5,J
+   1,R,J
+   2,R
+  16,R,U,V
+  26,L,D,C
+   4,L
   15,L,U,X
   11,L,V
    3,L,J
@@ -999,4 +998,4 @@ SaveAndQuitReenter
   15,R,J
    2,K,G
 Read,7S,7SHC4
-FileTime: 9:51.702(34806)
+FileTime: 9:51.651(34803)
