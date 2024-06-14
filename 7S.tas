@@ -544,20 +544,17 @@ console load 7
    1,R
   12,R,K
   15,R,D,X
-   1,R,K
-   4,R
-   7,R,K,G
+  11,R,J
   40
 
 #lvl_b-04
-   4,K
-   6
-   1,R
-  12,R,U,V
-   1,K,G
-   1,R,K
-   1,L,K
-   3,K
+   1,R,J
+   5,R
+   3
+  14,R,U,Z
+   2,K,G
+   2,L,K
+   2,K
    1,L
   25,L,D,X
    6,L
@@ -2406,7 +2403,7 @@ console load 7
   14,R,U,X
    4,R,J,G
 #Spinner cycle
-   2
+   0
 #-------------
   58,R,C
   10,R,D,X
@@ -3886,4 +3883,4 @@ AnalogMode,Ignore
    1,U,J
    1,O
   31
-#34214
+#34211
