@@ -599,10 +599,7 @@ Read,7S,lvl_d-07,lvl_d-10b
 Read,7S,lvl_d-10 (2),lvl_e-00b
 
 #lvl_e-00b
-Read,7A,lvl_e-00b,lvl_e-00
-
-#lvl_e-00 (1)
-Read,7HC,lvl_e-00 (1),lvl_e-03
+Read,7HC,lvl_e-00b,lvl_e-03
 
 #lvl_e-03
 Read,7A,lvl_e-03,lvl_e-04
@@ -1002,4 +999,4 @@ SaveAndQuitReenter
   15,R,J
    2,K,G
 Read,7S,7SHC4
-FileTime: 9:52.297(34841)
+FileTime: 9:51.702(34806)
