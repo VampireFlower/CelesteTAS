@@ -924,48 +924,47 @@ Read,7A,lvl_f-07,lvl_g-00b
    2,R
    3,R,J
    2,R,K,G
-   1
-   6,R,D
+   7,R
    2,R,D,J
    2,R
-   2,R,K
-   1
-   1,J
-   1,R,K
-   1,K
+   2,R,D,J
+   2,R
+   2,R,D,J
   14,R,U,X
    1,R,J,G
-  11,R,D,X
+  10,R,D,X
    1,L,J
-   1,L
-   2,L,J
+   2,L
+   1,L,J
+   2,L
    4
-   3,L
   16,L,D,X
-  10,L
-   1,L,J
-   1,R,J
-   1,K,G
-  10,L,K
-   1,R,K
-   2,J,G
-   4,L,J
-   6,L,K
-  16,U,Z
    2,L,J
-  16,R,J
+   3,L
+   3,L,J
+   1,R,J
+   2,K,G
+   1,L,K
+   8,R,K
+   1,J,G
+   1,L,J
+   4,R,J
+   8,K,G
+   1,L,K
+   3,K
   16,U,X
-  10,R,J
-   7,L,J
-  10,L,K,G
-   7,L,J,G
-   1,K
-   2,J,G
-  10,R,J
+  18,J
+  16,U,X
+  18,L,J
+   9,K,G
+   1
+   1,J
+   2,K,G
+  10,R,K
    7
 
 #CP-27
-  11,U,Z
+  11,U,X
   14,L,J
   14,U,X
   13,R,J
@@ -988,6 +987,7 @@ Read,7A,lvl_f-07,lvl_g-00b
    3,D
    3
    2,D
+   5
    6,R
    1
   10,R,Z
@@ -1034,4 +1034,4 @@ SaveAndQuitReenter
   15,R,J
    2,K,G
 Read,7A,7HC1
-FileTime: 7:47.194(27482)
+FileTime: 7:47.177(27481)
