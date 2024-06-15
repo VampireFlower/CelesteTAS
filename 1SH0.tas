@@ -215,35 +215,25 @@ console load 1
    4
    3,L
 #+1f Berry
-  12,L,D,X
+  13,L,D,X
    1,L,J
-   1,L
-   1,L,J
-   9,L
-   2
+   6,L
+   7
    5,L,U,Z
   40
 
 #lvl_5 (2)
-   2,L,U,Z
-   1,R
-   1,J
-   4,R,K,G
-   2,L,K
-  14,U,X
-   3,R,J
-   1,R,K,G
-  12,R,J,G
-   3,K,G
-   1,R,K
+  10,L,U,Z
+  15,U,X
+  11,R,J,G
+   8,K,G
    1,L,K
-  12,R,J,G
+  10,R,J,G
    7,R
-  13,R
-   3
-  12,L,J
-   3,L,K,G
-   2,J
+  17,R
+  12,L,K
+   1,J,G
+   3,R,J
   15,U,X
   40
 
@@ -957,4 +947,4 @@ console load 1
    1,U,J
    1,O
   31
-#7006
+#7005
