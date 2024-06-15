@@ -1245,21 +1245,26 @@ endstunpause
    4
   15,D,X
    3,L,D
-  37,L
-  23,D,X
-  18,L,D
+  34,L
+   3
+  15,D,X
+   2,L,D
    2,D
-   7,R,Z
-   8,R,J
-  13,R
-  37
-  16,L,D,X
-  18,R,D
-  11,R,D,X
-  14,R,J
-   5,R,Z
+  10,R,D
+   4,R
+  10,R,D
+  22,R,Z
+  53,L,D
+  15,D,C
+  13,R,D
+   1,D
+   1
+   4,D,X
+  13,R,K
+   3,R,J,G
+   7,R
    1,R,J
-  18,R,D
+  14,R
   44
   28,R,D,X
   10,D
@@ -1460,8 +1465,8 @@ endstunpause
   14,R,U,X
    7,R,J,G
   37
-  15,D,X
-  14,R,D
+  16,D,X
+  13,R,D
    2,R,J
    9,R,D,X
    1,R,J
@@ -1825,4 +1830,4 @@ AnalogMode,Precise
    1,O
   31
 AnalogMode,Ignore
-#17787
+#17786
