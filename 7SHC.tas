@@ -452,13 +452,10 @@ Read,7S,lvl_c-09,lvl_d-02
    5
    1,R
    1,D,J
-   5,R,J
-   1,J
-   2
-   4,J
+   7,R,J
+   4,R
   15,D,X
-   2,R
-   4,R,D
+   6,R,D
    4,D
    5,L,X
    1,R,J
@@ -998,4 +995,4 @@ Read,7HC,lvl_g-00b,Exit
   15,R,J
    2,K,G
 Read,7S,7SHC4
-#38518
+#38517
