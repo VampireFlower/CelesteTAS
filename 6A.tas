@@ -497,7 +497,7 @@ endstunpause
    5,U,X
 #---------------
 #[b-03] Spinner Cycle
-   2
+   0
 #---------------
    1,R,J
    1,R,K
@@ -965,27 +965,27 @@ AnalogMode,Precise
    2,R
 
 ###
-   1,R,D,J
 stunpause
-   1,R,J
+   2,R,D,J
    1,R
 skipinput,3,1
    5,R,D,C
    1
-   1,L,J,G
 endstunpause
+   1,L,J,G
 ###
 
 #Alternate Cycle
 ###
+#   1,R,D,J
 #stunpause
-#   2,R,D,J
+#   1,R,J
 #   1,R
 #skipinput,3,1
 #   5,R,D,C
 #   1
-#endstunpause
 #   1,L,J,G
+#endstunpause
 ###
 
    5,R
@@ -1830,4 +1830,4 @@ AnalogMode,Precise
    1,O
   31
 AnalogMode,Ignore
-#17786
+#17784
