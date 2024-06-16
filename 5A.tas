@@ -142,7 +142,7 @@ console load 5
    2,J,G
    6
    1,L
-   4,Z
+   4,D,X
    2,L,J
    1,L
    1,L,J
@@ -205,7 +205,7 @@ console load 5
    6,R
    1,R,K
    8,R
-   4,Z
+   4,D,X
    1,R,J
    6,R
    1,R,J
@@ -541,7 +541,7 @@ read,5S,lvl_c-07,lvl_d-01 (0)
 
 #lvl_d-19b (1)
 read,5S,lvl_d-19b (1),Spinner Cycle
-   0
+   2
 read,5S,-------------,lvl_e-06
 
 #lvl_e-06
@@ -609,4 +609,4 @@ read,5S,-------------,lvl_e-06
 
 #lvl_e-07
 Read,5S,lvl_e-07
-#11795
+#11793
