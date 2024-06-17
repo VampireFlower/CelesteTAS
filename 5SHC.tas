@@ -177,6 +177,6 @@ read,5HC,5SHC5,lvl_b-16
 
 #lvl_void
 read,5S,lvl_b-16,Spinner Cycle
-   2
+   1
 read,5S,-------------
-#26416
+#26408
