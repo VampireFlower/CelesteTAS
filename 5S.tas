@@ -274,8 +274,9 @@ console load 5
   40
 
 #lvl_a-09 (0)
+   1,L
   15,L,D,X
-   3,L
+   2,L
    4,L,D,J
    5,L
    3,L,J
@@ -289,34 +290,42 @@ console load 5
   40
 
 #lvl_a-11
-  10,L,U,X
+   1,L,K
+   9,L,U,X
   12,L,J,G
-   7,L
-   2,L,J
+   5,L
+   3,L,J
    1,L
-   2,L,J
-   4,L
-   8
-  44,R,J
-   7,R,K,G
-   1,R,J,G
+   1,L,J
+   7,L
+   1
+   6,L
+  42,R,J
    1,R,K,G
-   3,R,J,G
-  12,R
+   2,R,J,G
+   2,R
+   1,R,J,G
+   4,R,K,G
+   5,R
+   1,R,K
+   4
+   6
+   2,R
    1
    1,R
-   2
-   2,R
-   4,D,X
+   4,Z
+   4,R,J
+   4,R
+   1
    1,R,J
-   7,R
-   1,D,K
-   2,R
+   2
   10,R,D,X
   40
 
 #lvl_a-09 (1)
-  10,R,D
+   5,R,D,X
+   1,D
+   4,R,D
   11,R,D,J
    5,R
    2,R,J
@@ -2264,20 +2273,21 @@ SaveAndQuitReenter
    4
    2,L
    1
+   4,L,J
+  15,L,D,X
+   6,R,D
+   2,R,J
+  11,R,Z
+   1,L,J
    3,L
-  15,L,X
-  15,R
-   3,L,D
-   4,D,X
-   1,L,J
-  12,L
-   1,L,J
-   8,L,D,X
-   1,L,J
-  10,L
-  31,D
-  21,L,D
-   2
+  14,L,D,X
+   5,L,J
+  10,L,D
+  25,D
+  22,L,D
+   6,L
+   1,L,D
+   1,L
    4,D,X
    2,R,K
    1,R,J,G
@@ -2478,28 +2488,30 @@ SaveAndQuitReenter
    3,L,J
   14,U,X
   11,L,J
-  12,L
-   4,D,X
-   1,L,J
-   6,L
-   1,L,J
+  11,L
+   5,L,X
+   9,L,J
   40
 
 #lvl_d-09
-   1,L,J
-  16,L
-  18,R,D
-  10,L,J
-   6,L
-   8,L,J
-   9,L
-   7,L,Z
-   1,L,J
-   2
-  10,L
-  24,L,D,X
+   3,L,J
+   1,R
+   4,K,G
+   1,L
+  15,L,D,X
+  16,L,D
+   5,L
+  16,L,Z
+   1,R
+   2,J,G
+   1
+  24,L,D
    4,L
-   2,L,J
+  14,L,Z
+   1,L,J
+   7,L
+   1,L,J
+   1,L
    8,D,X
   40
 
@@ -2643,7 +2655,7 @@ Endrepeat
    2,K
    2,J
    1,R,K,G
-  25,D,X
+  27,D,X
    1,J
    7,L,V
    1,L,J
@@ -2805,7 +2817,7 @@ Endrepeat
    1,D,J
   34
 #Spinner Cycle
-   1
+   0
 #-------------
   14,L,Z
    1,R,J
@@ -3117,4 +3129,4 @@ EndStunPause
    1,S
    1,D,J
   18
-FileTime: 6:25.577(22681)
+FileTime: 6:25.509(22677)
