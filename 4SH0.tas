@@ -933,9 +933,9 @@ EndRepeat
    3
    1,L
    1
-#+9f berry
+#+8f berry
    1,L
-   3
+   2
   10,L,X
   14,R,J
   11,K,G
@@ -1827,4 +1827,4 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
-FileTime: 3:25.105(12065)
+FileTime: 3:25.088(12064)
