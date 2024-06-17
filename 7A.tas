@@ -1938,25 +1938,26 @@ EndStunPause
    1,R,J,G
    3
    4,R
-  25,R,D,J
+  17,R,J
+   1,J
+   1,R,J
+   1,J
+   5,R,J
   15,R,U,X
   14,R,V
 
 #CP-25
-   2,L,K
+   1,L,K
   15,U,X
   13,U,C
    4,L,K
-   1,L
-   1
-   1,L
+   4,L
    1,L,J,G
    1,L,K,G
-#-1f if .33 higher
-   7,L
+   8,L
    1,L,J
-  17,L
-   2,L,D,K
+  14,L
+   3
   15,U,C
   13,U,X
   26,R,K
@@ -2737,4 +2738,4 @@ AnalogMode,Ignore
    1,U,J
    1,O
   31
-#25737
+#25736
