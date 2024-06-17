@@ -442,10 +442,12 @@ read,5S,lvl_b-16,lvl_c-08
    1,L,K,G
    5,L
    2
-   7,R,V
-   2,R,J
-   1,R,K,G
-   9,R
+   6,R,V
+   3,R,J
+   2,R,K,G
+   5,R
+   1,R,J
+   1,R
   40
 
 #lvl_c-07
@@ -541,7 +543,7 @@ read,5S,lvl_c-07,lvl_d-01 (0)
 
 #lvl_d-19b (1)
 read,5S,lvl_d-19b (1),Spinner Cycle
-   0
+   1
 read,5S,-------------,lvl_e-06
 
 #lvl_e-06
@@ -609,4 +611,4 @@ read,5S,-------------,lvl_e-06
 
 #lvl_e-07
 Read,5S,lvl_e-07
-#11790
+#11784
