@@ -541,7 +541,7 @@ read,5S,lvl_c-07,lvl_d-01 (0)
 
 #lvl_d-19b (1)
 read,5S,lvl_d-19b (1),Spinner Cycle
-   2
+   0
 read,5S,-------------,lvl_e-06
 
 #lvl_e-06
@@ -609,4 +609,4 @@ read,5S,-------------,lvl_e-06
 
 #lvl_e-07
 Read,5S,lvl_e-07
-#11793
+#11790

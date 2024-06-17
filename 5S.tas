@@ -2750,7 +2750,7 @@ Endrepeat
    1,D,J
   34
 #Spinner Cycle
-   1
+   2
 #-------------
   14,L,Z
    1,R,J
@@ -2958,22 +2958,30 @@ Endrepeat
 
 #lvl_e-07
    3,R,G
-  23,R,K,G
-  11,G
+  20,R,K,G
+   2,R,G
+   2,R,J,G
+  10,R,G
    1,R
-   4,R,J,G
-   5,R
-   6
+   3,R,J,G
+   6,R
+   1,J
+   1,R
+   2
+   1,R
    9,L,Z
    1,R,K
-   6
-   2,J
+   5
+   1,R
+   1,L,D,J
+   1,R,J
    6,R,D,X
   13,G
    2,R,K,G
    7,R,G
    1,R,K,G
-   4,G
+   3,R,G
+   1,G
   40
 
 #lvl_e-08
@@ -2981,8 +2989,9 @@ Endrepeat
    1
    8,R,U,X
   25,R,G
-   7,G
-   2,R,G
+   2,G
+   3,R,G
+   4,G
   40
 
 #lvl_e-09
@@ -2991,7 +3000,8 @@ StunPause
    4,R,J,G
 EndStunPause
    2,R,J,G
-  10,R,G
+   9,R,G
+   1,G
    3,R,K,G
   40,K
 
@@ -3000,9 +3010,9 @@ EndStunPause
    5,G
    2,K,G
    1,G
-   9,L,J,G
-   1,R,J
-   2,J
+   8,L,J,G
+   1,R,J,G
+   3,R,J
   14,U,X
   17,G
    4,R,G
