@@ -539,7 +539,7 @@ Endrepeat
   14,R,D,X
   40
 
-#lvl_b-00
+#lvl_b-00 (0)
    1,L,J
   40
 
@@ -843,7 +843,7 @@ Add 1
 #Depths
   36
 
-#lvl_b-00
+#lvl_b-00 (1)
    4,D,X
    1,R,J
    7,R
@@ -906,7 +906,7 @@ Add 1
    1,R,D
   40
 
-#lvl_b-00 (1)
+#lvl_b-00 (2)
   20,R,D
    5,R
   15,R,D,X
@@ -1294,31 +1294,41 @@ Add 1
 
 #lvl_b-13 (1)
    3,L
-   1,L,J
-  19,L,D
-   7,L
-  15,U,X
-  24,L,D
-   8,D
-   8
-  12,R,Z
-   6,R,J
-  25,R,D,X
-   1,R,J
-  12,R,U,Z
+   4,L,J
+  15,L,D
+   2,L
+   1,L,D
+   3,L
+   1
+   1,L
+   7,R,U,X
+   1,L
+   2,J,G
+   7
+   1,R
+   3,R,J
+  15,R
+   7,D
+   1,L
+   2,L,D
+  28,R,D
+  14,R,Z
+   1,R,K
+  11,R,U,V
   58
 
 #lvl_b-17
-   2,L
+   3,L
    3,J,G
    1,R,J
+   1,L,K,G
+  11,L,J,G
+   1
+   4,L,K,G
    1,J
-  12,L,K,G
-   3,L,J,G
-   1,J
-   1,K
-   2,J,G
-  30,R,J
+   2,K,G
+  24,R,K
+   6,R
   26,R,X
    3
    1,J,G
@@ -1525,8 +1535,7 @@ Endrepeat
   15,R,U,X
   14,R
    6
-   1,R
-   1,R
+   2,R
    4
    2,R,K
    5,R
@@ -1968,8 +1977,7 @@ SaveAndQuitReenter
    2,D
    1,J
   14,U,Z
-  10,L,J
-   6,L,J
+  16,L,J
    1,L,K,G
    5,L
    2
@@ -3088,4 +3096,4 @@ EndStunPause
    1,S
    1,D,J
   18
-FileTime: 6:25.798(22694)
+FileTime: 6:25.679(22687)
