@@ -567,10 +567,11 @@ console load 5
   13,L,U,X
    7,L,J,G
   40
-
+=
 #lvl_a-09 (0)
+   1,L
   15,L,D,X
-   3,L
+   2,L
    4,L,D,J
    5,L
    3,L,J
@@ -584,34 +585,42 @@ console load 5
   40
 
 #lvl_a-11
-  10,L,U,X
+   1,L,K
+   9,L,U,X
   12,L,J,G
-   7,L
-   2,L,J
+   5,L
+   3,L,J
    1,L
-   2,L,J
-   4,L
-   8
-  44,R,J
-   7,R,K,G
-   1,R,J,G
+   1,L,J
+   7,L
+   1
+   6,L
+  42,R,J
    1,R,K,G
-   3,R,J,G
-  12,R
+   2,R,J,G
+   2,R
+   1,R,J,G
+   4,R,K,G
+   5,R
+   1,R,K
+   4
+   6
+   2,R
    1
    1,R
-   2
-   2,R
    4,D,X
+   4,R,J
+   4,R
+   1
    1,R,J
-   7,R
-   1,D,K
-   2,R
+   2
   10,R,D,X
   40
 
 #lvl_a-09 (1)
-  10,R,D
+   5,R,D,X
+   1,D
+   4,R,D
   11,R,D,J
    5,R
    2,R,J
@@ -3084,4 +3093,4 @@ EndStunPause
    1,U,J
    1,O
   31
-#24477
+#24476
