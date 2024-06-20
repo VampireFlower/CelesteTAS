@@ -155,25 +155,21 @@ Read,4A,lvl_a-09,lvl_b-00
    2,L
   15,R,J
   11,R
-   4,Z
-   3,R,J
-   4,R,K,G
-   3,R,J,G
-   4,R,K,G
-   1,K
+   5,R,Z
+   2,R,K
+   5,R,J,G
+   1,R,K,G
+   7,R
   40
 
 #lvl_b-02 (0)
-   4,R,K
-  12,R,D,X
+   3,R
+   1,R,J
+   3,R
+  23,R,D,X
+   7,R,U,Z
    1,L
-   1,J,G
-   1,R,K
-   1,R,J
-  14,R,D,X
-   1,R,J
-   1,F,45.74014
-   6,F,0.01
+   1,K,G
    1,R,J
    1,R,K
    1,R,J
@@ -182,8 +178,7 @@ Read,4A,lvl_a-09,lvl_b-00
    1,R,K
    1,R,J
    1,R,K
-   1,R,J
-   2,J
+   1,R
   13,R,X
    5
    4,X
@@ -267,4 +262,4 @@ Read,4SH,lvl_b-05 (1),lvl_b-08b
 
 #lvl_b-08b
 Read,4A,lvl_b-08b
-#8613
+#8609
