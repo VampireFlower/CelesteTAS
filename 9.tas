@@ -1764,37 +1764,53 @@ Endstunpause
    3,R,J
   14,R,D,X
    1,R,J
-  14,R,D,X
-   1,L,J
-  12,L,D,X
-   1,R,J
-  16,D
-   1,R,D
-   3,D
-   5,R,D
+  15,R,D,X
+   2,L,J
+   5
+   1,J
+   2
+   1,L
    1,R
-  13,R,D
-  14,R
-   4,R,D
-   1,D
+   1,L
+   1,R
+   5
+   2,R
    1,R,D
-   2,D
-  11,L,J
+   3,R
+   1
+   2,R
+   1,R,D
+   1,R
+   2,R,D
+   3,D
+   1
+   1,D
+   2
+   1,D
+   6,L,G
+   1,U,G
+  15,R,D,X
+   2,R,D
+   5,D
+   1,R,D
    2,L
-  23,L,U,X
-  23,L,U,C
-  15,D,X
-  12,L,D
-  39,R,D
-  26,R,X
-  10,R,Z
+   6,L,J
+  15,L,U,X
+  40,L,U,C
+  11,L,D
+  15,R,D
+   1,D
+  23,R,D
+  16,R,X
+  14,R,D,C
+   2,R,J
+   6,R,D,X
    1,R,J
    7,R
   18,R,K
    3,R
    1,R,J,G
-   7,R
-  17,R
+  24,R
    1,G
    1,J,G
    1,L,J
@@ -1863,23 +1879,26 @@ Endstunpause
    1,R,J,G
    2,R,K,G
    1,R,J,G
-   1,R,K,G
-   4,R
+   5,R,K,G
    7,R,U,Z
    2,R,K,G
    1,R,J,G
    1,R,K,G
    1,R
-   2,R,J,G
-  10,R
+   1,R,J,G
+   5,R
    1,R,J
+   4,R
+   1,R,K
   40
 
 #lvl_h-00b
-   8,R,J
-  24,R,D,X
-   3,R
-   2,R,J
+   2,R,K
+   1,R
+   1
+  15,R,D,X
+   9,R
+   9,L
   14,D,X
   40
 
@@ -3711,7 +3730,7 @@ EndStunpause
   38
 AnalogMode,Ignore
 #End_IGT
-ChapterTime: 8:05.554(28562)
+ChapterTime: 8:05.299(28547)
 
 # optional waiting for
 # visuals to play out
