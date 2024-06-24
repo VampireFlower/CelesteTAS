@@ -1182,24 +1182,18 @@ EndStunPause
    1,R,J
    2,R
    1,R,J
-   1,J
-   7,R,J
-   2,R
-   5,R,D,X
-   1,R,J,G
-   2,R,K,G
+  12,R,D,X
    1,R,J,G
    1,R,K,G
-   6,R
-   1,R,K
-   3,R
-   7,R,J
-   8,R
-  14,R,X
-   8,R,J,G
+   1,R
+   1,R,J,G
+  11,R,U,X
+  26,R,K,G
+   4,R
+   8,R,J
   15,R,D,X
   12,R
-   1,L,D,J
+   1,J
    2,R,J
   14,R,U,X
    5,R,J,G
@@ -1370,7 +1364,7 @@ EndStunPause
    3,R
    4
 #F-07 Cycle 0-2
-   0
+   2
 #--------------
    4,Z
    4,R,J
