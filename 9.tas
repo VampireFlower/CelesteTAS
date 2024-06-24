@@ -1144,18 +1144,17 @@ EndStunPause
   19,R,D
   33,R,U,X
   10,R,D,C
-   2,R,J
-   2,J
-   1,R,J
+   5,J
   15,R,U,X
   14,R,U,C
+#lightning drift cycle manip
+  15
    1,S
    1,D,J
   34
 
 #Event Horizon
-   1,R,J
-   4,D,X
+   4,Z
    1,R,J
    3,R
    1,R,J
@@ -1364,7 +1363,7 @@ EndStunPause
    3,R
    4
 #F-07 Cycle 0-2
-   2
+   0
 #--------------
    4,Z
    4,R,J
@@ -1385,54 +1384,45 @@ EndStunPause
    5,R,Z
    1,R,J,G
    1,R,K,G
-   1,R,J,G
-   1,R,K,G
-   3,R
-   3
+   4,R,J,G
+   5,R
+   1
+   4,J
+   7
+  15,R,X
+   8,L,D,C
+   1,J,G
+   5,L
+   1
    1,R
-  10
-   4,D,X
-   1,J
-   1,R
-   9
-   1,R
-  14,L,X
-   1,R,K
-   1,R
-  10,L,C
-   7,R,J
-  15,R,U,X
-  15,U,C
-   1,R
-   3,J,G
-   1,R,J
-   4
-   3,L
-   4,D,X
-   1,R,J
-   7,R
-   1,R,J
-   2,R
-  15,R,V
-  15,R,D,X
-   4,D
-  18,R,D
-   1,R,J
-   2,R
-  12
-   1,L,D,J
-   1,R
-  20,L,D
-  10,L
-   2,L,D
-   4,R,D
-   1,L,D
-   1,L,K,G
-   1,L,J,G
-   1,R,K,G
-   9,J,G
+   4,R,J
   15,U,X
-  26,U,C
+  15,U,C
+  10,R
+   5,R,D,X
+   1,R,J
+   4,R
+   1,R,J
+   2,R
+   3,R,J
+   2,R
+  16,R,Z
+  15,R,D,X
+  22,R,D
+   1,R,J
+  15,R,Z
+  15,L,D,X
+   4
+  12,G
+   7
+   1,R
+   1,L,J,G
+   8,R
+   1,R,D,J
+   1,L,J
+   4,K,G
+  15,U,X
+  27,U,C
    7,R,Z
    1,R,J
    7,R
@@ -2963,33 +2953,28 @@ AnalogMode,Precise
    1
    1,R,J
    6,R
-  14,R,U,X
+   8,R,U,X
+   6
    1,L,J
-   9,L
-   8
-   2,R
-  12,R,U,Z
+   2,L
+  21
+#+2f box
+  13,R,U,X
   12
-   3,R
-  15,D,X
-   4,R,Z
+   2,R
+  14,R,D,X
    1,R,J
-   3,R
-   1,R,J
-   3,R
-   1,R,K
-   3,R,J,G
+   3,R,K,G
+   1,R
   12,R,U,X
    3,R,J,G
-   4,R
-   1
-   3,R
-   2,R,J
-   2,R
+   9,R
+   3,R,J
    5,R,D,X
    1,R,J,G
-   1
-  11,R
+   5,R
+   4,R,J
+   4,R
   18,R,J
   15,R,D,X
   15,R
@@ -3002,8 +2987,10 @@ AnalogMode,Precise
 
 #lvl_j-01
   15,R,D,X
-  24,R,D,J
+  21,R,D,J
    1,J
+   1,R,J
+   2,J
   14,U,X
    1,L,J
    1,L,K,G
@@ -3357,7 +3344,7 @@ AnalogMode,Precise
 #---------------
 #Lightning cycle
 #0-14
-  11
+   9
 #---------------
    7,R,D,C
    1,L,J
@@ -3713,7 +3700,7 @@ EndStunpause
   38
 AnalogMode,Ignore
 #End_IGT
-ChapterTime: 8:05.299(28547)
+ChapterTime: 8:05.061(28533)
 
 # optional waiting for
 # visuals to play out
