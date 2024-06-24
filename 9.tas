@@ -1411,9 +1411,8 @@ EndStunPause
   22,R,D
    1,R,J
   15,R,Z
-  15,L,D,X
-   4
-  12,G
+  15,R
+  13,L,G
    7
    1,R
    1,L,J,G
