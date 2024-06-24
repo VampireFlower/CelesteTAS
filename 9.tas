@@ -1061,40 +1061,39 @@ EndStunPause
    1,R,D
    1,L,J,G
    1,K,G
-  11,J,G
-   7,K,G
-  15,R,U,X
+  12,J,G
+   2,R,J
+   2,J
+  14,R,U,X
+   4,R,J,G
    4,R
   40
 
 #lvl_e-06
-  10,R,D,X
-  13,J,G
-   1,R,J,G
-   3,J,G
-   1,R,J,G
-   2,R,G
-   2,R,J,G
-  13,R,G
+   9,R,D,X
+  15,R,J,G
+   2,G
+  19,R,G
+   1,R,D,G
+   3,R,G
+   3,R,U,G
+   9,R
+   5,U,X
+  10,J
+   7,R,X
+  13,G
+   3,R,G
    1,G
-   1,R,G
-   3,U,G
-   1,R,G
-   4,D,G
-   1,G
-   1,D,G
-   1,G
-   8
-  15,U,X
-   5,R,C
-  43,R,D,G
-   2,R,G
+  15,R,G
+   1,U,G
+   6,R,G
+   4,R,D,G
    1,R
   15,L,X
-  11,L
-   4,R
-  13,L,D,X
-   4,R
+  10,L
+   6,R
+  12,L,D,X
+   5,R
   11,L,D,X
    4,R,J
   12,R,D,X
@@ -3374,7 +3373,7 @@ AnalogMode,Precise
 #---------------
 #Lightning cycle
 #0-14
-   5
+   8
 #---------------
    7,R,D,C
    1,L,J
