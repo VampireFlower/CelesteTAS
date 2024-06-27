@@ -867,35 +867,40 @@ Add 1
    6,R,J
    1,R
   18,L,U,X
-   7,L,D,C
+   8,L,D,C
    1,L,J
    7,L
-   4,L,J
+   1,L,J
+   6,L,U,Z
   40
 
 #lvl_f-01
-   9,L,U,Z
-  13,L,J,G
-  14,U,X
-  15,L,C
-   4,D,X
-  10,L,U,X
-   1,J
-  11,R,J
-   6,R
-   1,R,J
-   5,L,K
-   6,L
-   1,L,J,G
-  26,L,K,G
+   5,L,U,Z
+   2,L,J,G
    3,L
-   7,R
-  26,R,J,G
-  23,R,D
-   5,D
-   5,R,Z
-   2,R,J,G
-  19,R
+  15,L,D,X
+   2,L
+   8,L,J
+   1,R,K,G
+   5,L,K
+   5,K
+   1,L,K
+  15,U,X
+   1,L
+   3,L,J
+  12,J
+   2,L
+   1
+  15,U,X
+   2,R,J
+   5,R
+   1,R,J,G
+   2,R,K,G
+   5,R
+   1,R,K
+  36,R,D
+   8,R
+  33,R,J
   32,R,X
   40
 
@@ -995,4 +1000,4 @@ SaveAndQuitReenter
   15,R,J
    2,K,G
 Read,7S,7SHC4
-FileTime: 9:51.447(34791)
+FileTime: 9:51.175(34775)
