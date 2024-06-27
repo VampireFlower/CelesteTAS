@@ -4,7 +4,7 @@ Set,DashMode,Two
 #console load 10 12807 -4216
 #play,Remembered,37
 
-#console load 10 18575 -6184
+#console load 10 18579 -6184
 #play,Event Horizon,37
 
 #console load 10 28203 -8088
@@ -28,7 +28,7 @@ console load 10
 #Start
   98
 
-#c-00 Cycle 0-2
+#c-00 cycle 0-2
    1
 #--------------
 
@@ -173,7 +173,7 @@ console load 10
    1,J,G
    6,R
    5,L
-   4,Z
+   4,D,X
    1,R,J
    5,R,K,G
    5,R
@@ -628,7 +628,7 @@ EndStunPause
   34
   11,J
   10,U,X
-#D-05 Cycle 0-1
+#d-05 cycle 0-1
    0
 #--------------
   36,R,U,C
@@ -1272,7 +1272,7 @@ EndStunPause
    1,S
    1,D,J
   34
-   4,Z
+   4,D,X
    1,R,J
    6,R
    4,R,J
@@ -1363,10 +1363,10 @@ EndStunPause
   12,R,K,G
    3,R
    4
-#F-07 Cycle 0-2
+#f-07 cycle 0-2
    1
 #--------------
-   4,Z
+   4,D,X
    4,R,J
    6,R,K,G
    1,K
@@ -1628,7 +1628,7 @@ Endstunpause
    1,J
    2
   22,R,U,X
-   4,Z
+   4,D,C
    1,R,J
   19,R,D
   19,R,X
@@ -1907,7 +1907,7 @@ Endstunpause
    5,R
   26,R,Z
   20,R,X
-   4,Z
+   4,D,C
    2,R,J
    8,R
    1,R,J
@@ -1991,7 +1991,7 @@ Endstunpause
   35,R,J
   16,R,X
   17,R,Z
-#H-09 Cycle 0-2
+#h-09 cycle 0-2
    0
 #--------------
   45,R,X
@@ -2025,7 +2025,7 @@ Endstunpause
    4,R
    1
    2,R
-   4,Z
+   4,D,X
    1,R,J
    5,R
   40
@@ -2607,22 +2607,17 @@ AnalogMode,Precise
    1,D
    8,R
   19,R,Z
-  14,R,V
-  15
-  14,R,U,X
-   1,R,J,G
-   1,L
-   1,R,J,G
-   1,L
-   6,R
-  10,R,Z
-   1,L,J
-   4,L
-   7,L,D,X
-   1,R,J
-   7
-  15,D,X
-   4,Z
+  15,R,V
+   7,R,D,X
+   1
+   8,R
+  15,U,X
+   5
+   5,L
+  15,R,D,X
+  15,L,Z
+  15,R,D,X
+   4,D,C
    1,R,J
    2,R
   40
@@ -2633,19 +2628,14 @@ AnalogMode,Precise
    2,R
   14,R,U,X
    1,J
-   8,R
+   7,R
   13,L,Z
-   7,R,J
-   1,R
-   1,R,J
-  21,R,D
-   1,D
-   2,R,D
-   3,D
-   1,R
-   3
+   6,R,J
+  15,R
+  14,R,D
    1,R
    1,R,D
+   3,R
   14,R,Z
    7,R,J
    3,R
@@ -2758,6 +2748,7 @@ AnalogMode,Precise
    3,L,J
   15,R,X
   17,D
+   1
   20,R,X
   14,U,Z
   17,R,D,X
@@ -2775,7 +2766,7 @@ AnalogMode,Precise
    1
    4,R
    1,R,D,K
-   4,Z
+   4,D,X
    2,R,J
    1,K
    3,L,K
@@ -2814,41 +2805,37 @@ AnalogMode,Precise
   24,R,U,Z
    5,R,D,C
   16,R
-  16,R,U,X
-   1,R,K,G
-   7,R
 #Reconciliation
-  13,R,Z
-   2,L,J
-   6,L,D,X
+  16,R,U,X
+   1,J,G
+   1,R
+   1
+   1,R
+   2
+   1,R
+   1,L
+   3,L,J
+  14,R,D,X
    1,R,J
-   7
-   1,L,K
-   7,R,D,C
+  10,R,D,C
   40
 
 #lvl_j-00
-   7,R,D,C
+   4,R,D,C
    1,R,J
   14,R,D,X
    3,R,J
    6,R
   14,R,U,X
-   6,R,J,G
-   9,R
-   1,R,J
-  11,R,D
-   2,D
-   1,R,D
-   2,D
-   7,L,D,X
+   4,R,J,G
+   7,R
+   4,R,J
+  16,R
+   5,R,Z
    1,R,J
    6,R
-   1,R,K
-  12,R,D,X
-   1,L,J,G
-  23,R,J
-   1,R
+  29,R,J
+  15,R,X
    1,S
    1,D,J
   34
@@ -3026,7 +3013,7 @@ AnalogMode,Precise
   12,R,D,X
   12
    3,R
-   4,Z
+   4,D,X
    3,R,J
    6,R
    1,R,J
@@ -3305,19 +3292,15 @@ AnalogMode,Precise
    2,R,D
   12,R,D,J
   15,R,D,X
-   7,R,J
-   2,R
-   7,R,D,X
-  15,R,J
-   4,R
-   1,R,J
-   7,R
+   3,R,J
+  11,R,X
+  10,R,J
+  17,R
   40
 
 #lvl_j-08
-   1,R
    6,R,J
-  38,R,X
+  40,R,X
    4,R,J
    1,R,K
    6,R
@@ -3354,7 +3337,7 @@ AnalogMode,Precise
 #---------------
 #Lightning cycle
 #0-14
-   6
+  15
 
 #drift
   15
