@@ -807,58 +807,59 @@ Add 58
    5,R
    1,R,K
    1,R
-   5,R,Z
+   6,R,Z
    1,R,J
-   5,R
-   1,G
-   2
-   1,G
-   5,R
+   4,R
    1,G
    4,R
    1,G
    1
    1,G
-   1
+   2
+   1,G
+   3
+   1,G
+   3
    6,G
-   8,R,Z
+   7,R,Z
    1,R,J
    1,R,K,G
    1,R,J,G
    1,R,K,G
-   3,R,J,G
+   1,R,J,G
+   3,R
    8,R,D,X
-   1,R,J,G
-   1,R
+   9,R,J,G
    1,R,K,G
-   1,R
    1,R,J,G
-   2,R
-   8,R,K,G
+   1,R,K,G
+   3,R
    1,R,J,G
    5,R
-   1,R,J
-   1,J
-StunPause
-   1
-   9,R,D,J
-EndStunPause
    2,R,J
 StunPause
-   5,R
+   1
+   1,R,D,J
+   3,J
+   1,R,J
+EndStunPause
+   6,R,J
+   2,R
+StunPause
+   3,R
    3,R,J
 EndStunPause
    2,R,J
 StunPause
-   2,R,J
-   1,R
-   1,R,J
+   5,R,J
    9,R
+SkipInput,3,1
+   5,R,U,Z
 EndStunPause
-  15,R,U,Z
-  13,R
+  10,R,U,Z
+  12,R
   14,U,X
-  18,R,J
+  19,R,J
    3,R,K,G
    1,J
   40
@@ -893,7 +894,7 @@ EndStunPause
   10,R,U,C
   40,L
 #Spinner Cycle 0-2
-   1
+   2
 #-----------------
   16,L,U,X
   16,L,V
@@ -1899,4 +1900,4 @@ EndRepeat
   10,R
   15,L
    5,R
-FileTime: 4:40.806(16518)
+FileTime: 4:40.466(16498)
