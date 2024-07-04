@@ -568,48 +568,57 @@ EndStunpause
    2,R
    2,R,D
    3,R
-   8,D
+   3,D
+   4,R,D
+   1
   24,L
   15,L,D,X
-   2,L,D
-  16,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+  17,R,D
    1,D
-   3,R,D
-  16,L,D
-   4,Z
+   2,R,D
+   9,L,D
+   6,R,D
+   1,R
+   2,D
+   5,L,Z
    1,R,J
-   8,R
-   1,R,J
-   1,R,K
-   1,R,J
-  15,R,Z
-   8,R
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   7,R,D,X
-   1,R,J
+   1,R,D
+   2,L,D
+   1,R,U
    1,R,K
    1,R,J
    1,R,K
    1,R,J
-   2,R,K
-   8,R
+   1,R,K
+  23,R,Z
+   9,R,V
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   7,R
+   1
   40
 
 #lvl_b-04
-  18,D
-  16,R,D
-  43,L,D
+  33,D
+  11,R,D
+  33,L,D
   12,D
   15,L,X
   19,R,D
   15,R,X
   25,D
    5,L,D
-  12,D
+   5,D
+   2,L,D
+   5,D
    6,R,D
    6,D
    5,L,D
@@ -1086,22 +1095,22 @@ EndStunpause
   18
 
 #alternate cycle
-#  13,D
+#  12,D
 #StunPause
-#   1,D
+#   2,D
 #  17,R,D
-#SkipInput,3,1
-#   5,R,Z
 #EndStunPause
-#  10,R,Z
+#  15,R,Z
 #  23,R,D
 
-  12,D
+  13,D
 StunPause
-   2,D
+   1,D
   17,R,D
+SkipInput,3,1
+   5,R,Z
 EndStunPause
-  15,R,Z
+  10,R,Z
   23,R,D
   44,R
   15,R,X
@@ -1454,4 +1463,4 @@ AnalogMode,Ignore
   24,R,D,X
   21,R,D
  103,R
-ChapterTime: 3:15.194(11482)
+ChapterTime: 3:15.177(11481)
