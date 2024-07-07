@@ -1026,7 +1026,7 @@ Endrepeat
    6,R
   15,R,Z
   27,R,D
-   4,Z
+   4,D,X
    1,R,J
    4,R
    1,R,K
@@ -1068,7 +1068,7 @@ Endrepeat
    5,L
    1,L,J
   31,L,D
-   4,Z
+   4,D,X
    8,L,J
    4,L
    2,L,J
@@ -1158,7 +1158,7 @@ Endrepeat
    1,R
    1,L,K,G
    7,L
-   4,Z
+   4,D,X
    1,L,J
   14
    2,R,D
@@ -1382,7 +1382,7 @@ Endrepeat
    5,J,G
    7,L,J
    7,L
-   4,Z
+   4,D,X
    1,L,J
    6,L
    3,L,J
@@ -1530,7 +1530,7 @@ Endrepeat
   11,R,Z
    5,R,J,G
    7,R
-   4,Z
+   4,D,X
    1,R,J
    8
   21,R,D
@@ -1718,7 +1718,7 @@ Endrepeat
    3
    1,L
    5,R
-   4,Z
+   4,D,X
    1,L,J
    1,L
    1,L,J
@@ -1827,7 +1827,7 @@ Endrepeat
    5,L
    2,L,K
    1,L
-   4,Z
+   4,D,X
    2,L,J
    1,L,K,G
    9,L
@@ -1982,7 +1982,7 @@ Endrepeat
   14,U,Z
    7,L,J
   11,L
-   4,Z
+   4,D,X
    1,R,J
    1,S
    1,D,J
@@ -2041,45 +2041,49 @@ Endrepeat
    1,R,D
    2,R
    1,R,G
-  10,R,J,G
-   1,K,G
-   1,R,K
-   5
+   1,R,J,G
+   4,L,J
+   6,R,J
+   1,R,K,G
+   7,R
+   1,R,J
+   2,R
+   1
    1,R
-   1,L
+   4,X
+   3,L,D,X
+   8,L,J
+   3,L
    2,L,J
-  10,R,D,X
-  10,L,J
-   4,L
-   1,L,J
-  16,L,D
+  14,L,D
+   1
    1,D
+   1
   15,L,Z
   13,L,J,G
    5,K
   13
-  22,R,D
+  23,R,D
+  13,R,J
+  15,U,X
    1,R
-   3,R,J
-  12,U,X
-   8,R,J
-   1,L,J
-   2,L
+   1,R,J,G
    1,R,K,G
    1,R,J,G
-   2,R,K,G
-  26,R,D
+  18,R
+   5,R,D
    5,L,D
-  14,R,D
+  13,R,D
+   2
    1,R
-   4,Z
-   1,R,J
-   5,R
-   1,R,J
+   1,R,D
    1,R
-  10,R,D,J
+   4,D,X
+   1,R,J
+   6,R
+  11,R,D,J
   15,U,X
-  19,R,J
+  18,R,J
    1,K,G
    7
   14,U,X
@@ -2105,7 +2109,7 @@ Endrepeat
 #lvl_04-c (1)
    1,R
    1,R,J
-   4,Z
+   4,D,X
    1,R,J
    3,R
    1,R,J
@@ -2227,7 +2231,7 @@ Endrepeat
   26,L,D
    7,D
    1,R,D
-   4,Z
+   4,D,X
    1,L,J
    6,L
    9,L,J
@@ -2588,4 +2592,4 @@ Endrepeat
    1,U,J
    1,O
   31
-#18186
+#18185
