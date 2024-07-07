@@ -771,7 +771,7 @@ console load 3
    7,R
   14,R,U,Z
   18,R
-   8,K
+   8,J
   10,R,Z
    1,L,J
   22,D
@@ -2055,45 +2055,49 @@ SaveAndQuitReenter
    1,R,D
    2,R
    1,R,G
-  10,R,J,G
-   1,K,G
-   1,R,K
-   5
+   1,R,J,G
+   4,L,J
+   6,R,J
+   1,R,K,G
+   7,R
+   1,R,J
+   2,R
+   1
    1,R
-   1,L
+   4,X
+   3,L,D,X
+   8,L,J
+   3,L
    2,L,J
-  10,R,D,X
-  10,L,J
-   4,L
-   1,L,J
-  16,L,D
+  14,L,D
+   1
    1,D
+   1
   15,L,Z
   13,L,J,G
    5,K
   13
-  22,R,D
+  23,R,D
+  13,R,J
+  15,U,X
    1,R
-   3,R,J
-  12,U,X
-   8,R,J
-   1,L,J
-   2,L
+   1,R,J,G
    1,R,K,G
    1,R,J,G
-   2,R,K,G
-  26,R,D
+  18,R
+   5,R,D
    5,L,D
-  14,R,D
+  13,R,D
+   2
+   1,R
+   1,R,D
    1,R
    4,Z
    1,R,J
-   5,R
-   1,R,J
-   1,R
-  10,R,D,J
+   6,R
+  11,R,D,J
   15,U,X
-  19,R,J
+  18,R,J
    1,K,G
    7
   14,U,X
@@ -2601,4 +2605,4 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
-FileTime: 4:45.634(16802)
+FileTime: 4:45.617(16801)
