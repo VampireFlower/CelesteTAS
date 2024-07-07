@@ -751,22 +751,27 @@ console load 3
 
 #lvl_06-c (2)
    1,R,J,G
-   1,R,K,G
-   9,R
-  12,R,Z
+   6,R
    1,R,J
-   7,R
+   4,R
+   4,Z
+   1,R,J
+   6,R
+   3,R,J
+   6,R
    2,R,J
-   8,R
-   2,R,D,J
-  40
+   6,R
+   1,R,J
+   1,R
+   1,R,J
+  40,J
 
 #lvl_08-c
    7,R,J
-   8,R
+   7,R
   14,R,U,Z
   18,R
-   8,J
+   8,K
   10,R,Z
    1,L,J
   22,D
@@ -2596,4 +2601,4 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
-FileTime: 4:45.651(16803)
+FileTime: 4:45.634(16802)
