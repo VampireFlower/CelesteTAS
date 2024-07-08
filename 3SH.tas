@@ -2042,56 +2042,63 @@ SaveAndQuitReenter
   40
 
 #lvl_03-b
-   1,S
-   1,D,J
-  69,O
-   1
-   1,J
-   2,L
-  14,U,Z
-   1,R,J
-  25,R,D
-   2,R
-   1,R,D
-   2,R
-   1,R,G
-   1,R,J,G
-   4,L,J
-   6,R,J
-   1,R,K,G
-   7,R
-   1,R,J
-   2,R
-   1
-   1,R
-   4,X
-   3,L,D,X
-   8,L,J
+   5,D
+  15,L,D,X
+   7,R,D
+  18,L,D
    3,L
-   2,L,J
-  14,L,D
+   2,L,D
+   4,Z
+   1,L,J
+   6,L
+   5,L,D,J
+   5,J
+   1,L
+  12,U,X
+   1,R,J
+   1,K,G
+   4
+   3,L
+  11,U,X
+   2,J
+   2,R,J
+   1,J
+   2,R
+   1,R,J,G
+   1,R,K,G
+  24,R,D
+   1,G
+   1,J,G
+  11,K
+   5,L
+   1,L,K
+   1,L
+   3
+   4,X
+   1,L,J
+   2
+  17,L
+   9,L,D
+  15,L,U,Z
+   2,L
+   1,J,G
    1
-   1,D
+   1,J,G
    1
-  15,L,Z
-  13,L,J,G
-   5,K
+   2,J
   13
   23,R,D
-  13,R,J
-  15,U,X
-   1,R
+   2,R,J
+  14,U,X
+   4,R,J
+   2,J
+   2
    1,R,J,G
    1,R,K,G
-   1,R,J,G
-  18,R
-   5,R,D
-   5,L,D
-  13,R,D
-   2
-   1,R
-   1,R,D
-   1,R
+   7,R
+  26,D
+   8,R,D
+   4,R
    4,Z
    1,R,J
    6,R
@@ -2605,4 +2612,4 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
-FileTime: 4:45.617(16801)
+FileTime: 4:45.362(16786)
