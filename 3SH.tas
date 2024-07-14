@@ -1292,13 +1292,19 @@ Endrepeat
   40
 
 #lvl_11-c (1)
-  11,J
-  15,R,C
-  10,R,D,X
+   1,L,J
+   2,J
+   3
+   1,J
+   2,K,G
+   4,R,K
+   1,R,J,G
+   6,R,K,G
+  12,R,D,X
    1,R,J
    7,R
-   1,D,J
-   7,R,D,J
+   6,R,D,J
+   2,J
   25,L,D,X
    1,L,K
   17,L
@@ -2600,4 +2606,4 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
-FileTime: 4:45.294(16782)
+FileTime: 4:45.277(16781)
