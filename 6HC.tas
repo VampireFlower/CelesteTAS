@@ -11,7 +11,7 @@ console load 6
 
 #lvl_start
 # [02] Spinner Cycle
-   1
+   2
 #-------------------
 Read,6A,lvl_start,lvl_01
 
