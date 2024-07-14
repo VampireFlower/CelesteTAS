@@ -16,12 +16,15 @@ Read,4SH,lvl_a-00,4SHC
   40
 
 #lvl_a-11
-   4,L,J
-   2
-   2,L,K,G
-  14,L,V
-   1,R,J
-   2
+   1,L,J
+   2,L
+   1
+   6,L,U,X
+   1,J,G
+   1
+   8,L
+   1,L,J
+   3,L
 read,4HC,4SHC,lvl_a-09
 
 #lvl_a-09
@@ -88,4 +91,4 @@ read,4SH,lvl_a-09,lvl_b-03
 
 #lvl_b-00 (3)
 Read,4SH,lvl_b-00 (3)
-#14445
+#14414

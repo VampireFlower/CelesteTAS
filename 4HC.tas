@@ -42,56 +42,55 @@ Read,4A,lvl_a-00,lvl_a-08
   17,L
    1,L,J
   14,L,D,X
-   5,L,J
+   1,L,J
+   4,L
   40
 
 #lvl_a-11
+   4,L
+   6,L,U,X
+   1,L,J,G
+   5
+   4,L
    1,L,J
-   5,L
-   4,L,K,G
-  12,L,D,X
-   1,R,J
-   2,R
+   3,L
 #4SHC
-  14,R,D,X
-   2,L,J
+   7,L,Z
+   1,R,J
+   4
+   1,J
+   1
+   2,R
+  14,R,Z
+   1,L,J
    6,L,D,X
    1,L,J,G
    3
-   9,L
-  17,L,J
-   2,L,K,G
-   1,K
-   8,L,K
-  15,L,D,X
-  49,L,K
-   1,L,J,G
-   1,R,J
-   4,L,J
-   1,J
-   5,L,J
-   1,L,K,G
-   2,L,J,G
-   7,L
+   8,L
    1,L,J
-   1,L
+   7,L
+   9,L,K
+   8,L
+  15,L,D,J,X
+   4,L,J
+  40,L,K
+   2,L,J,G
+   1
+   8,L
    1,L,J
   15,L,Z
-   1,R
-   4,J,G
-  16,L
-   4,L,D
-   4,X
-  10,L,J
-   2,J
-   1
+  11,L
+   1,L,J
+  14,L,U,X
  257
    1,J
 #Return
  123
    7,L
-   7
-   4,Z
+   4
+   2,L,D
+   1
+   4,D,X
    1,R,J
    6,R
    6,R,D,J
@@ -262,4 +261,4 @@ Read,4SH,lvl_b-05 (1),lvl_b-08b
 
 #lvl_b-08b
 Read,4A,lvl_b-08b
-#8609
+#8585
