@@ -1316,48 +1316,36 @@ Endrepeat
 SaveAndQuitReenter
 #Spawn
   36
-  10,L,Z
-   5,R,J
-   4,R
-  15,R,D,X
-   3,R,J
-   7,R
-   1,R,J
+  11,R,Z
+   2,R,J
    3,R
-   2
-  13,R,U,Z
-   3,J,G
-   7,R,J
-   3,R,K,G
-   5,R
+   1,R,J
+  15,R,D
+   6,L,D,X
+   1,R,J
+   7,R
+  15,R,D,J
+   4,R,K,G
+  12,R,U,X
+   1,R,J,G
+   3,R
   40
 
 #lvl_12-c
-   6,R,D,X
-  14,R,J
-   3,R
-   5
-   2,R
-  24,D
-   2
-   2,R
-   1
-   2,R
-   1,D
+  12,R,D,X
+   4,R,J
+  16,R
+   9,R,D
+   8,L,D
+   5,D
+   4
   13,U,X
-   5,L,J
-   1,K
-   4,R,K
-   1,K
-   1,J,G
-   5,L,J
-   3,K,G
-   1,R
-   1,L,J,G
-   3,L,K,G
+   5,R,J
+   5,L,K
    1,L
    1,L,J,G
-   1,L,K,G
+  13,L,K,G
+   3,L,J,G
    7,L
    7,L,J
    5,L,Z
@@ -2612,4 +2600,4 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
-FileTime: 4:45.362(16786)
+FileTime: 4:45.294(16782)
