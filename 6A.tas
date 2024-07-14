@@ -65,20 +65,19 @@ AnalogMode,Precise
 #lvl_00
   19
   15,U,X
-   1,L
-   1,U
-   1,L
   15,L,U,C
-  14,L,X
-   1,L,J
-   1,L,U
+   4,U
+  12,L,C
+   3,L,U,J
   14,L,U,X
-   2,R,J
-  13,U,C
-  10,R,J
-  10,J
-  17,U,X
-  30,L,J
+   1,R,J
+  13,U,X
+  11,R,J
+   9,J
+  15,U,X
+   2,R
+  29,L,J
+   1,J
   14,R,K
   43
 
@@ -1830,4 +1829,4 @@ AnalogMode,Precise
    1,O
   31
 AnalogMode,Ignore
-#17784
+#17783
