@@ -833,10 +833,12 @@ Read,7S,lvl_e-13,lvl_f-00 (1)
   11,L,K,G
    7,L
   15,L,U,X
-   7,R,C
-   6,R,J,G
-   7,R
-   9
+   8,R,U,C
+   1,R,J,G
+   1,L
+   1,R,J,G
+   4,R
+  15,D,X
    1,S
    1,U,J
    1,O
@@ -994,4 +996,4 @@ SaveAndQuitReenter
   15,R,J
    2,K,G
 Read,7S,7SHC4
-FileTime: 9:51.005(34765)
+FileTime: 9:50.954(34762)
