@@ -128,30 +128,32 @@ console load 4
    9,R,D,X
    4,R,J
    9,R
-  14,R,D,X
    1,R,J
+   8,R,D,X
+   1,R,J
+   4,R
   40
 
 #lvl_a-05
-  14,R,D,X
-   3,R,J
-  12,R,Z
-  10,R,J
-  15,R,U,X
-   4,R
-   5
-   4,Z
+   3,R
    1,R,J
-   8,R
+  13,R,D,X
+   7,R,J
+   5,R
+  11,R,J
+  11,R,X
+   7,R,J
+  11,R,Z
    1,R,J
    1,R
-  12,R,U,X
-   5,R,J,G
+   2,R,J
+  11,R,U,X
+   1,J,G
+   5,R,K,G
   40
 
 #lvl_a-06
-   9,R,J
-   1,J
+  10,R,K
   14,R,U,X
    3,J,G
    8
@@ -925,4 +927,4 @@ console load 4
    1,U,J
    1,O
   31
-#6912
+#6906
