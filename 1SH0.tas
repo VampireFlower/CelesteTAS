@@ -669,17 +669,19 @@ SaveAndQuitReenter
   22
   12,R,D
    2,D
-  12,R,D
-   4,X
+   3,R,D
+   6,L,D
+   4,L
+   6,L,Z
    1,R,J
-   5
-   1,J
-   6
-   1,L,K
-   7,L
-   8,U,G
-   2,J,G
-  12,K
+   1,R,K,G
+   1,J,G
+   5,R
+   4,R,J
+   1,L
+   7,U,G
+  16,L,J,G
+   1,K
   14,U,X
   40
 
@@ -939,4 +941,4 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
-FileTime: 1:50.007(6471)
+FileTime: 1:49.956(6468)
