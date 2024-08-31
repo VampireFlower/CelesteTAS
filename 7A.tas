@@ -1675,27 +1675,27 @@ EndStunPause
    3,R,J
   15,R,D,X
    1,D
-  14,R,D
-   3,R
+  17,R,D
   15,R,X
   15,R,Z
    1,R
    1,J
    2,R
    1,L
-   3,R
    3
-   3,L
+   2,R
+   1
+   2,L
    5,L,Z
    1,R,J
-   3,R
-   1,R,J
-   5,R,D,K
+   4,R
+   5,R,D,J
    4,R
   15,R,D,X
-   5,R
-   1,D
+   4,R
    1,R,D
+   1,D
+   1,R
   18,R,U,X
   15,R,C
   15,R,Z
@@ -2738,4 +2738,4 @@ AnalogMode,Ignore
    1,U,J
    1,O
   31
-#25736
+#25735
