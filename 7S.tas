@@ -1174,13 +1174,14 @@ console load 7
    4,R
   17,R,Z
    4,R,J
-   2,R,K
-  20,R,X
+   1,R,K
+  21,R,X
    4,R,J
    1,R,K
   15,R,D,X
-   5,R
-   3,R,D
+   4,R,D
+   2,R
+   1,R,D
   22,R,U,C
    4,R,J
   11,R,V
@@ -2403,7 +2404,7 @@ console load 7
   14,R,U,X
    4,R,J,G
 #Spinner cycle
-   0
+   1
 #-------------
   58,R,C
   10,R,D,X

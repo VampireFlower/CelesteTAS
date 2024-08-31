@@ -332,13 +332,12 @@ Read,7S,lvl_c-07 (2),lvl_c-08
    2,R,D
   17,R,Z
    4,R,J
-   2,R,K
-  20,R,X
+   1,R,K
+  21,R,X
    4,R,J
    1,R,K
-  15,R,D,X
-   3,R
-   5,R,D
+  21,R,D,X
+   1,R
   22,R,U,C
    4,R,J
   11,R,V
@@ -995,4 +994,4 @@ Read,7HC,lvl_g-00b,Exit
   15,R,J
    2,K,G
 Read,7S,7SHC4
-#38477
+#38476
