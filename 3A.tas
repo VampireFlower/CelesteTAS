@@ -1552,34 +1552,42 @@ endrepeat
    2,R,J
    8,R
    1,R,J
-  11,R,D,X
+   7,R,D,X
    1,R,J
-   3,R
-   1,R,J
-   3,R
-  17,R,J
-   2,J
-   1,R,J
-  15,U,Z
+   7,R
+  14,R,J
+   1,J
+  15,R,U,Z
+   1,L,K,G
+   1,L,J,G
+   5,J
+   1,L,J
+   1,K,G
+   6,L
+   1,R
    2,R,J
-  42,R,D
-   4,D,X
+   6,J
+  15,R,D,X
+  16,R,D
+   4,Z
    1,R,J
-   3,R
-   1,R,J
-   3,R
+   7,R
    3,R,J
+   2,R
   14,R,Z
    1,R,J
   14,R,D,X
-   3,R,J
-   5,R
+   1,R,J
+   1,R
+   1,R,J
+   2,R
   14,R,J
   18,R,U,X
   15,R,U,C
-  35,L,D
-   6,R,D
-  12,L
+  11
+   1,R
+  10,L
+  31,L,D
    1,R,J
    8,R
    2,J
@@ -1592,7 +1600,7 @@ endrepeat
    1,R,D,J
    1,R
    1,R,K
-  10,R
+   7,R
   40
 
 #lvl_roof04
@@ -1748,4 +1756,4 @@ endrepeat
    1,U,J
    1,O
   31
-#12505
+#12503
