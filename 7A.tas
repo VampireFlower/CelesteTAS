@@ -1651,22 +1651,16 @@ EndStunPause
 #lvl_f-10
    6,R,D,X
    1,R,J
-   4,Z
-   1,R,J
-   3,R
-   1,R,J
-   3,R
-  10,R,K
-   9,R
-   1,R,K
-   1,R
+  11,R,D,X
+  19,R,J
   15,R,U,Z
-  10,J
+  10,U,C
+   1,L,K
+   1,J,G
+   7,R
+   4,D,X
    1,R,J
-   1,J
-   5,L,D,X
-   1,R,J
-  12,R
+  11,R
    8,R,D,X
    7,R,J
   40
@@ -2737,4 +2731,4 @@ AnalogMode,Ignore
    1,S
    1,D,J
   18
-ChapterTime: 6:38.293(23429)
+ChapterTime: 6:38.276(23428)
