@@ -2684,8 +2684,8 @@ EndStunPause
    1,K
    2,R
    1,L
-   3,R
    3
+   2,R
    3,L
    5,L,Z
    1,R,J
@@ -3866,4 +3866,4 @@ AnalogMode,Ignore
    1,U,J
    1,O
   31
-#34191
+#34190
