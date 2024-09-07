@@ -142,22 +142,21 @@ console load 3
   15,R,D,X
    7,R
    1,R,J
-   4,R
-   5,R,U,Z
+   2,R
+   7,R,U,Z
   40
 
 #lvl_02-a (0)
-   6,R,U,Z
-   1,R,K,G
-   1,L
-   1,R,J,G
-  10,R,K,G
-   1,R
-   1,J
+   7,R,U,Z
+  10,R,J,G
+   2,R
+   1,K
    5,R,Z
-   3,J
-   4
-  14,R,D
+   2,J
+   2
+   2,R
+   1,R,J
+  13,R,D
    5,R,J
   13,U,X
    9,R,K
@@ -1755,4 +1754,4 @@ endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 3:13.936(11408)
+ChapterTime: 3:13.902(11406)
