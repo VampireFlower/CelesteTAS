@@ -212,10 +212,11 @@ console load 4
 
 #lvl_a-05
   14,R,D,X
-   8,R,J
-   5,R
-  10,R,J
-   1,J
+   7,R,J
+   1,R
+   1,R,J
+   3,R
+  11,R,K
   14,R,X
    7,J
   11,R,Z
@@ -1900,4 +1901,4 @@ EndRepeat
    1,U,J
    1,O
   31
-#13691
+#13690
