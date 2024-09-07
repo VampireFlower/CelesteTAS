@@ -166,17 +166,23 @@ Read,1SH0,lvl_s0 (1),lvl_6b (1)
 Read,1A,lvl_6c,lvl_9
 
 #lvl_9
-   4,J,G
-   2
-   2,J,G
-   3,R
-  11,R,U,X
-   1,R,J,G
-   6
-   3,R
+   3,J,G
+   2,L,J
+   1
+   1,K,G
    1,J
-   3,D,K
-   7,L
+   7,K,G
+   5,R,K
+   1,R,J,G
+   1,R,K,G
+   3
+   4,R
+   1,R,J
+   2,R
+   1,D,J
+   1,J
+   1,R,J
+   7
   18,L,J,G
    5
    1,G
@@ -273,4 +279,4 @@ Read,1A,lvl_6c,lvl_9
    1,U,J
    1,O
   31
-#4243
+#4242
