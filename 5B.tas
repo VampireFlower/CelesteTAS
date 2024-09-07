@@ -738,13 +738,12 @@ SaveAndQuitReenter
    1,R,J,G
   11,R
    2,R,J
-  10,R,D,X
+  12,R,D,X
    1,R,J
-   3
-   4,R
-   1,R,J
-   5,R,D,X
-  17,R,G
+   2,R
+   8,R,D,X
+  13,G
+   4,R,G
   40
 
 #lvl_d-03
@@ -752,9 +751,9 @@ SaveAndQuitReenter
    1,R,J
    2,R
    1,J,G
-   2
+   1
    1,R
-   2
+   3
    2,L
    1,L,J
    1,L
@@ -766,12 +765,11 @@ SaveAndQuitReenter
    2,K
    5
   12,R,X
-  15,R,G
-   2,G
-   9,D,G
-   2,R,D,G
+  13,G
+   4,R,G
+  11,D,G
    2,D
-   1,R
+   1
    6,R,X
   51,R,D,G
    2,R,G
@@ -855,4 +853,4 @@ SaveAndQuitReenter
    6,R,K
   14,R,U,X
  135,R,D
-FileTime: 1:44.040(6120)
+FileTime: 1:44.023(6119)
