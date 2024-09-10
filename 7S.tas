@@ -847,17 +847,18 @@ console load 7
   40
 
 #lvl_c-02
-   9,L,J
-   1,L,K,G
-   1,L,J,G
+   3,R
+   5,J
+   3
   15,U,X
   14,L,U,C
-  17,R
-  17,R,D,X
-  25,R,U,C
-  18,L,D,X
-  26,R,D,C
-   1,D
+  12,R
+  15,R,X
+  11,R
+  19,R,U,X
+  18,L,D,C
+  26,R,D,X
+   1
    4,D,X
    3,R,J
    1,R
@@ -2404,7 +2405,7 @@ console load 7
   14,R,U,X
    4,R,J,G
 #Spinner cycle
-   1
+   0
 #-------------
   58,R,C
   10,R,D,X
@@ -3867,4 +3868,4 @@ AnalogMode,Ignore
    1,U,J
    1,O
   31
-#34190
+#34187
