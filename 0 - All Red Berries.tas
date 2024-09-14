@@ -10,7 +10,7 @@ Read,LoadANoCollects,Prologue
 Read,1SH0,Start
 
 #Reenter City
-Read,LoadA,0,control
+Read,LoadA,0,Control
    1,L
    9
    1,J
@@ -51,7 +51,7 @@ Read,LoadA
 Read,4SH0,Start
 
 #Reenter Ridge
-Read,LoadA,0,control
+Read,LoadA,0,Control
    1,L
    9
    1,J
@@ -106,7 +106,7 @@ Read,8S,Start
    1,J
  196
 
-Read,LoadA,0,control
+Read,LoadA,0,Control
 
 #Epilogue
  200

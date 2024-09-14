@@ -115,7 +115,9 @@ Add 1
 
 Read,7A,Start
 
-Read,LoadCoreFromSummit,0,Core
+Read,LoadCoreFromSummit,0,Epilogue
+
+Read,0 - Epilogue,Start
  300
    1,J
 Add 58

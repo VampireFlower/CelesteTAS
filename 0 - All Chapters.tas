@@ -16,7 +16,7 @@ Read,1HC,Start,lvl_6c
 Read,1A,lvl_6c
 
 #Reenter City
-Read,LoadA,0,control
+Read,LoadA,0,Control
    1,L
    9
    1,J

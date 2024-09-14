@@ -10,7 +10,7 @@ Read,LoadANoCollects,Prologue
 Read,1A,Start
 
 #Reenter City
-Read,LoadA,0,control
+Read,LoadA,0,Control
    1,L
    9
    1,J
@@ -175,7 +175,7 @@ Read,8AC,Start
    1,J
  196
 
-Read,LoadA,0,control
+Read,LoadA,0,Control
 
 #Epilogue
  200

@@ -11,14 +11,15 @@ Add 1
    1
 
 #Epilogue
-Read,0 - Epilogue,Start
+Read,0 - EpilogueFast,Start
 
 #Core
-   1,J
-Add 58
- 427
-   1,J
-  43
+   4
+   1,X
+  42
+   1,R
+   9
+Read,LoadANoCollects,Control,Summit
    1,J
   45
    1,S

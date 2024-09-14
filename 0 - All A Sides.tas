@@ -102,7 +102,7 @@ Read,8A,Start
    1,J
  196
 
-Read,LoadA,0,control
+Read,LoadA,0,Control
 
 #Epilogue
  200
