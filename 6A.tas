@@ -475,7 +475,7 @@ endstunpause
    5,U,X
 #---------------
 #[b-03] Spinner Cycle
-   0
+   2
 #---------------
    1,R,J
    1,R,K
@@ -497,31 +497,29 @@ endstunpause
    5,R,K
    2,R
   20,R,X
-   7,R,V
-   2,R,J
+   4,Z
+   1,R,J
+   1,R
+   1,R,J
    6,R
    1,R,J
-   4,R,D
-   1,R,K
+   2,R,K
+   7,R,D,X
    1,R,J,G
-   1,R,K
-   6,R,J
-   9,R
+   1,R
+   1,R,J
+  12,R
    1,R,J
    1,R,K
-  11,R,U,Z
-  40
+   1,R,J
+   6,R,K
+  40,K
 
 #lvl_13
-   2,L
-   1,J
-   1,K
-   1,J
-  12,U,Z
-   6
+   4,R,K
+  21,U,Z
    2,R
-   1,R,J
-  11,R,K
+  12,R,J
    7,R
    1,R,J
    6,J

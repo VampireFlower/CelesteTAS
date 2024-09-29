@@ -391,7 +391,7 @@ Read,6A,6HC1,[b-03] Spinner Cycle
 #lvl_11
 #---------------
 #Spinner Cycle 2
-   1
+   0
 #---------------
    1,R,J
    1,R,K
@@ -447,4 +447,4 @@ EndStunPause
 
 #lvl_boss-00
 Read,6A,lvl_boss-00
-FileTime: 5:08.635(18155)
+FileTime: 5:08.584(18152)
