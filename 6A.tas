@@ -1401,19 +1401,17 @@ EndStunPause
    9,R
   37
   16,R,D,X
-   4,R,Z
+   4,D,C
    1,R,J
    1,R
    1,R,J
-  11,R
+  10,R
    1,R,J
    1,R,K
    1,R,J
    1,R,K
-   1,R,J
-   8,R,K
-  14,R,U,X
-   7,R,J,G
+  14,R,J
+  16,R,U,X
   37
   16,D,X
   13,R,D
@@ -1428,7 +1426,7 @@ EndStunPause
   13,R
   44
   16,D,X
-   4,D,C
+   4,Z
    1,R,J
    1,R,K
    1,R,J
@@ -1780,4 +1778,4 @@ AnalogMode,Precise
    1,O
   31
 AnalogMode,Ignore
-#17712
+#17711
