@@ -46,9 +46,85 @@ Read,6A,lvl_start,lvl_01
   40
 
 #lvl_02
-Read,6A,lvl_02,6HC0
+  11,J
+  14,U,X
+  27,L,U
+  11,F,343.024
+  31,F,324.327
+  10,F,25
+  31,F,26.977
+   8,F,18
+   5,L,U,X
+   1,L
+  12,L,J,G
+   6,L,K,G
+   2,L
+   4
+   1,R,J
+   1,J
+  16
+   1,R
+   4,X
+   1,D,X
+   3,R
+   6,L
+   3,R
+   7,D
+   1,R,D
+   1,L,J,G
+   1
+   2,R
+  20,L,U,G
+   1,G
+StunPause
+   1,U,G
+  10,J,G
+   1
+SkipInput,3,1
+  10,R,U,Z
+   1,J,G
+   1,L,J
+   1
+   2,R,J,G
+   1,L,J
+   4,J
+   2
+   1,L
+   2
+   1,R
+   1
+   1,D,J
+   1,R,J
+   2,L,J
+   2
+SkipInput,3,1
+   8,L,X
+EndStunPause
+   2,L
+   1,R,J
+   4,J
+  15,D,X
+   1,R,J
+   3
+   1,R
+   8
+   1,R
+   1
+   1,R
+   1,L
+   6,G
+   5,U,G
+   2,J
+   5,U,X
+  20,L,J
+   1,L,K,G
+   7
+  12,U,X
+   1,J
+  40
 
 #lvl_02b
+Read,6A,lvl_02b,6HC0
    1,J,G
   10,L,X
    2,L,J
