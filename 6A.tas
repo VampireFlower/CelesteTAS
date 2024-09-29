@@ -1424,40 +1424,49 @@ EndStunPause
    1,R,J
    2,R,K
   13,R
-  44
-  16,D,X
-   4,Z
+  42,L
+   4
+   2,L
+   1
+   1,L
+   1
+  21,L,D,X
+   1,L
+   5,L,Z
+   1,R,J
+   1,R,K
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
    2,R,K
-   9,R
+   1,R
+   7,R,D,X
+   1,R,J,G
+   1,R
+   1,R,K
+   6,R
    1,R,J
-   3,R
+   1,R
+   2,R,J
   40
 
 #lvl_boss-14
+  14,R,J
    1,S
    1,D,J
   34
-  11,R
-   4,R,J
-  12,R
-  15,R,J
-   7,L,K
-  44
-  19,D,X
-   3,R,D
-   1,D
-   2,R,D
+   4,Z
+  13,R,J
+   4,R
+   3
    5,J
   14,R,D,X
    1,R,K
   13,R,U,X
    1,R,J,G
-   5,R
+   8,R
    1,R,J
   40
 
@@ -1777,4 +1786,4 @@ AnalogMode,Precise
    1,D,J
   18
 AnalogMode,Ignore
-ChapterTime: 4:31.167(15951)
+ChapterTime: 4:30.266(15898)
