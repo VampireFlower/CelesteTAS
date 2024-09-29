@@ -54,7 +54,7 @@ Read,7A,Start,lvl_a-06
 #lvl_b-00
 Read,7A,lvl_b-00,lvl_b-02
 
-#lvl_b-02 (1)
+#lvl_b-02
    5,R
    1,R,J
    1,R,K,G
@@ -820,18 +820,20 @@ read,7S,lvl_f-00 (1),lvl_f-01
 
 #lvl_f-00 (2)
  336,R
-  14,R,Z
-   1,R,J
+   8,R
+   6,R,D,C
+   1,R,K
    4,R
   40
 
 #lvl_f-02
    3,R
-   1,R,D,J
-  16,R,D,X
-  14,R,Z
-   2,R,J
-  15,R,X
+   1,R,K
+  15,R,D,C
+  10,R,D,X
+   1,R,J
+   5,R
+  16,R,X
    6,R,D,C
    4,R,J
   10,R
@@ -841,31 +843,38 @@ read,7S,lvl_f-00 (1),lvl_f-01
   40
 
 #lvl_f-02b
-  11,R,J
-  10,U,X
-  19,R,C
-  17,R,D,X
-  18,R,U,C
-  16,R,X
-  21,R,V
-  16,R,X
-  15,R,Z
-  19,R,D
-  18,R,X
-  15,R,U,C
-  10,J,G
-   2,L,J
-   2,K
+   2,L,J,G
    1,J
-   2,R,J
-   9,L,J
-   6,K,G
-   1,R,K
-   8,R,J
-   9,R,K
-  24,R,D
-   3,R
-   4,R,D
+   2,R
+   4
+   2,L
+   1
+   1,L
+   4,D,X
+   1,R,J
+   4,R
+   1,R,J
+   1,R
+   4,R,D,K
+   5,R
+   7,R,K
+  22,R,U,X
+  19,R,C
+  16,R,X
+  32,R,C
+  25,R,Z
+   5,R,V
+  34,R,X
+  15,U,Z
+   1,L
+   1
+   1,L
+   2
+  15,J
+  10,R,J
+  16,R,D
+   2,R
+   2,R,D
   23,R,Z
    1,R,J,G
   24,R,D
@@ -1033,4 +1042,4 @@ Read,7A,lvl_f-07,lvl_g-00b
   15,R,J
    2,K,G
 Read,7A,7HC1
-#30221
+#30203
