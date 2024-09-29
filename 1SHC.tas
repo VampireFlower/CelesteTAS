@@ -5,27 +5,61 @@ console load 1 lvl_9b
   36
 
 #lvl_9b
-Read,1SH2,lvl_9b,lvl_10 (0)
+   2,R,J
+  15,R,U,Z
+   2,J
+   1,L,K,G
+   3,L,J,G
+   7,L
+  10,R,D,X
+   2,L,J
+   1,L
+   2,L,J
+  12,L,U,Z
+   2,L,J,G
+   5,L
+   2,L,J
+   2,K
+   2
+   1,J
+   7,R
+   1,J
+   2,R,J
+  15,U,X
+   1,L,J
+  40
 
 #lvl_10 (0)
+   2,J,G
+   1,R
+   8
+   4,Z
+   2,L,J
+   1,L,K,G
    7,L
-   1,J,G
-   3
-   6,R,D,X
-   1,L,J
-   7,L
+   2
    1,L,J
    5,L,D,X
    1,L,J,G
-  14,L
-   8,L,J
+   1
+  13,L
+   7,L,J
    5,L,D,X
-   1,L,J,G
-   9,L
+   2,L,J,G
+   8,L
   40
 
 #lvl_10z (0)
-Read,1SH2,lvl_10z,lvl_10zb
+   4,L
+  19,L,D,J
+   4,L
+  15,L,U,Z
+   7,L,J,G
+   7,L
+   4,Z
+   5,L,J
+   3,J
+  40
 
 #lvl_10zb
    1,L,J
@@ -137,4 +171,4 @@ Read,1SH2,lvl_10z,lvl_10zb
    1,U,J
    1,O
   31
-FileTime: 0:23.137(1361)
+FileTime: 0:23.103(1359)
