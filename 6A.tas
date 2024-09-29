@@ -453,17 +453,16 @@ endstunpause
    1
    1,R
    1
-  15,U,X
+  15,U,Z
    2,R
-  17,R
-   6,R,D,X
-   1,R,J
-   2
-   1,L,J
-  20,R,D
+  24,R
+  21,R,D,X
    1,L,D
-   3,R,D
-   9,D
+   2,R,D
+   1,R
+   1,D
+   1
+   8,D
    1,L
    2,L,D
   10,R,D
@@ -475,7 +474,7 @@ endstunpause
    5,U,X
 #---------------
 #[b-03] Spinner Cycle
-   2
+   0
 #---------------
    1,R,J
    1,R,K
@@ -1782,4 +1781,4 @@ AnalogMode,Precise
    1,D,J
   18
 AnalogMode,Ignore
-ChapterTime: 4:30.113(15889)
+ChapterTime: 4:30.062(15886)
