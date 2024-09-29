@@ -1015,14 +1015,18 @@ EndStunPause
   24,R,K,G
   44,R
   15,R,D,X
-  24,R,D
+   2
+  17,D
+   2,R,D
+  13,L,X
+   2,R,J
+  10,R,D,X
   40
 
 #lvl_boss-02
-  28,R,D
-  15,R,D,X
-  14,R,J
-  13,U,X
+   5,R,D
+  21,R
+  16,R,X
   37
   15,R,D,X
    7,R
@@ -1782,4 +1786,4 @@ AnalogMode,Precise
    1,O
   31
 AnalogMode,Ignore
-#17643
+#17637
