@@ -131,70 +131,49 @@ SaveAndQuitReenter
    4
    1,R,J
    1,J
-  16
-   1,R
-   4,X
-   1,D,X
-   3,R
-   6,L
-   3,R
-   7,D
-   1,R,D
-   1,L,J,G
-   1
-   2,R
-  20,L,U,G
-   1,G
-StunPause
-   1,U,G
-  10,J,G
-   1
-SkipInput,3,1
-  10,R,U,Z
-   1,J,G
-   1,L,J
-   1
-   2,R,J,G
-   1,L,J
-   4,J
-   2
-   1,L
-   2
-   1,R
-   1
-   1,D,J
-   1,R,J
-   2,L,J
-   2
-SkipAutoInput,3,1
-   8,L,X
-EndStunPause
-   2,L
-   1,R,J
-   4,J
-  15,D,X
-   1,R,J
-   3
-   1,R
-   8
-   1,R
-   1
-   1,R
-   1,L
-   6,G
-   5,U,G
-   2,J
-   5,U,X
-  20,L,J
-   1,L,K,G
+   7,L
    7
-  12,U,X
+   2,L
+   5,D,X
+   1,L,J
+  13
+   2,R
+   6
+   1,L,D
+  27,L,U,G
+   6
+Stunpause
+   6
+   4,L
+   3,D
+  19
+   2,L
+Skipinput,3,1
+   7,R,Z
+Endstunpause
+   1,L,J
+   6,L
+   2,R
+   1,L,J
+   1,K
    1,J
+   8,R,J
+   8,R
+   8
+   7,L,G
+   1,U,G
+   1
+   1,J
+  10,U,Z
+   1,S,N
+  10,O
+   5,U,Z
+  25,L
+  13,U,X
   40
 
 #lvl_02b
-   4,L
-   7,L,J,G
+  11,L
   16,L,X
   15,L,C
   36,L
@@ -257,7 +236,7 @@ AnalogMode,Ignore
    1,R
 #---------------
 #[06] Spinner Cycle
-   1,J
+   0,J
 #---------------
    4,Z
    1,R,J
@@ -1828,4 +1807,4 @@ AnalogMode,Precise
    1,D,J
   18
 AnalogMode,Ignore
-ChapterTime: 4:32.289(16017)
+ChapterTime: 4:31.609(15977)
