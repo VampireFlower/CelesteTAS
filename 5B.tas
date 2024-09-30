@@ -463,25 +463,27 @@ SaveAndQuitReenter
    1,R,J
    8
   20,D
-   7,R,D
-  13,R
-  17,L
-  10,L,D
-   1,L
-   1,L,D
-   3,L,J
-   2,L
-  34,L,D,X
-  12,R,D
-   3,D
+   6,R,D
+  14,R
+   9,D
+   1,L,G
+   4,L,J,G
+  13,L
+   2,L,D
+  15,L,D,X
+  17,L,D
+  18,D
+   4,R,D
   15,R,Z
-  49,L,D
-   1,D
-   5,L,D
-   1,D
-  13,L,D
-   7,L
-   5,L,D
+  15
+  15,D,X
+   8,L,D
+   6,D
+  33,L,D
+   3,L
+   1,L,D
+   4,L
+   1,L,D
    4,D
   16,L,Z
    1,J
@@ -853,4 +855,4 @@ SaveAndQuitReenter
    6,R,K
   14,R,U,X
  135,R,D
-FileTime: 1:44.023(6119)
+FileTime: 1:44.006(6118)
