@@ -133,33 +133,45 @@ EndStunPause
    1,R,J
   12,R
   12,R,J
+   5,R
+   5,D,X
    1,J
-   3,R,J
-   5,R,D,X
-  33
-   4,D,X
-   1,R,J
+  14
+   2,L,J
+   5
+   2,J
+   5
    1,R
-   6
+   5,R,Z
+   1,R,J
+   1
+   3,R
    2,R,D,J
-  13,R
-   1,J
-   6
-   7,R
-   1,D
-   4,R,D
-   1,D
-   2,R,D
    6,R
+   1
+   5,R
+   2,R,J
+   2,J
+   7
+   1,R
+   1
+  10,R,D
+   5,R
    1,R,D
-  11,R
-  32,R,U,Z
+   6,R
+  15,R,U,Z
+#better feather entry
+#  16,R
+#   2
+  15,R
+   1
+   1,R
    1
 AnalogMode Square
   27,F,299.569
 AnalogMode Precise
    5,F,272.904
-   1,F,278.1
+   1,F,278.04
   10,F,333
   19,F,10.91
    1,F,11.9
@@ -170,43 +182,35 @@ AnalogMode Precise
   11,F,78
   10,F,42.179
   13,R,Z
-   2,R,J
-   8,R,U,Z
+   1,R,J
+   1,R
+   7,R,D,X
+   1,R,J
   40
 
 #lvl_a-04
-   6,R,U,Z
-   1,L,J,G
-   2,R,J
-   5,R
-   1
-   2,R
    1,R,J
-   2,R
-  15,R,Z
-   7,R
-   8
-  29,R
-  21,R,X
-  20,L,D
-   1,D
-   1,L
-   4,L,D
+  20,R,D
    5,R
-  21,R
-  13,U,Z
+  15,R,U,Z
+   3,R
+   6,L
+   6
+  12,R
+  15,R,U,X
+  18,R
+  22,L,D
+   1,D
+   4
+  20,R
+  14,U,Z
   15,R,J
    9,R
    3,R,J
-  31,R
-   1
-   1,R
-   1,D
-  10,R
-   4,R,D
-  29,R
-   3
-  22,R,X
+  35,R
+   1,R,D
+  44,R
+  23,R,X
    1,R,K,G
    7,R
    4,D,X
@@ -1114,36 +1118,32 @@ EndStunPause
   23,R,D
   44,R
   15,R,X
-  14,R
-   1
-   3,R
-   4,D
-   3
-   1,D
-   1,L
-   4,D,X
+  18,R
+   4,R,D
+   1,R
+   3,R,D
+   5,R,Z
    1,R,J
-   4,R
-   6,R,J
+   5,R
   40
 
 #lvl_d-00
-   6,R
-   5,R,K,G
-   3,R
-  15,R,D,X
-  10,R,J
-   5,R
-   2,R,K
+   1,R,K
+   5,R,J
+   3,R,K,G
+   7,R
+  14,R,D,X
+  17,R,J
+   2,R
 #Reprieve
-   5,L,X
+   6,L,U,X
    1,L,J,G
    4,L,K,G
    1,K
    7
    3,L,G
    5,J,G
-   2,L,J
+   2,L
    2,K
    1,R,K
    1,K
@@ -1463,4 +1463,4 @@ AnalogMode,Ignore
   24,R,D,X
   21,R,D
  103,R
-#12514
+#12501
