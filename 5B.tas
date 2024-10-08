@@ -798,30 +798,34 @@ endrepeat
 #lvl_d-04
    6,R,D,G
    1,R,J,G
-  30,R,D,G
-   7,R,G
-   2,R,D,G
+  25,R,D,G
+   3,R,G
    1,R
-  18,R,U,X
-  18,R,C
-   6,R,U,X
-  29,R,G
-   6,G
-   4,R,G
-   4,R,J,G
+   4,R,D
+  15,R,X
+   2
+  10,U,X
+   8,R,J
+   8,R,J,X
+  13,G
+   1,R,J,G
    8,R,G
-   1,R
-  12,R,Z
+   2,R,J,G
+  21,R,G
+   3,R
+  13,R,U,X
    1,J,G
-   6,R
-   1,R,J
+   1,R
    1
+   1,R
+   4
+   1,R
    1,L
-   3
+   2
    5,L,V
    1,R,J
-   6,R,K,G
-   3,R
+   7,R,K,G
+   2,R
   40
 
 #lvl_d-05
@@ -844,4 +848,4 @@ endrepeat
    6,R,K
   14,R,U,X
  135,R,D
-#6632
+#6622
