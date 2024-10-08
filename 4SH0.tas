@@ -301,14 +301,15 @@ console load 4
    7,L
 #+1f Berry
   11,L,D,X
-  27,R,J
-   9,R,U,X
+  21,R,J
+   7,R
+   8,R,U,X
   40
 
 #lvl_a-08 (0)
-   6,R,U,X
-   1,J
-   8,R,K
+   5,R,U,X
+   1,L
+   6,J,G
   15,R,U,Z
   12,L,J,G
    3,L,K,G
@@ -1829,4 +1830,4 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
-FileTime: 3:24.850(12050)
+FileTime: 3:24.799(12047)
