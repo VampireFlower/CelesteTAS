@@ -461,29 +461,24 @@ Endrepeat
    2,J
   14,U,Z
    5,R,J
-   6,L,J
-   1,L
-   1
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   1,K
+   7,L,J
+   3,J
   40
 
 #lvl_b-04
    1,R,J,G
-   1,R,K,G
    8,R
    2
-   4,D,X
+   6,R,Z
    1,R,J
    7,R
-   1,R,D,J
-   6,R
-  11,R,U,X
+   2,R,D
+   1,R,J
+   2,R
+  13,R,U,X
    1,L
    1,K,G
-   3,L
+   3
    1,R
    2,L
    4,L,J
@@ -556,7 +551,7 @@ Endrepeat
   26,R,X
   15,R,Z
 #c-01 Spinner Cycle
-   2
+   0
 #------------------
   32,R,U,X
   16,R,Z
@@ -982,4 +977,4 @@ EndStunPause
   28,R,K
   14,R,X
  135,L,D
-#7635
+#7632
