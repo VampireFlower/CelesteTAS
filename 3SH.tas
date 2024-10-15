@@ -1442,15 +1442,17 @@ SaveAndQuitReenter
    2,L
    5,L,Z
    1,L,J
-   6,L
-   4,L,J
-   7,L,D,X
+  10,L
+   2,K
+   5,D,X
  103
-   5,L,J
-  14,L,Z
-   1,L,J
+   4,D,X
+   1,L,K
+   5,L
+   4,L,K
+   3,L,J,G
   14,L,D,X
-   1,L,J
+   3,L,K
   21,D,X
   40
 
@@ -2601,4 +2603,4 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
-FileTime: 4:45.226(16778)
+FileTime: 4:45.209(16777)

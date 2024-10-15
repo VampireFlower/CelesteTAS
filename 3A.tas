@@ -918,16 +918,17 @@ endrepeat
    9,L,J
    5,L,Z
    1,L,J
-   7,L
-   3,L,J
-   7,L,D,X
+  10,L
+   2,K
+   5,D,X
  103
-   4,L,J
-   1,L
-  14,L,Z
-   1,L,J
+   4,D,X
+   1,L,K
+   5,L
+   4,L,K
+   3,L,J,G
   14,L,D,X
-   1,L,J
+   3,L,K
   21,D,X
   40
 
@@ -1757,4 +1758,4 @@ endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 3:13.868(11404)
+ChapterTime: 3:13.851(11403)
