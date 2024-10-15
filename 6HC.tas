@@ -149,30 +149,20 @@ Read,6A,lvl_02b,6HC0
   15,U,X
    1,L,J,G
    7,L
-   4,Z
-   2,L,J
-   5,L,K,G
+   4,X
+   6,L,J
    7,L
-   1,L,J
-   5,L
-   3,L,J
-  15,U,X
-   1,L,J,G
-   2,L
-   1,R
-   3,L
-   1
-   1,R,J
+  11,J
+   2
   14,L,U,X
    1,L,J,G
-   4,R,J
-   1,L,K,G
-   1,L,J,G
+   9,L
+  15,U,Z
+   1,J,G
    7,L
   10,L,Z
-   1,L,J
-   4,L
-  14,L,X
+   5,L,J
+  15,L,X
    1,L,J,G
   31,D
    9
@@ -409,4 +399,4 @@ Read,6A,6HC1,[b-03] Spinner Cycle
 
 #lvl_12a
 Read,6A,lvl_12a
-FileTime: 5:07.224(18072)
+FileTime: 5:07.207(18071)
