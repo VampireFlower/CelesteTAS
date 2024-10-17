@@ -697,43 +697,44 @@ console load 4
   10,R
 #Cliff Face
    4,Z
-   2,R,J
+   1,R,J
+   2,R
+   4,R,J
+   4,R
+  12,R,D,X
+   1,R,J
+   6,R
+   7,R,D,J
+   5,R,D,X
+   2,R,J,G
    8,R
    1,R,J
-  10,R,D,X
+   3,R
    1,R,J
-   7,R
-   9,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-   5,R,D,X
+  14,R
+   5,R,J
   43
 
 #lvl_d-01
-   8,R,D,X
-   5,R,J
-  14,R,D,X
+   2,R,J
+  15,R,D,X
+   2,R,D
    4,R,J
-  13,R,Z
-   1,R,J
-   2
-   4,R
-   7,R,J
+   7,R
+   7,R,D,J
+   9,R,K,G
   14,R,U,X
-   3,R,J,G
-   6,R
+   7,R,J,G
   40
 
 #lvl_d-02
-   1,R
-  14,R,D,X
-   1,R,J
+   3,R,J
   15,R,D,X
+   1,R
    1,R,J
-  12,R,D,X
-  15,L,D,C
+  14,R,D,X
+   3
+  15,L,D,X
   12,D
   15,R,D,X
    8,R
@@ -927,4 +928,4 @@ console load 4
    1,S
    1,D,J
   18
-ChapterTime: 1:46.709(6277)
+ChapterTime: 1:46.607(6271)
