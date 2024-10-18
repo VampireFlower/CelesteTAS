@@ -1626,11 +1626,15 @@ SaveAndQuitReenter
   15,R,D,X
    1,R,J
   17,R,D,X
-  15,L,D,C
-  12,D
-  15,R,D,X
-   8,R
-  11,L,X
+   3
+  15,L,D,X
+  15,D,C
+   6,R
+   1,D
+   1,R
+   2,D
+   7,R
+  10,L,X
   12,R,J
    1,L,J
    1,K,G
@@ -1843,4 +1847,4 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
-FileTime: 3:24.680(12040)
+FileTime: 3:24.663(12039)
