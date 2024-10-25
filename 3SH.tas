@@ -2345,42 +2345,47 @@ SaveAndQuitReenter
   40
 
 #lvl_roof03
-   3,R,D,X
+   4,R,D,X
    1,R,J
-   3,R
+   1
+   4,R
+   1,R,J
+   1,R
+   7,R,K
+   2,R
+   5,J,G
+   4,R,J
+   2,J
+   1,R,J
+  32,R,U,C
+   6,R,D
+  13,D
+   2
+   4,D,X
+   1,R,J
+   6,R
+  11,R,D,J
+   1,L,K,G
    1,R,K
-   3,R
-   7,R,J
-   5,R
-   2
-  18,R
-  15,R,X
-  30,R,D
-  10,R,J
-  15,U,X
-  15,J
-   2
-   1,K,G
-   2
-   7,R
-   9,L,Z
+  17,R,U,X
+   1,R,J,G
+   2,J
    1,R,J
+   4,R
+   2,R,J,G
    5,R
-   1
-   1,R,J
-  15,R,D,X
-   8,R
    2,R,J
-   3,R
-   4,R,K,G
-   5,R,D,X
-  20,R,J
-  13,R
-  15,D,X
-  11,R,D
-   3,R
-   1,D
-   1
+   1,R
+  11,R,J
+   2,J
+   1,R,J
+   4,J
+   1,R,J
+  37,R,U,X
+  24,R,D
+   1,R
+   6
+   1,R,D
    4,D,X
    7,R,J
    4,R
@@ -2402,9 +2407,9 @@ SaveAndQuitReenter
    5
    7,L,Z
    1,R,J
-   9,R
+   6,R
    1,R,D,J
-  16,R,D,X
+  19,R,D,X
    1,R,D,J
    1,R
    1,R,K
@@ -2603,4 +2608,4 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
-FileTime: 4:45.209(16777)
+FileTime: 4:45.090(16770)
