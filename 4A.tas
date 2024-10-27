@@ -342,12 +342,13 @@ console load 4
    1,R
   14,R,U,X
    2,R,J,G
-   3,R,K,G
-   5,R
-  17,R,J
-  34,R,K
-  15,U,Z
-  18,R,J
+   4,R,K,G
+   7,R
+  10,R,K
+   5,R,D,K
+  34,R,D,J
+  14,U,Z
+  16,J
    1,R,K,G
    2,L
    5
@@ -926,4 +927,4 @@ console load 4
    1,U,J
    1,O
   31
-#6881
+#6879
