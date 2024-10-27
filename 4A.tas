@@ -733,12 +733,15 @@ console load 4
    1,R
    1,R,J
   14,R,D,X
-   3
+   6
   15,L,D,X
-  12,D
-  15,R,D,X
-   8,R
-  11,L,X
+  15,D,C
+   6,R
+   1,D
+   1,R
+   2,D
+   7,R
+  10,L,X
   12,R,J
    1,L,J
    1,K,G
@@ -929,4 +932,4 @@ console load 4
    1,U,J
    1,O
   31
-#6888
+#6887
