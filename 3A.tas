@@ -1550,33 +1550,33 @@ endrepeat
    2,J
    1,R,J
   32,R,U,C
-  21,R,D
+   6,R,D
+  13,D
+   2
    4,D,X
-   2,R,J
-   8,R
    1,R,J
-   7,R,D,X
-   1,R,J
-   7,R
-  14,R,J
-   1,J
-  15,R,U,Z
+   6,R
+  11,R,D,J
    1,L,K,G
-   1,L,J,G
-   5,J
-   1,L,J
-   1,K,G
-   6,L
-   1,R
-   2,R,J
-   6,J
-  15,R,D,X
-  16,R,D
-   4,D,X
+   1,R,K
+  17,R,U,X
+   1,R,J,G
+   2,J
    1,R,J
+   4,R
+   2,R,J,G
    7,R
    3,R,J
-   2,R
+   2,J
+   1,R,J
+   1,J
+   1,R,J
+   2
+  35,R,D,X
+   4,D,C
+   1,R,J
+   8,R
+   5,R,J
   14,R,Z
    1,R,J
   14,R,D,X
@@ -1587,9 +1587,7 @@ endrepeat
   14,R,J
   18,R,U,X
   15,R,U,C
-  11
-   1,R
-  10,L
+  22,L
   31,L,D
    1,R,J
    8,R
@@ -1759,4 +1757,4 @@ endrepeat
    1,U,J
    1,O
   31
-#12498
+#12487
