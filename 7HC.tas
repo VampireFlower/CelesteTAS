@@ -768,15 +768,16 @@ Read,7A,lvl_d-09,lvl_e-00b
   40
 
 #lvl_e-01 (2)
-  15,R,D
-  23,R,Z
-   8,R,U,V
+  14,R,D
+  16,R,Z
+  12,R,X
   40
 
 #lvl_e-00 (2)
-   7,R,U,V
-  15,R,U,X
-   9,U,C
+   3,R,X
+   7,U,C
+  15,R,J
+   9,U,X
   40
 
 #lvl_e-02
@@ -1045,4 +1046,4 @@ SaveAndQuitReenter
   15,R,J
    2,K,G
 Read,7A,7HC1
-FileTime: 7:46.327(27431)
+FileTime: 7:46.310(27430)
