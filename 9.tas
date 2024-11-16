@@ -28,9 +28,6 @@ console load 10
 #Start
   98
 
-#c-00 cycle 0-2
-   1
-#--------------
 
 #lvl_intro-00-past
   15,R,X
@@ -297,36 +294,40 @@ console load 10
   40
 
 #lvl_b-00
-   4,R,J
+   7,R,J
    7,R
    1,R,J
    1,R
    2,R,J
-   8,R
-  15,R,Z
-  12,R,U,X
-   1,R,J,G
   10,R
-   4,X
-   7,R,J
-  40
-
-#lvl_b-01
-   4,R,J
-   1,R
+  12,R,Z
+   9,J,G
+   1
+   1,K,G
+   1
+   2,J
    6,R,Z
    1,R,J
    6,R
-   1,R,J
+   2,R,D,J
+   5,R,U,X
+  40
+
+#lvl_b-01
+   4,R,U,X
+   1,R,J,G
+   5
+   5,R
+   1,R,D,J
    1,R
-  16,R,D,X
-   6,R,J
-   8,R
-   3,R,J
-  10,R
+  15,R,D,X
+   5,R,J
+   9,R
+   1,R,J
+   9,R
   23,R,Z
-  24,R,U,X
-   7,R,Z
+  25,R,U,X
+   6,R,Z
    3,R,J
    1,R,K,G
    7,R
@@ -748,6 +749,9 @@ EndStunPause
   15,L,K,G
   15,U,X
   12,R,U,C
+#e-07 spinner cycle
+   2
+#-----------
   45,U,X
   60,L,U,C
   40
@@ -889,52 +893,51 @@ EndStunPause
   40
 
 #lvl_e-02
-   4,L,J
-   6,R,J
-   1,J
+   1,R
+   9,R,J
+   1
   14,U,X
   21,R
   14,R,X
   13,R,G
-  26,R,U,G
-   1,R,D,G
-  13,R,U,G
-   1
+  22,R,U,G
+   1,L
+   6,R
   18,R,U,X
-   1
+  15,R,C
+  15,R,X
+  26,R,D
+   5,D
+   1,R,D
+  18,R
+  16,R,U,C
+  20,U,X
+  23,R,D
+   1,D
+  22,R
+   1,R,D
    1,R
-   6,R,X
-  13,R,G
-   9,R,D,G
-  66,R,U,G
-   1,R
-  15,U,X
-  25,R
-   5,R,D
-  23,R,G
-   1,L
-   3,R
-   1,R,J,G
-   1,L
-   1,R,K,G
-   3,R,K
-   2,R
-   4,X
-   7,R,J
-   1,R,K,G
-   3,R
-   7,R,D,X
+   1,R,D
+   9,R,J,G
+   7,R
+   1,R,J
+  14,R,U,X
+   2,J,G
+  10,R,Z
+   1,R,J
   40
 
 #lvl_e-03
-   7,R,D,X
-   5,R,J
-   2,R
-   3,R,J
+   6,R
+   2,R,J
+   5,R
+   2,R,J
+   1,R
+   2,R,J
   15,R,U,X
-   8,R,C
-  19,R,J
-  17,R,U,X
+   7,R,C
+  20,R,J
+  16,R,U,X
   14,R,Z
    1,R,J
    7,R,D,X
@@ -1144,9 +1147,8 @@ EndStunPause
   19,R,D
   33,R,U,X
   10,R,D,C
-   2,R,J
+   3,R,J
    2,J
-   1,R,J
   15,R,U,X
   14,R,U,C
    1,S
@@ -2335,78 +2337,66 @@ Endrepeat
    1,R,K,G
    1,R,J,G
    1,J
-   4,R,J
-   6,R
+   5,R,J
+   9,R
    1,R,J
-   2,R
-   3,R,J
-  11,R
-   6,L,D,X
+  12,R
+   4,D,X
    1,R,J
-   7,R
+   4,R
    1,R,J
-  12,R,D,X
+   1,R
+   1,R,J
+   3,R
+  15,L,Z
+  14,L,V
+   1,R,J
+   5,R,D,X
+   1,R,J,G
+  17,R
+   1,R,J
+   5,R,D,X
   40
 
 #lvl_h-08
-   5,R
-   4,R,D
-   9,R,J
-   5,R
-   9,R,J
-  14,R,U,X
-   2,R,K,G
-   6,R
-   1,R,K
-   7,R
-   1
-   1,R
-   1
    2,R
-   1,R,D
-   2,D
+   8,R,D,J
+   5,R
+   3,R,J
+   3,R
+  17,R,U,X
+   4,R,K,G
+StunPause 
+   3,R,K
+   5,R
+   1
+   5,R
+SkipInput,3,1
+   7,R,U,Z
+EndStunPause
+   5,R,U,Z
+   3,L,J,G
+   6,R,J
   14,R,D
-   1,R
-  16,R,U,Z
-   1
-   7,R
-   6
-  10,L,J,G
-   2,L
-   1,K
-  11,L,K
-   5,L
-   1,L,K
-   8,L
-  11,J
-   1,R,J
-   2,J
-  41,R,U,X
-   2,R,D
-   1,R
-  37,R,U,Z
-   7,R,D
-   1,J,G
-   1,R
-   3
-   2,R
-  14,L
-  13,R,D
+  14,D
+   3,R,D
+   1,D
+   8,R,D
+   1,D
    5,R
-  15,R,Z
-  11,R,D,C
-   1,R,J
-   5,R
+   1,R,D
+   1,R
+  20,R,X
+#Spinner cycle
+   2
+#-------------
+   7,R,Z
+   2,R,J
   40
 
 #lvl_h-09
-   1,R
-   3,R,J
-   1,R
-   1
-   1,R
-  14,R,D,X
-   1,R,J
+   2,R,J
+  17,R
    5,L,X
    5,L
    3,R
@@ -2992,9 +2982,8 @@ AnalogMode,Precise
    1,L,J
    1,L,K,G
   22,R
-  24,R,D,X
-   8,D
-  54,R
+  32,R,D,X
+  55,R
   13,R,U,X
    1,L,J,G
    1,R,J
@@ -3337,11 +3326,7 @@ AnalogMode,Precise
 #---------------
 #Lightning cycle
 #0-14
-  15
-
-#drift
-  15
-
+   2
 #---------------
    7,R,D,C
    1,L,J
@@ -3701,4 +3686,4 @@ AnalogMode,Ignore
    1,U,J
    1,O
   31
-#31473
+#31413
