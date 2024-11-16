@@ -752,6 +752,9 @@ EndStunPause
   15,L,K,G
   15,U,X
   12,R,U,C
+#e-07 spinner cycle
+   2
+#-----------
   45,U,X
   60,L,U,C
   40
@@ -893,52 +896,51 @@ EndStunPause
   40
 
 #lvl_e-02
-   4,L,J
-   6,R,J
-   1,J
+   1,R
+   9,R,J
+   1
   14,U,X
   21,R
   14,R,X
   13,R,G
-  26,R,U,G
-   1,R,D,G
-  13,R,U,G
-   1
+  22,R,U,G
+   1,L
+   6,R
   18,R,U,X
-   1
+  15,R,C
+  15,R,X
+  26,R,D
+   5,D
+   1,R,D
+  18,R
+  16,R,U,C
+  20,U,X
+  23,R,D
+   1,D
+  22,R
+   1,R,D
    1,R
-   6,R,X
-  13,R,G
-   9,R,D,G
-  66,R,U,G
-   1,R
-  15,U,X
-  25,R
-   5,R,D
-  23,R,G
-   1,L
-   3,R
-   1,R,J,G
-   1,L
-   1,R,K,G
-   3,R,K
-   2,R
-   4,X
-   7,R,J
-   1,R,K,G
-   3,R
-   7,R,D,X
+   1,R,D
+   9,R,J,G
+   7,R
+   1,R,J
+  14,R,U,X
+   2,J,G
+  10,R,Z
+   1,R,J
   40
 
 #lvl_e-03
-   7,R,D,X
-   5,R,J
-   2,R
-   3,R,J
+   6,R
+   2,R,J
+   5,R
+   2,R,J
+   1,R
+   2,R,J
   15,R,U,X
-   8,R,C
-  19,R,J
-  17,R,U,X
+   7,R,C
+  20,R,J
+  16,R,U,X
   14,R,Z
    1,R,J
    7,R,D,X
@@ -3327,7 +3329,7 @@ AnalogMode,Precise
 #---------------
 #Lightning cycle
 #0-14
-  11
+   2
 #---------------
    7,R,D,C
    1,L,J
@@ -3683,7 +3685,7 @@ EndStunpause
   38
 AnalogMode,Ignore
 #End_IGT
-ChapterTime: 8:04.432(28496)
+ChapterTime: 8:04.177(28481)
 
 # optional waiting for
 # visuals to play out
