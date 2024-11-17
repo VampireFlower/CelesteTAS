@@ -3329,7 +3329,7 @@ AnalogMode,Precise
 #---------------
 #Lightning cycle
 #0-14
-   2
+   4
 #---------------
    7,R,D,C
    1,L,J
@@ -3380,21 +3380,21 @@ AnalogMode,Precise
   13,U,X
   26,R,G
    1,G
-  16,R,G
-   1,G
-   1,R,G
+  16,R,D,G
+   1,D,G
+   1,R,D,G
    1,R
-  32,R,D
+  26,R,D
    3,R
-   1
-   2,D
-   8,L,D,X
+   1,R,D
+   5,R
+   9,L,Z
    1,R,J
    6,R
+   1,R,J
   24,R,D,X
-   1,L
-  19,R,X
-  11,L
+  20,R,C
+  10,L
   14,L,D,X
    1,L,J
    2,L
