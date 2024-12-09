@@ -1590,24 +1590,22 @@ Endstunpause
    4,R,J
    3,R,K
    6,R
-  15,R,Z
-  21,R,X
-   4,R,J
-  11,R,K
-   4,R
+  16,R,Z
   20,R,X
    4,R,J
-   2,R,K
-   2,R
-  30,L,D,X
+  12,R,K
+   3,R
+  20,R,X
+   4,R,J
+   1,R,K
+   3,R
+  28,L,D,X
+   2,L
   22,L,Z
-   4,L,J
-   4,L,K
-   5,L
-   2,L,K
-   1,L
+   6,L,J
+   5,L,K
   15,L,D,X
-  17,L,Z
+  21,L,Z
    6,L,J
   20,L,K
   12,L,X
@@ -1993,7 +1991,7 @@ Endstunpause
   35,R,J
   16,R,X
   17,R,Z
-#h-09 cycle 0-2
+#h-08 cycle 0-2
    0
 #--------------
   45,R,X
@@ -2365,9 +2363,9 @@ Endrepeat
    3,R,J
    3,R
   17,R,U,X
-   4,R,K,G
+   5,R,K,G
 StunPause 
-   3,R,K
+   2,R,K
    5,R
    1
    5,R
@@ -2387,9 +2385,9 @@ EndStunPause
    1,R,D
    1,R
   20,R,X
-#Spinner cycle
-   2
-#-------------
+#h-09 cycle 0-2
+   0
+#--------------
    7,R,Z
    2,R,J
   40
@@ -3326,7 +3324,7 @@ AnalogMode,Precise
 #---------------
 #Lightning cycle
 #0-14
-   7
+  10
 #---------------
    7,R,D,C
    1,L,J
