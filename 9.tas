@@ -750,7 +750,7 @@ EndStunPause
   15,U,X
   12,R,U,C
 #e-07 spinner cycle
-   2
+   0
 #-----------
   45,U,X
   60,L,U,C
@@ -1115,9 +1115,9 @@ EndStunPause
    5,R
    8,R,J
   26,R,D,X
-   4,R,Z
 StunPause
-   9,R,Z
+SkipInput,3,1
+  13,R,Z
    1,R,J,G
    2,R,K,G
    1,R,J,G
@@ -1128,9 +1128,9 @@ EndStunPause
 
 #lvl_e-08
    2,R,K
-   3,R
+   2,R
 StunPause
-   1,R
+   2,R
 SkipInput,3,1
   11,R,D,X
 EndStunPause
@@ -1366,7 +1366,7 @@ EndStunPause
    3,R
    4
 #f-07 cycle 0-2
-   1
+   0
 #--------------
    4,D,X
    4,R,J
@@ -3326,7 +3326,7 @@ AnalogMode,Precise
 #---------------
 #Lightning cycle
 #0-14
-   4
+   7
 #---------------
    7,R,D,C
    1,L,J
