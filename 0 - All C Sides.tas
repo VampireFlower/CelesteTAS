@@ -1,4 +1,3 @@
-#3:02.869
 #Start from Begin
 
 Read,StartFullGameFile
@@ -53,3 +52,5 @@ Add 7
   42
    1,L
 Read,LoadJournal
+
+FileTime: 3:02.869(10757)

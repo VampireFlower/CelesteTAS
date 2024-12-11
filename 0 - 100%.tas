@@ -1,4 +1,3 @@
-#1:08:55.709
 #Start from Begin
 
 #Ensures variants postcard
@@ -229,3 +228,5 @@ Add 58
    9
    1,L
 Read,LoadJournal
+
+FileTime: 1:08:55.709(243277)
