@@ -1,4 +1,3 @@
-#4.063
 #Start from Begin
 
 Read,StartFullGameFile
@@ -13,3 +12,5 @@ Repeat 8
    9
 Endrepeat
 Read,LoadJournal
+
+FileTime: 0:04.063(239)
