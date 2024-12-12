@@ -2,7 +2,7 @@
 
 Read,StartFullGameFile
 
-Read,LoadEnableCheatMode
+Read,LoadEnableCheatMode,Start
 
 #Epilogue
    1,X
