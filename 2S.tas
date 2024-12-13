@@ -913,13 +913,11 @@ console load 2
   16,R,J
    4,R
   31,R,D,X
-   6,R,Z
-   9,R,J
-   6,R
+   5,R,Z
+  10,R,J
+   5,R
    2
-   2,R,J
-   1,J
-   1
+   4,R,K
   10,L,D,X
    1,L,J
   15,L,D
@@ -1134,4 +1132,4 @@ console load 2
    1,S
    1,D,J
   18
-ChapterTime: 2:23.718(8454)
+ChapterTime: 2:23.701(8453)
