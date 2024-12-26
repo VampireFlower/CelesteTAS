@@ -29,7 +29,7 @@ console load 10
   98
 
 #c-00 cycle 0-2
-   1
+   0
 #--------------
 
 #lvl_intro-00-past
@@ -361,30 +361,36 @@ console load 10
    4
    1,R
    4
-   1,R,D
+   1,R
    1,R,G
   10,R,V
    1,R,J
-   3,R,K,G
-   4,R
-   5,R,D,X
+   2,R,K,G
+   1,K
+   1,R,K
+   2,R
+   2,R,J
   40
 
 #lvl_b-03
-  10,R,D,X
-   3,D
-   1,R,J
-   6,R
-   1
-   9,R
+   7,R,J
+  15,R,D,X
+   3,R,D
+   1,R
+   2
+   1,R
+   2
    1,R,J
   15,R,D,X
-   1,D
    1
-   7,R,D
+   2,D
+   6,R,D
+   1
+   1,R,D
+   2,R
+   1,R,D
    1,R
-   5,R,D
-  26,R,Z
+  27,R,Z
    4,R,J
    1,R,K
    9,R,Z
@@ -3355,7 +3361,7 @@ AnalogMode,Precise
 #---------------
 #Lightning cycle
 #0-14
-  13
+   1
 #---------------
    7,R,D,C
    1,L,J
@@ -3711,7 +3717,7 @@ EndStunpause
   38
 AnalogMode,Ignore
 #End_IGT
-ChapterTime: 8:04.177(28481)
+ChapterTime: 8:03.922(28466)
 
 # optional waiting for
 # visuals to play out
