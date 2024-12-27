@@ -750,7 +750,7 @@ EndStunPause
   15,U,X
   12,R,U,C
 #e-07 spinner cycle
-   1
+   2
 #-----------
   45,U,X
   60,L,U,C
@@ -893,47 +893,66 @@ EndStunPause
   40
 
 #lvl_e-02
+   1,R
    1
-   6,R,J
-   1,J
-   3,R,J
-  13,U,X
+   4,R,J
    1,R,J
-  20,R
+   4,R
+  15,U,X
+   5,R,U,C
+  18,R
   14,R,X
   13,R,G
-  11,R,D,G
-   9,R,U,G
+   5,R,D,G
+   1,R,U,G
+   6,R,G
+   1,G
+   1,R,G
+   1,G
+   3,R,G
+   1,U,G
    1,L
-   9,R
-  18,R,U,X
-  16,R,C
+  11,R
+  19,R,U,X
+  18,R,C
   15,R,X
-  22,R,D
+  23,R,D
    5,D
-   1,R,D
+   2
+  15,R
+  18,R,U,Z
+  15,U,X
+   3,R
+   1
+   6,R
    1
    1,R
-  18,R
-  16,R,U,C
-  20,U,X
-  23,R,D
    1
-  25,R
+   1,R
+   1
+  23,R
+   1,R,G
+   1
+   2,R,J
+   1,R,G
    9,R,J,G
    7,R
+   3,R,K,G
+   7,R
+   4,X
+   7,R,J
+   4,R,K,G
+   7,R,D,X
    1,R,J
-  16,R,U,X
-  10,R,Z
-   1,R,J
+   1,R
   40
 
 #lvl_e-03
    6,R
    2,R,J
    5,R
-   2,R,J
-   1,R
+   1,R,J
+   2,R
    2,R,J
   15,R,U,X
    7,R,C
@@ -3685,4 +3704,4 @@ AnalogMode,Ignore
    1,U,J
    1,O
   31
-#31413
+#31416
