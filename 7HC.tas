@@ -759,12 +759,14 @@ Read,7A,lvl_d-09,lvl_e-00b
    5,R
    3,R,K
   15,R,U,Z
-   6,R,J,G
-   2,R
-   8,R,D,X
+   4,R,J,G
+   5,R
+   7,R,D,X
   21,R,J,G
-   1,L,J
-  31,L,D
+   1,R
+   7,L
+   1,R
+  22,L,D
   40
 
 #lvl_e-01 (2)
@@ -1049,4 +1051,4 @@ Read,7A,lvl_f-07,lvl_g-00b
   15,R,J
    2,K,G
 Read,7A,7HC1
-#30191
+#30190
