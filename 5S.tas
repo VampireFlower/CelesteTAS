@@ -623,19 +623,22 @@ console load 5
    4,R,D
   11,R,D,J
    5,R
-   2,R,J
-   6,R
+   3,R,J
+   5,R
   40
 
 #lvl_a-10 (1)
-  10,R
-   3,D
-   3
-   4,D,X
-   2,R,J
-   4
+   7,R
+   5,R,D
+   1,R
    1,R,D
-   2,R,D,J
+   1,R
+   4,D,X
+   1,R,J
+   1,R
+   4
+   1,D
+   2,R,J
    1,L,K,G
    1,R,K
   12,R,U,X
@@ -2781,7 +2784,7 @@ Endrepeat
    1,D,J
   34
 #Spinner Cycle
-   1
+   2
 #-------------
   14,L,Z
    1,R,J
