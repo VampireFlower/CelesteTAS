@@ -567,7 +567,7 @@ console load 5
   13,L,U,X
    7,L,J,G
   40
-=
+
 #lvl_a-09 (0)
    1,L
   15,L,D,X
@@ -628,29 +628,35 @@ console load 5
   40
 
 #lvl_a-10 (1)
-   6,R
-   1
-   1,R
+  10,R
+   3,D
    3
-  12,R,D,X
-   1,L,J
-   5,R
-   1,R,J
-  13,R,U,X
-   1,R,J,G
-   6,R,K,G
+   4,D,X
+   2,R,J
+   4
+   1,R,D
+   2,R,D,J
+   1,L,K,G
+   1,R,K
+  12,R,U,X
+   3,R,J,G
   40
 
 #lvl_a-08 (2)
-   6,R,K
-   6,R
-   4,R,K
+   2,R,J
+   4,R,K,G
+   1,K
+   5
+   2,J
    7
+   1,L,D,J
   40
 
 #lvl_a-12 (0)
+   4
    1,R
-  11,R,U,V
+   1,R,J
+   7,R,U,X
    9,J,G
   18
   22,L,D
@@ -666,8 +672,7 @@ console load 5
    6,L,U,Z
    1,R
    2,J,G
-   6
-   1,L
+   7
    4,D,X
    2,L,J
    1,L
@@ -2776,7 +2781,7 @@ Endrepeat
    1,D,J
   34
 #Spinner Cycle
-   0
+   1
 #-------------
   14,L,Z
    1,R,J
@@ -3087,4 +3092,4 @@ EndStunPause
    1,U,J
    1,O
   31
-#24466
+#24463
