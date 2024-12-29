@@ -1,0 +1,111 @@
+console load 3
+   1
+
+#Start
+  61
+
+#lvl_s0
+Read,../3SH,lvl_s0,lvl_s2
+
+#lvl_s2
+   1,R,J
+  12,R,U,X
+   1,R,J,G
+   5,K,G
+  14,L
+   4
+   5,L,D
+   4,D
+   2
+   1,D
+   1,L
+   1,D
+   4,Z
+   1,R,J
+   6,R
+   7,R,J
+  15,R,D,X
+   1,R,J
+   5,R
+   3,R,K
+  12,R,J,G
+  15,R,D,X
+  20,R,J
+  40
+
+#lvl_s3
+   2,R,J
+   8,R
+   1
+  11,R,U,X
+   1,R,J,G
+   8
+  35,R,D
+   1
+   1,J
+  14
+   1,J
+  14
+   1,J
+  14
+   1,J
+   5
+   9,R
+   4,D,X
+   1,L,J
+   7,L
+   1,L,J
+   9,L
+   1,J
+  11,L
+   5,R,Z
+   1,R,J
+   6,R
+   3,R,J
+   5,R,D,X
+   1,R,J,G
+   5,R
+   2,R,J
+   1,R,K,G
+  11,R
+   1,R,D,J
+   5,R,D,X
+   1,R,J
+   3,R
+   5
+   1,R,J
+   5,R,U,Z
+  40
+
+#lvl_0x-a
+Read,../3SH,lvl_0x-a,Spawn
+
+#lvl_11-c
+  36
+  11,R,Z
+   2,R,J
+   3,R
+   1,R,J
+  15,R,D
+   6,L,D,X
+   1,R,J
+   3,R
+   1,R,K
+   3,R
+  15,R,D,J
+   4,R,K,G
+  12,R,U,X
+   4,R,J,G
+  40
+
+#lvl_12-c
+   2,R,J
+  11,U,X
+  40
+
+#lvl_12-d
+Read,../3SH,lvl_12-d,lvl_04-c (0)
+
+#lvl_04-c
+Read,../3SHC,lvl_04-c (0)
+FileTime: 4:52.009(17177)

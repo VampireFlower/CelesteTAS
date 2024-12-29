@@ -350,6 +350,7 @@ console load 4
   14,U,Z
   16,J
    1,R,K,G
+#4SHCG3
    2,L
    5
    9,U,X
@@ -464,6 +465,7 @@ console load 4
   21,R,J
   10,R
   15,R,X
+#4SHCG4
   16,R,U,Z
   14,U,V
    6,R,J
@@ -523,6 +525,7 @@ console load 4
    6,R,J
   14,U,X
   15,L,J
+#4SHCG5
   28,L,X
   18,L,U,Z
    8,J

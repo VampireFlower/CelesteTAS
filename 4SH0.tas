@@ -299,6 +299,7 @@ console load 4
   20,U,X
    1,J,G
    7,L
+#4SHCG1
 #+1f Berry
   11,L,D,X
   21,R,J
@@ -862,6 +863,7 @@ EndRepeat
    1,R,K
    3,R,J
   15,R,X
+#4SHCG2
 #+1f Berry
    9,R,Z
   40
@@ -1088,6 +1090,7 @@ SaveAndQuitReenter
   10,L,J
    1,J
   11,R,K
+#4SHCG3
    1,J
    5,L,J
    7
@@ -1229,6 +1232,7 @@ SaveAndQuitReenter
    4,R
    9,R,K,G
   14,U,Z
+#+0f berry
    8,J
    2,L,J
    1,R,K,G
@@ -1250,6 +1254,7 @@ SaveAndQuitReenter
   12,R,J
   20,R
   14,R,X
+#4SHCG4
   16,R,U,Z
   14,U,V
    6,R,J

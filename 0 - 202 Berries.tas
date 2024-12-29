@@ -1,0 +1,220 @@
+#FileTime: [WORK IN PROGRESS]
+#Start from Begin
+
+#Ensures variants postcard
+#does not appear after 8C
+Set,Settings.Instance.VariantsUnlocked,True
+
+Read,StartFullGameFile
+
+Read,0 - Prologue,Start
+
+Read,LoadANoCollects,Prologue
+
+Read,202/1SH0G,Start
+
+#Reenter City
+Read,LoadA,0,Control
+   1,L
+   9
+   1,J
+  43
+   1,J
+  30
+   1,R
+   1,J
+  46
+Add 1
+
+Read,1SH1,Start
+
+Add 58
+  51
+   1,S
+   1,J
+  30
+   1,R
+   1,F,90
+   1,J
+  46
+Add 1
+
+Read,1SHC,Start
+
+#Old Site
+Read,LoadAFromB,SkipExit
+
+Read,202/2SHCG,Start
+
+Read,LoadA
+
+Read,202/3SHCG,Start
+
+Read,LoadA
+
+Read,202/4SHCG,Start
+
+#Reenter Ridge
+Read,LoadA,0,Control
+   1,L
+   9
+   1,J
+  43
+   1,J
+  30
+   1,R
+   1,F,90
+   1,R
+   1,J
+  46
+
+Read,4SH1,Start
+
+Read,LoadAFromB,SkipExit
+
+Read,202/5SHCG,Start
+
+Read,LoadA
+
+Read,6HC,Start,Overworld
+
+Add 58
+  51
+   1,S
+   1,J
+  30
+   1,J
+  46
+Add 1
+
+Read,6HC,lvl_04 (3)
+
+Read,LoadANoCollects,0,Summit
+#Summit
+  45
+Add 29
+   1,J
+  32
+Add 1
+
+Read,202/7SHCG,Start
+
+Read,LoadCoreFromSummit
+
+Read,8S,Start,100%
+  32,F,95.178
+AnalogMode,Ignore
+  14,R,Z
+#+1f berry
+   1,R,J
+   9,R,D,X
+  40
+
+#lvl_d-11
+   3,R,D,X
+   1,R,J
+   5,R
+  11
+   8,D
+   3
+   1,D
+
+Read,8AC,100%
+
+Read,Load1B
+
+Read,1B,Start
+
+Read,LoadB
+
+Read,2B,Start
+
+Read,LoadB
+
+Read,3B,Start
+
+Read,LoadB
+
+Read,4B,Start
+
+Read,LoadB
+
+Read,5B,Start
+
+Read,LoadB
+
+Read,6B,Start
+
+Read,LoadB
+
+Read,7B,Start,Overworld
+
+Add 58
+   4
+   1,O
+  30
+   1,J
+  46
+Add 1
+
+Read,7B,2000M
+
+Read,LoadB,0,Core
+   1,R
+   9
+Read,LoadB,Core
+
+Read,8B,Start
+
+Read,Load1C
+
+Read,1C,Start
+
+Read,LoadC
+
+Read,2C,Start
+
+Read,LoadC
+
+Read,3C,Start
+
+Read,LoadC
+
+Read,4C,Start
+
+Read,LoadC
+
+Read,5C,Start
+
+Read,LoadC
+
+Read,6C,Start
+
+Read,LoadC
+
+Read,7C,Start
+
+Read,LoadC,0,Core
+   1,R
+   9
+Read,LoadC,Core
+
+Read,8C,Start
+
+Read,LoadB,0,Farewell
+   1,J
+  46
+Add 1
+
+Read,9S,Start
+
+#Epilogue
+Add 58
+  51
+   1,S
+   1,X
+  42
+   1,L
+   9
+   1,L
+Read,LoadJournal

@@ -348,7 +348,7 @@ console load 1
    2,L
   40
 
-#lvl_s1 (0)
+#lvl_s1
    5,L
   10,L,D,J
    5,L
@@ -680,6 +680,7 @@ SaveAndQuitReenter
    4,R,J
    1,L
    7,U,G
+#1SH0G
   16,L,J,G
    1,K
   14,U,X

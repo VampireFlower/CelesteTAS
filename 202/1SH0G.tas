@@ -1,0 +1,22 @@
+console load 1
+   1
+
+#Start
+  88
+
+#lvl_1
+Read,../1SH0,lvl_1,lvl_3
+
+#lvl_3
+Read,../1A,lvl_3,lvl_4
+
+#lvl_4
+Read,../1SH0,lvl_4,lvl_8b
+
+#lvl_8b
+Read,../1A,lvl_8b,1SH0G
+
+#lvl_9
+Read,../1SH0,1SH0G
+
+FileTime: 1:48.273(6369)

@@ -1,0 +1,179 @@
+console load 4
+   1
+
+#Start
+  69
+
+#lvl_a-00
+Read,../4SH0,lvl_a-00,4SHCG1
+  10,L,D,X
+  21,R,J
+   7,R
+   8,R,U,X
+  40
+
+#lvl_a-08
+Read,../4SH0,lvl_a-08 (0),4SHC
+
+#lvl_a-10
+   4,D,X
+   1,L,J
+   6,L
+   6,L,K
+  14,L,D,X
+  40
+
+#lvl_a-11
+   1,L,J
+   2,L
+   1
+   6,L,U,X
+   1,J,G
+   1
+   8,L
+   1,L,J
+   3,L
+Read,../4HC,4SHC,lvl_a-09
+
+#lvl_a-09
+Read,../4SH0,lvl_a-09,lvl_b-00 (0)
+
+#lvl_b-00 (0)
+  11,R
+  14,R,U,X
+   1,J,G
+   1
+   3,R,J,G
+   2,J
+   4,R,J
+   1,R
+   1,R,K,G
+  12,R,J,G
+   7,R
+   6,R,J
+   8,J
+  15,U,X
+   2,L
+   1
+   1,L,K
+   1,L
+   1
+   1,J
+   1,K,G
+   1,R
+   1,R,J,G
+   8,R,K,G
+   7,R
+   6,R,X
+   3,R,K
+  40
+
+#lvl_b-02 (0)
+Read,../4SH0,lvl_b-02 (0),lvl_b-03
+
+#lvl_b-03
+Read,../4SHC,lvl_b-03,lvl_b-00 (3)
+
+#lvl_b-00 (1)
+Read,../4SH0,lvl_b-00 (3),4SHCG2
+
+#lvl_b-02 (1)
+   7,R,Z
+   1,R,J
+  40
+
+#lvl_b-sec
+   7,R
+   1,R,J
+  14,R,D,X
+   2,R,J
+  14,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+  15,R,D,X
+   6,R,D,C
+   1,R,J
+   1,R
+  40
+
+#lvl_b-secb
+Read,../4SH0,lvl_b-secb,4SHCG3
+
+#lvl_b-08
+   6,R,J,G
+Read,../4A,4SHCG3,lvl_c-04
+
+#lvl_c-04
+Read,../4SH0,lvl_c-04,4SHCG4
+
+#lvl_c-05
+Read,../4A,4SHCG4,4SHCG5
+
+#lvl_c-06 (0)
+  17,L,X
+   3
+  15,L,C
+   1,L
+  16,R
+   4,Z
+   1,L,J
+   1,L
+   1,L,J
+   2,L
+   1,L,J
+   1,L,K,G
+   9,L
+   2,L,J
+  13,L,X
+  40
+
+#lvl_c-06b
+   1,L,X
+   1,L,K,G
+  12,L,J,G
+   5,L
+   9,L,K
+  10,L
+  14,L,U,X
+   6,J,G
+  11,K
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   3,L
+  13,D,X
+   1,S
+   1,D,J
+  69,O
+   2,R,J
+   5,R,Z
+   1,R,J
+   5,R
+  40
+
+#lvl_c-06 (1)
+Read,../4SH0,lvl_c-06 (1),lvl_c-08
+
+#lvl_c-08
+   4,R
+   4,R,J
+   5,R
+   4,R,K
+   5,R
+   4
+  12,R
+   1
+  14,U,X
+  14,R,J
+  10,R
+   4,R,K
+   6,R
+   5,R,Z
+   2,R,J
+  40
+
+#lvl_c-10
+Read,../4SH0,lvl_c-10
+
+FileTime: 3:17.370(11610)
