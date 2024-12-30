@@ -109,7 +109,7 @@ console load 5
   96,U,C
   43
 
-#lvl_a-08
+#lvl_a-08 (0)
   34,U,C
    1,J
    4,R,K
@@ -148,7 +148,7 @@ console load 5
    1,L,J
   40
 
-#lvl_a-08
+#lvl_a-08 (1)
   16,L,D
   14,R,D
   14,R,D,X

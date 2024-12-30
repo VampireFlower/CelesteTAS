@@ -1,0 +1,85 @@
+console load 6 -800 -336
+   1
+
+#Start
+  36
+
+#lvl_00
+# Spinner Cycle
+   1
+#--------------
+  12,R,J
+   1,K
+   1,R,J,G
+   5,L,J
+   3,J
+  10,R,D,X
+   1,L,J
+   4,L
+  19,L,D,X
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+  13,L,K
+  15,L,D,X
+   1,L
+   3,F,160
+   1,L,K
+   2,L,J
+   9,U,C
+  11,R,J
+   9,J
+   1,R,J
+  17,U,X
+  30,L,J
+  14,R,K
+  43
+
+#lvl_01
+Read,../6HC,lvl_01,lvl_02
+
+#lvl_02
+Read,../6A,lvl_02,lvl_04
+
+#lvl_04
+   1,R,J,G
+   1,R,K,G
+   5,R
+   3,R,J
+   1,R
+#---------------
+#[06] Spinner Cycle
+   0,J
+#---------------
+   4,Z
+   1,R,J
+   7,R
+   2,R,K
+   5,R,J,G
+Read,../6A,6HC1,lvl_boss-20
+
+#lvl_boss-20
+   1,R,J
+   3,R
+   1,R,K
+   3,R
+   2,R,J
+  14,R,Z
+   1,R,J
+  12,R,D,X
+   8,R,J
+   5,R
+   1,R,J
+  13,R,D,X
+   1,R,J
+   4,R
+   3,L
+#Exit
+   1,S
+   1,U,J
+   1,O
+  31
+AnalogMode,Ignore
+FileTime: 3:56.946(13938)

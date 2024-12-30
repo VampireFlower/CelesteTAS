@@ -102,7 +102,13 @@ Read,../4SH0,lvl_b-secb,4SHCG3
 
 #lvl_b-08
    6,R,J,G
-Read,../4A,4SHCG3,lvl_c-04
+   2,L
+   5
+   9,U,X
+  40
+
+#lvl_c-00
+Read,../4A,lvl_c-00,lvl_c-04
 
 #lvl_c-04
 Read,../4SH0,lvl_c-04,4SHCG4
