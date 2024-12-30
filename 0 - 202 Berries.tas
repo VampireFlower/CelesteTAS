@@ -101,25 +101,7 @@ Read,202/7SHCG,Start
 
 Read,LoadCoreFromSummit
 
-Read,8S,Start,100%
-  32,F,95.178
-AnalogMode,Ignore
-  14,R,Z
-#+1f berry
-   1,R,J
-   9,R,D,X
-  40
-
-#lvl_d-11
-   3,R,D,X
-   1,R,J
-   5,R
-  11
-   8,D
-   3
-   1,D
-
-Read,8AC,100%
+Read,202/8SCG,Start
 
 Read,Load1B
 
@@ -206,15 +188,61 @@ Read,LoadB,0,Farewell
   46
 Add 1
 
-Read,9S,Start
+Read,9,Start,End_IGT
 
-#Epilogue
-Add 58
-  51
-   1,S
-   1,X
-  42
-   1,L
+Read,Load1DG
+
+Read,202/1DG,Start
+
+Read,LoadAG,SkipExit
+
+Read,202/2AG,Start
+
+Read,LoadAG,SkipExit
+
+Read,202/3AG,Start
+
+Read,LoadAG
+
+Read,202/4AG,Start
+
+Read,LoadAG
+
+Read,202/5AG,Start
+
+Read,LoadAG,SkipExit,Reflection
+   1,R
+   1,J
+  46
+Add 1
+
+Read,202/6AG,Start
+
+Read,LoadAG,SkipExit,Summit
+  45
+Add 29
+   1,J
+  32
+Add 1
+
+Read,202/7AG,Start
+
+Read,LoadAG,SkipExit,Core
+   1,R
    9
-   1,L
-Read,LoadJournal
+   1,J
+  43
+   1,J
+  30
+   1,R
+   1,J
+  46
+Add 1
+
+Read,202/8AG,Start,Exit
+
+Read,Load1B0,1BG
+  30
+   1,J
+ 304
+Add 1

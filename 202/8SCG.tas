@@ -1,0 +1,23 @@
+#console load 9 5877 -2202
+#play,Heart of The Mountain,37
+
+console hearts 4
+console load 9
+   1
+
+#Start
+  54
+
+#lvl_00
+Read,../8S,lvl_00,lvl_d-06
+
+#lvl_d-06
+Read,../8A,lvl_d-06,lvl_d-07
+
+#lvl_d-07
+Read,../8S,lvl_d-07,lvl_d-11
+
+#lvl_d-11
+Read,../8AC,lvl_d-11
+
+FileTime: 2:56.511(10383)

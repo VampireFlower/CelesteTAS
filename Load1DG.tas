@@ -7,14 +7,14 @@ Add 58
    1,S
    1,X
   42
-Repeat 8
+Repeat 9
    1,L
    9
 Endrepeat
    1,J
   43
-   1,R
    1,J
-#1BG
- 304
+  30
+   1,J
+  46
 Add 1
