@@ -1,0 +1,25 @@
+console hard 1
+   1
+
+#Start
+  88
+
+#lvl_00
+# +13f
+   4,R,J
+   3,J
+   2
+  10,R,D,X
+   8,R,K
+   7,J,G
+#  10,R,X
+#  11,R,J
+
+Read,../1B,1BG1,1BG2
+
+#lvl_end
+   1,S
+   1,U,J
+   1,O
+  31
+FileTime: 1:04.906(3818)

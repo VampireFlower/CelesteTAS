@@ -1,0 +1,144 @@
+console hard 6
+   1
+
+#Start
+#lvl_a-00
+# +1f
+   7,R,Z
+   1,L,J
+   3
+   5,L
+   6,R,D,X
+   1,R,J,G
+   7,R
+   1,R,K
+   1,R
+   1,R,K
+   4,R
+   4,X
+   1,J
+  18
+   2
+  12,L,Z
+   7,L,J
+   1,L
+   1,L,K
+   2,L
+   1,L,J
+   5,D,X
+   1,R,J
+  14,L
+   4,L,J
+  14,U,X
+  20,R,J
+   1,K
+  11,L,K
+  10,L
+   5,R,J
+   5,L,J
+   4,J
+   5,R,X
+   1,R,J,G
+  10,J
+   9
+   9,R
+   1
+  10,R,Z
+  20,L,J
+   3,K
+  11,R,D,X
+   6,R,J
+   1,R
+  10,U,X
+   4,J
+  14,R,J
+   1,K
+   6
+   2,L,K
+   1,R
+   1,K
+   2,L
+   4,R
+   2,L
+   2,R
+   2,L
+   1,R,J
+   5,R
+   2,R,J
+   4,L
+   3,R
+  15,R,X
+   8,L,C
+   1,L
+  12,L,J,G
+   1,L,K,G
+   5,L
+   1,L,K
+   1
+   1,K
+   5,R,X
+   1,L,J
+   8,L
+   1
+   1,R
+   4,L,D
+   1,L
+   4,Z
+   1,R,J
+   2,R
+   3,R,J
+   2,R
+   5,R,K
+   1,K
+   2,R,K
+   1,L,J,G
+  11,R,J
+  14,U,Z
+   9,R,J
+  40
+
+#lvl_a-01
+   1,R
+   2
+   6,L
+   1
+   1,L
+  14,U,Z
+  27,L,U
+AnalogMode Precise
+  43,F,3.201
+   1,F,357.91
+  11,F,298
+   9,F,262.315
+   1,F,264.55
+   5,L,D,X
+  27,R,U
+   1,F,3.5
+StunPause
+  16,F,3.5
+   1,F,3.74
+   3,F,47.9
+EndStunPause
+  27,F,47.9
+   1,F,44.9
+  14,F,11.5
+   1,F,10.5
+   1,F,0
+  40
+
+#lvl_a-02
+Read,../6B,lvl_a-02,a-06 Spinner Cycle
+
+#lvl_a-05
+
+#a-06 Spinner Cycle
+   2
+#------------------
+Read,../6B,------------------,6BG
+
+#lvl_d-05
+   1,S
+   1,U,J
+   1,O
+  31
+FileTime: 3:13.460(11380)

@@ -459,6 +459,7 @@ endrepeat
    1,J,F,180
 SaveAndQuitReenter
   36
+#5BG1
    7,L,Z
    1,R,J
    8
@@ -854,5 +855,6 @@ SaveAndQuitReenter
    1,L,K
    6,R,K
   14,R,U,X
+#5BG2
  135,R,D
 FileTime: 1:43.632(6096)

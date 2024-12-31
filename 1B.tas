@@ -7,6 +7,7 @@ console hard 1
 #lvl_00
   10,R,X
   11,R,J
+#1BG1
   12,R,K,G
    8,J,G
    2,L,J
@@ -679,6 +680,8 @@ EndRepeat
    6,R,D,J
   10,U,X
   20,L,J
- 100,L,X
+  11,L,X
+#1BG2
+  89,L
   46,L,D
 ChapterTime: 1:04.702(3806)

@@ -17,6 +17,7 @@ console hard 3
    2,R
    1,R,J
   10,R
+#3BG1
   14,L,D,X
    1,R,J
    5,R,D,X
@@ -830,5 +831,6 @@ console hard 3
   30,R,Z
   14,R,J
   15,R,U,X
+#3BG2
  135,R,D
 ChapterTime: 1:27.907(5171)

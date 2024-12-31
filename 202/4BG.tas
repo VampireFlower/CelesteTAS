@@ -1,0 +1,43 @@
+console hard 4
+   1
+
+#Start
+  61
+
+#lvl_a-00
+# +8f
+   4,R,J
+   3,J
+   1,R
+   1
+  13,R,D,X
+   9,R,J
+   1,R
+   1,R,J
+   1,R
+   8,R,J
+  14,R,U,Z
+#  14,R,Z
+#   9,R,J
+#   1,R
+#   1,R,J
+#   1,R
+#   8,R,J
+#  14,R,U,Z
+
+Read,../4B,4BG1,c-01 Spinner Cycle
+
+#lvl_c-00
+
+#c-01 Spinner Cycle
+   1
+#------------------
+
+Read,../4B,------------------,4BG2
+
+#lvl_end
+   1,S
+   1,U,J
+   1,O
+  31
+FileTime: 2:00.054(7062)

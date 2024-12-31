@@ -267,6 +267,9 @@ AnalogMode Precise
    2
    1,J,G
    2
+#a-06 Spinner Cycle
+   0
+#------------------
    1,L
    4
    4,Z
@@ -1456,7 +1459,8 @@ AnalogMode,Ignore
   22,R
   13,R,Z
    3,R,J
-  24,R,D,X
-  21,R,D
+  13,R,D,X
+#6BG
+  32,R,D
  103,R
 ChapterTime: 3:14.922(11466)

@@ -194,23 +194,33 @@ Read,Load1DG
 
 Read,202/1DG,Start
 
-Read,LoadAG,SkipExit
+Read,LoadAG
 
 Read,202/2AG,Start
 
-Read,LoadAG,SkipExit
+Read,LoadAG
 
 Read,202/3AG,Start
 
-Read,LoadAG
+Add 197
+ 165
+   1,J
+  83
+Add 7
+Read,LoadAG,Endcard
 
 Read,202/4AG,Start
 
-Read,LoadAG
+Add 197
+ 165
+   1,J
+  83
+Add 7
+Read,LoadAG,Endcard
 
 Read,202/5AG,Start
 
-Read,LoadAG,SkipExit,Reflection
+Read,LoadAG,0,Reflection
    1,R
    1,J
   46
@@ -218,7 +228,7 @@ Add 1
 
 Read,202/6AG,Start
 
-Read,LoadAG,SkipExit,Summit
+Read,LoadAG,0,Summit
   45
 Add 29
    1,J
@@ -227,7 +237,7 @@ Add 1
 
 Read,202/7AG,Start
 
-Read,LoadAG,SkipExit,Core
+Read,LoadAG,0,Core
    1,R
    9
    1,J
@@ -241,8 +251,41 @@ Add 1
 
 Read,202/8AG,Start,Exit
 
-Read,Load1B0,1BG
+Read,Load1B,0,1BG
   30
    1,J
  304
 Add 1
+
+Read,202/1BG,Start
+
+Read,LoadBG
+
+Read,202/2BG,Start
+
+Read,LoadBG
+
+Read,202/3BG,Start
+
+Read,LoadBG
+
+Read,202/4BG,Start
+
+Read,LoadBG
+
+Read,202/5BG,Start
+
+Read,LoadBG
+
+Read,202/6BG,Start
+
+Read,LoadBG
+
+Read,202/7BG,Start
+
+Read,LoadBG,0,Core
+   1,R
+   9
+Read,LoadBG,Core
+
+#Read,202/8BG,Start

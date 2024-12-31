@@ -12,6 +12,7 @@ console hard 4
    1,R
    8,R,J
   14,R,U,Z
+#4BG1
   11,R,C
   15,R,D,X
   14,R,U,C
@@ -976,5 +977,6 @@ EndStunPause
    5,R,J
   28,R,K
   14,R,X
+#4BG2
  135,L,D
 ChapterTime: 2:00.377(7081)

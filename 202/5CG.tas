@@ -1,0 +1,178 @@
+console rmx2 5
+   1
+
+#Start
+  61
+
+#Spinner Cycle
+   0
+
+#lvl_00
+# +21f laoo
+   9,J
+  15,D,C
+
+
+
+#   2,R,J
+#   2,J
+#   5,R,J
+#  10,R,D,X
+#  20,R,J
+#   7,U,X
+#  13,R,J
+#   3,R
+#   8,R,X
+#   1,R,J,G
+#   1,J
+#   3,R,J
+#   7,R
+#   2,R,J
+#  12,R
+#  13,R,X
+#   1,R,J,G
+#   1,J
+# 200,R,J
+
+
+
+  10,R,X
+   9,R,J
+  14,R,U,X
+   1,R,J,G
+   1,R
+  14,R,K,G
+   6,R
+   2,R,K
+  14,R
+   8,R,X
+   1,R,J,G
+   1,J
+   3,R,J
+   9,R
+   1,R,J
+   7,R
+   1,R,K,G
+   2,K
+   4,R,K
+   5,R
+   2,R,K
+   4,R
+   1
+  10,R
+   4,D,X
+   5,R,J
+  10,R
+   2,R,J
+   9,R,U,Z
+  40
+
+#lvl_01
+   3
+   1,J
+   2,R,J
+   4,J
+   6
+   1,J
+   1
+   1,L,G
+   1,L,K,G
+  10,J,G
+   1,R,J
+   1,L,K,G
+   1,L,J,G
+   2,J
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+   1,L,J
+   1,R,J
+   1,J
+   2
+   9,R,D,X
+   1
+   5,R,D,X
+   1,J
+   1,S,N
+  10,O
+   5,R,D,X
+repeat,5
+   1,S,N
+  10,O
+   2,R,D,X
+endrepeat
+  13,R,D
+   1,R
+  40
+
+#lvl_02
+   3,R
+   4,R,D
+  10,R,D,J
+   3,R
+repeat,3
+   1,S,N
+  10,O
+   2,R,J
+endrepeat
+   1,S,N
+  10,O
+   1,R
+   1,R,J
+   1,S,N
+  10,O
+   1,R,J
+   1,R
+   1,S,N
+  10,O
+   3,R
+   2,R,D
+   1,R,J
+   4,R
+   1
+   4,R,J
+   1,J
+  12,R,Z
+   1,L
+   6,J,G
+   5
+   1,R
+  15,R,D
+  26,R,X
+  13,U,C
+  13,R,J
+   1,J
+   1,R,J
+   8,R
+   8,R,J
+  32,R
+  69,R,X
+  18,R,U,C
+  16,R,D,X
+  14,R
+  10,U,Z
+  10,R,J
+   6,R
+   2
+   1,J
+   1,R
+  13,R,U,Z
+   1,L
+   1,J
+   7,R,D
+   3,L
+   5
+   8,R
+   5,R,D
+   1,D
+  18,R,X
+  13,U,C
+  35,R,J
+  15,L,U,X
+  34,R
+  37,L,D
+   5,D
+   1,L,G
+  47,L,J,G
+ChapterTime: 0:16.337(961)
