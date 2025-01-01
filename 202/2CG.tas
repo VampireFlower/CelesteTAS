@@ -8,7 +8,7 @@ console rmx2 2
 # +9f
    1,J
    6,R,J
-   2,J,Z
+   2,J
   10,R,D,X
    1,R,J
   11,R
@@ -20,4 +20,4 @@ Read,../2C,2CG1,2CG2
    1,U,J
    1,O
   31
-FileTime: 0:20.723(1219)
+FileTime: 0:19.601(1153)
