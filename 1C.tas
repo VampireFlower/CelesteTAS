@@ -17,6 +17,7 @@ console rmx2 1
    1,L
    2,J,G
    3
+#1CG1
   13,U,X
    5,J
    5,R,X
@@ -192,5 +193,7 @@ console rmx2 1
   15,U,X
    1,L
    3,L,J,G
- 139,R,D,X
+   4,X
+#1CG2
+ 135,R,D,X
 ChapterTime: 0:15.113(889)

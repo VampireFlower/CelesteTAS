@@ -10,6 +10,7 @@ console rmx2 2
    8,R
    3
   23,R,U,X
+#2CG1
    4,L,G
   10,L,J,G
    1,K,G
@@ -111,7 +112,9 @@ console rmx2 2
  114,L,X
    4,L,J
    9,L,K
-  31,R,D,X
+   5,R,D,X
+#2CG2
+  26,R,D,X
    6,K,G
    6,J,G
    1,L,J

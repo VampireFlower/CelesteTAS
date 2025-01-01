@@ -18,6 +18,7 @@ console rmx2 5
    2,R,K
   14,R
    8,R,X
+#5CG1
    1,R,J,G
    1,J
    3,R,J
@@ -141,7 +142,9 @@ endrepeat
   18,R,X
   13,U,C
   35,R,J
-  15,L,U,X
+   4,X
+#5CG2
+  11,L,U,X
   34,R
   37,L,D
    5,D

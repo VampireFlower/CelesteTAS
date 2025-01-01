@@ -9,6 +9,7 @@ console rmx2 4
    1,R,J
   10,R
   15,R,Z
+#4CG1
   12,U,C
   22,R,J
   54,R,X
@@ -181,5 +182,7 @@ console rmx2 4
    5,R,J
   10,R
   27,R,J
- 141,R,U,X
+   6,R,U,X
+#4CG2
+ 135,R
 ChapterTime: 0:24.905(1465)

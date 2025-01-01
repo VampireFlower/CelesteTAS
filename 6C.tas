@@ -24,6 +24,7 @@ console rmx2 6
   14,U,Z
    9,R,J
   11,R
+#6CG1
   10,R,Z
    5,R,J
   15,R,D,X
@@ -163,6 +164,8 @@ AnalogMode Ignore
    3,D
    6
   24,R
-  31,R,U,X
+  18,R,U,X
+#6CG2
+  13,R
  125,D,C
 ChapterTime: 0:21.607(1271)

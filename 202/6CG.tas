@@ -5,194 +5,33 @@ console rmx2 6
   69
 
 #lvl_00
-# +17f
-   1,R,D,J
-   2,J
-   4,J
-   2,J
-  14,L,D,X
+# +11f
+   3,R,D,J
+   3,J
    1,R,J
+   3
   14,R,D,X
-   8,R,J
-   1,R
-  11,R,J
-  15,R
-   1,R,D
-   1
-   1,D
+  23,R,J
+  20,R
   15,R,Z
-   8,R
-   7
+   9,R
+   6
   17
   15,R,Z
+   1
    1,R
-  11
+  10
   19,R
   14,U,X
    8,R,J
   11,R
 
-
-
-
-#  14,R,Z
-#  19,R,J
-#   1,R
-#   2,R,J
-#  15,R
-#   1,R,D
-#   1,R
-#   1,R,D
-#   1,R
-#   1,R,D
-#  15,R,Z
-#   9,R
-#  23,L
-#  15,R,Z
-#  12,L
-#  18,R
-#  14,U,Z
-#   9,R,J
-#  11,R
-  10,R,Z
-   5,R,J
-  15,R,D,X
-   1,R,D,J
-   5,R,D,X
-  40
-
-#lvl_01
-   9,R,D,X
-   2,R,J
-  15,R,D,X
-   2
-  39,L,D
-   3,L
-  15,R,X
-  25,L,D
-AnalogMode Square
-  27,F,314.744
-AnalogMode Precise
-   4,Z,F,310.16219
-  11,L,Z
-  16,L,D
-  11,R,D
-   1,D
-   6,R,D
-  13,R
-   1,R,D
-  11,R
-AnalogMode Square
-  27,F,315.001
-AnalogMode Precise
-   4,F,335.274
-  36,F,333.955
-  11,F,270
-  11,F,215
-  11,F,185.173
-  18,F,145.473
-  11,F,205
-  10,F,233.45
-   8,F,180
-AnalogMode Ignore
-   3,L
-   6
-   2,L
-   2
-  31,R,D,X
-   4,R
-  28,R,D
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   6,R,K
-   5,R
-   1,R,K
-   1,R
-  40
+Read,../6C,6CG1,6CG2
 
 #lvl_02
-   3,L
-   1,L,K
-   9,L
-   1,L,D
-   1,R,D
-  30,L,D
-   2,D
-   5,D,X
-   1,R
-   2
-  11,J
-   6
-   1,L,J
-   1,L,J
-   1
-  10,D
-   2,R,D
-   8,D
-   1,R,D
-   1,L,G
-   5,L,U,Z
-   1
-  10,J,G
-   1,L
-   1
-   1,K,G
-   6,L
-   1,R
-   1,D
-  15,R,D
-   1,R
-   1,R,D
-  15,R,D,X
-   2,R
-   1
-   1,R,D
-  53,L,D
-  11,D
-   8,L,D
-  15,L,X
-  20,D
-   4,R,Z
-   2,J
-   9
-   7,L,D,X
-   1,L,K,G
-   1,L,J,G
-   6,L
-   5
-   9,R,Z
-   1,L,J
-   7
-  14,L,D,X
-   1,R,J
-   7,R,D,X
-   1,R,J,G
-   6,R
-   1,R,J
-   2,R
-   1,R,K
-  11,R,U,X
-   1,L,J,G
-  28,R
-  13,R,D
-  13,R,U,Z
-   1,L
-   1,J,G
-   2
-   1,R
-  16,R,D
-   5,D
-   1,R,D
-   3,D
-   6
-  24,R
-  31,R,U,X
- 125,D,C
-ChapterTime: 0:21.896(1288)
+   1,S
+   1,U,J
+   1,O
+  31
+
+FileTime: 0:21.454(1262)
