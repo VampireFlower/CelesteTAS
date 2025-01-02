@@ -100,7 +100,9 @@ Read,../9,end_lightning,End_IGT
    1,K
   28,R,K
    1,J
-  19,R,J
+  17,R,J
+   1,R
+   1,R,J
    1
   15,U,X
   10,R
@@ -109,24 +111,17 @@ Read,../9,end_lightning,End_IGT
    3,L
   16,R,U,X
   15,L,V
-  17,L,D
-   8,D
-   4,Z
+  25,L,D
+   4,X
+   2,L,J
+   7,L
    1,L,J
+   7,L,K
+   1,K
    2
-   3,L
-   1,L,J
-   1,L
-   1,L,D,K
-   3,J,G
-   2,K,G
-   1,L,K
-   6,K
-   1,L,K
-   1,R,K
-   1,L,K
   14,U,X
    1,R
+   2
    4,K,G
    1,R,K
    1,L,K
@@ -150,13 +145,12 @@ Read,../9,end_lightning,End_IGT
    2,R
    1
    4,R
-  16,R
+  17,R
    5,R,X
   16
    5,L,J,G
    1,L
    1,K,G
-   1
    5,L,X
   12,L
   13,L,X
@@ -169,7 +163,8 @@ Read,../9,end_lightning,End_IGT
    4
   32,L
   29,L,U,C
-   3,J,G
+   2,J,G
+   1
   10,K,G
    1,R,K
    1,L,K
@@ -188,11 +183,10 @@ Read,../9,end_lightning,End_IGT
   13,R,J
    4,K,G
   15,U,X
-  18,R,J
-   8,R
+  26,R,J
 #Exit
    1,S
    1,U,J
    1,O
   31
-FileTime: 8:06.353(28609)
+FileTime: 8:22.996(29588)
