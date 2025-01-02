@@ -1,4 +1,4 @@
-#FileTime: [WORK IN PROGRESS]
+FileTime: 2:00:52.931(426643)
 #Start from Begin
 
 #Ensures variants postcard
@@ -188,8 +188,8 @@ Read,LoadB,0,Farewell
   46
 Add 1
 
-Read,9,Start,End_IGT
-
+Read,9S,Start,End_IGT
+ 200
 Read,Load1DG
 
 Read,202/1DG,Start
@@ -337,4 +337,15 @@ Read,202/8CG,Start
 
 Read,LoadAG
 
-Read,9S,Start
+Read,202/9G,Start
+
+#Epilogue
+Add 58
+  51
+   1,S
+   1,X
+  42
+   1,L
+   9
+   1,L
+Read,LoadJournal

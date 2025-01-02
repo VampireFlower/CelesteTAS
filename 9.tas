@@ -162,6 +162,7 @@ console load 10
    1,R,J,G
    1
    1,R,K,G
+#9G1
   29,R,J,G
   40
 
@@ -3362,7 +3363,7 @@ AnalogMode,Precise
 #Lightning cycle
 #0-14
    1
-#---------------
+#end_lightning
    7,R,D,C
    1,L,J
    7

@@ -1,0 +1,198 @@
+#console load 10 81744 -13272
+#play,Moonberry Room,37
+
+console load 10
+   1
+
+#Start
+  98
+
+#c-00 cycle 0-2
+   1
+#--------------
+
+
+#lvl_intro-00-past
+Read,../9,lvl_intro-00-past,9G1
+
+#lvl_intro-03-space
+  23,R,J,G
+   3,R
+   7,R,U,Z
+  40
+
+#lvl_a-00
+   9,R,U,Z
+  18,U,C
+  15,R,U,Z
+  15,R,C
+  10,R
+   3
+   7,R,D
+   5,L,D
+   1,L,D
+   4,L
+   1,L,D
+   2,L
+   6,L,Z
+   1,R,J
+   6,R,K,G
+   4,R
+   5,R,D,X
+   1,R,J,G
+   1,R
+   1
+   6,R
+   1,R,J
+   1,R
+# +41f (and 1f spinner)
+  40
+
+#lvl_a-01
+Read,../9,lvl_a-01,Lightning cycle
+
+#lvl_j-08
+#Lightning Cycle
+   4
+Read,../9,end_lightning,End_IGT
+
+#lvl_j-16
+   1,S
+   1,D,J
+  18
+
+#lvl_end-golden
+  97
+   4,R,J
+   3,J
+  10,L,X
+   5,J
+  15,U,X
+   2,J
+  14,R,J
+   1,R,K,G
+   3,R
+   4
+   4,Z
+   1,R,J
+   7,R
+  20,R,J
+   2,R,K,G
+   7,R,J,G
+   3,R
+  12,U,X
+  35,L
+  24,L,U,X
+  10,J
+   5,R,J
+   3,J
+   2,R,J
+  16,U,X
+   8,R
+  38,R
+  15,R,X
+   2,R,J
+   2,J
+   8,R,J
+   1,J
+  15,U,X
+  35,R,J
+   1,K
+  28,R,K
+   1,J
+  19,R,J
+   1
+  15,U,X
+  10,R
+  15,U,X
+  11,R
+   3,L
+  16,R,U,X
+  15,L,V
+  17,L,D
+   8,D
+   4,Z
+   1,L,J
+   2
+   3,L
+   1,L,J
+   1,L
+   1,L,D,K
+   3,J,G
+   2,K,G
+   1,L,K
+   6,K
+   1,L,K
+   1,R,K
+   1,L,K
+  14,U,X
+   1,R
+   4,K,G
+   1,R,K
+   1,L,K
+  10,R,J,G
+   4,R
+   1
+   2,R
+   6,L,Z
+   1,R,J
+   6,R
+   6,R,J
+   2,R
+  25,R,U,Z
+   1
+   1,J,G
+   1,L,J
+   1,R,K,G
+   4,R,J,G
+   1,R,K,G
+   1,R,J,G
+   2,R
+   1
+   4,R
+  16,R
+   5,R,X
+  16
+   5,L,J,G
+   1,L
+   1,K,G
+   1
+   5,L,X
+  12,L
+  13,L,X
+  12,L
+  13,L,X
+   1,L,J,G
+   2,L,K,G
+   2,L,J,G
+   3,L
+   4
+  32,L
+  29,L,U,C
+   3,J,G
+  10,K,G
+   1,R,K
+   1,L,K
+   1,J,G
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1
+   7,R
+   6,R,J
+  14,R,U,X
+   1,R,J,G
+   1,L,J
+   7,R
+  13,R,J
+   4,K,G
+  15,U,X
+  18,R,J
+   8,R
+#Exit
+   1,S
+   1,U,J
+   1,O
+  31
+FileTime: 8:23.030(29590)
