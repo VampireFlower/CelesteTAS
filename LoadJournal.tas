@@ -3,8 +3,8 @@
    1,R
  300
    1,R
-#Any%
  300
+#Any%
    1,X
   59
    1,J
@@ -14,3 +14,4 @@
 Add 1
 
 Read,0 - Epilogue,Start
+ 300
