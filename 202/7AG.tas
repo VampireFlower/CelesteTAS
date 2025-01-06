@@ -40,15 +40,11 @@ console load 7
 Read,../7A,lvl_a-01,lvl_b-02
 
 #lvl_b-02
-   5,R
-   1,R,J
-   1,R,K,G
-   5,R
-   1,R,K
-   4,R
-  11,R,J
+   2,R,J
+   3,R
+  20,R,J,G
    1,J
-   3,R,J
+   2,R,J
   15,R,U,X
   14,U,Z
    4,J
@@ -94,8 +90,7 @@ Read,../7A,lvl_a-01,lvl_b-02
    9,R,D,J
    1,J
    2,R,J
-  15,R,U,Z
-   1,R
+  16,R,U,Z
   26,L,D,X
    4,L
   15,L,U,X
@@ -267,9 +262,8 @@ Read,../7S,lvl_e-00b,lvl_f-00 (1)
   16,R,J
   14,R,U,X
    4,R,J,G
-
 #Spinner Cycle
-   0
+   2
 #-------------
   58,R,X
    9,R,D,C

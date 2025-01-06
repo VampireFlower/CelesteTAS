@@ -55,14 +55,11 @@ Read,7A,Start,lvl_a-06
 Read,7A,lvl_b-00,lvl_b-02
 
 #lvl_b-02
-   5,R
-   1,R,J
-   1,R,K,G
-   5,R
-   1,R,K
-   4,R
-  14,R,J
+   2,R,J
+   3,R
+  20,R,J,G
    1,J
+   2,R,J
   15,R,U,X
   14,U,Z
    8,R,J
@@ -1048,4 +1045,4 @@ SaveAndQuitReenter
   15,R,J
    2,K,G
 Read,7A,7HC1
-FileTime: 7:46.293(27429)
+FileTime: 7:46.259(27427)
