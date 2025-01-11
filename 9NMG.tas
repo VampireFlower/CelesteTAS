@@ -775,7 +775,7 @@ console load 10
    4,K,G
   40
 
-#lvl_e-00y
+#lvl_e-00y (0)
    1,R
    1,L
    1,J,G
@@ -812,11 +812,13 @@ console load 10
    4,R
    1
   19,U,X
-  25,R,J
+  21,R,J
+   4,J
   15,U,X
-   7,U,C
-  23,L,J
-  13,L,X
+   9,U,C
+  14,L,J
+   5,L
+  14,L,X
    1,L,J,G
    2,L,K,G
    3,L,J,G
@@ -826,7 +828,7 @@ console load 10
   60,L,U,X
   40
 
-#lvl_e-00y
+#lvl_e-00y (1)
   61
 #Remembered
   15,U,X
@@ -882,22 +884,19 @@ console load 10
    2
   12,R,Z
    3,L,J
-   1,L
+   2,L
    1,L,J
-   3,L
+   2,L
    6,L,D
-   1,L,J
-   1,L
-   6,L,J
-   1,L
-   1,L,J
-   6,L
+  10,L,J
+  12,L,D
+  20,L,U,Z
+   7,R
+  10,L
+   0,R
+  21,L,U,X
    2
-  19,L,X
-  20,L
-  15,U,X
-  15,L,U,C
-   7,L
+  10,L,U,X
   31,R
   15,R,U,Z
    3
@@ -909,27 +908,24 @@ console load 10
   40
 
 #lvl_e-00b
-   1,R,J
-  10,L,J
+   3,R,J
+   9,L,J
   14,U,X
   13,G
-   2,R,G
-   2,G
-  37,R,U,K,G
-   2,R,G
-  20,R
-   8
-   2,L
-  14,R,U,X
-  13,G
-   4,R,G
+  15,R,U,G
+   1,U,G
+  21,R,U,G
+  19,R,D,G
+  12,R,G
+   1,G
+  20,R,U,G
   13,G
    9,L
   12,U,X
-  13,G
-  26,L,J,G
+  14,G
+  28,L,J,G
    1,R,J
-   2,L,J
+   1,L,J
    1,L,K,G
    3,R,K
    1,R
@@ -1153,7 +1149,7 @@ console load 10
    8,R
   40
 
-#lvl_e-06
+#lvl_e-06 (0)
    1,R,J
    2,R
    1,R,D,J
@@ -1206,7 +1202,7 @@ console load 10
    4,R
   40
 
-#lvl_e-06
+#lvl_e-06 (1)
    3,R
    1,R,J
    9,R,D,X
@@ -1346,9 +1342,7 @@ console load 10
    3,R
    8,R,D,X
    1,R,J,G
-   7,R
-   1,R
-   3,R
+  11,R
    1,R,J
    7,R
    3,R,J
@@ -1425,19 +1419,15 @@ console load 10
    5,R
    1,R,K
    2,R
-   4,R,J
-   6,R,D,X
+   5,R,J
+   5,R,D,X
    2,R,J,G
    5,R
-   3,R,J
   40
 
 #lvl_f-01
-   1,R
-   1,R,J
-   1,R
-   1,R,J
-   8,R
+   3,R,J
+  10,R
   26,R,K
    1,R
   16,R,U,X
@@ -1598,7 +1588,7 @@ console load 10
 #add a frame to this
 #until it syncs
 
-   0
+   2
 
 # ---------
 
@@ -2554,6 +2544,7 @@ AnalogMode,Precise
   11,F,70
   11,F,10
   11,F,0.001
+AnalogMode,Ignore
    1,L,G
    6,K,G
    3,L,J,G
@@ -2888,8 +2879,7 @@ AnalogMode,Precise
    1,R,J
    1,J
    7
-   2,R
-   4,R
+   6,R
   11,L,D,X
    2,R,J
    2,R
@@ -2932,8 +2922,7 @@ Read,9,Stubbornness,lvl_j-08
   15,R,C
    7,R
   18,R,D,X
-   6
-   4
+  10
   10,R,D,C
   12
    6,L
@@ -3100,8 +3089,7 @@ Read,9,Stubbornness,lvl_j-08
   14,R,X
   26,R,D,G
    7,D,G
-   1,G
-   4,G
+   5,G
    1,D,G
    3,G
    1
@@ -3161,8 +3149,7 @@ Read,9,Stubbornness,lvl_j-08
    1,R,U,G
    1,D,G
   31,R,U,G
-   1
-  30
+  31
    8,R,U,X
   47,R,G
    3,R,U,G
@@ -3856,7 +3843,7 @@ endrepeat
  116,F,1
   15,U,X
   38
-ChapterTime: 10:28.150(36950)
+ChapterTime: 10:27.946(36938)
 # Optional waiting for
 # visuals to play out
 # without IGT loss
