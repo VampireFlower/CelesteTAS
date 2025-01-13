@@ -1,5 +1,5 @@
 console clrsav
-unsafe
+Unsafe
 console load 6
    1
 
@@ -140,7 +140,7 @@ Read,6A,lvl_02b,6HC0
   12,L,J
   40
 
-#lvl_04 (1)
+#lvl_04 (0)
    1,J,G
    2
    2,J,G
@@ -214,7 +214,7 @@ Read,6A,lvl_02b,6HC0
    1,R,J
   40
 
-#lvl_04 (2)
+#lvl_04 (1)
    4,J
    1,R,J
    4,R,K,G
@@ -358,7 +358,7 @@ Read,6A,lvl_02b,6HC0
   31
 
 #Overworld
-Add 58
+Add,58
   51
    1,S
    1,J
@@ -367,9 +367,9 @@ Add 58
    1,F,90
    1,J
   46
-Add 1
+Add,1
 
-#lvl_04 (3)
+#lvl_04 (2)
   36
 #---------------
 #Spinner Cycle 1
@@ -380,7 +380,7 @@ Add 1
    6,R,K,G
 Read,6A,6HC1,[b-03] Spinner Cycle
 
-#lvl_11
+#lvl_11 (1)
 #---------------
 #Spinner Cycle 2
    1

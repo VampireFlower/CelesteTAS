@@ -14,7 +14,7 @@ console load 2
    7,R
   40
 
-#lvl_0
+#lvl_0 (0)
 Read,../2A,lvl_0 (0),lvl_12b
 
 #lvl_12b (0)

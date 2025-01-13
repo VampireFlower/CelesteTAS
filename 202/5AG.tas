@@ -112,7 +112,7 @@ Read,../5A,lvl_c-08,lvl_d-01
    2,L
   40
 
-#lvl_d-04
+#lvl_d-04 (0)
   17,L,D
   15,D,X
    7,L,D
@@ -163,7 +163,7 @@ Read,../5S,lvl_d-01 (3),lvl_d-19
 #lvl_d-19
 Read,../5A,lvl_d-19,lvl_d-19b (1)
 
-#lvl_d-19b
+#lvl_d-19b (1)
 Read,../5S,lvl_d-19b (1),Spinner Cycle
    0
 Read,../5S,-------------,lvl_e-06

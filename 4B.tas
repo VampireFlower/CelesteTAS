@@ -249,7 +249,7 @@ console hard 4
    1
   16,R,Z
    9,U,G
-Repeat 6
+Repeat,6
    1,D,G
    1,U,G
 EndRepeat
@@ -347,10 +347,10 @@ EndRepeat
    5,R,J
   16,R
    2,L
-Repeat 9
+Repeat,9
    1,R
    1,L
-Endrepeat
+EndRepeat
    2,R
    1,L
    5,R

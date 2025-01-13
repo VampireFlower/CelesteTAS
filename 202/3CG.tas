@@ -19,7 +19,7 @@ console rmx2 3
 #lvl_01
 Read,../3C,lvl_01,3CG
 
-#lvl_02
+#lvl_02 (1)
    1,S
    1,U,J
    1,O

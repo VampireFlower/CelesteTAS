@@ -246,7 +246,7 @@ console hard 9
   49,R,J
    2,R,D
   16,R,V
-Repeat 5
+Repeat,5
    1,G
    1
 EndRepeat

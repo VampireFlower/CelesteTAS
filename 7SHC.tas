@@ -1,5 +1,5 @@
 console clrsav
-unsafe
+Unsafe
 console load 7
    1
 
@@ -27,9 +27,9 @@ Read,7S,lvl_b-00,7SHC0
   40
 
 #Lvl_b-02 (1)
-Read,7S,lvl_b-02b (1),7SHC1
+Read,7S,lvl_b-02b (0),7SHC1
 
-#lvl_b-02e
+#lvl_b-02e (1)
    7,U,X
    8,R,J
    5,R,V
@@ -47,7 +47,7 @@ Read,7S,lvl_b-02b (1),7SHC1
   12,R,D,C
   40
 
-#lvl_b-02b (2)
+#lvl_b-02b
    3,R
    2,R,J
    2,R
@@ -100,7 +100,7 @@ Read,7S,lvl_b-02b (1),7SHC1
    9,D,C
   40
 
-#lvl_b-02 (2)
+#lvl_b-02 (1)
    9,R,D
    7,R,D,X
    1,R,J
@@ -113,7 +113,7 @@ Read,7S,lvl_b-02b (1),7SHC1
    9,R
   40
 
-#lvl_b-03 (1)
+#lvl_b-03 (0)
    2,R
   18,R,J
   17,R,D,X
@@ -141,8 +141,8 @@ Read,7S,lvl_b-02b (1),7SHC1
    5,L,U,Z
   40
 
-#lvl_b-03 (2)
-Read,7S,lvl_b-03 (2),lvl_b-07
+#lvl_b-03 (1)
+Read,7S,lvl_b-03 (1),lvl_b-07
 
 #lvl_b-07
 #+0f Berry
@@ -166,7 +166,7 @@ Read,7S,lvl_b-03 (2),lvl_b-07
   40
 
 #lvl_b-08
-Read,7S,lvl_b-08,lvl_c-06 (1)
+Read,7S,lvl_b-08,lvl_c-06 (0)
 
 #lvl_c-06
    2,L
@@ -184,7 +184,7 @@ Read,7S,lvl_b-08,lvl_c-06 (1)
    1,R,J
   40
 
-#lvl_c-06b (1)
+#lvl_c-06b (0)
    6,R,J
    1
    1,R
@@ -214,9 +214,9 @@ Read,7S,lvl_b-08,lvl_c-06 (1)
   40
 
 #lvl_c-06c
-Read,7HC,lvl_c-06c,lvl_c-06b (2)
+Read,7HC,lvl_c-06c,lvl_c-06b (1)
 
-#lvl_c-06b (2)
+#lvl_c-06b (1)
   20,L,U,X
    4,L,J
    3,L,K
@@ -229,7 +229,7 @@ Read,7HC,lvl_c-06c,lvl_c-06b (2)
   16,U,C
   40
 
-#lvl_c-07 (1)
+#lvl_c-07 (0)
   11,L,J
   11,L,Z
    4,L,J
@@ -294,8 +294,8 @@ Read,7HC,lvl_c-06c,lvl_c-06b (2)
    5,R,D,X
   40
 
-#lvl_c-07 (2)
-Read,7S,lvl_c-07 (2),lvl_c-08
+#lvl_c-07 (1)
+Read,7S,lvl_c-07 (1),lvl_c-08
 
 #lvl_c-08
    6,R,D,X
@@ -371,7 +371,7 @@ Read,7S,lvl_c-09,lvl_d-02
    1
   40
 
-#lvl_d-03 (1)
+#lvl_d-03 (0)
    9,R
   23,R,D,J
   15,U,X
@@ -434,7 +434,7 @@ Read,7S,lvl_c-09,lvl_d-02
   11,D,X
   40
 
-#lvl_d-03 (2)
+#lvl_d-03 (1)
    9,R,D
   37,R,D,X
   10,R,C
@@ -519,10 +519,10 @@ Read,7S,lvl_c-09,lvl_d-02
    9,R
   40
 
-#lvl_d-05 (1)
-Read,7HC,lvl_d-05 (1),lvl_d-05 (2)
+#lvl_d-05 (0)
+Read,7HC,lvl_d-05 (0),lvl_d-05 (1)
 
-#lvl_d-05 (2)
+#lvl_d-05 (1)
    4,L
    8,L,J
   14,U,X
@@ -534,7 +534,7 @@ Read,7HC,lvl_d-05 (1),lvl_d-05 (2)
   14,U,C
   40
 
-#lvl_d-06 (1)
+#lvl_d-06 (0)
    1
    2,L
    1
@@ -546,7 +546,7 @@ Read,7HC,lvl_d-05 (1),lvl_d-05 (2)
    7,L,K
   43
 
-#lvl_d-08
+#lvl_d-08 (0)
 Read,7S,lvl_d-07,lvl_d-10b
 
 #lvl_d-10b
@@ -585,8 +585,8 @@ Read,7S,lvl_d-07,lvl_d-10b
   32,L,D
   40
 
-#lvl_d-10 (2)
-Read,7S,lvl_d-10 (2),lvl_e-00b
+#lvl_d-10 (1)
+Read,7S,lvl_d-10 (1),lvl_e-00b
 
 #lvl_e-00b
 Read,7HC,lvl_e-00b,lvl_e-03
@@ -802,9 +802,9 @@ Read,7S,lvl_e-08,lvl_e-10
   40
 
 #lvl_e-13
-Read,7S,lvl_e-13,lvl_f-00 (1)
+Read,7S,lvl_e-13,lvl_f-00 (0)
 
-#lvl_f-00 (1)
+#lvl_f-00 (0)
   78
 #+1f Berry
    6,R,D,X
@@ -844,7 +844,7 @@ Read,7S,lvl_e-13,lvl_f-00 (1)
   31
 
 #Overworld
-Add 58
+Add,58
   51
    1,S
    1,J
@@ -856,9 +856,9 @@ Add 58
    1,R
    1,J
   46
-Add 1
+Add,1
 
-#lvl_f-00
+#lvl_f-00 (1)
   36
    6,R,J
    1,R
@@ -900,15 +900,15 @@ Add 1
   40
 
 #lvl_f-00 (2)
-Read,7HC,lvl_f-00 (2),7SHC
+Read,7HC,lvl_f-00 (1),7SHC
 
-#lvl_f-02b
+#lvl_f-02b (1)
    1,R
    2,R,D,J
    5,R
   40
 
-#lvl_f-07 (1)
+#lvl_f-07 (0)
    2,R,J
   21,R,D,X
    5,L,D
@@ -939,13 +939,13 @@ Read,7HC,lvl_f-00 (2),7SHC
   21,R,D,C
   40
 
+#lvl_f-05 (0)
+Read,7HC,lvl_f-05 (0),lvl_f-07 (1)
+
+#lvl_f-07 (1)
+Read,7A,lvl_f-07,lvl_f-05 (1)
+
 #lvl_f-05 (1)
-Read,7HC,lvl_f-05 (1),lvl_f-07 (2)
-
-#lvl_f-07 (2)
-Read,7A,lvl_f-07,lvl_f-05 (2)
-
-#lvl_f-05 (2)
   15,R,D,X
    1,L,D
    6,R,D

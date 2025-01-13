@@ -125,7 +125,7 @@ EndStunPause
 #lvl_e-02
 Read,../7B,lvl_e-02,Spinner_e-03
 
-#lvl_e-03
+#lvl_e-03 (1)
 
 #Spinner_e-03
    1
@@ -133,7 +133,7 @@ Read,../7B,lvl_e-02,Spinner_e-03
 
 Read,../7B,end_cycle_e-03,Spinner_CP-09
 
-#lvl_g-02
+#lvl_g-02 (0)
 #CP-10
 
 #Spinner_CP-09
@@ -161,7 +161,7 @@ EndStunPause
 
 Read,../7B,7BG2,7BG3
 
-#lvl_g-03
+#lvl_g-03 (1)
    1,S
    1,U,J
    1,O

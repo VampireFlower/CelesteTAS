@@ -122,7 +122,7 @@ console hard 9 560 56
 #lvl_a-03
 Read,../8B,lvl_a-03,8BG
 
-#lvl_space
+#lvl_space (1)
    1,S
    1,U,J
    1,O
