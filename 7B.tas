@@ -16,7 +16,7 @@
 #console hard 7 12848 -11320
 #play,3000M,37
 
-unsafe
+Unsafe
 console hard 7
    1
 
@@ -752,7 +752,7 @@ console hard 7
    1,O
   31
 #Overworld
-Add 58
+Add,58
    4
    1,O
   30
@@ -1879,11 +1879,11 @@ EndStunPause
   15,U,C
 #7BG3
   15
-Repeat 8
+Repeat,8
    1,R
    1,L
 EndRepeat
-Repeat 6
+Repeat,6
    2,R
    2,L
 EndRepeat

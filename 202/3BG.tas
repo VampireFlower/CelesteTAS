@@ -30,7 +30,7 @@ console hard 3
 
 Read,../3B,3BG1,3BG2
 
-#lvl_end
+#lvl_end (1)
    1,S
    1,U,J
    1,O

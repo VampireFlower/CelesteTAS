@@ -45,7 +45,7 @@ Read,8B,Start
  196
 Read,LoadANoCollects,0,Prologue
   48
-Add 7
+Add,7
 
 #Epilogue
    1,S

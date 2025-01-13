@@ -15,7 +15,7 @@ console load 10
 #lvl_intro-00-past
 Read,../9,lvl_intro-00-past,9G1
 
-#lvl_intro-03-space
+#lvl_intro-03-space (1)
   23,R,J,G
    3,R
    7,R,U,Z
@@ -51,12 +51,12 @@ Read,../9,lvl_intro-00-past,9G1
 #lvl_a-01
 Read,../9,lvl_a-01,Lightning cycle
 
-#lvl_j-08
+#lvl_j-08 (1)
 #Lightning Cycle
    4
 Read,../9,end_lightning,End_IGT
 
-#lvl_j-16
+#lvl_j-16 (1)
    1,S
    1,D,J
   18

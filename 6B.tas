@@ -94,7 +94,7 @@ console hard 6
    1,L
   14,U,Z
   27,L,U
-AnalogMode Precise
+AnalogMode,Precise
   43,F,3.201
    1,F,357.91
   11,F,298
@@ -167,9 +167,9 @@ EndStunPause
    1
    1,R
    1
-AnalogMode Square
+AnalogMode,Square
   27,F,299.569
-AnalogMode Precise
+AnalogMode,Precise
    5,F,272.904
    1,F,278.04
   10,F,333
@@ -374,7 +374,7 @@ StunPause
 SkipInput,3,6
   10,R,U,X
    1,R,J,G
-EndStunpause
+EndStunPause
   10,R,J
    1,J
    1,R,J

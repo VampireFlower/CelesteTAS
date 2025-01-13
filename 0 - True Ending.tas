@@ -27,7 +27,7 @@ Read,4HC,lvl_b-00
 
 Read,LoadA
 
-Read,5HC,Start,lvl_b-17 (1)
+Read,5HC,Start,lvl_b-17 (0)
 
 #lvl_b-17
    3,R,D
@@ -112,10 +112,10 @@ Read,6B,Start
 Read,LoadAFromB,0,Summit
 #Summit
   45
-Add 29
+Add,29
    1,J
   32
-Add 1
+Add,1
 
 Read,7A,Start
 
@@ -125,12 +125,12 @@ Read,8A,Start
 
 Read,LoadAFromB,0,Summit
   46
-Add 1
+Add,1
 
 Read,9,Start
 
 #Epilogue
-Add 58
+Add,58
   51
    1,X
   42

@@ -142,15 +142,15 @@ SaveAndQuitReenter
    1,L,D
   27,L,U,G
    6
-Stunpause
+StunPause
    6
    4,L
    3,D
   19
    2,L
-Skipinput,3,1
+SkipInput,3,1
    7,R,Z
-Endstunpause
+EndStunPause
    1,L,J
    6,L
    2,R
@@ -181,12 +181,12 @@ Endstunpause
    1,K,G
   11,J,G
   12,D,X
-Repeat 5
+Repeat,5
    1,R,K
    1,R,J
    1,L,K
    1,L,J
-Endrepeat
+EndRepeat
    1,R,K
    1,R,J
    1,L,J
@@ -325,10 +325,10 @@ AnalogMode,Ignore
 
 #lvl_06
    3,R,D
-stunpause
+StunPause
    3,R,D
    1,R,J
-endstunpause
+EndStunPause
    3,J
    5,R,J
    2,J

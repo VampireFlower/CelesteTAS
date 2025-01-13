@@ -33,7 +33,7 @@ Read,../3SH,lvl_s0,lvl_s2
   20,R,J
   40
 
-#lvl_s3
+#lvl_s3 (0)
    2,R,J
    8,R
    1
@@ -80,7 +80,7 @@ Read,../3SH,lvl_s0,lvl_s2
 #lvl_0x-a
 Read,../3SH,lvl_0x-a,Spawn
 
-#lvl_11-c
+#lvl_11-c (2)
   36
   11,R,Z
    2,R,J
@@ -106,6 +106,6 @@ Read,../3SH,lvl_0x-a,Spawn
 #lvl_12-d
 Read,../3SH,lvl_12-d,lvl_04-c (0)
 
-#lvl_04-c
+#lvl_04-c (0)
 Read,../3SHC,lvl_04-c (0)
 FileTime: 4:52.009(17177)

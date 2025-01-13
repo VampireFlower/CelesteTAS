@@ -7,10 +7,10 @@ Read,LoadEnableCheatMode,Start
 #Epilogue
    1,X
   42
-Repeat 8
+Repeat,8
    1,R
    9
-Endrepeat
+EndRepeat
 Read,LoadJournal
 
 FileTime: 0:04.046(238)

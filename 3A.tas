@@ -441,10 +441,10 @@ console load 3
   10,D
    8,R,D
    6,G
-repeat,48
+Repeat,48
    1,G
    1,U,G
-endrepeat
+EndRepeat
   14,L,D,X
    1,R,J
    5,R,D,X

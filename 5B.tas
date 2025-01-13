@@ -177,10 +177,10 @@ console hard 5
    1,R,J
    3,J
    2,L,K,G
-repeat 7
+Repeat,7
    1,R,K
    1,L,K
-endrepeat
+EndRepeat
   12,R,J
    6,L,J
    1,K,G

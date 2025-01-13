@@ -366,10 +366,10 @@ console load 5
   40
 
 #lvl_b-19
-read,5S,lvl_b-19,lvl_b-16
+Read,5S,lvl_b-19,lvl_b-16
 
 #lvl_b-16
-read,5S,lvl_b-16,lvl_c-08
+Read,5S,lvl_b-16,lvl_c-08
 
 #lvl_c-08
    3,R
@@ -451,7 +451,7 @@ read,5S,lvl_b-16,lvl_c-08
   40
 
 #lvl_c-07
-read,5S,lvl_c-07,lvl_d-01 (0)
+Read,5S,lvl_c-07,lvl_d-01 (0)
 
 #lvl_d-01
   32
@@ -542,9 +542,9 @@ read,5S,lvl_c-07,lvl_d-01 (0)
   40
 
 #lvl_d-19b (1)
-read,5S,lvl_d-19b (1),Spinner Cycle
+Read,5S,lvl_d-19b (1),Spinner Cycle
    0
-read,5S,-------------,lvl_e-06
+Read,5S,-------------,lvl_e-06
 
 #lvl_e-06
    4,R,G

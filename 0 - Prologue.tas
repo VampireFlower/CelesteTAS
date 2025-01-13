@@ -128,20 +128,20 @@ console load 0
 
 #lvl_3
    7,R
-repeat 17
+Repeat,17
    1,R,J
   14,R
-endrepeat
+EndRepeat
    8,R,J
   19,R,D
    1,R
    4,R,D
    5,R,J
    7,R
-repeat 9
+Repeat,9
    1,R,J
   14,R
-endrepeat
+EndRepeat
    3,R,J
    8,R
    3,R,J

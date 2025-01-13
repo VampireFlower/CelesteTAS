@@ -17,7 +17,7 @@ console hard 1
 
 Read,../1B,1BG1,1BG2
 
-#lvl_end
+#lvl_end (1)
    1,S
    1,U,J
    1,O

@@ -1,15 +1,15 @@
 console clrsav
-unsafe
+Unsafe
 console load 5
    1
 
 #Start
  110
 
-#lvl_a-00b
+#lvl_a-00b (0)
 Read,../5S,lvl_a-00b (0),lvl_a-08 (0)
 
-#lvl_a-08
+#lvl_a-08 (0)
   35,U,C
    3,J
   10,R,Z
@@ -17,14 +17,14 @@ Read,../5S,lvl_a-00b (0),lvl_a-08 (0)
    2,J
   40
 
-#lvl_a-10
+#lvl_a-10 (0)
 Read,../5S,lvl_a-10 (0),Overworld
 
 #Overworld
-Read,../5SHC,Overworld,lvl_void
+Read,../5SHC,Overworld,lvl_void (0)
 
-#lvl_void
-read,../5S,lvl_b-16,lvl_d-04 (0)
+#lvl_void (0)
+Read,../5S,lvl_b-16,lvl_d-04 (0)
 
 #lvl_d-04
   11,R,D
@@ -55,7 +55,7 @@ read,../5S,lvl_b-16,lvl_d-04 (0)
    9,L,J
   25,R,X
    3,J
-Repeat 3
+Repeat,3
    1,K,G
    1,L,K
    1,J
@@ -64,7 +64,7 @@ Repeat 3
    1,R,J
    1,K
    2,J
-Endrepeat
+EndRepeat
    1,R,K,G
    1,J
    2,K
@@ -131,7 +131,7 @@ Endrepeat
 #lvl_d-19b (1)
 Read,../5S,lvl_d-19b (1),Spinner Cycle
 
-#lvl_e-00
+#lvl_e-00 (1)
    0
 Read,../5S,-------------
 

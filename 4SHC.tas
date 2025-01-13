@@ -7,7 +7,7 @@ console load 4
 #lvl_a-00
 Read,4SH0,lvl_a-00,4SHC
 
-#lvl_a-10 (0)
+#lvl_a-10 (1)
    4,D,X
    1,L,J
    6,L
@@ -25,10 +25,10 @@ Read,4SH0,lvl_a-00,4SHC
    8,L
    1,L,J
    3,L
-read,4HC,4SHC,lvl_a-09
+Read,4HC,4SHC,lvl_a-09
 
 #lvl_a-09
-read,4SH0,lvl_a-09,lvl_b-03
+Read,4SH0,lvl_a-09,lvl_b-03
 
 #lvl_b-03
    6,R

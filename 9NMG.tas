@@ -3534,10 +3534,10 @@ Read,9,Stubbornness,lvl_j-08
    1,L
    3,L,D
    1,L
-repeat,4
+Repeat,4
    1,L,D
    1,L
-endrepeat
+EndRepeat
    6,L
    1,L,D
    1,G
@@ -3865,7 +3865,7 @@ ChapterTime: 10:27.946(36938)
   18
 
 #end-cinematic
-Add 2
+Add,2
   61
    1,S
    1,D,J
