@@ -765,8 +765,9 @@ EndStunPause
   15,L,K,G
   15,U,X
   12,R,U,C
+
 #e-07 spinner cycle
-   0
+   2
 #-----------
   45,U,X
   60,L,U,C
@@ -1120,23 +1121,25 @@ EndRepeat
    3,R,U,G
    9,R
    5,U,X
-  10,J
+   9,J
+   1
    7,R,X
-  13,G
-   3,R,G
-   1,G
-  15,R,G
+  13,R,G
+   4,R,G
+   2,R,U,J,G
+  13,R,G
    1,U,G
-   6,R,G
-   4,R,D,G
+   4,R,G
+   5,R,D,G
    1,R
   15,L,X
   10,L
-   6,R
+   5,R
   12,L,D,X
    5,R
   11,L,D,X
-   4,R,J
+   3,R,J
+   1,R
   12,R,D,X
    1,R,J,G
    1,R,K,G
