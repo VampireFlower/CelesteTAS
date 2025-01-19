@@ -70,7 +70,7 @@ Endrepeat
    2,K
    2,J
    1,R,K,G
-  32,D,X
+  33,D,X
    1,J
    7,L,V
    1,L,J
@@ -132,7 +132,7 @@ Endrepeat
 Read,../5S,lvl_d-19b (1),Spinner Cycle
 
 #lvl_e-00
-   0
+   2
 Read,../5S,-------------
 
 FileTime: 6:39.823(23519)
