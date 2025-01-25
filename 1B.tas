@@ -37,22 +37,28 @@ console hard 1
    1,R,J,G
    2,R,K,G
    2
-   9,R,V
-   2,R,K
-   1,R,J,G
-   6,R
-   2,R,J
+  10,R,V
+   1,R,K
+   2,R,J,G
+   7,R
+   1,R,J
    1,R
-   8,R,J
-   4
-   3,R,G
-   1,K,G
-   1,R,J,G
-   5,R,K,G
-   5,R
-   2,K
-  10,R,D
-  23,R,J
+   3,R,J
+   9,R
+   1,J,G
+   8
+   1,R,J
+   2,L
+   1,G
+   5,J,G
+   1,L
+   1
+   1,L
+   1
+   1,L
+   1
+   2,R,D
+  22,R,D,J
    1,R,K
   12,R,J
    1,R,K,G
@@ -684,4 +690,4 @@ EndRepeat
 #1BG2
   89,L
   46,L,D
-ChapterTime: 1:04.702(3806)
+ChapterTime: 1:04.685(3805)
