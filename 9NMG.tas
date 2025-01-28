@@ -12,7 +12,7 @@
 #play,Remembered,39
 
 #console load 10 17452.87 -6224
-#play,Event Horizon,37
+#play,Event Horizon,38
 
 # -------------
 # The above checkpoints depend on
@@ -21,7 +21,7 @@
 # Possible values: 37-39
 # -------------
 
-#console load 10 31521.53 -7931.09
+#console load 10 31521.21 -7933.01
 #play,Determination,37
 
 #console load 10 61392 -10554
@@ -128,38 +128,38 @@ console load 10
    9,J
    1,R,J
    1,R
-  10,R,J
-   3
-   5,R,U,Z
+   9,R,D,K
+   3,R
+   6,R,U,X
   40
 
 #lvl_a-00
-   8,R,U,Z
-   2,R,J,G
    8,R,U,X
-   2,J,G
-   2
+   1,R,J,G
+   9,R,U,Z
+   3,R,K,G
   40
 
 #lvl_a-01
-  13
-   2,R
-   6,R,U,Z
+   3,R,K
+   2,K
+   5
+   1,K
+   3,R,K
+   6,R,Z
   40
 
 #lvl_a-02
-   9,R,U,Z
-   4
-  30,R,U,X
-   6,L,Z
+  12,R,Z
+  19,R,U,X
+  12,R,Z
    1,R,J
-   7,R
-   1,R,J
-   5,R,D,X
+   2,R
+   7,R,Z
   40
 
 #lvl_a-03
-   4,R
+   5,R,Z
    1,R,J
   21,R
    2,R,D
@@ -1588,7 +1588,7 @@ console load 10
 #add a frame to this
 #until it syncs
 
-   2
+   1
 
 # ---------
 
@@ -2092,46 +2092,39 @@ AnalogMode,Precise
   11,F,75
   21,F,73.123
    1,F,77.496
- 107,F,88.28
-   1,F,90
-  14,R,D,X
+ 102,F,89.59
+   6,F,118
+   7,F,125.8
+   8,R,Z
    1,R,J
-  12,R,D,X
-   3,R,J
-   8,R,U,X
+   9,R
+   1,R,K
+   1,R
+   6,R,U,X
    1,R,J,G
    1,R,K,G
-   1,R
+   1
    1,R,J,G
    7,R
    1,R,K
-   1,R
   16,R,D,X
-   1,R
+   4,R
+   3,R,J
+   5,R
    1,R,J
+   6,R
+   4,R,D,K
    1,R
-  12,R,U,X
-   1,R,J,G
-   7,R
-   1,R,K
-   1,R
-  17,R,D,X
   40
 
 #lvl_h-00b
-   2,R,D
-   2,J
-   1,R,J
-   1,J
-   1,R,J
-   3,J
-   5
-   1,J
-   8,R,D,X
+   4,R
+   9,R,K
+   2,R
+   4
   52,R,U
-  20,F,47.21
-  62,F,96
-   1
+  18,F,52.74
+  62,F,95.3
   15,R,X
   19,R,C
   16,R,X
@@ -2139,7 +2132,7 @@ AnalogMode,Precise
   16,R,X
 #Determination
   15,R,C
-  28,R,D
+  29,R,D
   40
 
 #lvl_h-00
@@ -3843,7 +3836,7 @@ endrepeat
  116,F,1
   15,U,X
   38
-ChapterTime: 10:27.946(36938)
+ChapterTime: 10:27.368(36904)
 # Optional waiting for
 # visuals to play out
 # without IGT loss
