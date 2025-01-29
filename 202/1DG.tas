@@ -5,20 +5,20 @@ console load 1
   88
 
 #lvl_1
-   4,J
-   2,R,J
+   2,J
+   4,R,J
   17,R
    1
-   5,R
    4,R,J
-   7,R
+   8,R
    1,R,J
-   1,R
+   3,R
    1,R,J,G
    1,R,K,G
+   1,R
    1
-   9,R
-  21,R,J
+   7,R
+  22,R,J
    1,R,K,G
    3,L,K
    2,K
@@ -38,8 +38,7 @@ console load 1
    2,R,J
    4,J
    1,R,K,G
-   3,K,G
-   5,K
+   8,K,G
   40
 
 #lvl_2
@@ -159,8 +158,10 @@ Read,../1D,lvl_4,lvl_6a
 Read,../1D,lvl_6b,lvl_8b
 
 #lvl_8b
-   7,R,J
-  29,R,D
+   5,R,J
+   5,R
+   2,R,J
+  24,R,D
   10,R,J
    5,R
    2,R,K
@@ -352,4 +353,4 @@ Read,../1D,lvl_9,lvl_12
    1,U,J
    1,O
   31
-FileTime: 1:18.506(4618)
+FileTime: 1:18.574(4622)

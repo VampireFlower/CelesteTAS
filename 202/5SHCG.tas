@@ -66,12 +66,7 @@ Repeat 3
    2,J
 Endrepeat
    1,R,K,G
-   1,J
-   2,K
-   2,J
-   1,R,K,G
-  33,D,X
-   1,J
+  41,D,X
    7,L,V
    1,L,J
    1,L
@@ -135,4 +130,4 @@ Read,../5S,lvl_d-19b (1),Spinner Cycle
    2
 Read,../5S,-------------
 
-FileTime: 6:41.897(23641)
+FileTime: 6:39.823(23519)
