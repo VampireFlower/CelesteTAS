@@ -40,19 +40,19 @@ Read,8S,lvl_d-07,lvl_d-11
    1,J,F,180
 SaveAndQuitReenter
   36
-   6,R,V
+   4,D,X
+   1,R,J
   40
 
 #lvl_space
-   8,R,V
-   1,R,J
+  10,R
   14,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
-  11,R,D,X
+  10,R,D,X
    1,R,J
   12,R
   12,R,J
@@ -67,7 +67,8 @@ SaveAndQuitReenter
    2,R,J
   15,R,D,X
   81,R,D,C
-  14,R,Z
+   1,R,J
+  13,R,D,X
    2,R,J
   16,R,D,X
    4,R,J
@@ -75,4 +76,4 @@ SaveAndQuitReenter
    1,R,J
   49,R,D,C
  152,R,D,X
-FileTime: 2:30.603(8859)
+FileTime: 2:30.586(8858)
