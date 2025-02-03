@@ -41,9 +41,9 @@ console rmx2 6
    3,L
   15,R,X
   25,L,D
-AnalogMode Square
+AnalogMode,Square
   27,F,314.744
-AnalogMode Precise
+AnalogMode,Precise
    4,Z,F,310.16219
   11,L,Z
   16,L,D
@@ -53,9 +53,9 @@ AnalogMode Precise
   13,R
    1,R,D
   11,R
-AnalogMode Square
+AnalogMode,Square
   27,F,315.001
-AnalogMode Precise
+AnalogMode,Precise
    4,F,335.274
   36,F,333.955
   11,F,270
@@ -65,7 +65,7 @@ AnalogMode Precise
   11,F,205
   10,F,233.45
    8,F,180
-AnalogMode Ignore
+AnalogMode,Ignore
    3,L
    6
    2,L

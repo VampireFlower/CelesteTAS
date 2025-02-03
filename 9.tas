@@ -1504,9 +1504,9 @@ EndStunPause
    4,L,K,G
    1,R,K
    3,R
-Stunpause
+StunPause
    6,R,K
-Endstunpause
+EndStunPause
    1,R
    4,R,D,K
   24,R,D,X
@@ -1517,9 +1517,9 @@ Endstunpause
 #lvl_f-08
    2,R
   10,R,D,X
-Stunpause
+StunPause
    4,R,D
-Endstunpause
+EndStunPause
    6,R,D
   14,R,U,V
    2,K,G
@@ -2232,7 +2232,7 @@ AnalogMode,Precise
 Repeat,4
    2,K
    2,J
-Endrepeat
+EndRepeat
    2,J
    2,K
   40
@@ -3607,7 +3607,7 @@ StunPause
    6,R,G
    1,L
    1,R
-EndStunpause
+EndStunPause
    2,R
   16,R,D,X
    1,R
@@ -3744,7 +3744,7 @@ ChapterTime: 8:03.922(28466)
   18
 
 #end-cinematic
-Add 2
+Add,2
   61
    1,S
    1,D,J

@@ -11,7 +11,7 @@ console clrsav
 #console load 5 2964 1287 419 38
 #play,Rescue,37
 
-unsafe
+Unsafe
 console load 5
    1
 
@@ -539,10 +539,10 @@ console load 5
    2
    2,G
    4,L
-Repeat 10
+Repeat,10
    3,R
    3,L
-Endrepeat
+EndRepeat
    3,R,D
    5,L,D
    8,L,D,X
@@ -848,7 +848,7 @@ Endrepeat
   31
 
 #Overworld
-Add 58
+Add,58
   51
    1,S
    1,J
@@ -856,7 +856,7 @@ Add 58
    1,R
    1,J
   46
-Add 1
+Add,1
 
 #Depths
   36
@@ -1463,10 +1463,10 @@ Add 1
    7
    1,J
    7,R
-Repeat 3
+Repeat,3
    3,L
    3,R
-Endrepeat
+EndRepeat
    1,R,D,J
    1,S
    1,D,J
@@ -2655,7 +2655,7 @@ SaveAndQuitReenter
    9,L,J
   25,R,X
    3,J
-Repeat 3
+Repeat,3
    1,K,G
    1,L,K
    1,J
@@ -2664,7 +2664,7 @@ Repeat 3
    1,R,J
    1,K
    2,J
-Endrepeat
+EndRepeat
    1,R,K,G
   35,D,X
    7,L,V

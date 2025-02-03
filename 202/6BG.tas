@@ -105,7 +105,7 @@ console hard 6
    1,L
   14,U,Z
   27,L,U
-AnalogMode Precise
+AnalogMode,Precise
   43,F,3.201
    1,F,357.91
   11,F,298

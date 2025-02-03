@@ -20,11 +20,11 @@ Read,LoadA,0,Control
    1,R
    1,J
   46
-Add 1
+Add,1
 
 Read,1SH1,Start
 
-Add 58
+Add,58
   51
    1,S
    1,J
@@ -33,7 +33,7 @@ Add 58
    1,F,90
    1,J
   46
-Add 1
+Add,1
 
 Read,1SH2,Start
 
@@ -70,14 +70,14 @@ Read,LoadAFromB,SkipExit
 
 Read,5S,Start,Overworld
 
-Add 58
+Add,58
   51
    1,S
    1,J
   30
    1,J
   46
-Add 1
+Add,1
 
 Read,5S,Depths
 
@@ -92,10 +92,10 @@ Read,6B,Start
 Read,LoadAFromB,0,Summit
 #Summit
   45
-Add 29
+Add,29
    1,J
   32
-Add 1
+Add,1
 
 Read,7S,Start
 

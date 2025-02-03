@@ -103,7 +103,7 @@ console load 3
    5,R,U,X
   40
 
-#lvl_s3
+#lvl_s3 (0)
   12,R,U,X
   17,R,U,C
    1,R,J,G
@@ -854,10 +854,10 @@ console load 3
    8,L,D
   10,D
    9,R,D
-Repeat 5
+Repeat,5
    9,L
    9,R
-Endrepeat
+EndRepeat
   11,L
   14,L,D,X
    1,R,J
@@ -874,7 +874,7 @@ Endrepeat
    8,R,U,Z
   40
 
-#lvl_08-a
+#lvl_08-a (0)
    5,R,U,Z
    1,L
    1,J,G
@@ -1307,10 +1307,10 @@ Endrepeat
    1,R,K
    5,K
   32,U,C
-Repeat 13
+Repeat,13
    1,J
    1,K
-Endrepeat
+EndRepeat
    1,S
    1,D
    1,J,F,180
@@ -1518,7 +1518,7 @@ SaveAndQuitReenter
   15,L,D
   40
 
-#lvl_11-y
+#lvl_11-y (0)
    1,D
   10,L,D,X
    4,L,J
@@ -1957,7 +1957,7 @@ SaveAndQuitReenter
    1,L
   40
 
-#lvl_04-d
+#lvl_04-d (0)
   15,L,D
    6,R,D
    9,L,D

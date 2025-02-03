@@ -5,7 +5,7 @@ console load 3
   61
 
 #lvl_s0
-read,3SH,lvl_s0,lvl_04-c (0)
+Read,3SH,lvl_s0,lvl_04-c (0)
 
 #lvl_04-c (0)
    3,L,D
@@ -222,5 +222,5 @@ read,3SH,lvl_s0,lvl_04-c (0)
 Read,3HC,lvl_04-d (1),lvl_00-d
 
 #lvl_00-d
-read,3SH,lvl_00-d
+Read,3SH,lvl_00-d
 FileTime: 4:56.191(17423)

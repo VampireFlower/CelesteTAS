@@ -12,7 +12,7 @@ console load 2
    1,R
   40
 
-#lvl_0
+#lvl_0 (0)
    1
   15,U,X
    2,L
@@ -103,7 +103,7 @@ Read,2A,Start,lvl_d2
    7,L
   40
 
-#lvl_d0 (0)
+#lvl_d0 (1)
   10,L
   16,L,D
   36,D
@@ -151,7 +151,7 @@ Read,2A,Start,lvl_d2
    1,K
   40
 
-#lvl_d0 (1)
+#lvl_d0 (2)
    1
    1,K
    1,J,G
@@ -197,6 +197,6 @@ Read,2A,Start,lvl_d2
    9,U,X
   40
 
-#lvl_1
+#lvl_1 (1)
 Read,2A,lvl_1 (1)
 FileTime: 1:59.952(7056)

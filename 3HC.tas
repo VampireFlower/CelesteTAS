@@ -138,7 +138,7 @@ Read,3SH,lvl_09-b (0),lvl_12-b (0)
    5,D,X
 Read,3SH,3HC0,Spawn
 
-#lvl_11-c (1)
+#lvl_11-c (2)
   36
   11,R,Z
    2,R,J
@@ -210,7 +210,7 @@ Read,3SH,lvl_12-d,lvl_11-d
   40
 
 #lvl_10-c
-Read,3SH,lvl_10-c,lvl_11-y
+Read,3SH,lvl_10-c,lvl_11-y (0)
 
 #lvl_11-y
 Read,3A,lvl_11-y,lvl_11-z
@@ -245,10 +245,10 @@ Read,3A,lvl_11-y,lvl_11-z
    6,L,U,V
    1,R,K,G
    2,R,J,G
-Repeat 4
+Repeat,4
    1,L,J
    1,R,J
-Endrepeat
+EndRepeat
    1,L,J
    1,R,K
   15,U,X

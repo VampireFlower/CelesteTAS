@@ -261,7 +261,7 @@ AnalogMode,Precise
    1,J
   40
 
-#lvl_j-17 (1)
+#lvl_j-17 (0)
    2,L,K,G
    9,L,J,G
   13,L,X
@@ -281,7 +281,7 @@ AnalogMode,Precise
    8,D,X
   40
 
-#lvl_j-17 (2)
+#lvl_j-17 (1)
    1,S
    1,D,J
   69,O
@@ -513,4 +513,4 @@ ChapterTime: 8:59.529(31737)
 #Let moon berry sfx play
  100
 
-read,9,end-granny
+Read,9,end-granny

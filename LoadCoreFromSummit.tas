@@ -1,13 +1,13 @@
-Add 197
+Add,197
  164
    1,J
   32
-Add 1
+Add,1
    2
    1,S
    1,D,J
   18
-Add 1
+Add,1
    1
 
 #Epilogue
@@ -25,4 +25,4 @@ Read,LoadANoCollects,Control,Summit
    1,S
    1,D,J
   32
-Add 1
+Add,1

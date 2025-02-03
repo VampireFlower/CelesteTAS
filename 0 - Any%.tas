@@ -23,7 +23,7 @@ Read,4A,Start
 
 Read,LoadANoCollects
 
-Read,5HC,Start,lvl_b-17 (1)
+Read,5HC,Start,lvl_b-17 (0)
 
 #lvl_b-17
    3,R,D
@@ -108,10 +108,10 @@ Read,6B,Start
 Read,LoadAFromB,0,Summit
 #Summit
   45
-Add 29
+Add,29
    1,J
   32
-Add 1
+Add,1
 
 Read,7A,Start
 
@@ -120,7 +120,7 @@ Read,LoadCoreFromSummit,0,Epilogue
 Read,0 - Epilogue,Start
  300
    1,J
-Add 58
+Add,58
  427
 
 Read,LoadJournal,0,Any%

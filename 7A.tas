@@ -1530,7 +1530,7 @@ EndStunPause
    7,R,Z
   40
 
-#lvl_f-05 (1)
+#lvl_f-05 (0)
    3,R,Z
    1,R,J
    3,R
@@ -1573,7 +1573,7 @@ EndStunPause
   20,L,D,X
   40
 
-#lvl_f-05 (2)
+#lvl_f-05 (1)
   15,R,D,X
    1,L,D
    6,R,D

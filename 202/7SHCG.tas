@@ -1,5 +1,5 @@
 console clrsav
-unsafe
+Unsafe
 console load 7
    1
 
@@ -17,7 +17,7 @@ Read,../7HC,lvl_a-06,lvl_b-00
 Read,../7S,lvl_b-00,7SHC1
 
 #lvl_b-02e
-Read,../7SHC,lvl_b-02e,lvl_b-02d
+Read,../7SHC,lvl_b-02e (1),lvl_b-02d
 
 #lvl_b-02d
    6,L,D
@@ -55,10 +55,10 @@ Read,../7SHC,lvl_b-02e,lvl_b-02d
   40
 
 #lvl_b-02c
-Read,../7HC,lvl_b-02c (2),lvl_b-06
+Read,../7HC,lvl_b-02c (1),lvl_b-06
 
 #lvl_b-06
-Read,../7S,lvl_b-06,lvl_c-06 (1)
+Read,../7S,lvl_b-06,lvl_c-06 (0)
 
 #lvl_c-06
 Read,../7SHC,lvl_c-06,lvl_c-06c
@@ -70,7 +70,7 @@ Read,../7HC,lvl_c-06c,lvl_c-08
 Read,../7S,lvl_c-08,lvl_d-02
 
 #lvl_d-02
-Read,../7SHC,lvl_d-02,lvl_d-08
+Read,../7SHC,lvl_d-02,lvl_d-08 (0)
 
 #lvl_d-08
 Read,../7S,lvl_d-07,lvl_e-00b

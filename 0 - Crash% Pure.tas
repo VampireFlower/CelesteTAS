@@ -4,9 +4,9 @@
 Unsafe
 console titlescreen
    2
-Set Everest.DebugMode Off
-evallua Celeste.Settings.Instance:SetDefaultButtonControls(true)
-evallua Celeste.UserIO.SaveHandler(false, true)
+Set,Everest.DebugMode,Off
+EvalLua,Celeste.Settings.Instance:SetDefaultButtonControls(true)
+EvalLua,Celeste.UserIO.SaveHandler(false,true)
    1,J
   94
    1,D
@@ -19,7 +19,7 @@ evallua Celeste.UserIO.SaveHandler(false, true)
    1,F,180
    1,D,J,C
 # After 34f, main menu can move
-Repeat 6
+Repeat,6
    1,F,180
    1,D
 EndRepeat

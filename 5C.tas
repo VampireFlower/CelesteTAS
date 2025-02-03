@@ -70,11 +70,11 @@ console rmx2 5
    1,S,N
   10,O
    5,R,D,X
-repeat,5
+Repeat,5
    1,S,N
   10,O
    2,R,D,X
-endrepeat
+EndRepeat
   13,R,D
    1,R
   40
@@ -84,11 +84,11 @@ endrepeat
    4,R,D
   10,R,D,J
    3,R
-repeat,3
+Repeat,3
    1,S,N
   10,O
    2,R,J
-endrepeat
+EndRepeat
    1,S,N
   10,O
    1,R

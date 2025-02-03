@@ -400,7 +400,7 @@ console load 4
    1,R,J,G
    3,R
   15,D,X
-Repeat 7
+Repeat,7
    5,L,D
    5,R,D
 EndRepeat
