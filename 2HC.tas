@@ -170,29 +170,22 @@ Read,2A,Start,lvl_d2
    4,L
   15,U,C
   10,L
-  14,L,J
-  40,L,X
-   4,R,G
-   2,J,G
-  20,R,U,X
-  14,U,Z
+   9,L,J
+  42,L,C
+   4,L,J
+  22,R,U,X
+  16,U,C
    3,J
    1,R,K,G
    1,R,J,G
    1,L,J
-   8,R,J
-   5,R
-   1
-   1,R
-   6,R,J
-   2,J
+   9,R,J
+   7,R
+   7,R,J
   15,U,Z
-   2,R
+   3,R
   19
-  13,R
-   1
-   1,R
-   1
+  16,R
    2,R,J
    9,U,X
   40
