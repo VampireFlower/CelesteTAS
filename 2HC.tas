@@ -170,23 +170,26 @@ Read,2A,Start,lvl_d2
    4,L
   15,U,C
   10,L
-   6,L,J
-  43,L,X
+   9,L,J
+  42,L,C
    4,L,J
-  10,L,K
-  40,U,X
+  22,R,U,X
   16,U,C
-   3,L,J,G
-   5,J
-   4
-   3,L
-  10,R,X
-   8,R,J
-  27,R,U,Z
-   2,R,K
-  13,U,X
+   3,J
+   1,R,K,G
+   1,R,J,G
+   1,L,J
+   9,R,J
+   7,R
+   7,R,J
+  15,U,Z
+   3,R
+  19
+  16,R
+   2,R,J
+   9,U,X
   40
 
 #lvl_1 (1)
 Read,2A,lvl_1 (1)
-#7666
+#7663
