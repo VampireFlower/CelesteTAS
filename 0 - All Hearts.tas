@@ -3,7 +3,7 @@ FileTime: 38:16.428(135084)
 
 #Ensures variants postcard
 #does not appear after 8C
-Set,Settings.Instance.VariantsUnlocked,True
+Set,VariantsUnlocked,True
 
 Read,StartFullGameFile
 
