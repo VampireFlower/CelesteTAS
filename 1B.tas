@@ -121,30 +121,30 @@ console hard 1
 #lvl_02b
    1,R
    1,R,J,G
-   6,R
-   3
-   4,D,X
+   5,R
+   4
+   4,Z
    1,R,J
-  12,R
-   3,R,J
+   6,R
+   1,R,J
    5,R
    3,R,J
-   1,R
-   1,R,J
-  11,R
-  15,R,U,Z
-   1
-   8,R
-   1,R,G
+   5,R
+   9,R,J
+  10,R
+  18,R,U,X
    1,R,J,G
    1,R,K,G
-   2,K
-   3,R,K
    5,R
-   3,R,K
-   5,R
-   5,R,D
-  11,R,J
+   4,R,J
+   1,J
+   4,L
+   1,L,J,G
+   4,K,G
+   3
+   3,L
+   1,R
+  10,R,D,J
    8,R
   12,L,J,G
   12,L,K,G
@@ -696,4 +696,4 @@ EndRepeat
 #1BG2
   89,L
   46,L,D
-ChapterTime: 1:04.651(3803)
+ChapterTime: 1:04.617(3801)
