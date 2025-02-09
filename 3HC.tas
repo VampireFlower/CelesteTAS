@@ -564,17 +564,20 @@ Read,3A,lvl_09-d,lvl_04-d
    1,L,J
    6,L
    9,L,J
-   6,L
-   3,L,J
-   6,L
-  20,L,X
-  22,L,C
-  26,L,X
-   7,L,Z
-   1,L,J
+   5,L
+   2,L,J
    1,L
+   2,L,J
+   5,L
+  20,L,X
+  21,L,C
+  27,L,X
+#Rooftop
+   6,L,Z
+   1,L,J
+   2,L
   40
 
 #lvl_00-d
 Read,3A,lvl_00-d
-#14145
+#14144
