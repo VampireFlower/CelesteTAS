@@ -200,7 +200,12 @@ Read,../4A,lvl_b-02,4SHCG3
 Read,../4SH0,lvl_c-02,lvl_c-06 (0)
 
 #lvl_c-06
-Read,../4A,lvl_c-06,lvl_c-08
+   2,R,J
+   5,R
+   6,R,K,G
+  16,R,X
+   1,L,D,J
+Read,../4A,4AG,lvl_c-08
 
 #lvl_c-08
    4,R
@@ -261,5 +266,4 @@ Read,../4A,lvl_c-06,lvl_c-08
 
 #lvl_d-00
 Read,../4A,lvl_d-00
-
-ChapterTime: 2:03.607(7271)
+ChapterTime: 2:03.573(7269)

@@ -88,10 +88,10 @@ Read,6A,Start
 Read,LoadA,0,Summit
 #Summit
   45
-Add,29
+Add 29
    1,J
   32
-Add,1
+Add 1
 
 Read,7A,Start
 
