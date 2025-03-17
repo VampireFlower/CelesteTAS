@@ -530,42 +530,42 @@ console load 3
 #lvl_05-a
    1
   12,R,D
-   6,R,J
-  10,U,X
+   5,R,J
+  11,U,X
   15,R,J
-   1,R
-   2
+   3,J
   12,R,Z
+   1,L,J
+   2,L
+   9,L,V
    2,R,J
-   1,R
-   1
-   1,R,K
-   8,R,U,Z
-   1,L,J,G
-   6,R
-   1
-  13,R
-   2,R,J
-   7,R,U,X
+   5,R
+   1,R,J
+   2,R
+   6,R,D,J
+   3,R
+   2,R,K,G
+  14,R,D
+   4,R
+   5,R,U,Z
   40
 
 #lvl_06-a
-   4,R,U,X
+   3,R,U,Z
    1,L,J,G
    7,R,J
-  13,R
-   1,R,J,G
-   1,R,K,G
    5,R
-   2,R,K
-  28,R,D
-  19,R,J
+   2,R,J
+   2,R
+   1
+  25,R,D
+  18,R,J
    1,K
    1,J
-   5,R,J
-   6,R,Z
+   3,R,J
+   7,R,Z
    1,R,K,G
-   1,K
+   3,K
    1,R,K
    8,R
    1,R,K
@@ -2611,4 +2611,4 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
-FileTime: 4:45.073(16769)
+FileTime: 4:45.022(16766)
