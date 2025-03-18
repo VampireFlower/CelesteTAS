@@ -528,19 +528,22 @@ console load 3
   40
 
 #lvl_05-a
-   1
-  12,R,D
-   5,R,J
-  11,U,X
-  15,R,J
-   3,J
-  12,R,Z
-   1,L,J
-   2,L
-   9,L,V
+   1,R,D
+   1,D
+  11,R,D
+   3,R,J
    2,R,J
-   5,R
    1,R,J
+   9,U,X
+  16,R,J
+   1,R,J
+   7,R
+   3
+   1,R
+   9,L,Z
+   1,R,J
+   5,R
+   2,R,K
    2,R
    6,R,D,J
    3,R
@@ -2611,4 +2614,4 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
-FileTime: 4:45.022(16766)
+FileTime: 4:44.971(16763)
