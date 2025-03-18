@@ -511,29 +511,29 @@ EndRepeat
    1,L,D,J
    2,L,K
    1,R,J,G
-  18,L,J
-   1,L
+  19,L,J
   14,L,U,X
-   2,L,J,G
-   6,L
+   1,J,G
+   9,L
   40
 
 #lvl_b-00 (1)
-  14,L,D,X
+   6,L,D
+   3,L,J
+   5,L
    2,L,J
-   2,J
-   1,L
-   1
-  15,U,X
-   7,R
+  11,R,U,X
+   6,R,J,G
    1,R,K,G
-  11,R,J,G
+   2,R,J,G
+  12,R,K,G
    7,R
    7,R,J
    7,J
-  18,U,X
+  17,U,X
+   1,L
    2,L,K
-   1,K
+   1,L
    1,J
    1,K,G
    1,R
@@ -1927,4 +1927,4 @@ EndRepeat
    1,U,J
    1,O
   31
-#13671
+#13667
