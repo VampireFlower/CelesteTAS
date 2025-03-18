@@ -1,0 +1,49 @@
+#Ensure a new save slot with "Begin" is selected
+Assert,Equal,True,[[local ui = scene.Current; return ui ~= nil and ui.SlotSelected and not ui.Slots[ui.SlotIndex].Exists and getValue(ui.Slots[ui.SlotIndex], "buttonIndex") == 0]]
+Skip
+   1
+
+Set,ScreenShake,Off
+Set,Everest.UseKeyboardForTextInput,False
+Set,CrouchDashMode,Press
+Set,GrabMode,Hold
+Set,DisableFlashes,True
+Set,SpeedrunClock,2
+Set,Everest.ShowModOptionsInGame,False
+EnforceMaingame
+Unsafe
+Add,2
+Add,"1,J"
+Add,89
+Add,"1,J"
+Add,94
+Add,"1,J"
+Add,61
+
+   1,D
+   1,J
+Skip
+  70
+Add,41
+   1,D
+   1,F,180
+   1,R
+   1,J
+   1,U
+   1,F,
+   1,L
+   1,J
+   1,D
+   1,F,180
+   1,J
+   1,S
+  48
+   1,U
+   1,J
+Add,131
+
+#Prologue
+   1,S
+   1,D,J
+  32
+Add,1
