@@ -358,7 +358,7 @@ Read,6A,lvl_02b,6HC0
   31
 
 #Overworld
-Add,58
+Add 58
   51
    1,S
    1,J
@@ -367,7 +367,7 @@ Add,58
    1,F,90
    1,J
   46
-Add,1
+Add 1
 
 #lvl_04 (2)
   36
@@ -383,7 +383,7 @@ Read,6A,6HC1,[b-03] Spinner Cycle
 #lvl_11 (1)
 #---------------
 #Spinner Cycle 2
-   1
+   0
 #---------------
    1,R,J
    1,R,K
@@ -399,4 +399,4 @@ Read,6A,6HC1,[b-03] Spinner Cycle
 
 #lvl_12a
 Read,6A,lvl_12a
-FileTime: 5:07.207(18071)
+FileTime: 5:07.156(18068)
