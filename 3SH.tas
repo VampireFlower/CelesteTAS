@@ -513,40 +513,39 @@ console load 3
    3,R,D
    3,L,D
   15,L,D,X
-  23,R,D
-   7,R
-   9,R,Z
+  23,D
+   1,L
+   6,R
+   7,R,Z
    1,R,J
-   1,R
+   6,R
+   1,R,J
+   7,R,D,X
    1,S
    1,D,J
   34
-   5,R
-   1,R,J
-  14,R,D,X
    2,R,J
+   5,R
+   8,R,J
   40
 
 #lvl_05-a
+   6,R
    1,R,D
-   1,D
-  11,R,D
-   3,R,J
+   4,R
    2,R,J
+   2,J
+   1,L,K,G
+   7,U,X
+  26,R,J
+  10,L,Z
    1,R,J
-   9,U,X
-  17,R,J
-   7,R
-   3
-   1,R
-   9,L,Z
+   3,R
    1,R,J
    5,R
-   2,R,K
-   2,R
-   6,R,D,J
-   3,R
-   2,R,K,G
+   4,R,D,J
+   5,R
+   3,R,J,G
   14,R,D
    4,R
    5,R,U,Z
@@ -2593,4 +2592,4 @@ Endrepeat
    1,U,J
    1,O
   31
-#18136
+#18135
