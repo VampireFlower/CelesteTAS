@@ -263,7 +263,7 @@ Read,../7S,lvl_e-00b,lvl_f-00 (0)
   14,R,U,X
    4,R,J,G
 #Spinner Cycle
-   2
+   0
 #-------------
   58,R,X
    9,R,D,C
@@ -343,4 +343,4 @@ Read,../7A,lvl_f-02,CP-01
    1,U,J
    1,O
   31
-FileTime: 7:07.159(25127)
+FileTime: 7:07.108(25124)

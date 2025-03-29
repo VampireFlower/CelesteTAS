@@ -2030,16 +2030,18 @@ console load 7
   40
 
 #lvl_e-08
-   9
-   2,R
+   5,L
+   4
+   2,L
   15,U,X
   15,D,C
-   9
-   6,L
-   1,J
-  20,L,J
+   3,L
+  15,D,X
+   1,L
+  19,L,J
   15,L,X
-  22,L,D,C
+  20,L,D,C
+   2,L
    4,D,X
    5,L,J
   40
@@ -2408,7 +2410,7 @@ console load 7
   14,R,U,X
    4,R,J,G
 #Spinner cycle
-   1
+   2
 #-------------
   58,R,C
    9,R,D,X
