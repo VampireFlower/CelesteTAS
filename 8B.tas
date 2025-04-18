@@ -727,17 +727,23 @@ EndRepeat
   40
 
 #lvl_c-06
-  12,R
+   9,R
   11,R,J
 #Guaranteed to have
 #room for improvement
-  15,R,D
-   1,D
-  17,R,D
+  19,R
+   6,R,D
    1,D
    1,R,D
+   4,D
+   4,R,D
+   2,R
    1,R,K,G
-  18,R
+   6,R
+   1
+   5,R
+   1,D
+   5,R
 #Max theoretical
 #liftboost is 77.26
    2,D
@@ -902,4 +908,4 @@ EndRepeat
   14,R,J
   14,R,U,C
  135,R
-#7970
+#7969
