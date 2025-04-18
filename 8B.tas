@@ -587,22 +587,24 @@ EndRepeat
    1,R
    9,L,J
    7,L
-   2,L,J
-   2,J
-  27,L
-  42,R
+   4,L,J
+   3,L
+   6
+   5,L
+   4
+   7,L
+   7
+  35,R
   15,U,X
-   1,R
+   2,R
   12,R,J
   44,R,G
-   1,L,J
-  10,U,X
+  11,U,X
   40
 
 #lvl_c-03
-  11,L,J
-   2,J
-   5
+  13,L,J
+   5,L
   12,L,X
   10,L,J,G
    4,J
@@ -901,4 +903,4 @@ EndRepeat
   14,R,U,C
 #8BG
  135,R
-ChapterTime: 2:03.896(7288)
+ChapterTime: 2:03.879(7287)
