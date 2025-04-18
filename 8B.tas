@@ -740,81 +740,75 @@ EndRepeat
    6,R
    1
    5,R
-   1,D
+   1
    5,R
 #Max theoretical
 #liftboost is 77.26
    2,D
-   4,L
+   4
    2,D
    4,L
-   2
   14,L,Z
    1,R,J
-  11,R,K,G
+  12,R,K,G
   19,R
    3,R,J
   14,R
-  28,R,U,X
+  16,R,U,X
    1
+  12,R
    9,R,J
    8,R
   40
 
 #lvl_c-08
-  11,R,D
-   1,D
-   2,R
-   1,D
-   1
-   4,D,X
+   8,R,D
+   4,D
+   4
+   4,Z
    1,R,J
-   9,R
+   4,R
+   2,R,J
+   4,R
    5,R,D
    8,R,J
    5,R
-   2,R,J
+   3,R,J
    1,J
    1
-   1,R,J
-   2
-   1,L
-   5,K,G
-   4,R,K
-   5,R
-   1,K
-   1,R,K
-   1,K
-  21,R,K
-   4,J,G
-   1,R,J
-   1,J
-   1,R,J
-   1,L,J
-   1,R,J
-  13,R,K,G
-   1,R,J,G
-   2,R,K,G
-   1,K
-  15,R
-   9,L,D
-   1,D
    1,R
-   1,D
-   5,L,D,X
-   1,R,J
-  20,R
-  12,R,U,Z
+   1
    1,L
-   7,K,G
-   4,L,K
-   1,R,K
+   5,J,G
+  30,R,J
+   3
+   1,J,G
+   1,L,J
+   1,R,K,G
    1,R,J,G
-   2,R,K,G
-  11,R
+   2,L,J
+  10,R,J
+   1,R,K,G
+   1,R,J,G
+   1
+  15,R
+   8,D
+   1,L
+   1
+   1,L
+   5,L,D,X
    2,R,J
-   5,R
-  10,R,D,X
+  18,R
+  14,R,U,Z
+   1,L
+   1,J
+   7,K,G
+   5,R,K
+   1,R,J,G
+   1,R,K,G
+  11,R
+   8,R,J
+  11,R,D,X
   40
 
 #lvl_c-07
@@ -907,4 +901,4 @@ EndRepeat
   14,R,U,C
 #8BG
  135,R
-ChapterTime: 2:03.981(7293)
+ChapterTime: 2:03.896(7288)
