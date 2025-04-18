@@ -729,8 +729,6 @@ EndRepeat
 #lvl_c-06
    9,R
   11,R,J
-#Guaranteed to have
-#room for improvement
   19,R
    6,R,D
    1,D
@@ -784,47 +782,40 @@ EndRepeat
    6,L,D,X
    1,R,J
   19,R
-  14,R,U,X
-   1,L
-   4,J
-  10,K,G
-   5,R,K
-   1,R,J,G
-   1,R,K,G
-  10,R
-   4,R,J
-   5,R
-  11,R,D,X
+  15,R,U,Z
+   2,L,J,G
+  12,R,K
+   5,R,Z
+   1,R,J
+   6,R
+   1,R,J
+   4,R
   40
 
 #lvl_c-07
-   1,R
+   3
+  25,R,D
+   9,R,Z
    1,R,J
-  12,R
+   3,R
+   2,R,K,G
+   1,K
+   8,R,K,G
+  19,R
+  37,R,J,G
+  15,R,U,X
+  18,R
+   1
+   1,J,G
+   2,L,J
+  15,R,K,G
+   1,R,J,G
+   7,R
    1,R,J
-   5,R
-  14,R,U,X
-   9,R,K,G
-   5,R
-   2,R,K
   14,R
-   3,R,J,G
-  30,R
-   4,R,D
-  18,R,Z
-   3,L
-  10,L,K,G
-   2,L
-   1,J
-   5,R,J
-   1,J
-   4,R,J
-   1,J
-   6,R
-   1,R,K,G
-  13,R
-   4,R,J
-  27,R
+   1,R,J
+  20,R
+   1,R,J
   40
 
 #lvl_space
@@ -845,14 +836,12 @@ EndRepeat
    8,R
    2,R,J
    8,R
-  18,R,J
-  14,R,U,X
-   1,J,G
-   1
-  13,R,Z
+  16,R,J
+  15,R,U,X
+   2,R,J,G
+  14,R,Z
   14,R,J
   15,R,D,X
-   1,R
   11,R,J
   10,R
   15,R,D,X
@@ -861,14 +850,15 @@ EndRepeat
   15,R,X
   15,R,C
   34,R,D
-  16,R,X
+  15,R,X
   14,R,V
-   2,R,J
-   2,R
+   1,R,J
+   2,J
   21,R,D,X
-  16,R,Z
+  19,R,Z
+   1
   14,R,D,C
-   8,R,J
+   7,R,J
   14,R,D,X
    8,R,J
   17,R,D,X
@@ -887,4 +877,4 @@ EndRepeat
   14,R,U,C
 #8BG
  135,R
-ChapterTime: 2:03.148(7244)
+ChapterTime: 2:02.995(7235)
