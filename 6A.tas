@@ -474,7 +474,7 @@ endstunpause
    5,U,X
 #---------------
 #[b-03] Spinner Cycle
-   0
+   2
 #---------------
    1,R,J
    1,R,K
@@ -792,15 +792,35 @@ AnalogMode,Precise
    1,R,J
   11,R
    6,R,U,X
-  26,R,D
-   8,R,J
-  10,L
-  70,G
-  39,D,G
-  15,L,V
-  45,D
+   1,L
+   1,R,J,G
+  30,D
+   4,J
+   1,R
+   1
+   1,R
+   5
+   2,J
+ 111,D
+   2,L,D
+   3
+   2,R,G
+   2,R,D
+   4,L,D
+   2,R,G
+   2,R,D
+   4,L,D
+   2,R,G
+   3
+   2,R,D
+   4,L,D
+   1,R,G
+   2
+   2,R,D
+   4,L,D
+   1,R,G
+  12,D
   35,L,D
-   3,D
    4,D,X
    1,L,J
   16,L,D
@@ -1786,4 +1806,4 @@ AnalogMode,Precise
    1,O
   31
 AnalogMode,Ignore
-#17637
+#17634
