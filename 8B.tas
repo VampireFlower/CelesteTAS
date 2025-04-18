@@ -774,15 +774,15 @@ EndRepeat
    5,J
    1,R,J
    1,J
-   5,L,K,G
+   4,L,K,G
+   1,R,K
   16,U,X
    3,J
    6,R,J
   29,R,D
    1,R
   11,R,D
-   4,D
-   1,R,D
+   5,D
    6,L,D,X
    1,R,J
   19,R
@@ -790,15 +790,14 @@ EndRepeat
    1,L
    4,J
   10,K,G
-   1,R,K
-   1,K
-   3,R,K
+   5,R,K
    1,R,J,G
    1,R,K,G
-  10,R
-   5,R,J
-   5,R
-  11,R,D,X
+   7,R
+   2,R,K
+   1,R
+   8,R,J
+  12,R,D,X
   40
 
 #lvl_c-07
@@ -891,4 +890,4 @@ EndRepeat
   14,R,U,C
 #8BG
  135,R
-ChapterTime: 2:03.182(7246)
+ChapterTime: 2:03.165(7245)
