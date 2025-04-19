@@ -813,22 +813,25 @@ EndRepeat
    1,R
    2,R,J
    8,R
-  34,R,J,G
-  27,R,U,X
+  35,R,J,G
+  15,R,U,X
+  10,R
    2,R,J,G
    2,L,J
    5,R,J
    1,R,K,G
-  11,R
+   1,R
+   1
+   7,R
    1,R,J
   14,R
    1,R,J
-  18,R
-   1,R,J
+  19,R
+   2,R,J
   40
 
 #lvl_space
-   4,D,X
+   6,R,D,X
    1,R,J
   12,R
    1,R,J
@@ -840,17 +843,18 @@ EndRepeat
    1,R,J
   14,R,D,X
    1,R,J
-   6,R,D,X
+   5,R,D,X
    1,R,J
    8,R
    2,R,J
    8,R
   16,R,J
-  15,R,U,X
-   2,R,J,G
-  14,R,Z
-  14,R,J
+  16,R,U,X
+   1,R,J,G
+  13,R,Z
+  15,R,J
   15,R,D,X
+   2,R
   11,R,J
   10,R
   15,R,D,X
@@ -860,13 +864,12 @@ EndRepeat
   15,R,C
   34,R,D
   15,R,X
-  14,R,V
+  12,R,Z
    1,R,J
-   2,J
+   3,R
   21,R,D,X
-  19,R,Z
-   1
-  14,R,D,C
+  18,R,Z
+  14,R,D,X
    7,R,J
   14,R,D,X
    8,R,J
@@ -886,4 +889,4 @@ EndRepeat
   14,R,U,C
 #8BG
  135,R
-ChapterTime: 2:02.910(7230)
+ChapterTime: 2:02.893(7229)
