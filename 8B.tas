@@ -777,14 +777,15 @@ EndRepeat
    3,J
    6,R,J
   25,R
-  17,R,D
-   3,D
+  18,R,D
+   2,D
    6,L,D,X
    1,R,J
-  19,R
-  15,R,U,Z
-   2,L,J,G
-  12,R,K
+  20,R
+  13,R,U,Z
+   1,K
+  12,R,J
+   1,K
    5,R,Z
    1,R,J
    6,R
@@ -889,4 +890,4 @@ EndRepeat
   14,R,U,C
 #8BG
  135,R
-ChapterTime: 2:02.893(7229)
+ChapterTime: 2:02.876(7228)
