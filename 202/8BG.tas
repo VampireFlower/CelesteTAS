@@ -11,35 +11,36 @@ console hard 9 560 56
   13,R,D,X
    2,R,J
    3,R
-   4,R,K
-   1,R,J,G
-   3
-   6,R
+   4,R,J
+   1,R,K,G
    1,R
+   1
+   8,R
   12,R,J
   16,R
-   1,D,J
-   3,R,J
-   5,R
-   3
-   1,K
+   7,R,J
+   8,R
+   2,R,J
+   1,R
+  16
+   1,L
    1
-   1,K
-   7
-  15,R
-   2,R,D
-  27,R,U,Z
-  14,R,V
+   4,L,D
+   1
+   1,D
+   1
+  21,R,U,X
+  14,R,Z
    1,R,J,G
    1,R
    1
-   5,R
-   1,R,K
-   1,R
-   1,R,K
+   8,R
    3,R,D
   18,R,J
-  10,R,K,G
+   1,R,K,G
+   1
+   8,R,J,G
+   1
    1,J
    6,R,Z
    1,R,J
@@ -56,7 +57,7 @@ console hard 9 560 56
    1,L
   26
    4,D
-   1,L,G
+   1,G
    2,J,G
    3,L,J
    4,L
@@ -127,4 +128,4 @@ Read,../8B,lvl_a-03,8BG
    1,U,J
    1,O
   31
-FileTime: 1:59.493(7029)
+FileTime: 1:59.476(7028)
