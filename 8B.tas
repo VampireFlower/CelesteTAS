@@ -399,20 +399,20 @@ EndRepeat
   14,R,G
    1,R,J,G
    2,R,K,G
-  33,R,J,G
-  18,R
-  37,R,U,X
-   9,R
+   3,J,G
+  32,R,J
+   1
+  19,R
+  40,R,U,X
+  30,R,Z
    3,R,D
-  28,R,Z
-  15,R,G
-   2
-  15,R,J,G
-   2,J
-   1,R,J
-   1,J
+  15,G
+   1
+   2,R
+  17,R,J,G
    1,K
-  16,R,J,G
+  11,R,J,G
+   5,R
    1,R,K,G
    1,R,J,G
    1,R
@@ -886,4 +886,4 @@ EndRepeat
   14,R,U,C
 #8BG
  135,R
-ChapterTime: 2:02.825(7225)
+ChapterTime: 2:02.808(7224)
