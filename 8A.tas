@@ -5,6 +5,7 @@ console load 9
 #Start
   54
 
+Assert,Equal,Celeste/9-Core,{Level.Session.Area.SID}
 #lvl_00
 Read,8S,lvl_00,lvl_a-03
 
@@ -217,4 +218,4 @@ Read,8S,lvl_d-01,lvl_d-06
 
 #lvl_d-07
 Read,8S,lvl_d-07
-ChapterTime: 2:20.913(8289)
+ChapterTime: 2:20.777(8281)
