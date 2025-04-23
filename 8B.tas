@@ -448,16 +448,17 @@ EndRepeat
   15,R,X
    9,R
    3
-  12,R,J,G
-   1,R,K,G
-   3,L,K
-   8,R,K
-   5,R
-   2,J
+   2,J,G
    1,R,J
-   1,R
    1,J
-   8
+   1,R,J
+   1,L,J
+   1,R,J
+  15,R,K,G
+   2,R,J,G
+   1,J
+   4,R
+  12
   13,L,G
    1,R,J
   12,R,K
@@ -891,4 +892,4 @@ EndRepeat
   14,R,U,C
 #8BG
  135,R
-ChapterTime: 2:02.791(7223)
+ChapterTime: 2:02.774(7222)
