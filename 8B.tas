@@ -150,32 +150,37 @@ console hard 9
   20,R,J
   16,R
   36,R,J
-   6,R,K
-   8,R
-  14,R,K
+  12,R
+   1,R,J
+   1,R
+   3,R,J
+   1,R
+   1,R,J
+   6,R
   14,R,Z
    1,R,J
-   1,R
-   2,R,J
-  40
+   4,R
+  40,J
 
 #lvl_a-04
-   2,R
-   1,R,J
-   1,R
-   1,R,J
-   4,R,D
    6,R,J
-   5,R
-  18,R,J
-   5,R,D
+   3,R,D,J
+   2,R
+   5,R,K
+   6,R
+   5,R,J
+  12,R,D
+   1,R
+   2,R,D
   14,R,Z
    1,R,J,G
   13,R
   13,R,X
    3,R,J,G
-   6,R
-   3,R,J
+   5,R
+   1,R,J
+   1,R
+   2,R,J
   18,R
   14,R,Z
    1,R,J,G
@@ -896,4 +901,4 @@ EndRepeat
   14,R,U,C
 #8BG
  135,R
-ChapterTime: 2:02.706(7218)
+ChapterTime: 2:02.655(7215)
