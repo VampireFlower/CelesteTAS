@@ -7,6 +7,7 @@ console load 9
 
 Assert,Equal,Celeste/9-Core,{Level.Session.Area.SID}
 Assert,Equal,Celeste/9-Core,{Level.Session.Area.SID}
+Assert,Equal,Celeste/9-Core,{Level.Session.Area.SID}
 #lvl_00
 Read,8S,lvl_00,lvl_a-03
 
@@ -219,4 +220,4 @@ Read,8S,lvl_d-01,lvl_d-06
 
 #lvl_d-07
 Read,8S,lvl_d-07
-ChapterTime: 2:20.709(8277)
+ChapterTime: 2:20.692(8276)
