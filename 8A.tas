@@ -5,9 +5,6 @@ console load 9
 #Start
   54
 
-Assert,Equal,Celeste/9-Core,{Level.Session.Area.SID}
-Assert,Equal,Celeste/9-Core,{Level.Session.Area.SID}
-Assert,Equal,Celeste/9-Core,{Level.Session.Area.SID}
 #lvl_00
 Read,8S,lvl_00,lvl_a-03
 
