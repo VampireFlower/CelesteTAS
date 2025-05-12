@@ -196,7 +196,8 @@ console load 5
    8,J
    1,L,K,G
    3,R,J
-  18,J
+   4,J
+  13,D
    1,L,G
    5,L,J,G
    6,L
@@ -209,17 +210,22 @@ console load 5
    1,R,J
    6,R
    1,R,J
-   5,R,K,G
-  10,R,J,G
-  15,R,D,X
-   3,R,J
-   3,R
-   7,R,U,Z
+   4,R,K,G
+   6,R,D,X
+   1,R,J
+   7,R
+   3,R,D,J
+   6,R
+   1,R,J
+   1,R
+   5,R,J
+   4
+   5,R,U,Z
   40
 
 #lvl_b-00
-   8,R,U,Z
-  22,R,U,X
+  10,R,U,Z
+  20,R,U,X
 #Depths
    1,S
    1,D,J
@@ -638,4 +644,4 @@ Read,5S,-------------,lvl_e-06
 
 #lvl_e-08
 Read,5S,lvl_e-08
-FileTime: 3:07.272(11016)
+FileTime: 3:07.255(11015)
