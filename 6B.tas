@@ -1467,6 +1467,7 @@ AnalogMode,Ignore
   22,R
   13,R,Z
    3,R,J
-  14,R,D,X
- 134,R,G
+  13,R,D,X
+#6BG
+ 135,R,G
 ChapterTime: 3:14.871(11463)
