@@ -752,7 +752,7 @@ console hard 7
    1,O
   31
 #Overworld
-Add,58
+Add 58
    4
    1,O
   30
@@ -766,7 +766,7 @@ Add,58
 #2000M
   36
 #Spinner_e-01
-   0
+   1
 #end_cycle_e-01
    4,Z
    1,R,J
@@ -790,25 +790,29 @@ Add,58
    1
    5,R,Z
    1,R,J
-   5,R,D
-   8,R,K
+   2,R
+   1,R,K
+   1,R
+   1,R,D
+   8,R,J
   13,R
-   5,R,K
+   4,R,K
+   1,K
   15,U,X
-  10,L
-  15,U,Z
-   1,R,J,G
-   1,R,K,G
+   8,L
+   1
+  15,U,X
    1,J
   40
 
 #lvl_e-01
+   1,R
    1,R,J,G
-   3,R,K,G
+   2,R,K,G
    5,R
    1,R,K
    1,R
-   6,R,Z
+   8,R,Z
    1,R,J
    4,R
    1,G
