@@ -31,22 +31,27 @@ Read,../7B,7BG1,lvl_e-00
   78
 
 #Spinner_e-01
-   2,D
+   0,D
 #end_cycle_e-01
 
 Read,../7B,end_cycle_e-01,lvl_e-01
-
 #lvl_e-01
+   1,R
    1,R,J,G
    2,R,K,G
-   8,R
-   5,R,Z
-   1,R,J
-   7,R,G
+   5,R
+   1,R,K
+   1,R
+   7,R,Z
+   2,R,J
+   4,R
+   1,R,G
    2,R,J,G
    6,R,D,X
    1,R,K,G
-  17,R
+  13,R
+   1,R
+   4,R
   46,R,U,G
   20,R,G
    1,R,J,G
@@ -166,4 +171,4 @@ Read,../7B,7BG2,7BG3
    1,U,J
    1,O
   31
-FileTime: 4:49.493(17029)
+FileTime: 4:43.424(16672)
