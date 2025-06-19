@@ -133,15 +133,12 @@ EndStunPause
    1,R,J
   12,R
   12,R,J
-   5,R
-   5,D,X
-   1,R,J
-  14,R
-   2,R,J
-  10,R
-  10,L
-   9,G
-   4
+   4,R
+   5,R,D,X
+  31,R
+  15
+   1,L,G
+   3
    5,L,U,Z
    1,R
    3,L,J,G
@@ -259,7 +256,7 @@ EndStunPause
    1,J,G
    2
 #a-06 Spinner Cycle
-   0
+   1
 #------------------
    1,L
    4
