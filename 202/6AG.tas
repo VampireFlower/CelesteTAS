@@ -58,17 +58,20 @@ Read,../6A,lvl_02,lvl_04
    7,R
    2,R,K
    5,R,J,G
-Read,../6A,6HC1,lvl_boss-20
+Read,../6A,6HC1,6AG
+
+#lvl_boss-19
+   5,R,Z
+   1,R,J
+   1,R
+  40
 
 #lvl_boss-20
-   1,R,J
-   3,R
-   1,R,K
-   3,R
-   2,R,J
+   6,R
+   5,R,J
   14,R,Z
    1,R,J
-  12,R,D,X
+  11,R,D,X
    8,R,J
    5,R
    1,R,J
@@ -82,4 +85,4 @@ Read,../6A,6HC1,lvl_boss-20
    1,O
   31
 AnalogMode,Ignore
-FileTime: 3:56.946(13938)
+FileTime: 3:56.929(13937)
