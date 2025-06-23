@@ -117,10 +117,11 @@ EndStunPause
    1,F,0
   43,F,3.339
    1,F,3.766
-  10,F,39.7,0.69
-   7,R
-  15,U,Z
-   5,J
+   9,F,28
+   1,F,26,0.69
+  10,R
+  12,U,Z
+   4,J
   10,R,J
   40
 
@@ -350,32 +351,14 @@ EndStunPause
    3,R
    1
    5,R,D
-# alternate cycle
-#    1,L,D,J
-#    4,R,J
-#    1,R
-#    2,R
-#    3
-#    1,L,J,G
-#    1,L,K,G
-#    4,J,G
-#    1,K,G
-# 6,R,U,X
-#StunPause
-#SkipInput,3,6
-#   10,R,U,X
-#    1,R,J,G
-#EndStunPause
-#   12,R,J
-#---
-   1,D,J
-   1,R,J
-   2,J
-   3
+
+   1,L,D,J
+   4,R,J
    1,R
-   2
+   2,R
+   3
    1,L,J,G
-   1,K,G
+   1,L,K,G
    4,J,G
    1,K,G
    6,R,U,X
@@ -385,9 +368,31 @@ SkipInput,3,6
    1,R,J,G
 EndStunPause
   10,R,J
-   1
-   1,R
-  11,U,X
+   1,R,J
+   1,J
+  10,U,X
+# alternate cycle
+#    1,D,J
+#    1,R,J
+#    2,J
+#    3
+#    1,R
+#    2
+#    1,L,J,G
+#    1,K,G
+#    4,J,G
+#    1,K,G
+#    6,R,U,X
+#StunPause
+#SkipInput,3,6
+#   10,R,U,X
+#    1,R,J,G
+#EndStunPause
+#   10,R,J
+#    1
+#    1,R
+#   11,U,X
+#---
    1,J
    1,K
   28,D
@@ -424,7 +429,7 @@ EndStunPause
    1
    2,R
 # c-04 Spinner Cycle
-   0
+   1
 #------------------
    7,R,Z
    2,R,J
@@ -951,68 +956,6 @@ EndStunPause
   40
 
 #lvl_c-02
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   14,R,D,X
    1,R,J
    2,R
@@ -1135,26 +1078,23 @@ EndStunPause
   40
    1,R,J
    3,R
-  21,R,D,X
-   5,R
+  26,R,D,X
    5,R,Z
-   2,R,J
-   3,R
+   5,R,J
   40
 
 #lvl_c-04
-   3,R
-   2,L
-   1,D,J
-   2,L,J
-  25,L
+   5,R
+   2,R,J
+  13,L,J
+  13,L
    1,L,D
-   5,L
-   5,L,D
-   4,R,D
-  15,R,Z
-  11,R,D
-   7,D
+   4,L
+   4,L,D
+   1,L
+   6,R,D
+  15,R,X
+  16,R,D
    7
   10,R
    2
@@ -1162,7 +1102,8 @@ EndStunPause
    5,R,Z
    1,R,J,G
    1
-  24,R,D
+#+1f lazer
+  25,R
   34,L
    2
    1,L
