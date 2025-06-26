@@ -183,38 +183,33 @@ EndStunPause
   40
 
 #lvl_a-04
-   3,R,J
+   1,R,J
+   2,R
   15,R,D,X
+   1,D
    3,R
-   1,R,D
    2,D
-   1,R,D
-   1
-  16,R,U,Z
-   6
+   3,R
+  21,R,U,X
   13,R
   15,R,U,X
-   3,R
-   1
-  13,R
-  12,L,D
-   2,D
-  11,L,D
-   1,L
+  15,R
+   5
    1,R
-   1,L
-  27,R
-   3
-   2,R
    1
+   3,D
+   1,L,D
+   1,D
+  14,L,D
+   1,L
+   9
+  25,R
   15,R,Z
   39,R
   15,R,D,X
-   3,R
-   3
-  30,R
+  34,R
   15,R,U,X
-  25,R
+  26,R
    5,R,Z
    1,R,J
    6,R
@@ -1498,4 +1493,4 @@ AnalogMode,Ignore
 #6BG
   26
  109,R
-ChapterTime: 3:14.191(11423)
+ChapterTime: 3:14.140(11420)
