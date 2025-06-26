@@ -124,6 +124,7 @@ EndStunPause
   14,F,11.5
    1,F,10.5
    1,F,0
+AnalogMode,Ignore
   40
 
 #lvl_a-02
@@ -132,7 +133,7 @@ Read,../6B,lvl_a-02,a-06 Spinner Cycle
 #lvl_a-05
 
 #a-06 Spinner Cycle
-   1
+   0
 #------------------
 Read,../6B,------------------,6BG
 
@@ -141,4 +142,4 @@ Read,../6B,------------------,6BG
    1,U,J
    1,O
   31
-FileTime: 3:21.875(11875)
+FileTime: 3:12.627(11331)
