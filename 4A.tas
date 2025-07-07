@@ -496,36 +496,35 @@ console load 4
    7,R
    1,R,J,G
    6,R,K,G
-  16,R,X
-   1,L,J
-#4AG
-   7,L,D,X
+  14,R,Z
+   1,R,J
+   5,J
+  12,L,Z
    1,R,J
    1,R
    1,R,J
-   6,R
-  27,R,J
-  15,U,X
-   1,R
-   9,L,J
-  10,J
-   2,R,K,G
-   4,L,K
-   1,K
-   1,R,J,G
-   6,J
-   2,L,J
-   2,J
-   1,R,J
-   1,R,K,G
-   1,R,J,G
    2,R
+  20,R,K
+  14,R,U,X
+   3,J,G
    1
-   4,R
-  10,R,X
-   6,R,J
+   3,R
+   1
+   1,R
+   2,L
+   2
+   1,J
+   1,L
+  15,U,Z
+   6,R
+  12,L,J,G
+   5,K,G
+   1,J,G
+   6,L
+   1,R
+   5,R,K
   14,U,X
-  15,L,J
+  16,L,J
 #4SHCG5
   28,L,X
   18,L,U,Z
@@ -951,4 +950,4 @@ console load 4
    1,D,J
   18
 
-ChapterTime: 1:46.420(6260)
+ChapterTime: 1:46.403(6259)
