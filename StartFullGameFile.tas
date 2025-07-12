@@ -9,10 +9,10 @@ Set,Everest.ShowModOptionsInGame,False
 SelectCampaign,Celeste
 EnforceLegal
    1,O
-Add,131
+Add 131
 
 #Prologue
    1,S
    1,D,J
   32
-Add,1
+Add 1

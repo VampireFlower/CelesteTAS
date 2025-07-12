@@ -10,14 +10,14 @@ console load 5
 Read,5S,lvl_a-00b (0),Overworld
 
 #Overworld
-Add,58
+Add 58
   51
    1,S
    1,J
   30
    1,J
   46
-Add,1
+Add 1
 
 #lvl_b-00 (1)
 Read,5S,Depths,lvl_b-20 (0)

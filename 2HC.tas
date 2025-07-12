@@ -77,7 +77,7 @@ console load 2
    1,Q
    1,J
   31
-Add,52
+Add 52
 
 #lvl_start (2)
 Read,2A,Start,lvl_d2

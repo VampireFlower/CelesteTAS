@@ -1,5 +1,4 @@
-RoomLabelStartingIndex = 0
-RoomLabelIndexing = "IncludeReads"
-
 ForceCorrectCommandCasing = true
 CommandArgumentSeparator = ","
+RoomLabelStartingIndex = 0
+RoomLabelIndexing = "IncludeReads"

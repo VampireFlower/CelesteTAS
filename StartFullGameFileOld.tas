@@ -12,19 +12,19 @@ Set,SpeedrunClock,2
 Set,Everest.ShowModOptionsInGame,False
 EnforceMaingame
 Unsafe
-Add,2
-Add,"1,J"
-Add,89
-Add,"1,J"
-Add,94
-Add,"1,J"
-Add,61
+Add 2
+Add 1,J
+Add 89
+Add 1,J
+Add 94
+Add 1,J
+Add 61
 
    1,D
    1,J
 Skip
   70
-Add,41
+Add 41
    1,D
    1,F,180
    1,R
@@ -40,10 +40,10 @@ Add,41
   48
    1,U
    1,J
-Add,131
+Add 131
 
 #Prologue
    1,S
    1,D,J
   32
-Add,1
+Add 1

@@ -848,7 +848,7 @@ EndRepeat
   31
 
 #Overworld
-Add,58
+Add 58
   51
    1,S
    1,J
@@ -856,7 +856,7 @@ Add,58
    1,R
    1,J
   46
-Add,1
+Add 1
 
 #Depths
   36
