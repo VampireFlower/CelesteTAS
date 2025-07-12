@@ -29,7 +29,7 @@ console load 10
   98
 
 #c-00 cycle 0-2
-   0
+   2
 #--------------
 
 #lvl_intro-00-past
@@ -432,14 +432,14 @@ console load 10
    6,L,D
   29,R,U,X
   17,R,U,Z
-   1,R,J
-   4,R,K
-   6,R
-   1,R,K
-   1,J,G
-   6,R
-   5,L
-   4,R,Z
+   1,J
+   1,K
+   7,R,K
+   7
+   1,K
+   2,L
+   1
+   6,L,Z
    1,R,J
   12,R,K,G
   15,R,D,X
