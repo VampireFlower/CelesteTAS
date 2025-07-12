@@ -8,9 +8,8 @@ console load 10
   98
 
 #c-00 cycle 0-2
-   1
+   0
 #--------------
-
 
 #lvl_intro-00-past
 Read,../9,lvl_intro-00-past,9G1
@@ -53,7 +52,7 @@ Read,../9,lvl_a-01,Lightning cycle
 
 #lvl_j-08
 #Lightning Cycle
-   4
+  14
 Read,../9,end_lightning,End_IGT
 
 #lvl_j-16
@@ -189,4 +188,4 @@ Read,../9,end_lightning,End_IGT
    1,U,J
    1,O
   31
-FileTime: 8:44.552(30856)
+FileTime: 8:22.996(29588)
