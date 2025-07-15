@@ -3366,7 +3366,7 @@ AnalogMode,Precise
 #---------------
 #Lightning cycle
 #0-14
-   8
+   7
 #end_lightning
    7,R,D,C
    1,L,J
@@ -3463,8 +3463,8 @@ AnalogMode,Precise
   20,R
   38,L
   13,L,U,X
-   1,R,J
-  22,R,J,G
+   2,R,J
+  21,R,J,G
   16,R,G
    1,R,D,J,G
   16,R,D,G
@@ -3472,59 +3472,58 @@ AnalogMode,Precise
    4,D,G
    3,R,D,G
    1
-   9,L
+   8,L
+   1
   50,R
-  32,R,G
-   9,R
-  10,L,Z
-   2,R,J
-   2,R
-   6,R,J
-  40,R,U,J,G
-   5,R,J
-   6,G
-   1,U,G
-   1,G
-   2,U,G
-   3,R
-  30,G
-   1,U,G
-   1
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-   3,K
-   1,R,K
-   1,R
-   1,J,G
-   1,R,J
-   7,R
-  21,R,D,G
-   1,D,G
-  10,R,D,G
-   7,D,G
-   3,G
-   1,D,G
-   1,L,J,G
-   1,R,J,G
-  15,J,G
-   7,J
-  14,R,U,X
-  48,R,U,J,G
-  15,R,D,G
-   1,R,G
-  45,R,D,G
-   1,R
-  13,R,U,Z
-   8,R
-   6,R,U,X
-  16,R
+  42,R,D,G
+   2,D,G
+   1,R,D,G
+   4,D,G
    3
+  26,R,U,X
+  43,R,U,G
+   1,R,G
+   1,R,U,G
+  14,R
+   9,U,G
+Repeat,5
+   1,D,G
+   1,U,G
+EndRepeat
+   2,D,G
+   1,U,G
+   1,D,G
    1,R
-   1
-  15,R,D,X
-   5,R
-  31,R,G
+   1,R,K,G
+   1,R,J,G
+   2,R,K,G
+   1,J,G
+   7,R,J
+  15,R,J,G
+  13,R,D,G
+  16,R,U,G
+   1,R,D,G
+   7,R,U,G
+   1,R,G
+   1,R,U,G
+   2,R,D,G
+   1,D,G
+   1,R,D,G
+   6,D,G
+   3
+  15,U,X
+  17,R,C
+  35,R,G
+  31,R,D,G
+   1,R
+   8,R,U,X
+   6
+   7,R
+   5,R,U,C
+  12
+  10,R
+  20,R,D,X
+  28,R,G
    7,R,J,G
    5,R,J
   14,R,Z
@@ -3722,7 +3721,7 @@ EndStunPause
   38
 AnalogMode,Ignore
 #End_IGT
-ChapterTime: 8:03.922(28466)
+ChapterTime: 8:03.412(28436)
 
 # optional waiting for
 # visuals to play out
