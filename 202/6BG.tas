@@ -130,14 +130,14 @@ AnalogMode,Ignore
 #lvl_a-02
 Read,../6B,lvl_a-02,a-06 Spinner Cycle
 
-#lvl_a-05
+#lvl_a-05 (1)
 
 #a-06 Spinner Cycle
    0
 #------------------
 Read,../6B,------------------,6BG
 
-#lvl_d-05
+#lvl_d-05 (1)
    1,S
    1,U,J
    1,O

@@ -27,7 +27,7 @@ console hard 4
 
 Read,../4B,4BG1,c-01 Spinner Cycle
 
-#lvl_c-00
+#lvl_c-00 (1)
 
 #c-01 Spinner Cycle
    1
@@ -35,7 +35,7 @@ Read,../4B,4BG1,c-01 Spinner Cycle
 
 Read,../4B,------------------,4BG2
 
-#lvl_end
+#lvl_end (1)
    1,S
    1,U,J
    1,O

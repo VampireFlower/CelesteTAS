@@ -24,7 +24,7 @@ console hard 2
 #lvl_00
 Read,../2B,lvl_00,2BG
 
-#lvl_end
+#lvl_end (1)
    1,S
    1,U,J
    1,O
