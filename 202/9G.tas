@@ -8,15 +8,14 @@ console load 10
   98
 
 #c-00 cycle 0-2
-   0
+   1
 #--------------
 
 #lvl_intro-00-past
 Read,../9,lvl_intro-00-past,9G1
 
 #lvl_intro-03-space
-  23,R,J,G
-   3,R
+  26,R,J,G
    7,R,U,Z
   40
 
@@ -32,7 +31,8 @@ Read,../9,lvl_intro-00-past,9G1
    1,L,D
    4,L
    1,L,D
-   2,L
+   1,L
+   1
    6,L,Z
    1,R,J
    6,R,K,G
@@ -188,4 +188,4 @@ Read,../9,end_lightning,End_IGT
    1,U,J
    1,O
   31
-FileTime: 8:05.843(28579)
+FileTime: 8:22.486(29558)
