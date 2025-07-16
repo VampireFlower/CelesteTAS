@@ -29,7 +29,7 @@ console load 10
   98
 
 #c-00 cycle 0-2
-   2
+   0
 #--------------
 
 #lvl_intro-00-past
@@ -140,10 +140,12 @@ console load 10
   15,U,X
    7,R
   17,R,C
-  22,L,D
-  14,D
-  10
-   1,R,G
+  21,L,D
+   1,D
+   1,L,D
+  20,D
+   1,L
+   1,D
    5,R,D,X
    1,R,J
    1,R,K,G
@@ -151,7 +153,7 @@ console load 10
    1,R,J,G
    1,R,K,G
   13,R
-  11,R,X
+  12,R,X
    1,R,J,G
    6,R
    1,R,J
@@ -3366,7 +3368,7 @@ AnalogMode,Precise
 #---------------
 #Lightning cycle
 #0-14
-   7
+  10
 #end_lightning
    7,R,D,C
    1,L,J
