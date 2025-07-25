@@ -25,6 +25,12 @@ Read,4SH0,lvl_a-00,4SHC
    8,L
    1,L,J
    3,L
+   7,L,Z
+   1,R,J
+   4
+   1,J
+   1
+   2,R
 Read,4HC,4SHC,lvl_a-09
 
 #lvl_a-09
