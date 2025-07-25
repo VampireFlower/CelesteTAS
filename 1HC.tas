@@ -229,26 +229,29 @@ Read,1A,lvl_6c,lvl_9
 #lvl_11
   15,J
    1,K,G
-   8,G
-   4
-  25,G
+   7
+   2,G
+   1,R,J
+   9,R
+   2,R,J
+   5,R
+  11,L,Z
    3,L,J,G
-   1,L
-   6,L,Z
-   1,L,J
-   4,L
-   1,L,J
+   1,K
+   1,L,J,G
+   9,L
   40
 
 #lvl_11z
    1,L
-  11,L,J
-   5,J
-  16,U,X
-   2,L,J
-   3,L
+  15,L,J
+   2,J
+  15,U,X
    1
-   2,L
+   2,L,J
+   1,L
+   1
+   4,L
    1,R,J,G
    1,L,J
    5,R,K,G
@@ -263,4 +266,4 @@ Read,1A,lvl_6c,lvl_9
    1,U,J
    1,O
   31
-FileTime: 1:06.691(3923)
+FileTime: 1:06.674(3922)
