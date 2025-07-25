@@ -31,42 +31,43 @@ Read,4A,lvl_a-00,4HC
    1,J
   11,L,J
    7,L
-   7,L,J
-   3,L
+  10,L,J
   14,L,U,X
    7,L,J,G
   40
 
 #lvl_a-10 (0)
+   1,L,J
+  13,L,Z
    2,L,J
-   4,L
-  14,L,Z
-   4,L,J
+  10,L,D,X
+   1,L,J
+  12,L
+   1
    2,L
-   9,L,D,X
-   1,L,J,G
-  17,L
    1,L,J
   14,L,D,X
    1,L,J
-   4,L
+  14,L,D,X
+   1,L,J
+   2,L
   40
 
 #lvl_a-11
-   4,L
+   1,L
+   3
    6,L,U,X
    1,L,J,G
-   5
-   4,L
+   4
+   5,L
    1,L,J
    3,L
-#4SHC
-   7,L,Z
+   7,L,D,X
    1,R,J
    4
    1,J
-   1
-   2,R
+   3,R
+#4SHC
   14,R,Z
    1,L,J
    6,L,D,X
@@ -265,4 +266,4 @@ Read,4SH0,lvl_b-05 (1),lvl_b-08b
 
 #lvl_b-08b
 Read,4A,lvl_b-08b
-FileTime: 2:13.110(7830)
+FileTime: 2:13.093(7829)
