@@ -1149,7 +1149,7 @@ console load 10
    8,R
   40
 
-#lvl_e-06 (0)
+#lvl_e-05b
    1,R,J
    2,R
    1,R,D,J
@@ -1202,7 +1202,7 @@ console load 10
    4,R
   40
 
-#lvl_e-06 (1)
+#lvl_e-06
    3,R
    1,R,J
    9,R,D,X
