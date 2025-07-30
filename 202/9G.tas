@@ -3,6 +3,7 @@
 
 console load 10
    1
+console give_golden
 
 #Start
   98
@@ -60,7 +61,7 @@ Read,../9,end_lightning,End_IGT
    1,D,J
   18
 
-#lvl_end-granny
+#lvl_end-golden
   97
    4,R,J
    3,J
