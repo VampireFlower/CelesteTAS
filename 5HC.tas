@@ -315,21 +315,20 @@ Read,5A,lvl_a-00b,lvl_b-01
 
 #lvl_b-04
    4,R
-   7,R,J,G
+   5,R,J,G
+   2,R
   13,R,U,X
-   1,R,K,G
-   7,R
-   1,R,K
-   5,R
-   4,D,X
+   1,R,J,G
+   9,R
+   3
+   5,R,Z
    1,L,J
-   1
-   5,L
-   4,L,D
-   1,J
-   7,R,J
-   1,L,J
-  17,R,K,G
+   6,L
+   2,D
+   1,L,D
+   7,J
+   2
+  17,R,J,G
   15,U,X
   59,D
   40
@@ -470,4 +469,4 @@ SaveAndQuitReenter
 
 #lvl_b-16
 Read,5A,lvl_b-16
-FileTime: 3:55.994(13882)
+FileTime: 3:55.977(13881)
