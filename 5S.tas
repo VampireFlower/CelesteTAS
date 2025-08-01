@@ -684,37 +684,35 @@ EndRepeat
    7,L
   14,L,J
   15,L,D,X
-  22,L
-   4,L,D
-   1,L
-  11,R,J
-   1,J
+  26,L
+   1,L,D
   12,R,J
-   1,R,K,G
-   2,R,J,G
+   5,R
+   2,R,J
+   5,R
+   1,R,J,G
    2,R,K,G
-   1,K
-   1,R,K
-   1,K
-   2,R,K
-   4,R
-  12
+   1,R,J,G
+   3,J
+   1,R,J
+   5,R
+   1,J
+   4,R,J
+   5,J
+   4
    1,R
-   1,L
+   1
    1,D
    4,X
-  22,R,J
-   5,J
+  26,R,J
    1,R,K,G
-   5,K
    4,L,K
-   1,R,J,G
-   1,R,K,G
-   4,R
-   3
-  14,R,Z
+   6,R,K
+   6,R
+   1
 #+6f berry
-   1,R,J
+  13,R,Z
+   2,R,J
   15,D,X
    2,L,D
    2,L,K
@@ -3137,4 +3135,4 @@ EndStunPause
    1,S
    1,D,J
   18
-FileTime: 6:25.237(22661)
+FileTime: 6:25.220(22660)
