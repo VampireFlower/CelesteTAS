@@ -1727,10 +1727,10 @@ AnalogMode,Square
   17,L,U,C
   11
   19,L,D,X
-   6,F,169.7
-  19,L,D,C
-  11,L,D,X
-  19,F,270
+   3,D
+  19,L,D,X
+  13,L,D,C
+  19,F,290
 AnalogMode,Ignore
   19,U,X
   18,L,U,C
@@ -3135,4 +3135,4 @@ EndStunPause
    1,S
    1,D,J
   18
-FileTime: 6:25.220(22660)
+FileTime: 6:25.203(22659)
