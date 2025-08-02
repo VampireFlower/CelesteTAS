@@ -451,18 +451,21 @@ SaveAndQuitReenter
   13,L,J
    1,R,K,G
    9,L,K
-  11,U,Z
-   3,L,J
-  11,L
-  15,U,X
-  20,R,J
-   9,R,K,G
-   6,R
+  15,U,Z
+   1,R,J,G
    1,L
-   8,L,J
-  17,U,X
+   2
+   4,R
+   6,R,J
+  15,U,Z
+  18,L,J
+   4,K,G
+   6,L
+   1,R
+  10,J
+  15,U,X
   40
 
 #lvl_b-16
 Read,5A,lvl_b-16
-FileTime: 3:55.943(13879)
+FileTime: 3:55.892(13876)
