@@ -1153,38 +1153,35 @@ EndRepeat
    5,L
    3,L,K
    3,K
-   4
-   1,L
-   2
+   7
    2,R
    3
-  15,U,X
-   2,L,J,G
-   1
-   1,L
-   3
-   1,L
-   5,R
+  15,U,Z
+   1,L,J,G
+   1,R,J
+   5
+   2,L
+   2,R
+   2,L
    4,D,X
    1,L,J
    2,L
-   2,L,J
-   1,L
-  11,L,K
-   1,L
-   2
-   2,J,G
+   1,L,J
+   2,L
+  11,L,D,K
+   2,L
+   1
+   1,J,G
   11,L,J
   14,L,U,X
-   1,L,J,G
-   5,L
-   1,L,J
-   4,L
+   2,L,J,G
+   1,J
+   7,L
   15,U,X
-  17,L
-   4,L,J,G
+  18,L
+   5,L,J,G
    5,L
-  18
+  17
    9,R,Z
    3,R,J
   13,R
@@ -1746,4 +1743,4 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 3:13.613(11389)
+ChapterTime: 3:13.596(11388)
