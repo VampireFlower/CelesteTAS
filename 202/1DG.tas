@@ -191,7 +191,9 @@ Read,../1D,lvl_6b,lvl_8b
    4,R,K
    1,J
    7,R,J
-  10,L,J
+   6,L,J
+   3,J
+   1,L,J
   40
 
 #lvl_9
@@ -353,4 +355,4 @@ Read,../1D,lvl_9,lvl_12
    1,U,J
    1,O
   31
-FileTime: 1:18.574(4622)
+FileTime: 1:18.557(4621)
