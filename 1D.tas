@@ -547,30 +547,30 @@ console load 1
    4,R,K
    1,J
    7,R,J
-  10,L,J
+   6,L,J
+   3,J
+   1,L,J
   40
 
 #lvl_9
-   1,K,G
+   1,J,G
+   2,L,J
    1
-   6,K,G
-   1,J
-   4,K,G
-   7,R,K
-   1,R,J,G
+   3,J,G
+   1,K
+   7,J,G
+   5,R,J
    1,R,K,G
-   2
-   6,R
-   1,R,J
-   1,R
-   1,D,J
-   2,R,J
-   2
-   1,R
+   1,R,J,G
    3
-   1,J
-   1
-  17,L,K,G
+   3,R
+   1,R,J
+   3,R
+   2,D,J
+   1,R,J
+   7
+  16,L,K,G
+   1,K
    1,J
    5,K,G
    3,R,K
@@ -878,4 +878,4 @@ console load 1
    1,S
    1,D,J
   18
-ChapterTime: 1:15.276(4428)
+ChapterTime: 1:15.259(4427)
