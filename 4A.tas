@@ -781,67 +781,66 @@ console load 4
 
 #lvl_d-04
    5,R,D,X
-   7,R,J
+   1,R
+   1,D
+   1,R,D,J
+   1,R,J
+   1
+   4,R
+  15,R,D,X
+   1
+   1,R,D,J
+   1,R,J
+  10,R,U,C
+   6,O
+   2
+   3,R
   15,R,D,X
    1,R,J
-  24,R,U,X
-  15,R,D,C
-   2,R,J
-  16,R,D,X
-  10,R,D,J
-   1,J
-   1,R,J
+   2,R
+  15,R,D,X
+  11,R,D,J
    2,R,K,G
    7,R
   12,R,U,Z
-   1,R,J,G
-   6,R
+   7,R,J,G
   40
 
 #lvl_d-05
-   6,R
-   2,R,J
-   5,R
-   1,R,J
-   1,R
-   4,R,K,G
+  18,R,J
   14,R,U,X
-   2,R,J,G
-   6,R
-   1
-   1,K
+   8,R,J,G
   40
 
 #lvl_d-06
-   9,R,D
-   5,R,J
-   3,R
-   1
-   1,R
-   3,R,J
-   1,R,K,G
-  28,R,D
-   6,R
-   9,R,U,X
-   1,R,J,G
-   8,R
+   1,J
+   1,R,J
+  11,R,U,X
+   5,R,K,G
+  15,R
+   6,O
+  10,R,J
+  15,R,D,X
+   2,R
+   2,D
+  10,R,D,X
   40
 
 #lvl_d-07
-   4,R,D
-   3,R,J
-   5,R
-   3,R,K
-  12,R
-  13,R,U,Z
-   1,L
-   4,J,G
-   7
-   1,R
-  15,R,U,C
-  12,R,X
-  15,R,C
-  14,R,D,X
+   8,R,D,C
+   3
+   1,D
+   2,R,D
+   1,D
+   8,R,U,X
+   5,L,J,G
+  14,D
+  15,R,U,X
+  12,R,C
+  15,R,U,X
+  12,R,C
+  15,R,X
+  14,R,D,C
    2,R,J
    9,R,D,X
    6,J
@@ -951,4 +950,4 @@ console load 4
    1,D,J
   18
 
-ChapterTime: 1:46.403(6259)
+ChapterTime: 1:46.369(6257)
