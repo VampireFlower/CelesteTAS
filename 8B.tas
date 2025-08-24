@@ -648,25 +648,25 @@ EndRepeat
   40
 
 #lvl_c-04
+   8,J
+   3,R,J
+   2,J
+   7,L
+   1,R,K
    1
-   5,R,J
-  13,L,J
-   1,L,K,G
-   5,L
-   1
-   1,R
-   6,L,J,G
-   8,L,G
-  13,U,G
-  10,J,G
-   8,R,J
+   1,L,G
   15,U,X
-  42
-  18,L,U,X
+  10
+   7,U,G
+  12,J,G
+   6,L
+  56,U,X
+  16,L
+  15,U,X
+   1
   15,U,C
-  15,U,X
-  10,R
-   7
+   5,R
+  12
   16,L
   21,L,J
   13,R,K,G
@@ -901,4 +901,4 @@ EndRepeat
   14,R,U,C
 #8BG
  135,R
-ChapterTime: 2:02.655(7215)
+ChapterTime: 2:02.638(7214)
