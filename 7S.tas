@@ -2435,22 +2435,21 @@ console load 7
    6,R,J
   14,R,U,X
    4,R,J,G
-   8,R,D,X
+   5,R
   43
 
 #lvl_f-04
-   2,R,J
-   5,R
    1,R,J
-   4,R
-   3
-   1,R
-   2
-   8,L,Z
+   2,R
+   7,R,J
+   8,R
+   8,L,D,X
    1,R,J
    6
-   5,L,J
-   7,R,J
+   6,L,J
+   2,R,J
+   1,L,J
+   3,R,J
    6,R,U,X
 StunPause
    8,R,U,X
@@ -2462,11 +2461,13 @@ EndStunPause
 
 #lvl_f-03
   11,R,D
-   2,R
-   3
+   4,R
+   1,R
    1,R,J
-   2,J
-   2
+   1,J
+   1,J
+   1,R
+   1,R
   13,R,U,Z
    1,L,J,G
    9,R,J
