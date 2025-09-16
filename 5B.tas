@@ -664,13 +664,12 @@ SaveAndQuitReenter
    2,R
   13,R,U,X
    1,R,J,G
-  28,R,D
-   1,D
-   1,R,D
-   3,D
-  14,L,D,X
+  31,R,D
+   2
+  12,L,Z
    1,R,J
-   7,R,D,X
+   2,R
+   5,R,D,X
   13,G
    1,R,J,G
    3,R,G
@@ -679,71 +678,75 @@ SaveAndQuitReenter
 #lvl_d-02
   11,R,G
    6,R,J,G
-   6,R,G
-   2,G
+   9,R,G
    1,R,K,G
    1,K,G
    2,G
-   0,R,K
    9,R,U,Z
   16,R,G
-   4,R,J,G
-   4,J,G
+   7,R,J,G
    1,D,J
   11,U,X
-  22,R,G
-   5,R
+  13,G
+   9,R,G
+   6,R
    2,R,J
-   4,R
-   8
+   1,J
+   2,R,J
+   9,R
    9,O
    4
   16,R,D,X
-   9,D
-   2
-   3,R
-   9,R,D,J,X
-  18,J,G
-   8,R,K,G
-   1,R,K
-   1,J
-   4,K
+   6,D
+   1,R
+   6,D
+   9,R,D,X
+  13,J,G
+   5,R,J,G
+   2,R,K,G
+   4,K,G
+   2,K
+   5,J
   15,L,D,X
    2
    1,D
-   8,R,Z
+   9,R,Z
    1,R,J
-   6,R
+   1,R
+   1,R,J
+   5,R
    1,R,J
   14,R,D,J,X
   19,R,J,G
-  17,R,K,G
-   2,K,G
-   2,G
+  10,R,K,G
+   1,K,G
+  11,R,K,G
    9,O
-   1,G
    1,R
   15,R,D,X
-   4
-   1,D
+   1
    1,R
+   1
+   1,R
+   1
    4,Z
    7,L,J
    3,L
-   1,J
-   4,L
+   1,L,J
+   3,L
   14,L,D,X
    1,R,J
    6,R,D,X
    1,R,J,G
   11,R
    2,R,J
-  12,R,D,X
-   1,R,J
-   2,R
-   8,R,D,X
-  13,G
-   4,R,G
+#+1f
+  10,R,D,X
+   5,R,J
+   7,R,D,X
+  13,J,G
+   1,R,J,G
+   3,R,G
   40
 
 #lvl_d-03
@@ -751,9 +754,7 @@ SaveAndQuitReenter
    1,R,J
    2,R
    1,J,G
-   1
-   1,R
-   3
+   5
    2,L
    1,L,J
    1,L
@@ -858,4 +859,5 @@ SaveAndQuitReenter
   14,R,U,X
 #5BG2
  135,R,D
-FileTime: 1:43.496(6088)
+ChapterTime: 1:39.586(5858)
+FileTime: 1:43.428(6084)
