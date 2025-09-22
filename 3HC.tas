@@ -284,50 +284,51 @@ Read,3A,lvl_10-y,lvl_10-x (1)
    4,L
    8,L,D,J
    5,L
+   2,R,J,G
+   4,L,J
+  12,R,K
   14,U,X
-  12,J
   40
 
 #lvl_09-b (2)
-   3,R
+  14,J
+  15,U,Z
    1,L
-   7
-  15,U,X
-   9,J,G
-   1,L,J
-   1,L,K,G
    1,L,J,G
    1,L,K,G
-   7,L
-   3,R
-   2
-  15,U,X
-   2,L,J,G
+   1,L
    1
-   1,L
-   3
-   1,L
-   5,R
-   4,Z
-   1,L,J
-   1,L
-   1,L,J
    3,L
-  11,L,K
-   1,L
-   2
-   2,J,G
+   1,L,J
+   2,L
+   2,R
+   3
+  15,U,X
+   1,L,J,G
+   1,R,J
+   5
+   2,L
+   2,R
+   2,L
+   4,D,X
+   1,L,J
+   2,L
+   1,L,J
+   2,L
+  11,L,D,K
+   2,L
+   1
+   1,J,G
   11,L,J
   14,L,U,X
-   1,L,J,G
-   5,L
-   1,L,J
-   4,L
+   2,L,J,G
+   1,J
+   7,L
   15,U,X
-  17,L
-   4,L,J,G
+  18,L
+   5,L,J,G
    5,L
-  42
+  16
    9,R,Z
    3,R,J
   13,R
@@ -577,4 +578,4 @@ Read,3A,lvl_09-d,lvl_04-d
 
 #lvl_00-d
 Read,3A,lvl_00-d
-FileTime: 3:42.292(13076)
+FileTime: 3:41.816(13048)
