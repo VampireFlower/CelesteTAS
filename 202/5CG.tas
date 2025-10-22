@@ -8,24 +8,19 @@ console rmx2 5
    0
 
 #lvl_00
-# +18f
+# +9f
    4,R,J
    3,J
    1,R
    1
-  12,R,D,X
-  19,R,J
-   1,J
-   7,U,X
-   7,R,J
-  13,R
-   1,R,K
+  14,R,D,X
+  26,R,J
+  14,R,U,Z
+   1,L,J,G
+   2,R,J
+   3,R
+   1
    1,R
-   1,R,J,G
-   8,R
-   1,R,K
-   9,R
-   8,R,X
 Read,../5C,5CG1,5CG2
 
 #lvl_02 (1)
@@ -33,4 +28,4 @@ Read,../5C,5CG1,5CG2
    1,U,J
    1,O
   31
-FileTime: 0:16.167(951)
+FileTime: 0:15.963(939)
