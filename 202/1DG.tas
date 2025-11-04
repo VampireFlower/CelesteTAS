@@ -339,20 +339,17 @@ Read,../1D,lvl_9,lvl_12
    2,R,J
    4,R
    1,R,J,G
-   6,R,K,G
-   4,R
-  15,U,X
-  26,R,D
-   1,D
-   1,R,D
-   1,D
-# frameties cutscene skip end
-   1,R,D
+  11,R,K,G
+  18,U,X
+Repeat,6
    1,R
-   1,L,D
+   1
+   1,L
+   1
+EndRepeat
 #Exit
    1,S
    1,U,J
    1,O
   31
-FileTime: 1:18.557(4621)
+FileTime: 1:18.489(4617)
