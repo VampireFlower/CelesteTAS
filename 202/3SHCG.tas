@@ -30,24 +30,31 @@ Read,../3SH,lvl_s0,lvl_s2
    3,R,K
   12,R,J,G
   15,R,D,X
-  20,R,J
+  11,R,J
+   9,R
   40
 
 #lvl_s3 (0)
-   2,R,J
    8,R
-   1
-  11,R,U,X
+  14,R,U,X
    1,R,J,G
-   8
-  35,R,D
+
+   3,R,J
+   5,R
+   1,R,J
+   1,R
+   1,R,J
+   3
+   1,R
+  21,D
+   9,R,D
+   5,D
+   1,R
    1
-   1,J
-  14
-   1,J
-  14
-   1,J
-  14
+Repeat, 18
+   1,D
+   1
+EndRepeat
    1,J
    5
    9,R
@@ -108,4 +115,4 @@ Read,../3SH,lvl_12-d,lvl_04-c (0)
 
 #lvl_04-c (0)
 Read,../3SHC,lvl_04-c (0)
-FileTime: 4:51.788(17164)
+FileTime: 4:51.771(17163)
