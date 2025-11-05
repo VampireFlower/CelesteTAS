@@ -290,26 +290,23 @@ Read,../1D,lvl_9,lvl_12
    1,L,J,G
   30,R,J
    1,G
-   2,R,J,G
-   1,R
-   4
-   1,R
-   1,L,J
+   1,R,J,G
+   9,J
+   5
+   1,R,J
+   3
+   2,L
+   3,L,D
+   1,R,J
+   1,K,G
+   1,L,K
+   1,R,K
+   1,J,G
+  11,L,J
    1,L
-   1,L,J
-   1,L
-   1,R
-   9,R,G
-   1,R,K,G
-   1,L
-   1,R
-   1,J
-   2,K,G
-  10,L,K
-   8
+   6
    3,R,J,G
-   1,J
-   2
+   1
    1,K
    2,J,G
   22,L,J
@@ -352,4 +349,4 @@ EndRepeat
    1,U,J
    1,O
   31
-FileTime: 1:18.489(4617)
+FileTime: 1:18.472(4616)
