@@ -93,20 +93,25 @@ console load 2
    1
    1,L
    1,L,K,G
-   7
+   7,L
    4,Z
-   9,L,J
+   7,L,J
+   1,J
   40
 
 #lvl_d8 (1)
-   3,L,J
-  16,U,Z
-  17,R,J
-   1,J
-   1,K
-   3,R,J
-   7,R
-   5,R,Z
+   2,J
+   1,L,J
+  15,U,X
+   1,L
+   6,L,J
+  14,R,J
+   1,K,G
+   1
+   1,R,J,G
+   1,L
+   6,R
+   4,Z
    1,R,J
    2,R
   40
@@ -1132,4 +1137,4 @@ console load 2
    1,S
    1,D,J
   18
-ChapterTime: 2:23.701(8453)
+ChapterTime: 2:23.684(8452)
