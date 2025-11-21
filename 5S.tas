@@ -1916,26 +1916,14 @@ SaveAndQuitReenter
    1,L
    1,J
   14,R,Z
-   1,R,K
-   1,R
-   3,R,K
-   1,R
-  16,R,D,X
+   1,R,J
    4,R
-   1,L
-   1,R
-   2,R,J,G
-   3,L,J
-   1,L
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-   2,K
-  12,U,K,Z
-   1
-   4,L,J
-   1,J
-   1
+  15,D,X
+   4,R,D
+   2,R,D,J
+   2,R
+  10,R,Z
+  14,R
   15,U,X
    1,R,J,G
    7,R
@@ -3135,4 +3123,4 @@ EndStunPause
    1,S
    1,D,J
   18
-FileTime: 6:25.203(22659)
+FileTime: 6:25.101(22653)
