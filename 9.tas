@@ -1,5 +1,5 @@
 #For loads Remembered - Determination
-#Set,DashMode,Two
+Set,DashMode,Two
 
 #console load 10 12807 -4216
 #play,Remembered,37
@@ -8,10 +8,10 @@
 #play,Event Horizon,37
 
 #console load 10 28203 -8088
-#play,Determination,37
+#Play,Determination,37
 
 #Dont comment out
-#Set,DashMode,Normal
+Set,DashMode,Normal
 
 #console load 10 43604 -8706
 #play,Stubbornness,37
@@ -2042,7 +2042,7 @@ EndStunPause
   16,R,X
   17,R,Z
 #h-08 cycle 0-2
-   2
+   1
 #--------------
   45,R,X
   15,R,D,C
