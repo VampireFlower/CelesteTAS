@@ -1,5 +1,5 @@
 #For loads Remembered - Determination
-Set,DashMode,Two
+#Set,DashMode,Two
 
 #console load 10 12807 -4216
 #play,Remembered,37
@@ -11,7 +11,7 @@ Set,DashMode,Two
 #play,Determination,37
 
 #Dont comment out
-Set,DashMode,Normal
+#Set,DashMode,Normal
 
 #console load 10 43604 -8706
 #play,Stubbornness,37
@@ -1719,42 +1719,50 @@ EndStunPause
   14,L,Z
    1,R,J
    6,R
-  24,R,J
-   1,J
-   1,R,J
+  26,R,J
   14,U,Z
-   5,L,J
-   2,R,J
-   2,R
-  26,L
+   7,J
+   4,R
    1
-   3,K
-  12,L
-   6,R
-   1,J
-   1,L
-  11
    1,R
-   1,L
-  18,G
-   2,D,G
+  21,L
    1
-   1,K
+   1,L
+   1
+  25,G
+   1,U,G
+   1,G
+   1,U,G
    1,L,J,G
-  37,R,J
-  21,R,Z
-  12
+   5,J
+  12,R
+   2
+   2,D
+   3,R
+   1,R,J
+   1,L,K,G
+  39,R,K
+  15,R,Z
+   6,R
+   6
+   1,L
+   4
+   1,D
   14,R,D,X
    7,R,J
    1,R
    2,R,J
    1,R
   11,R,J
-  17,R,X
-   4
-  16,R,C
+  15,R,X
+   1,R
+   2
+   1,R
    1
    1,R
+  15,R,X
+   2,R
+   1
    1,R,K,G
    2,R,J,G
    2,R
@@ -2034,7 +2042,7 @@ EndStunPause
   16,R,X
   17,R,Z
 #h-08 cycle 0-2
-   0
+   2
 #--------------
   45,R,X
   15,R,D,C
