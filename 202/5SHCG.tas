@@ -127,7 +127,7 @@ EndRepeat
 Read,../5S,lvl_d-19b (1),Spinner Cycle
 
 #lvl_e-00 (1)
-   8
+   1
 Read,../5S,-------------
 
-FileTime: 6:39.704(23512)
+FileTime: 6:39.585(23505)
