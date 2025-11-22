@@ -1920,9 +1920,14 @@ SaveAndQuitReenter
    4,R
   15,D,X
    4,R,D
+# e-09 stun spinner group manip
+   1,R,D
    2,R,D,J
-   2,R
-  10,R,Z
+   1,R
+  10,R,X
+#    2,R,D,J
+#    2,R
+#   10,R,X
   14,R
   15,U,X
    1,R,J,G
@@ -2005,7 +2010,8 @@ SaveAndQuitReenter
    6,R
    1,R,J
   15,R,D,X
-  13,R
+  12,R
+   1,R,J
    3,L,J
   14,R,U,X
    3,J,G
@@ -2813,7 +2819,7 @@ EndRepeat
    1,D,J
   34
 #Spinner Cycle
-   1
+   0
 #-------------
   14,L,Z
    1,R,J
@@ -3123,4 +3129,4 @@ EndStunPause
    1,S
    1,D,J
   18
-FileTime: 6:25.101(22653)
+FileTime: 6:25.084(22652)
