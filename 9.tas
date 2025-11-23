@@ -648,7 +648,7 @@ EndStunPause
   11,J
   10,U,X
 #d-05 cycle 0-1
-   1
+   0
 #--------------
   38,R,U,C
   15,U,X
@@ -705,16 +705,17 @@ EndStunPause
   11,L
   14,L,Z
    1,R,J
-   5,R,D,X
+   6,R,D,X
 StunPause
-   5,R,D,X
+   4,R,D,X
    1,R,J
    3,R
    1,R,J
    3,R
    8,R,D,J
+   1,R,K,G
 EndStunPause
-   9,R,K,G
+   8,R,K,G
    6,K
   19,U,X
   18,U,C
@@ -766,7 +767,7 @@ EndStunPause
   15,U,X
   12,R,U,C
 #e-07 spinner cycle
-   2
+   0
 #-----------
   45,U,X
   60,L,U,C
@@ -3376,7 +3377,7 @@ AnalogMode,Precise
 #---------------
 #Lightning cycle
 #0-14
-   9
+  12
 #end_lightning
    7,R,D,C
    1,L,J
