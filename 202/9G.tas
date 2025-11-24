@@ -53,7 +53,7 @@ Read,../9,lvl_a-01,Lightning cycle
 
 #lvl_j-08 (1)
 #Lightning Cycle
-  13
+   0
 Read,../9,end_lightning,End_IGT
 
 #lvl_j-16 (1)
@@ -189,4 +189,4 @@ Read,../9,end_lightning,End_IGT
    1,U,J
    1,O
   31
-FileTime: 8:22.486(29558)
+FileTime: 8:21.976(29528)
