@@ -3085,6 +3085,9 @@ AnalogMode,Precise
    1,L,D
    1,D
   15,R
+#+1f Box cycle
+   1,R
+#----------
   15,R,X
   13,R
   31
@@ -3101,16 +3104,17 @@ AnalogMode,Precise
    3,R
   15,R,Z
    7,R,G
-   2,J
-   1
+   2
    1,J,G
-   7,R
-   3,R,J
-   7,R,D,X
+   1,K,G
+   5
+   4,R
+   4,X
+   1,D,X
   12,O
    4,R
   10,R,J
-  14,R,Z
+   9,R,Z
    1,R,J
    6,R
    1,R,J
@@ -3377,7 +3381,7 @@ AnalogMode,Precise
 #---------------
 #Lightning cycle
 #0-14
-  12
+   4
 #end_lightning
    7,R,D,C
    1,L,J
@@ -3732,7 +3736,7 @@ EndStunPause
   38
 AnalogMode,Ignore
 #End_IGT
-ChapterTime: 8:03.157(28421)
+ChapterTime: 8:02.902(28406)
 
 # optional waiting for
 # visuals to play out
