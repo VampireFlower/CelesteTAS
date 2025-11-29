@@ -2435,7 +2435,7 @@ EndStunPause
    1,R
   20,R,X
 #h-09 cycle 0-2
-   0
+   1
 #--------------
    7,R,Z
    2,R,J
@@ -2461,67 +2461,65 @@ EndStunPause
    7,K,G
    8,U,X
    8,R,J
-   3,R
+   1,R
+   1
+   1,R
   19,U,X
   15,R,D,C
   15,D,X
    2,D
-   1,L,D
-   1,L
-  11,D
+   2,L,D
+  10,D
    5,R,U,Z
   10,R
   15,R,X
-   6,R
-   6,R,J
+   7,R
+   1,R,J
+   2,J
+   4
    8,L,U,X
-   2,L,K,G
-   1,R,K
-   5,R
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   4,L
    1
-   1,K
-   1
-   1,K
-   1
-   9,L,Z
-   1,L,J
-   3,L
-   2
-   2,L
-  14,L,V
+   4,X
+   5,L,J
+   1,L
+   8
+   2,J
+   9
+   2,D
+   4,Z
    1,R,J
-   7,R,D,X
-   1,R,K,G
-   6,R
-   1,K
-   2
-   1,R,D,J
-   1
-StunPause
-   2
-SkipInput,3,1
-   6,R,D,X
-SkipInput,6
-   9,R,D
-EndStunPause
-   6,R
-   2,R,K
-   5,R
-   1,R,K
-  10,K
-  15,U,X
-  27,R,J
    1,R
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   9,R
    1,R,J
-   2,R
+   1,R,K
+StunPause
+SkipInput,3,1
+   7,R,D,X
+EndStunPause
+   8,R,D,X
+   4,R,D
+   4,J
+   4,R,J
+   4,R
+   1
+   5,R,J
+  14,U,X
+  28,R,J
+   3,R
   15,U,Z
   10,R
-   3
    6,R,Z
    1,R,J
    9,R
-   5,R,D,J
-   4,R
+   2,R,D,J
+   7,R
   16,R,D,X
    2
    1,R,D,J
@@ -3375,7 +3373,7 @@ AnalogMode,Precise
 #---------------
 #Lightning cycle
 #0-14
-   6
+   1
 #end_lightning
    7,R,D,C
    1,L,J
@@ -3730,7 +3728,7 @@ EndStunPause
   38
 AnalogMode,Ignore
 #End_IGT
-ChapterTime: 8:02.902(28406)
+ChapterTime: 8:02.358(28374)
 
 # optional waiting for
 # visuals to play out
