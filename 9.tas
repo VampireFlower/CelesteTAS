@@ -2504,26 +2504,27 @@ SkipInput,3,1
    7,R,D,X
 EndStunPause
    8,R,D,X
-   4,R,D
-   4,J
-   4,R,J
-   4,R
-   1
-   5,R,J
-  14,U,X
-  28,R,J
-   3,R
-  15,U,Z
-  10,R
-   6,R,Z
-   1,R,J
-   9,R
-   2,R,D,J
-   7,R
-  16,R,D,X
-   2
-   1,R,D,J
+   2,R,D
    1,R
+   1,R,D
+   8,R,J
+   5,R
+   4,R,J
+  15,U,X
+   5,R
+  21,R,J
+  22,R,U,X
+   1,R,J,G
+   1,R
+   1
+   5,R
+   9,R,Z
+   6,R,J
+  18,R,D,X
+   1,D
+   1
+   1,R,D,J
+   1,L
   43
 
 #lvl_h-10
@@ -3373,7 +3374,7 @@ AnalogMode,Precise
 #---------------
 #Lightning cycle
 #0-14
-   1
+   6
 #end_lightning
    7,R,D,C
    1,L,J
