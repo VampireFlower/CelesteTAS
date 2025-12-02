@@ -672,21 +672,23 @@ console load 10
    1,R,J
    7,R,D,X
    1,R,J
-  12,R,D
+# speed manip
+   2,D
+#
+  10,R,D
    1,R
   13,R,G
    1,R,D
    2,R
-Repeat,2
+Repeat,8
    7,R,D,X
    1,R,J
-   1
-   6,R
+   7,R
   11,R,D,X
   13,R,G
    1,R,D
 EndRepeat
-Repeat,5
+Repeat, 1
    7,R,D,X
    2,R,J
    6,R
@@ -694,33 +696,15 @@ Repeat,5
   13,R,G
    1,R,D
 EndRepeat
-# speed manip
+Repeat,4
    7,R,D,X
    1,R,J
-   1,J
-   1
-   5,R
-  11,R,D,X
-  13,R,G
-   1,R,D
-Repeat,2
-   7,R,D,X
-   2,R,J
-   6
+   7,R
   11,R,D,X
   13,R,G
    1,R,D
 EndRepeat
-Repeat,3
-   7,R,D,X
-   1,R,J
-   5
-   2,R
-  11,R,D,X
-  13,R,G
-   1,R,D
-EndRepeat
-Repeat,5
+Repeat, 1
    7,R,D,X
    2,R,J
    6,R
@@ -728,21 +712,22 @@ Repeat,5
   13,R,G
    1,R,D
 EndRepeat
-Repeat,2
+Repeat,6
    7,R,D,X
    1,R,J
-   5
-   2,R
+   7,R
   11,R,D,X
   13,R,G
    1,R,D
 EndRepeat
+
    7,R,D,X
    1,R,J
    7,R
   11,R,X
   13,R,G
    1,R,D
+
 Repeat,3
    7,R,D,X
    1,R,J
@@ -754,7 +739,7 @@ EndRepeat
 Repeat,5
    7,R,D,X
    2,R,J
-   6
+   6,R
   11,R,D,X
   13,R,G
    1,R,D
@@ -785,7 +770,7 @@ EndRepeat
    1
   15,D,X
   15,D,C
-  61,D
+  62,L,D
 
 #end-granny
    1,S
