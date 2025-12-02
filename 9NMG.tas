@@ -4,6 +4,7 @@
 # Dash trigger skip
 # Bino control storage
 # Spinner/hazard stun
+# MOOO
 
 #console load 10 9613.00 -1867.50
 #play,Power Source,37
@@ -2878,7 +2879,7 @@ AnalogMode,Ignore
   35,R,J,G
   44,R,U
   12,F,90
-Read,9,Stubbornness,lvl_j-08
+Read,9S,Stubbornness,lvl_j-08
 
 #lvl_j-08
    1,R
