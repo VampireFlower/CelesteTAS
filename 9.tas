@@ -584,12 +584,12 @@ console load 10
   63,L,D,G
    9,D,G
   27,L,D,G
-  92,D,G
-  26,L,D,G
-   1,R,D
-  14,R,D,X
+  80,D,G
+  33,L,D,G
+   5,L,D
+  14,R,Z
    1,L,J
-   8,L,D,X
+   6,L,D,X
   13,L,G
    1,L,J,G
   13,L,G
@@ -747,7 +747,7 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 1:48.613(6389)
+ChapterTime: 1:48.562(6386)
 
 #end-cinematic
 Add 2
