@@ -659,7 +659,7 @@ console load 10
   13,R,G
    1,R,D
    2,R
-Repeat 2
+Repeat,2
    7,R,D,X
    1,R,J
    1
@@ -670,7 +670,7 @@ Repeat 2
   13,R,G
    1,R,D
 EndRepeat
-Repeat, 5
+Repeat,5
    7,R,D,X
    2,R,J
    6,R
@@ -687,7 +687,7 @@ EndRepeat
   11,R,D,X
   13,R,G
    1,R,D
-Repeat, 22
+Repeat,22
    7,R,D,X
    2,R,J
    6,R
@@ -724,10 +724,9 @@ EndRepeat
   13,R,G
    1,R,D
    7,R,Z
-   1,R,J
-   5,K,G
-   2,R
-  11,R,U,Z
+   6,R,J
+   2
+  13,R,U,Z
   40
 
 # lvl_c-alt-01
@@ -735,15 +734,16 @@ EndRepeat
   40
 
 #lvl_end-golden
-   3
-  28,D,X
-  62,D
+   1
+  15,D,X
+  15,D,C
+  61,D
 
 #end-granny
    1,S
    1,D,J
   18
-ChapterTime: 1:48.664(6392)
+ChapterTime: 1:48.630(6390)
 
 #end-cinematic
 Add 2
