@@ -1,192 +1,401 @@
-#console load 10 81744 -13272
-#play,Moonberry Room,37
-
-console load 10
+console load 10 2776 -1640
    1
-console give_golden
 
 #Start
-  98
-
-#c-00 cycle 0-2
-   1
-#--------------
-
-#lvl_intro-00-past
-Read,../9,lvl_intro-00-past,9G1
-
-#lvl_intro-03-space (1)
-  26,R,J,G
-   7,R,U,Z
-  40
+  36
 
 #lvl_a-00
-   9,R,U,Z
-  18,U,C
-  15,R,U,Z
-  15,R,C
-  10,R
-   3
-   7,R,D
-   5,L,D
-   1,L,D
-   4,L
-   1,L,D
+  13,R,J
+  15,U,X
+  51,R
+  18,R,U,X
+   1,R
+  15,U,C
+  15,R,X
+
+  21,R,D
+   1,D
+   1
+   1,D
+   5
+   1,R
+   5
    1,L
-   1
-   6,L,Z
+   5,L,Z
    1,R,J
-   6,R,K,G
-   4,R
+   2,R
+   1,R,J
+   1,R
+   7,R,J
    5,R,D,X
-   1,R,J,G
-   1,R
-   1
-   6,R
-   1,R,J
-   1,R
-# +41f (and 1f spinner)
+   2,R,J,G
+   9,R
   40
 
 #lvl_a-01
-Read,../9,lvl_a-01,Lightning cycle
+   2,R
+   5,R,J
+   5,R
+   7,R,J
+   5,R
+  15,R,X
+  15,R,C
+   9,R
+  18,R,X
+   8,R
+  15,R,X
+   9,R
+   4,Z
+   1,R,J
+   5,R
+  40
 
-#lvl_j-08 (1)
-#Lightning Cycle
-   9
-Read,../9,end_lightning,End_IGT
+#lvl_a-02
+   1,R
+   5,R,J
+  26,R,D
+   8,R,J
+   7,R
+  15,R,U,X
+  29,R,U,C
+   1
+   6,L,Z
+   1,R,J
+   7,R
+   1,R,J
+   5,R,D,X
+  40
 
-#lvl_j-16 (1)
+#lvl_a-03
+   4,R
+   1,R,J
+  21,R
+   2,R,D
+  32,R,U,X
+  11,J,G
+   1,L,J
+  14,R,K,G
+   3,J,G
+   9,R,J,G
+   3,R,K,G
+   2,K
+   1,R,K
+   1,R,J,G
+   3,J
+   1,R,J
+   4,J
+   8,R,J
+  18,R,X
+  15,R,C
+  25,R,D
+   9,L,D
+   3,L
+   4,Z
+   1,L
+   3,R,J
+   2,R
+   1,R,J
+   1,R
+   1,R,K
+   2,R
+   5,R,D,X
+   1,R,J,G
+   9,R
+  40
+
+#lvl_a-04
+Read,../9NMG,lvl_a-04,lvl_c-00
+
+#lvl_c-00 (0)
+   1,R
+  12,R,Z
+   1,R,J
+   6,R
+  11,R,D,J
+   2,L,K,G
+  17,U,X
+   2,K,G
+   1
+   1,J,G
+   7,L
+   1
+  12,L
+   1,L,K,G
+   2,J,G
+   4,L,J
+   6,J
+  15,U,X
+   1,R,J
+   1,R,K,G
+   3
+   4,L
+   1,D,J
+   2,L,J
+  14,U,X
+  23,R,J
+   3,L,J
+   2,L
+   6,L,K
+   9,U,X
+  11,L,J
+   1,R,J
+   1,K,G
+   7
+   7,J
+  13,R,Z
+  14,R,D,G
+  87,L,D,G
+  20,D,G
+   1,R,D,G
+  56,D,G
+  37,L,D,G
+   1,L
+  10,R,D,X
+   1,L,J
+   4,L
+  10,L,D,X
+  13,G
+  10,L,G
+   1,L,J,G
+   6,G
+  40
+
+#lvl_b-07 (1)
+   1,L,D
+  12,L,D,X
+   1,R,J
+   2,R
+   9,R,D,X
+  13,G
+  40
+
+#lvl_c-00 (1)
+   1,R,J,G
+  20,R,G
+   2,R
+   2,R,J
+   1,R
+   1,K,G
+   1
+   1,L
+   3,R
+  10,U,X
+  24,L,G
+   1,L
+   1,L,J,G
+  11,L
+   5,R
+  21,R,G
+  11,G
+   1,L
+   8
+  12,U,X
+  13,G
+  21,L,G
+   3,G
+   1,D
+  15,U,X
+   5,R
+  10,J
+   1
+   1,L,K,G
+   1,J,G
+   5,L
+   1
+   1,R
+   9,R,J
+  15,U,X
+   1,R,J,G
+  12,R
+   2,R,J
+   5,L,D,X
+  48,R,D,G
+   6,D,G
+   2,L,D,G
+   7,D,G
+  27,L,D,G
+  18,D,G
+   1,D,G
+   1,D,G
+   6,R,D,G
+  13,R,U,G
+   1,R,D
+   2,R
+  16,G
+  10,L,J
+  18,L
+  14,R,Z
+   1,R,J
+   7,R,D,X
+   1,R,J
+  12,R,D
+   1,R
+  13,R,G
+   1,R,D
+   2,R
+Repeat,2
+   5,R,D,X
+   1,R,J
+   1,D
+   7,R,D
+   1,R,J
+  11,R,D,X
+  13,R,G
+   1,R,D
+EndRepeat
+Repeat,2
+   5,R,D,X
+   1,R,J
+   1,D
+   7,R,D
+   1,R,J
+  11,R,D,X
+  13,R,G
+   1,R,D
+EndRepeat
+Repeat,3
+   5,R,D,X
+   1,R,J
+   1
+   7,R,D
+   1,R,J
+  11,R,D,X
+  13,R,G
+   1,R,D
+EndRepeat
+   5,R,D,X
+   1,R,J
+   1
+   1
+   4
+   2,R,D
+   1,R,J
+  11,R,D,X
+  13,R,G
+   1,R,D
+Repeat,2
+   5,R,D,X
+   1,R,J
+   1,R
+   6
+   1
+   1,J
+  11,R,D,X
+  13,R,G
+   1,R,D
+EndRepeat
+Repeat,3
+   5,R,D,X
+   1,R,J
+   5
+   3
+   1,R,J
+  11,R,D,X
+  13,R,G
+   1,R,D
+EndRepeat
+Repeat,4
+   5,R,D,X
+   1,R,J
+   5
+   3,R,D
+   1,R,J
+  11,R,D,X
+  13,R,G
+   1,R,D
+EndRepeat
+   5,R,D,X
+   1,R,J
+   8,R,D
+   1,R,J
+  11,R,D,X
+  13,R,G
+   1,R,D
+Repeat,2
+   5,R,D,X
+   1,R,J
+   5
+   3,R,D
+   1,R,J
+  11,R,D,X
+  13,R,G
+   1,R,D
+EndRepeat
+   5,R,D,X
+   1,R,J
+   8,R,D
+   1,R,J
+  11,R,X
+  13,R,G
+   1,R,D
+Repeat,3
+   5,R,D,X
+   1,R,J
+   8,R,D
+   1,R,J
+  11,R,D,X
+  13,R,G
+   1,R,D
+EndRepeat
+Repeat,5
+   5,R,D,X
+   1,R,J
+   6
+   2,R,D
+   1,R,J
+  11,R,D,X
+  13,R,G
+   1,R,D
+EndRepeat
+   5,R,Z
+   1,R,J
+   8,R,D
+   1,R,J
+  11,R,X
+  13,R,G
+   1,R,D
+   5,R,Z
+   1,R,J
+   4,R,D
+   1,S
+  10,J
+   2,R,D,J
+   1,R,D,J
+   1,R
+   1,S
+  10,J
+   1,R,D,J
+   2,R,D
+   9,R,X
+  13,R,G
+   1,R,D
+   5,R,Z
+   1,R,J
+   6,R,D
+   3,R,J
+  13,R,U,X
+  40
+
+#lvl_c-alt-01
+   1,R,U,X
+  40
+
+#lvl_end-golden
+   1,R
+  15,D,X
+  74,R,D
+
+#end-granny
    1,S
    1,D,J
   18
+FileTime: 1:33.398(5494)
 
-#lvl_end-golden
-  97
-   4,R,J
-   3,J
-  10,L,X
-   5,J
-  15,U,X
-   2,J
-  14,R,J
-   1,R,K,G
-   3,R
-   4
-   4,Z
-   1,R,J
-   7,R
-  20,R,J
-   2,R,K,G
-   7,R,J,G
-   3,R
-  12,U,X
-  35,L
-  24,L,U,X
-  10,J
-   5,R,J
-   3,J
-   2,R,J
-  16,U,X
-   8,R
-  38,R
-  15,R,X
-   2,R,J
-   2,J
-   8,R,J
-   1,J
-  15,U,X
-  35,R,J
-   1,K
-  28,R,K
-   1,J
-  17,R,J
-   1,R
-   1,R,J
-   1
-  15,U,X
-  10,R
-  15,U,X
-  11,R
-   3,L
-  16,R,U,X
-  15,L,V
-  25,L,D
-   4,X
-   2,L,J
-   7,L
-   1,L,J
-   7,L,K
-   1,K
-   2
-  14,U,X
-   1,R
-   2
-   4,K,G
-   1,R,K
-   1,L,K
-  10,R,J,G
-   4,R
-   1
-   2,R
-   6,L,Z
-   1,R,J
-   6,R
-   6,R,J
-   2,R
-  25,R,U,Z
-   1
-   1,J,G
-   1,L,J
-   1,R,K,G
-   4,R,J,G
-   1,R,K,G
-   1,R,J,G
-   2,R
-   1
-   4,R
-  17,R
-   5,R,X
-  16
-   5,L,J,G
-   1,L
-   1,K,G
-   5,L,X
-  12,L
-  13,L,X
-  12,L
-  13,L,X
-   1,L,J,G
-   2,L,K,G
-   2,L,J,G
-   3,L
-   4
-  32,L
-  29,L,U,C
-   2,J,G
-   1
-  10,K,G
-   1,R,K
-   1,L,K
-   1,J,G
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-   1,R
-   1
-   7,R
-   6,R,J
-  14,R,U,X
-   1,R,J,G
-   1,L,J
-   7,R
-  13,R,J
-   4,K,G
-  15,U,X
-  26,R,J
-#Exit
+#end-cinematic
+Add 2
+  61
    1,S
-   1,U,J
-   1,O
-  31
-FileTime: 8:21.432(29496)
+   1,D,J
+ 165
+   1,J
+ 483
