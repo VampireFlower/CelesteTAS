@@ -585,23 +585,23 @@ console load 10
    9,D,G
   27,L,D,G
   80,D,G
-  33,L,D,G
-   5,L,D
-  14,R,Z
+  37,L,D,G
+   1,L
+  10,R,D,X
    1,L,J
-   6,L,D,X
-  13,L,G
-   1,L,J,G
-  13,L,G
-  10,G
+   4,L
+  10,L,D,X
+  27,L,G
+   3,G
   40
 
 #lvl_b-07 (1)
+   1,L,G
    1,R
   11,L,D,X
    1,R,J
    3,R
-   8,R,D,X,G
+   8,R,D,X
   13,G
    1,R,J,G
    1,R,G
@@ -747,7 +747,7 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 1:48.562(6386)
+ChapterTime: 1:48.528(6384)
 
 #end-cinematic
 Add 2
