@@ -661,91 +661,91 @@ console load 10
   13,R,G
    1,R,D
    2,R
-Repeat,3
+Repeat 2
    7,R,D,X
+   1,R,J
+   1
+   4,R
+   1,R
+   1
+  11,R,D,X
+  13,R,G
+   1,R,D
+EndRepeat
+Repeat, 5
+   7,R,D,X
+   2,R,J
+   6,R
+  11,R,D,X
+  13,R,G
+   1,R,D
+EndRepeat
+# speed manip
+   7,R,D,X
+   1,R,J
+   1,J
+   5,R
+   1
+  11,R,D,X
+  13,R,G
+   1,R,D
+Repeat, 22
+   7,R,D,X
+   2,R,J
+   6,R
+  11,R,D,X
+  13,R,G
+   1,R,D
+EndRepeat
+   7,R,D,X
+   2,R,J
+   3,R
+   1,R,J,G
+   1,R
+   1,R,K,G
+  11,R,D,X
+  13,R,G
+   1,R,D
+# stall for the moonblock to raise
+   7,R,Z
    2,R,J
    3,R
    1,J,G
    1,R
    1,K,G
-   9,R,D,X
+  11,R,D,X
   13,R,G
    1,R,D
-   2,R
-EndRepeat
-Repeat,9
-   7,R,D,X
+   7,R,Z
    2,R,J
    3,R
-   1,R,J,G
-   1,R
-   1,R,K,G
-   9,R,D,X
-  13,R,G
-   1,R,D
-   2,R
-EndRepeat
-   7,R,D,X
-   2,R,J
-   3
    1,J,G
    1,R
-   1,R,K,G
-   9,R,D,X
+   1,K,G
+  11,R,D,X
   13,R,G
    1,R,D
-   2,R
-Repeat,29
-   7,R,D,X
-   2,R,J
-   3,R
-   1,R,J,G
-   1,R
-   1,R,K,G
-   9,R,D,X
-  13,R,G
-   1,R,D
-   2,R
-EndRepeat
-   7,R,D,X
+   7,R,Z
    1,R,J
-  13,R
-  13,R,G
-   1,R,D
+   5,K,G
    2,R
-Repeat,12
-   7,R,D,X
-   2,R,J
-   3,R
-   1,R,J,G
-   1,R
-   1,R,K,G
-   9,R,D,X
-  13,R,G
-   1,R,D
-   2,R
-EndRepeat
-   5,R,U,X
-   1,R,J,G
-   9,R
-# gated by moonblock cycle?
-  12,R,U,Z
+  11,R,U,Z
   40
 
-#lvl_c-alt-01
+# lvl_c-alt-01
    1,R,U,Z
   40
 
 #lvl_end-golden
-   2
+   3
   28,D,X
-  61,D
+  62,D
 
 #end-granny
    1,S
    1,D,J
   18
-ChapterTime: 2:01.397(7141)
+ChapterTime: 1:48.698(6394)
 
 #end-cinematic
 Add 2
