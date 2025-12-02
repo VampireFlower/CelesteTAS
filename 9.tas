@@ -551,7 +551,7 @@ console load 10
 
 #lvl_c-00 (0)
    1,R
-#Power Source
+#Power Source[]
   12,R,Z
    1,R,J
    6,R
@@ -575,16 +575,18 @@ console load 10
    2,K
   15,U,X
    4,J
-  15,U,Z
+  14,U,Z
   16,J
-   1,K,G
+   2,K,G
    7
-   7,J
+   6,J
+   1
   13,R,Z
-  63,L,D,G
-   9,D,G
-  27,L,D,G
-  80,D,G
+  14,R,D,G
+  87,L,D,G
+  20,D,G
+   1,L,D,G
+  55,D,G
   37,L,D,G
    1,L
   10,R,D,X
@@ -774,7 +776,7 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 1:48.035(6355)
+ChapterTime: 1:48.001(6353)
 
 #end-cinematic
 Add 2
