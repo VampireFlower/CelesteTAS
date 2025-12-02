@@ -1,36 +1,8 @@
-#For loads Remembered - Determination
-Set,DashMode,Two
-
-#console load 10 12807 -4216
-#play,Remembered,37
-
-#console load 10 18579 -6184
-#play,Event Horizon,37
-
-#console load 10 28203 -8088
-#Play,Determination,37
-
-#Dont comment out
-Set,DashMode,Normal
-
-#console load 10 43604 -8706
-#play,Stubbornness,37
-
-#console load 10 48406 -10328
-#play,Reconciliation,41
-
-#console load 10 61392 -10554
-#play,Farewell,38
-
 console load 10
    1
 
 #Start
   98
-
-#c-00 cycle 0-2
-   0
-#--------------
 
 #lvl_intro-00-past
   15,R,X
@@ -164,7 +136,6 @@ console load 10
    1,R,J,G
    1
    1,R,K,G
-#9G1
   29,R,J,G
   40
 
@@ -688,14 +659,12 @@ Repeat,8
   13,R,G
    1,R,D
 EndRepeat
-Repeat, 1
    7,R,D,X
    2,R,J
    6,R
   11,R,D,X
   13,R,G
    1,R,D
-EndRepeat
 Repeat,4
    7,R,D,X
    1,R,J
@@ -704,14 +673,12 @@ Repeat,4
   13,R,G
    1,R,D
 EndRepeat
-Repeat, 1
    7,R,D,X
    2,R,J
    6,R
   11,R,D,X
   13,R,G
    1,R,D
-EndRepeat
 Repeat,6
    7,R,D,X
    1,R,J
@@ -720,14 +687,12 @@ Repeat,6
   13,R,G
    1,R,D
 EndRepeat
-
    7,R,D,X
    1,R,J
    7,R
   11,R,X
   13,R,G
    1,R,D
-
 Repeat,3
    7,R,D,X
    1,R,J
@@ -773,6 +738,7 @@ EndRepeat
   62,L,D
 
 #end-granny
+ 122
    1,S
    1,D,J
   18
