@@ -548,9 +548,10 @@ console load 10
    6,R
    1,R,J
   40
+
 #lvl_c-00 (0)
    1,R
-#Power Source[]
+#Power Source
   12,R,Z
    1,R,J
    6,R
@@ -597,6 +598,7 @@ console load 10
    1,L,J,G
    6,L,G
   40
+
 #lvl_b-07 (1)
    1,L,D
   11,L,D,X
@@ -605,6 +607,7 @@ console load 10
    8,R,D,X
   13,G
   40
+
 #lvl_c-00 (1)
    1,R,J,G
   20,R,G
@@ -623,14 +626,17 @@ console load 10
   23,R,G
    1,R,D
    1,L,J,G
-   8
-   3,L
+   9,L
+   1
+   1,L
    8,U,X
-  30,L,G
-   1,G
+  13,G
+  13,L,G
+   3,G
    1,D
-  15,U,X
-  15,U,Z
+  14,U,X
+   3,J
+  14,U,Z
   16,J
    1,R,K,G
    7
@@ -657,7 +663,8 @@ console load 10
   14,R,U,J,G
    1,R,D,J
    2,R,J
-  14,G
+# moon block cycle
+  15,G
    1,L,J
    1,L
   15,L,X
