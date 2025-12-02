@@ -614,8 +614,7 @@ console load 10
    2,R
    3,R,J
    3,K,G
-   1,L
-   2,L
+   3,L
   10,U,X
   24,L,G
    4,G
@@ -643,14 +642,13 @@ console load 10
    5,L,D,X
   37,R,D,G
   25,D,G
-  18,L,D,G
-   9,L,D,G
+  27,L,D,G
   21,D,G
    5,R,D,G
   13,R,U,G
    1,R,D
    2,R
-   6,G
+  14,G
    1,L,J
    1,L
   15,L,X
@@ -667,9 +665,7 @@ Repeat,2
    7,R,D,X
    1,R,J
    1
-   4,R
-   1,R
-   1
+   6,R
   11,R,D,X
   13,R,G
    1,R,D
@@ -686,12 +682,29 @@ EndRepeat
    7,R,D,X
    1,R,J
    1,J
-   5,R
    1
+   5,R
   11,R,D,X
   13,R,G
    1,R,D
-Repeat,22
+Repeat,2
+   7,R,D,X
+   2,R,J
+   6
+  11,R,D,X
+  13,R,G
+   1,R,D
+EndRepeat
+Repeat,3
+   7,R,D,X
+   1,R,J
+   5
+   2,R
+  11,R,D,X
+  13,R,G
+   1,R,D
+EndRepeat
+Repeat,5
    7,R,D,X
    2,R,J
    6,R
@@ -699,16 +712,39 @@ Repeat,22
   13,R,G
    1,R,D
 EndRepeat
+Repeat,2
+   7,R,D,X
+   1,R,J
+   5
+   2,R
+  11,R,D,X
+  13,R,G
+   1,R,D
+EndRepeat
+   7,R,D,X
+   1,R,J
+   7,R
+  11,R,X
+  13,R,G
+   1,R,D
+Repeat,3
+   7,R,D,X
+   1,R,J
+   7,R
+  11,R,D,X
+  13,R,G
+   1,R,D
+EndRepeat
+Repeat,5
    7,R,D,X
    2,R,J
-   3,R
-   1,R,J,G
-   1,R
-   1,R,K,G
+   6
   11,R,D,X
   13,R,G
    1,R,D
+EndRepeat
 # stall for the moonblock to raise
+Repeat,3
    7,R,Z
    2,R,J
    3,R
@@ -718,18 +754,10 @@ EndRepeat
   11,R,D,X
   13,R,G
    1,R,D
+EndRepeat
    7,R,Z
-   2,R,J
-   3,R
-   1,J,G
-   1,R
-   1,K,G
-  11,R,D,X
-  13,R,G
-   1,R,D
-   7,R,Z
-   6,R,J
-   2
+   5,R,J
+   3
   13,R,U,Z
   40
 
@@ -747,7 +775,7 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 1:48.528(6384)
+ChapterTime: 1:48.086(6358)
 
 #end-cinematic
 Add 2
