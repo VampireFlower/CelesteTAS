@@ -136,6 +136,7 @@ console load 10
    1,R,J,G
    1
    1,R,K,G
+#9G1
   29,R,J,G
   40
 
@@ -565,40 +566,41 @@ console load 10
    4,L
   10,L,D,X
   13,G
-  10,L,G
-   1,L,J,G
-   6,L,G
+  29,R,G
   40
 
 #lvl_b-07 (1)
-   1,L,D
-  11,L,D,X
-   1,R,J
-   3,R
-   8,R,D,X
-  13,G
+   1,R,J,G
+   2,R,G
   40
 
 #lvl_c-00 (1)
-   1,R,J,G
-  20,R,G
-   2,R
-   3,R,J
-   3,K,G
-   1,L,K
-   2,L
-  10,U,X
-  24,L,G
-   4,G
-   1,L
+   3,R,G
+   1,R
+  14,R,D,X
+   1,R,J
+   4,R,K,G
+   5,R,D,X
+  18,R,G
+   8,R,J,G
+   1,J
+   1,J
+   2
+   5
+  11,U,X
+   1,L,J
+  22,L,J,G
+   1,L,J
    7,L,D,X
-   8,R
-   8,U,C
-  23,R,G
+   3
+   7,R
+   6,U,C
+  22,R,G
+   2,R,G
    1,R,D
    1,L,J,G
-   9,L
-   1
+   8,L
+   2
    1,L
    8,U,X
   13,G
@@ -614,114 +616,102 @@ console load 10
    2,L,J
    5,J
    5,R,X
-   1,R,J,G
-   1,K,G
-   1,R
+   1,J,G
    3
-   3,L
-  10,L,G
-  14,L,D,G
-  25,R,D,G
-   5,D,G
-   1,L,D,G
-   1,L,G
-   3,D,G
-   2,G
-   3,D,G
-  27,L,D,G
-  22,D,G
-   4,R,D,G
-  14,R,U,J,G
-   1,R,D,J
-   2,R,J
-# moon block cycle
-  15,G
-   1,L,J
+   3
    1,L
+  13,L,J,G
+   5,L,D,J,G
+   6,L,D,G
+  25,R,D,G
+  17,D,G
+  18,L,D,G
+  40,D,G
+   1,G
+   1,D
+ 171
+   3,L
   15,L,X
   14,R,Z
    1,R,J
-   7,R,D,X
+Repeat 2
+   6,R,D,X
    1,R,J
-# speed manip
-   2,D
-#
-  10,R,D
-   1,R
-  13,R,G
-   1,R,D
-   2,R
-Repeat,8
-   7,R,D,X
+   7,R,D
    1,R,J
-   7,R
   11,R,D,X
   13,R,G
    1,R,D
 EndRepeat
-   7,R,D,X
-   2,R,J
-   6,R
-  11,R,D,X
-  13,R,G
-   1,R,D
-Repeat,4
+# adjust jelly subpixels :(
    7,R,D,X
    1,R,J
-   7,R
-  11,R,D,X
-  13,R,G
-   1,R,D
-EndRepeat
-   7,R,D,X
-   2,R,J
-   6,R
-  11,R,D,X
-  13,R,G
-   1,R,D
-Repeat,6
-   7,R,D,X
-   1,R,J
-   7,R
-  11,R,D,X
-  13,R,G
-   1,R,D
-EndRepeat
-   7,R,D,X
-   1,R,J
-   7,R
-  11,R,X
-  13,R,G
-   1,R,D
-Repeat,3
-   7,R,D,X
-   1,R,J
-   7,R
-  11,R,D,X
-  13,R,G
-   1,R,D
-EndRepeat
-Repeat,5
-   7,R,D,X
-   2,R,J
-   6,R
-  11,R,D,X
-  13,R,G
-   1,R,D
-EndRepeat
-# stall for the moonblock to raise
-Repeat,3
-   7,R,Z
-   2,R,J
+   4
    3,R
-   1,J,G
-   1,R
-   1,K,G
+  11,R,D,X
+  13,R,G
+   1,R,D
+   6,R,D,X
+   1,R,J
+   7,R,D
+   1,R,J
+   9,R,D,X
+  13,R,G
+   3,R,D
+   6,R,D,X
+   1,R,J
+   7,R,D
+   1,R,J
+   9,R,D,X
+  13,R,G
+   3,R,D
+   7,R,D,X
+   1,R,J
+   7,R
+  11,R,D,X
+  13,R,G
+   1,R,D
+Repeat 7
+   5,R,D,X
+   1,R,J
+   8,R,D
+   1,R,J
   11,R,D,X
   13,R,G
    1,R,D
 EndRepeat
-   7,R,Z
+# adjust jelly subpixels :(
+   5,R,D,X
+   1,R,J
+   8,R,D
+   1,R,J
+   9,R,D,X
+  15,R,G
+   1,R,D
+   5,R,D,X
+   1,R,J
+   8,R,D
+   1,R,J
+   9,R,D,X
+  13,R,G
+   3,R,D
+   5,R,D,X
+   1,R,J
+   8,R,D
+   1,R,J
+   9,R,D,X
+  13,R,G
+   3,R,D
+Repeat 12
+   5,R,D,X
+   1,R,J
+   8,R,D
+   1,R,J
+  11,R,D,X
+  13,R,G
+   1,R,D
+EndRepeat
+   7,R,D,X
    5,R,J
    3
   13,R,U,Z
@@ -735,14 +725,14 @@ EndRepeat
    1
   15,D,X
   15,D,C
-  62,L,D
+  62,R,D
 
 #end-granny
  122
    1,S
    1,D,J
   18
-ChapterTime: 1:48.001(6353)
+ChapterTime: 1:47.729(6337)
 
 #end-cinematic
 Add 2
