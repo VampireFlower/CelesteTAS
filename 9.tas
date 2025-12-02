@@ -548,7 +548,6 @@ console load 10
    6,R
    1,R,J
   40
-
 #lvl_c-00 (0)
    1,R
 #Power Source[]
@@ -598,7 +597,6 @@ console load 10
    1,L,J,G
    6,L,G
   40
-
 #lvl_b-07 (1)
    1,L,D
   11,L,D,X
@@ -607,7 +605,6 @@ console load 10
    8,R,D,X
   13,G
   40
-
 #lvl_c-00 (1)
    1,R,J,G
   20,R,G
@@ -637,18 +634,29 @@ console load 10
   16,J
    1,R,K,G
    7
-   7,J
-  12,R,X
-   3,L,J
-   5,L,D,X
-  37,R,D,G
-  25,D,G
+   2,L,J
+   5,J
+   5,R,X
+   1,R,J,G
+   1,K,G
+   1,R
+   3
+   3,L
+  10,L,G
+  14,L,D,G
+  25,R,D,G
+   5,D,G
+   1,L,D,G
+   1,L,G
+   3,D,G
+   2,G
+   3,D,G
   27,L,D,G
-  21,D,G
-   5,R,D,G
-  13,R,U,G
-   1,R,D
-   2,R
+  22,D,G
+   4,R,D,G
+  14,R,U,J,G
+   1,R,D,J
+   2,R,J
   14,G
    1,L,J
    1,L
