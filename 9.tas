@@ -483,7 +483,6 @@ console load 10
    4,R
    7,R,U,Z
   40
-
 #lvl_b-07 (0)
    8,R,U,Z
   13,L,U,X
@@ -520,7 +519,6 @@ console load 10
    6,R
    1,R,J
   40
-
 #lvl_c-00 (0)
    1,R
 #Power Source
@@ -550,16 +548,23 @@ console load 10
   14,U,Z
   16,J
    2,K,G
-   7
-   6,J
+   5,L
+   2,R
+   9,R,U,X
+   1,J,G
+   4,R
    1
-  13,R,Z
-  14,R,D,G
-  87,L,D,G
-  20,D,G
-   1,L,D,G
-  55,D,G
-  37,L,D,G
+   1,R
+   1,L
+  23,L,D,G
+  25,R,D,G
+  39,D,G
+  25,R,D,G
+  59,D,G
+   3,R,D,G
+   6,D,G
+  36,L,D,G
+# 4482
    1,L
   10,R,D,X
    1,L,J
@@ -732,7 +737,7 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 1:47.729(6337)
+ChapterTime: 1:47.712(6336)
 
 #end-cinematic
 Add 2
