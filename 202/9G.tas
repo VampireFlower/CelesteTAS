@@ -5,20 +5,22 @@ console load 10 2776 -1640
   36
 
 #lvl_a-00
-  13,R,J
+  11,R,J
+   2,R
   15,U,X
-  51,R
+  31,R
+   1,R,D
+  19,R
   18,R,U,X
-   1,R
   15,U,C
   15,R,X
 
   21,R,D
-   1,D
+   2,D
    1
-   1,D
-   5
    1,R
+   3
+   1,D
    5
    1,L
    5,L,Z
@@ -389,7 +391,7 @@ EndRepeat
    1,S
    1,D,J
   18
-FileTime: 1:33.398(5494)
+FileTime: 1:33.364(5492)
 
 #end-cinematic
 Add 2
