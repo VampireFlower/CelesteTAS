@@ -558,24 +558,26 @@ console load 10
    4,R,J,G
    6,R,D,X
   13,G
-   4,R,G
-   4,R,K,G
-   9,K,G
-   1,R,K,G
-   4,R,K
-  15,L,U,X
-   6,R,U,C
-  41,R,G
-  33,D,G
-  34,R,D,G
-   1,D
-  14,L,D,X
+   1,R,G
+   8,G
+   1,R,G
+   8,G
+   1
+  15,U,X
+  25,R
+  15,R,U,X
+  23,R
+  10,R
+   5,R,D
+   1,R,D
+   1,J,G
+   1
+   7,L,Z
    1,R,J
-   9,R,D,X
   13,G
-   4,R,G
-   1,L,J,G
-  37,D,G
+  23,R,G
+  16,R,D,G
+  13,L,G
   40
 
 #lvl_c-alt-00
@@ -732,7 +734,7 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 1:47.100(6300)
+ChapterTime: 1:46.420(6260)
 
 #end-cinematic
 Add 2
