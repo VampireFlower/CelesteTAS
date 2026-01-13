@@ -3,6 +3,7 @@ console load 10 2776 -1640
 
 #Start
   36
+
 # c-00 Spinner Cycle
    0
 
@@ -16,7 +17,6 @@ console load 10 2776 -1640
   18,R,U,X
   15,U,C
   15,R,X
-
   21,R,D
    2,D
    1
@@ -108,7 +108,7 @@ console load 10 2776 -1640
   40
 
 #lvl_a-04
-Read,9NMG,lvl_a-04,lvl_c-00
+Read,../9NMG,lvl_a-04,lvl_c-00
 #lvl_c-00 (0)
    1,R
   12,R,Z
