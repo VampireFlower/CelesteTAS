@@ -988,29 +988,39 @@ Add 1
 
 #lvl_b-01 (1)
    1,L
-   3,L,J,G
-  16,L,K,G
-  15,U,X
-   9,J,G
+   2,L,J,G
+   1,L
+  13,L,K,G
    1
-   6,R
-  10,L,X
-  11,L,K
-   2,L
-  14,L,U,X
-   1,L,J,G
-   8,L
-   1,L,J
-  12,L,K
-   9,J,G
+   1,L
+   1
   15,U,X
-  17,R,K
-   1,R,J,G
-   3,R,K,G
+   5,J,G
+   4,L,J
+   7,L
+   4,L,Z
+   1,L,J
+   6,L
+   3,L,J
+   4,J
+   1,L,J
+   2,J
+   1
+  13,U,X
+  14,R,J
+   1,K
+   6
+   1,L
+   9,L,J
+   3,J
+  15,L,U,Z
+  12,R,J,G
+   1,R,K,G
+   5,R,J,G
    7,R
    7,R,J
   10,R,X
-   5,R,K
+   5,R,J
   13,U,X
   40
 
@@ -3129,4 +3139,4 @@ EndStunPause
    1,S
    1,D,J
   18
-FileTime: 6:25.084(22652)
+FileTime: 6:25.050(22650)
