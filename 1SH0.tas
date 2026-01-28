@@ -526,27 +526,29 @@ SaveAndQuitReenter
   40
 
 #lvl_8zb
-   8,R,D
-   4,R,J
-   1,R,K,G
-  19,R
-   5,L,D
-  14,R,D
-   5,R,X
-   8,R,J,G
-   5,R
-   4,R,J
-   7,R
-   1,R,K,G
    4,R
-  12,R,D,X
+   4,R,D
+   1,R,J
+   2,J
+   5,R,U,X
+   1,J,G
+   1,R
+   8
+   1,R
+   9
+  14,R,D
+   2,R
+  23,R,X
+  13,R,C
+   1,L
+   1,J,G
+   4
   40
 
 #lvl_8 (0)
-   3,R,D,X
+  10,R,D,X
    1,R,J
-   3,K,G
-   4,G
+   5,K,G
    2
    1,G
   19,D,X
@@ -942,4 +944,4 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
-FileTime: 1:49.956(6468)
+FileTime: 1:49.939(6467)
