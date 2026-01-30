@@ -1422,28 +1422,33 @@ console load 7
    1,R,J
   10,L
   14,L,X
+   2,J
+  14,U,X
    1,J
-   1,K
-   1
-  10,U,X
-   5,R,J
-   1,R
-  10,L,V
-  10,R,J
-   1,R
-  15,R,D,X
-  19,R,D,C
-  10,R,J
+   5,L,Z
+   7,R,J
+  31,R,D
+   1,R,J
+   7,R,Z
+   2,R,J
    2,R
-  15,R,Z
-  17,R,D,C
-   4,D,X
+   1,R,J
+   5,R
+   4,R,D,J
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+   4
+   1,R
+   4,J
+  15,R,D,X
+   2,R,D
+   4,R,Z
    1,R,J
    6,R
-  12,R,J
-   6,R
-  11,K,G
-   1
+  17,R,J
+  12,K,G
    9,J,G
    3,R,J
   16,R,Z
@@ -2410,7 +2415,7 @@ console load 7
   14,R,U,X
    4,R,J,G
 #Spinner cycle
-   2
+   0
 #-------------
   58,R,C
    9,R,D,X
@@ -3865,4 +3870,4 @@ AnalogMode,Ignore
    1,S
    1,D,J
   18
-ChapterTime: 8:47.765(31045)
+ChapterTime: 8:47.714(31042)
