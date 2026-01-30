@@ -3690,25 +3690,18 @@ AnalogMode,Precise
   20,R,J
   15,R,D,C
    5,R
-  35,R,D
+  30,R,D
+   4,R
+   1,R,D
   24,R,X
-   6,R,J
-   2,R
-  14,R,U,X
-   1,R,K,G
-   1,R
-  15,U,C
-   1,R,J,G
-   1,L,J
-   1,L
-   6,R
-   4,D,X
-   1,R,J
-   6,R
-
-#CP-03
+   3,J
    7,R,J
-   1,R
+  15,U,X
+  15,R,U,C
+   1,R,K,G
+   7,R
+   4,R,Z
+  14,R,J
    5,R,X
    1
   15,R
@@ -3733,7 +3726,7 @@ AnalogMode,Precise
   48,F,13.44
   51,F,1.399
    2,F,0
-  18,F,314
+  18,F,314.1
    1,F,312,0.69
 AnalogMode,Ignore
    8,L
@@ -3870,4 +3863,4 @@ AnalogMode,Ignore
    1,S
    1,D,J
   18
-ChapterTime: 8:47.714(31042)
+ChapterTime: 8:47.697(31041)
