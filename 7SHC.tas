@@ -428,56 +428,56 @@ Read,7S,lvl_c-09,lvl_d-02
 #Return
  123
   15,L,D,X
+  11,L,Z
    1,R,J
-   4,L,J
-   4,L
-  11,D,X
+   1,J
+   2
+   8,D,X
   40
 
 #lvl_d-03 (1)
-   9,R,D
-  37,R,D,X
-  10,R,C
-  13,R,K
-  14,R,U,X
-   5,R,K,G
-   5,R,V
-   1,R,J
-   5
-   1,R
-   1,D,J
-   7,R,J
-   4,R
+  23,R,D
+  15,R,D,X
+  13,R,D,C
+   3,R,J
+  15,R,U,X
+  14,R,U,C
+   1,R,J,G
+  12,R
+   4,R,X
+   6,R,J
+   7,R
   15,D,X
-   6,R,D
-   4,D
+   1,D
+   5,R,D
+   3,L,D
    5,L,X
    1,R,J
   10,L
   14,L,X
-   3,J
-   2,K
-   9,U,X
-   6,R,J
-  10,L,Z
-  10,R,J
-   1,R
-  15,R,D,X
-  19,R,D,C
-  10,R,J
-   2,R
-  15,R,Z
-  17,R,D,C
-   4,D,X
+   2,L,J
+  14,U,X
+   1,J
+   5,L,Z
+   7,R,J
+  31,R,D
+   4,R,Z
    1,R,J
    6,R
-  18,R,J
+   9,R,J
+   1,J
+   1,R,J
+  15,R,Z
+  17,R,D,C
+   4,R,Z
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+  16,R,J
   11,K,G
-   1,L
-   4,J
-   1,L,J
-   5,J
-   2
+  11,J
+   2,L,J
   15,R,Z
   17,L,D
    3,R,D
@@ -995,4 +995,4 @@ SaveAndQuitReenter
   15,R,J
    2,K,G
 Read,7S,7SHC4
-FileTime: 9:50.461(34733)
+FileTime: 9:50.359(34727)
