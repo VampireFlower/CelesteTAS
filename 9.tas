@@ -5,11 +5,11 @@ console load 10
   98
 
 #lvl_intro-00-past
-Read, 9S, lvl_intro-00-past, Power Source
+Read,9S,lvl_intro-00-past,Power Source
 
-#lvl_c-00 (0)
-   1,R
+#lvl_c-00 (1)
 #Power Source
+   1,R
   12,R,Z
    1,R,J
    6,R
@@ -64,7 +64,7 @@ Read, 9S, lvl_intro-00-past, Power Source
    1,L,J,G
   40
 
-#lvl_c-00 (1)
+#lvl_c-00 (2)
    5,L,D,J
    7,L
   10,R,D,X
@@ -114,7 +114,7 @@ Read, 9S, lvl_intro-00-past, Power Source
   15,L,X
   14,R,Z
    1,R,J
-Repeat 2
+Repeat,2
    6,R,D,X
    1,R,J
    7,R,D
@@ -151,7 +151,7 @@ EndRepeat
   11,R,D,X
   13,R,G
    1,R,D
-Repeat 7
+Repeat,7
    5,R,D,X
    1,R,J
    8,R,D
@@ -182,7 +182,7 @@ EndRepeat
    9,R,D,X
   13,R,G
    3,R,D
-Repeat 12
+Repeat,12
    5,R,D,X
    1,R,J
    8,R,D
