@@ -553,8 +553,8 @@ console load 10
   40
 
 #lvl_c-00
-   1,R
 #Power Source
+   1,R
   12,R,Z
    1,R,J
    6,R
