@@ -65,27 +65,30 @@ console load 4 d-00
   14,R,K
    1,R,J,G
   27,R,K,G
+   6,G
+  10,U,G
+   3,G
+   4,U,G
    1,G
-   1,R,J,G
-   3,L,J
-   4,R,J
-   1,J
-   2,R
-  14,R,Z
-   4,R,J
+   1,R,G
+   3,J,G
+   2,R,J
+   6,L,Z
+   1,R,K
+  10,R,J,G
+   9,R
+   2,R,J
    1,R
-   1,R,J
-  16,R
-   1,R,J,G
-  14,R
-  17,U,X
-   7,R,C
-   5,R,J,G
-  30,R,D
-  30,L,D
+   2,R,J
+  12,R
+   1,R,K,G
+  13,R,D
+  29,D
+  16
    1,J
    1,S
    1,U,J
    1,O
-  31
-#0:09.435(555)
+  30
+MidwayChapterTime: 0:09.180(540)
+   1
