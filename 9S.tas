@@ -565,68 +565,74 @@ console load 10
    5,L,X
    1
    7,R
-   5
-  14,U,X
-   5,L,J
+   3
+   1,R
+  15,U,X
+   5,J
+   1
+  13,R,U,C
+   1,R,K,G
    1,L
-  12,L,U,C
-   1,L,K,G
-   2,L,J,G
-   7,L
-   8,L,K
-  16,U,X
-   7,L,C
-  16,R
-   5,R,J,G
-  15,R,U,X
-  16,R,C
+   6,R
+  18,U,X
+  19,L,J
+  15,U,X
+  11,L
+   5,L,X
+
+   1,L,J
+   2,L,K,G
+   1,L,J,G
+   4,L,K,G
+   1,J,G
+   5,L,J
+   5,J
+  15,R,D,X
    1,G
    5,L,Z
    1,R,J
-   2,R,K,G
+   1,R,K,G
+   2,R,J,G
+   1,R,K,G
    1,R,J,G
-   2,R,K,G
-   4,R,J,G
+   4,R
    6,R,D,X
   13,G
-   2,R,G
-  10,R,K,G
-   1,L,K
-   1,R
-   4,R,D,X
+   6,R,J,G
+   9,R,G
 StunPause
-   8,R,D,X
+   1,R,J,G
+   1,R,J,G
 EndStunPause
-   3,R,D,X
-   4,R,J
-   4,R
-   7,R,D,X
+   1,L,J
+  19,R,D,X
+   1,R,J
   40
 
 #lvl_c-alt-00
-  10,R,D
-   4,R,J
-   5,R
-   4,R,J
-  20,R
-   9,R,K
-  18,J
-  15
-  12,D
+   6,R,J
+   7,R
+  16,R,D,X
+   1,R
+   2,R,D
+   9,R,J
+  38,J
+  13,D
+   1
+   4,D
   40
 
 #lvl_c-alt-01
    5,D
-  26,R,D
+  13,R,D
+   1,D
+  12,R,D
   40
 
 #lvl_c-03
    1,R,D
    2,R,J
-   5,R
-   2,R,J
-   2,R
-  13,R
+  20,R
    2
    1,R
   15,U,X
@@ -708,17 +714,16 @@ EndStunPause
   11,L
   14,L,Z
    1,R,J
-   6,R,D,X
+   5,R,D,X
 StunPause
-   4,R,D,X
+   5,R,D,X
    1,R,J
    3,R
    1,R,J
    3,R
    8,R,D,J
-   1,R,K,G
 EndStunPause
-   8,R,K,G
+   9,R,K,G
    6,K
   19,U,X
   18,U,C
@@ -770,7 +775,7 @@ EndStunPause
   15,U,X
   12,R,U,C
 #e-07 spinner cycle
-   0
+   2
 #-----------
   45,U,X
   60,L,U,C
@@ -3377,7 +3382,7 @@ AnalogMode,Precise
 #---------------
 #Lightning cycle
 #0-14
-   6
+  12
 #end_lightning
    7,R,D,C
    1,L,J
@@ -4190,7 +4195,7 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 8:57.965(31645)
+ChapterTime: 8:57.659(31627)
 
 #Let moon berry sfx play
  100
