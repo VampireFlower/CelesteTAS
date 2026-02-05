@@ -579,7 +579,6 @@ console load 10
   15,U,X
   11,L
    5,L,X
-
    1,L,J
    2,L,K,G
    1,L,J,G
@@ -775,7 +774,7 @@ EndStunPause
   15,U,X
   12,R,U,C
 #e-07 spinner cycle
-   2
+   1
 #-----------
   45,U,X
   60,L,U,C
@@ -790,25 +789,20 @@ EndStunPause
   40
 
 #lvl_e-00z
-   5,J
-   9,R,J
-   2,R
-  15,U,X
-   9,R,U,C
-   1,J,G
-   3
-   4,L
-   2,L,J
-  15,U,X
-  15,U,C
-  12,L,J
-  11,L
-   2,R,J
-  15,U,X
-  14,R,U,C
-   1,J,G
-   2,L
-   5
+  11,J
+   8,U,X
+   4,R,J
+   9,J
+  14,U,Z
+   9,L,J
+  15,L
+  14,L,J
+  14,U,C
+   1,J
+  13,U,X
+  14,R,J
+   1,K,G
+   7
   14,U,X
    1,J
   15,U,X
@@ -3382,7 +3376,7 @@ AnalogMode,Precise
 #---------------
 #Lightning cycle
 #0-14
-  12
+   0
 #end_lightning
    7,R,D,C
    1,L,J
@@ -4195,7 +4189,7 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 8:57.659(31627)
+ChapterTime: 8:57.404(31612)
 
 #Let moon berry sfx play
  100
