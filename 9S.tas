@@ -774,7 +774,7 @@ EndStunPause
   15,U,X
   12,R,U,C
 #e-07 spinner cycle
-   1
+   0
 #-----------
   45,U,X
   60,L,U,C
@@ -1115,54 +1115,51 @@ EndRepeat
 
 #lvl_e-06
    9,R,D,X
-  15,R,J,G
+  13,J,G
+   1,R,J,G
+  10,R,G
    2,G
-  19,R,G
-   1,R,D,G
-   3,R,G
-   3,R,U,G
-   9,R
-   5,U,X
-   9,J
-   1
-   7,R,X
-  13,R,G
-   4,R,G
-   2,R,U,J,G
-  13,R,G
-   1,U,G
-   4,R,G
-   5,R,D,G
-   1,R
+  12,R,G
+   5,R,U,G
+   5
+   6,R,X
+  10,J
+   1,L,J
+   5,R,X
+  13,G
+  33,R,U,J,G
+# +1f wait for jelly
+   8,R
   15,L,X
-  10,L
-   5,R
+   4
+  13,L,X
+   3,R
   12,L,D,X
-   5,R
-  11,L,D,X
    3,R,J
-   1,R
   12,R,D,X
    1,R,J,G
-   1,R,K,G
-   1,R
+   2,R,K,G
    1,R,J,G
   11,R,U,X
-  22,R,G
+  13,G
+   8,R,G
    1,L
    9,R
   40
 
 #lvl_e-07
-  10,R,D,J
+   9,R,D,J
    5,R
-   8,R,J
-  26,R,D,X
+   9,R,J
+   1,R
+  15,R,D,X
+  10,R,D
+   4,Z
 StunPause
-SkipInput,3,1
-  13,R,Z
+   8,R,Z
    1,R,J,G
-   2,R,K,G
+   1,R,K,G
+   1,R
    1,R,J,G
 EndStunPause
    5,R,K,G
@@ -1183,15 +1180,12 @@ EndStunPause
    1,R
   12,R,V
    3,R,K,G
-   4,K
-   2,R,K
-   2,K
+   8,K
    1
   19,R,D
   33,R,U,X
   10,R,D,C
-   3,R,J
-   2,J
+   5,R,J
   15,R,U,X
   14,R,U,C
    1,S
@@ -3376,7 +3370,7 @@ AnalogMode,Precise
 #---------------
 #Lightning cycle
 #0-14
-   0
+   3
 #end_lightning
    7,R,D,C
    1,L,J
@@ -4189,7 +4183,7 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 8:57.404(31612)
+ChapterTime: 8:57.132(31596)
 
 #Let moon berry sfx play
  100
