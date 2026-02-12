@@ -600,8 +600,7 @@ console load 10
    6,R,J,G
    9,R,G
 StunPause
-   1,R,J,G
-   1,R,J,G
+   2,R,J,G
 EndStunPause
    1,L,J
   19,R,D,X
@@ -1256,44 +1255,52 @@ EndStunPause
    5,R
   18,D,X
    4,R,G
-  15,R,Z
-   1,R,J,G
-   7,R
-   2
-  14,L,D,X
-   1,R,J
-   6,R,D,X
-   1,R,J,G
    1
-   7,R
-   1,R,J
-   3,R
-   9,R,J
+# +3f subpixel manip
    2,R
-  13,R,X
+   1,G
+# .030 to .044 mod .125
+  14,R,Z
+   1,J,G
+   1,K
+   6,R,Z
+   2,J
+   6,R
+   1
+   1,R
+  14,R,D,X
+   1,R,J
+   1,R
+   1,R,J
+   1,R
+   2,R,J
+   3,R
+  10,R,U,X
+   1,R,J,G
+   2,R,K,G
+   4,R
+   7,R,U,X
    1,R,J,G
    3,R,K,G
-   1,R
-   7,R,U,X
-   4,R,J,G
    7,R
-   1,R,J
-   3,R
+   5,R,J
    5,R,D,X
    1,R,J,G
-   8,R
+   6,R
   40
 
 #lvl_f-01
    1,R,J
-   2,R
-  21,R,J
-   1,J
-   2
-   1,J
+   7,R
+  24,R,J
+   1,R
   15,R,U,X
-  15,U,C
-   1,R,J,G
+  14,R,U,C
+   5,R,J,G
+   1,L,J
+   1,L
+   1,R
+   1,J,G
    7,R
    6,R,Z
    1,R,J
@@ -1403,7 +1410,7 @@ EndStunPause
    3,R
    4
 #f-07 cycle 0-2
-   0
+   1
 #--------------
    4,Z
    4,R,J
