@@ -36,45 +36,37 @@ console load 9 1512 -136
   40
 
 #lvl_a-01
-   3,R
+   4,R
+   7,R,J
+   5,R
    1
-   2,D
-   2,R,D,J
-   1,J
+   2,R
+   4,X
+  10,R,D,X
    1,R,J
-   1,J
+   3,R
    2,R,J
-   2
    1,R
-  14,R,D,X
    1,R,J
-   6,R
-   1,R,J
-   9,R,D
-  13,R,Z
+   7,R
+  12,R,Z
    6,R,J,G
    3,R,K,G
-  21,R,J,G
-   1,R
-   3,R,K
+  12,R,J,G
    6,R
-  14,R,U,Z
-   1,R,J,G
-  10,R
    2,R,J
-   3,R
+   8,R
+  14,R,U,X
+   1,R,J,G
+  11,R
+   2,R,J
   40
 
 #lvl_a-02
-   1,R,K
-   1,R,K
+   7,R,J
+   3,R
+   3
    1,R
-   1,R,K
-   2,R
-   1
-   4,R,J,G
-   1,J
-   3,R,J
    4,X
   10,R,D,X
    9,R,J
@@ -151,4 +143,4 @@ Read,../8S,lvl_d-01,lvl_d-11
    1,O
   31
 
-FileTime: 2:07.823(7519)
+FileTime: 2:07.721(7513)
