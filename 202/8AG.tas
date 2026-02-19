@@ -120,7 +120,9 @@ Read,../8S,lvl_d-01,lvl_d-11
   13,R,J
    8,R,D,X
    1,R,J,G
-   5,R
+   1,R
+   1
+   3,R
    4,R,J
    1,R
    6,R,J
@@ -129,11 +131,11 @@ Read,../8S,lvl_d-01,lvl_d-11
    8,R,J
   35,R
    1,R,J
-  12,R
+  11,R
   40
 
 #lvl_space
-   2,R
+   3,R
    1,R,J
   14,R,D,X
    1,R,J
@@ -142,11 +144,11 @@ Read,../8S,lvl_d-01,lvl_d-11
   14,R,D,X
    1,R,J
   14,R,D,X
-   2,R,J
+   1,R,J
 #Exit
    1,S
    1,U,J
    1,O
   31
 
-FileTime: 2:07.840(7520)
+FileTime: 2:07.823(7519)
