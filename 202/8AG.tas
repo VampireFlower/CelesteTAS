@@ -135,19 +135,15 @@ Read,../8S,lvl_d-01,lvl_d-11
    1,R,K,G
   18,R
    9,R,J
-  19,R
-   1,R,J
-  26,R,D
-   1,R
-   1,R,D
-   1,R,J
-   5,R
+  23,R
+   8,R,J
+  23,R
   40
 
 #lvl_space
-  12,R
+  15,R,D,X
    1,R,J
-  14,R,D,X
+  13,R,D,X
    1,R,J
    3,R
    3,L
@@ -157,4 +153,4 @@ Read,../8S,lvl_d-01,lvl_d-11
    1,O
   31
 
-FileTime: 2:08.265(7545)
+FileTime: 2:08.248(7544)
