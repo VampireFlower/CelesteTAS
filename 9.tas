@@ -4,6 +4,9 @@ console load 10
 #Start
   98
 
+# spinner cycle
+   0
+
 #lvl_intro-00-past
 Read,9S,lvl_intro-00-past,Power Source
 
@@ -18,210 +21,218 @@ Read,9S,lvl_intro-00-past,Power Source
   16,U,X
    5,L,J,G
    5,L,X
-   1
    7,R
-   3
-   1,R
-  15,U,X
-   5,J
-   1
-  13,R,U,C
-   1,R,K,G
-   1,L
-   6,R
-  18,U,X
-  19,L,J
-  15,U,X
-  11,L
-   5,L,X
+   9
+  14,U,X
+   6,R,J
+   2,R
+  10,L,Z
    1,L,J
-   2,L,K,G
+   1,L,K,G
    1,L,J,G
-   4,L,K,G
-   1,J,G
-   5,L,J
-   5,J
-  15,R,D,X
-   1,G
-   5,L,Z
-   1,R,J
+   1,L,K,G
+   2,J,G
+  15,L,U,X
+   1
+  15,R,D,C
+   1,R,G
+   4,L,Z
+   2,R,J
    1,R,K,G
    2,R,J,G
    1,R,K,G
-   1,R,J,G
-   1,R
-   1
-   2,R
-   6,R,D,X
-  13,G
    4,R,J,G
-  11,R,G
+   3,R,J
+   9,R,D,X
 StunPause
-   2,R,D,G
+   8,R,D
 EndStunPause
-  11,R,D,G
-   5,R,G
+  20,R,D
+   2,R,J
+   1,R
+   5,R
+   3
   40
 
-#lvl_c-alt-00
-   1,R,D
-   8,D,X
-   5,L,J,G
-   3,L
-   7,L,X
-  13,L,G
+#lvl_c-00b
+   5
+   4,L,X
+   1,L,J
+  20,L,J,G
+   1,J,G
+   1,L,J,G
+   1,J,G
+   1,L,J,G
+   1,J,G
+   9,L,J
+  12,U,X
+  14,L,G
+# enter 1f ahead of top route
   40
 
 #lvl_c-00 (1)
    8,G
-   1,D
-   3
-  12,R,Z
-   1,L,J
-   4,L
-  13,L,G
-  13,L,G
-   1,L,J,G
-  21,L,G
-   7,L
-  14,U,X
-  80,L,D,G
-  30,L,U,G
-   7,L
+   1,R
+  10,L
+   9,U,X
+  21,R,G
+   3,G
+   1,R
+  10,L
+  10,U,X
+  14,L,G
+  12,G
+   1,L
+   1,R,J,G
+   6,R
+   1
+   7,R,Z
+   5,L,J
+   3,L
+  24,L,J,G
+   6,L,G
+   1,L
+  14,L,D,X
+   5,L,J
+  18,U,X
+   6,L
+  37,L,G
+  62,L,D,G
+   3,L
   15,L,U,X
-   5,L,C
-  75,L,D,G
-  13,D,G
-   3,D,G
-   2,L,D,G
-   1,L
-   9,L,U,X
-   9,L,J,G
-   1,L,J
-  11,U,X
-   8,L,J
-   2,L,J
-   1,L
-   1,K
-   7
-   8,R,U,X
-   2,J,G
-   6
-   1,L
-  21,L,D,G
-  55,D,G
+   6,L,C
+  41,L,U,G
+  29,L,D,G
+  23,L,U,G
   18,L,D,G
-  18,D,G
+   5,L,J,G
+   1,L,D,J
+  14,U,Z
+  10,R,J
+   3,L,J
+   1,K
+   5,R,U,X
+   1,K,G
+   3,R
+   3
+   1,L
+  13,L,G
+   2,L,G
+   9,L,D,G
+  25,R,D,G
+# waiting frames [waits 4f]
+  10,G
+  17,D,G
+  19,L,D,G
    6,D,G
+   1,L,D,G
+   8,D,G
    1,G
-   1,D
-  17
-# fixes Glider.noGravityTimer
+   7,D
+   2
+   2,L
+   1,L,J
+   7,L
+   1,L,J
+   1,L,J
+   2,L,J
+   9,L
+  15,R,Z
+   1,R,G
+   2,R,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1,R,J,G
+# early ultra
+  14,R,D,X
   13,G
    1,D
-  19
-  15,L,X
-  14,R,Z
-   1,R,J
-Repeat,2
-   6,R,D,X
-   1,R,J
-   7,R,D
-   1,R,J
-  11,R,D,X
-  13,R,G
-   1,R,D
-EndRepeat
-# adjust jelly subpixels :(
    7,R,D,X
    1,R,J
-   4
-   3,R
-  11,R,D,X
-  13,R,G
-   1,R,D
-   6,R,D,X
-   1,R,J
    7,R,D
-   1,R,J
-  11,R,D,X
-  13,R,G
-   1,R,D
+# no gultra here
+  11,R,X
+  13,G
+   1,D
    6,R,D,X
-   1,R,J
-   7,R,D
-   1,R,J
+   2,R,J
+   7,D
   11,R,D,X
   13,R,G
-   1,R,D
+   1,D
+   6,R,D,X
+   2,R,J
+   7,R,D
+  11,R,D,X
+  13,R,G
+   1,D
    7,R,D,X
    1,R,J
    7,R
   11,R,D,X
   13,R,G
-   1,R,D
+   1,D
+   6,R,D,X
+   2,R,J
+   7,R,D
+  11,R,D,X
+  13,R,G
+   1,D
 Repeat,7
-   5,R,D,X
+   6,R,D,X
    1,R,J
-   8,R,D
-   1,R,J
-  11,R,D,X
-  13,R,G
-   1,R,D
-EndRepeat
-# adjust jelly subpixels :(
-   5,R,D,X
-   1,R,J
-   8,R,D
-   1,R,J
-   9,R,D,X
-  15,R,G
-   1,R,D
-   5,R,D,X
-   1,R,J
-   8,R,D
-   1,R,J
-   9,R,D,X
-  13,R,G
-   3,R,D
-   5,R,D,X
-   1,R,J
-   8,R,D
-   1,R,J
-   9,R,D,X
-  13,R,G
-   3,R,D
-Repeat,12
-   5,R,D,X
-   1,R,J
-   8,R,D
+   7,R,D
    1,R,J
   11,R,D,X
   13,R,G
-   1,R,D
+   1,D
 EndRepeat
-   7,R,D,X
+Repeat 2
+   6,R,D,X
+   2,R,J
+   7,R,D
+  11,R,D,X
+  13,R,G
+   1,D
+EndRepeat
+   6,R,D,X
+   2,R,J
+   7,R,D
+   9,R,D,X
+  13,R,G
+   3,D
+Repeat 11
+   6,R,D,X
+   2,R,J
+   7,R
+  11,R,D,X
+  13,R,G
+   1,D
+EndRepeat
+   6,R,D,X
    5,R,J
-   3
-  13,R,U,Z
+   4,R
+  13,R,U,X
   40
 
-# lvl_c-alt-01
-   1,R,U,Z
+#lvl_c-alt-01
+   1,R
   40
 
-#lvl_end-golden
+# lvl_end-golden
    1
   15,D,X
   15,D,C
-  62,R,D
+  62,D
 
 #end-granny
  122
    1,S
    1,D,J
   18
-ChapterTime: 1:44.992(6176)
+ChapterTime: 1:44.975(6175)
 
 #end-cinematic
 Add 2
