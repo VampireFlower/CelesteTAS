@@ -36,7 +36,7 @@ Read,9S,lvl_intro-00-past,Power Source
    1
   15,R,D,C
    1,R,G
-   4,L,Z
+   4,Z
    2,R,J
    1,R,K,G
    2,R,J,G
@@ -58,61 +58,75 @@ EndStunPause
    5
    4,L,X
    1,L,J
-  20,L,J,G
-   1,J,G
-   1,L,J,G
-   1,J,G
-   1,L,J,G
-   1,J,G
-   9,L,J
-  12,U,X
-  14,L,G
-# enter 1f ahead of top route
+  30,L,J,G
   40
 
 #lvl_c-00 (1)
-   8,G
-   1,R
-  10,L
-   9,U,X
-  21,R,G
-   3,G
-   1,R
-  10,L
-  10,U,X
-  14,L,G
-  12,G
+   1,R,J
+   1,J
+   4
    1,L
-   1,R,J,G
-   6,R
    1
-   7,R,Z
+  14,U,X
+  20,R,G
+   5,R,G
+   4,R,G
+   6,G
+   1,J
+   4,L,J
+   2,L
+   1,L,J
+  13,U,X
+  13,G
+   2,L,G
+   3,L,G
+   5,L,G
+  11,R,G
+   1,R
+   1,R,J,G
+   1,R,K,G
+   1,R,K
+   1,R,J,G
+   4,L,J
+   7,R,J
+   4,R
+   1
+   2
+   7,R,D,X
    5,L,J
-   3,L
-  24,L,J,G
-   6,L,G
+   4,L
+   2,L,J
+  20,L,G
+   3,L,G
+   1,G
+   2,L,G
    1,L
   14,L,D,X
-   5,L,J
-  18,U,X
+   1,L,J
+   6,J
+  15,U,X
    6,L
-  37,L,G
+  36,L,G
   62,L,D,G
-   3,L
+   1
   15,L,U,X
+   1,L
+   1,L
    6,L,C
   41,L,U,G
   29,L,D,G
-  23,L,U,G
-  18,L,D,G
-   5,L,J,G
-   1,L,D,J
+  18,L,U,G
+  20,L,D,G
+   1,L,J,G
+   6,L,G
+   1,D
   14,U,Z
   10,R,J
    3,L,J
    1,K
    5,R,U,X
    1,K,G
+   1,J,G
    3,R
    3
    1,L
@@ -120,15 +134,14 @@ EndStunPause
    2,L,G
    9,L,D,G
   25,R,D,G
-# waiting frames [waits 4f]
-  10,G
+   6,D,G
   17,D,G
   19,L,D,G
-   6,D,G
+   5,D,G
    1,L,D,G
    8,D,G
    1,G
-   7,D
+   8,D
    2
    2,L
    1,L,J
@@ -168,12 +181,6 @@ EndStunPause
   11,R,D,X
   13,R,G
    1,D
-   7,R,D,X
-   1,R,J
-   7,R
-  11,R,D,X
-  13,R,G
-   1,D
    6,R,D,X
    2,R,J
    7,R,D
@@ -189,21 +196,13 @@ Repeat,7
   13,R,G
    1,D
 EndRepeat
-Repeat 2
-   6,R,D,X
-   2,R,J
-   7,R,D
-  11,R,D,X
-  13,R,G
-   1,D
-EndRepeat
    6,R,D,X
    2,R,J
    7,R,D
    9,R,D,X
   13,R,G
    3,D
-Repeat 11
+Repeat 14
    6,R,D,X
    2,R,J
    7,R
@@ -211,28 +210,27 @@ Repeat 11
   13,R,G
    1,D
 EndRepeat
-   6,R,D,X
-   5,R,J
-   4,R
+   7,R,D,X
+   6,R,J
+   2,R
   13,R,U,X
   40
 
-#lvl_c-alt-01
    1,R
   40
 
-# lvl_end-golden
-   1
+#lvl_end-golden
+   1,R
   15,D,X
   15,D,C
-  62,D
+  62
 
 #end-granny
  122
    1,S
    1,D,J
   18
-ChapterTime: 1:44.975(6175)
+ChapterTime: 1:44.907(6171)
 
 #end-cinematic
 Add 2
