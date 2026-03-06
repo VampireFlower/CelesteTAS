@@ -69,64 +69,59 @@ EndStunPause
    1,J
    3
   14,U,X
-  28,R,G
-   6,G
-   1,J
-   7,L,J
-  13,U,X
-  22,L,G
-   9,G
-# It's possible to avoid this cornercorrect but it doesn't help
-   3,R,G
-   1,R
-   9,R,J,G
-   1,R
-   1,K,G
-   1,R
-   1,R,K,G
-   1,L,K
-   1,R,J,G
-   7,R
-   6,R,Z
-   5,L,J
-   1,L
+  13,G
+  14,R,G
+  11,G
+   1
+   2,L
    1,L,J
-   4,L
-  20,L,G
-   3,L,G
-   1,G
-   2,L,G
-   1,L
-  14,L,D,X
-   6,L,J
-  18,U,X
-   7,L
-  20,L,G
-   1,G
-  11,L,G
-  44,L,D,G
-  19,L,D,G
+   3,L
+  14,U,X
+  13,G
+   9,L,G
+  14,G
+   1,D
+   1,R,J,G
+   2
+   1,R,J,G
+   3,L,J
+   4,R,J
+   7,R
+   1,D
+   5,R,Z
+   1,L,J
+  13,G
+   1,L,G
+   3,L,J,G
+   9,L,G
+   2,L,J,G
+   1,L,G
+  13,L,J,G
+   7,L,J
+  14,U,X
+  13,G
+  68,L,D,G
+  15,L,G
    1,L
   15,L,U,Z
    2,L
-   6,L,C
+   6,L,X
   32,L,G
-   9,L,D,G
-   1,L,G
-  10,L,D,G
+  20,L,D,G
    6,D,G
   15,L,D,G
-  12,D,G
-  13,L,D,G
-   1,L
+  13,D,G
+   4,L,D,G
+   4,L,D,G
+   5,L,G
+   2,L
    3,L,J
-   1,L,K,G
-   7,L,J,G
-   3,K,G
-   1,R,K
-   5,K
+   9,L,K,G
+   1,J,G
+   2,L,J
+   1,R,J
+   4,J
   15,U,X
-# vertical rounding error -1f?
    7,L,J
    7,R,U,X
    1,J,G
@@ -138,9 +133,7 @@ EndStunPause
   18,L,D,G
    1,D,G
    1,L,D,G
-   9,D,G
-   1,D,G
-   8,D,G
+  18,D,G
    2,L,D,G
    1,L,G
   12,L,D
@@ -161,26 +154,12 @@ EndStunPause
    1,D
    7,R,D,X
    1,R,J
-   4,R,D
-   3,D
-  11,R,X
+   3,R,D
+   4,D
+   9,R,X
   13,G
-   1,D
-Repeat 21
-   6,R,D,X
-   2,R,J
-   7,R
-  11,R,D,X
-  13,R,G
-   1,D
-EndRepeat
-   6,R,D,X
-   2,R,J
-   7,R,D
-   9,R,D,X
-  13,R,G
    3,D
-Repeat 3
+Repeat,25
    6,R,D,X
    2,R,J
    7,R
@@ -189,8 +168,8 @@ Repeat 3
    1,D
 EndRepeat
    7,R,D,X
-   6,R,J
-   2,R
+   5,R,J
+   3,R
   13,R,U,X
   40
 
@@ -209,7 +188,7 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 1:44.686(6158)
+ChapterTime: 1:44.550(6150)
 
 #end-cinematic
 Add 2
