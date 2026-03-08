@@ -288,10 +288,11 @@ console hard 3
 
 #lvl_09
    1,K,G
+   1,J
+   2
+   4,R
    1,R,K
-   6,R
-   1,R,K
-   3
+   2,R
    4,Z
    1,R,J
    6,R
@@ -301,7 +302,8 @@ console hard 3
    1,J,G
    6,R
    1
-   4,L
+   1,L
+   3
    4,Z
    1,R,J
    2,R
@@ -315,8 +317,10 @@ console hard 3
   10,R,J
    5,R
   15,R,D,X
-   3,R,J
-  17,R
+   3,R,D,J
+   5,R
+   1,R,K
+  11,R
    6,R,U,Z
   40
 
@@ -835,4 +839,4 @@ console hard 3
   15,R,U,X
 #3BG2
  135,R,D
-ChapterTime: 1:27.890(5170)
+ChapterTime: 1:27.873(5169)
