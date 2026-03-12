@@ -191,13 +191,17 @@ console load 9
 
 #lvl_a-03
    1,L,J,G
-   5,L,K,G
-   4,L
-   9,L,J,G
-  16,U,X
-  16,U,C
-  18,L,J
-   2,R,J
+   2,L,K,G
+   1,K
+   1,J,G
+  13,L,J
+   1,J
+  15,U,X
+   4,L,J,G
+  14,U,X
+  16,J
+   1,L,J
+   1,R,J
    1
   37,L,G
    6
@@ -1368,4 +1372,4 @@ AnalogMode,Ignore
   15,R,D,X
   14,R,J
  156,R,D,X
-ChapterTime: 2:47.569(9857)
+ChapterTime: 2:47.552(9856)
