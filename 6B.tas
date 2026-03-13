@@ -1151,20 +1151,24 @@ EndStunPause
 #lvl_d-00
    1,R,K
    5,R,J
-   3,R,K,G
-   7,R
-  14,R,D,X
-  17,R,J
-   2,R
+   4,R,K,G
+   1,K
+   5,R,K
+   1,R
+  15,R,D,X
+   1,R,J
+   1,J
+   9,R,J
+   6,R
 #Reprieve
-   6,L,U,X
+   5,L,U,X
    1,L,J,G
    4,L,K,G
    1,K
    7
    3,L,G
    5,J,G
-   2,L
+   2,L,J
    2,K
    1,R,K
    1,K
@@ -1493,4 +1497,4 @@ AnalogMode,Ignore
 #6BG
   26
  109,R
-ChapterTime: 3:14.140(11420)
+ChapterTime: 3:14.123(11419)
