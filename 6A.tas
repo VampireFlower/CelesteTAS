@@ -1242,17 +1242,13 @@ EndStunPause
    4,R
   10,R,D
   22,R,Z
-  53,L,D
-  15,D,C
-  13,R,D
-   1,D
-   1
-   4,D,X
-  13,R,K
-   3,R,J,G
-   7,R
-   1,R,J
-  14,R
+  47,L,D
+  28,R,D
+   4,D
+   4,R,Z
+  13,R,J
+   4,R,K,G
+  21,R,D
   44
   28,R,D,X
   10,D
@@ -1821,4 +1817,4 @@ AnalogMode,Precise
    1,D,J
   18
 AnalogMode,Ignore
-ChapterTime: 4:29.739(15867)
+ChapterTime: 4:29.722(15866)
