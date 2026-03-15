@@ -5,7 +5,7 @@ console load 10
   98
 
 # spinner cycle
-   0
+   1
 
 #lvl_intro-00-past
 Read,9S,lvl_intro-00-past,Power Source
@@ -22,10 +22,11 @@ Read,9S,lvl_intro-00-past,Power Source
    5,L,J,G
    5,L,X
    7,R
-   9
+   5
   14,U,X
-   6,R,J
-   2,R
+   1,R,J
+   8,J
+   2
   10,L,Z
    1,L,J
    1,L,K,G
@@ -49,8 +50,7 @@ StunPause
 EndStunPause
   20,R,D
    2,R,J
-   1,R
-   5,R
+   6,R
    3
   40
 
@@ -100,28 +100,29 @@ EndStunPause
    7,L,J
   14,U,X
   13,G
-  68,L,D,G
-  15,L,G
-   1,L
-  15,L,U,Z
-   2,L
-   6,L,X
-  32,L,G
-  20,L,D,G
-   6,D,G
-  15,L,D,G
-  13,D,G
-   4,L,D,G
-   4,L,D,G
+  74,L,D,G
    5,L,G
-   2,L
-   3,L,J
-   9,L,K,G
-   1,J,G
-   2,L,J
-   1,R,J
-   4,J
+   1,L,D,G
+   2
+  15,L,U,Z
+   7,L,X
+  37,L,G
+  49,L,D,G
+   9,D,G
+   2,G
+   1,D,G
+   1,G
+   3
+   1,L,J
+   1,L,K,G
+  10,L,J,G
+   1,K,G
+   2,K
+   1,R,K
+   4,K
   15,U,X
+# -1f rounding error
+   1
    7,L,J
    7,R,U,X
    1,J,G
@@ -129,7 +130,10 @@ EndStunPause
    6,R
    1,L
   23,L,D,G
-  43,D,G
+  20,D,G
+# waste 1f
+   5,G
+  19,D,G
   18,L,D,G
    1,D,G
    1,L,D,G
