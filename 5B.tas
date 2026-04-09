@@ -722,62 +722,55 @@ SaveAndQuitReenter
    3,R,K,G
    9
    1,R
-  15,R,D,X
+  15,D,X
+   3
+   4,C
+   2,L,J
+   5,L
+   2,L,J
    1
-   1,R
-   1
-   1,R
-   1
-   4,Z
-   7,L,J
-   3,L
-   1,L,J
-   3,L
+   2,L,J
+   2,L
   14,L,D,X
    1,R,J
    6,R,D,X
    1,R,J,G
-  11,R
-   2,R,J
-#+1f
-  10,R,D,X
-   5,R,J
-   6,R,D,X
-  16,R,J,G
+   5,R
+   1,R,J
+   6,R
+   1,R,J
+  12,R,D,X
+   3,R,J
+   9,R,D,X
+  15,R,J,G
    2,R,G
   40
 
 #lvl_d-03
-   2,R,G
-   1,R,J,G
-   1,R,G
-   1,R,J,G
-   1,R,J,G
-   4,R,J
-   2,J
-   1,R,J
-   1,J,G
-   1,J
-   1,J,G
-   1,J
-   1,R,J
-   1,R
+   6,R,G
+   2,R
+   3
+   1,G
    2
-   1,K
-   1,J,G
+   1,G
+   2
+   3,R
    1,J
+   1,K,G
+   1
    4,L
    1,L,J,G
    1,L,K,G
    6,L
-   3,L,K
-   6,L
-   4,R,Z
+   2,L,K
+   1,L
+   1,L,K
+   5,L
+   4,Z
    1,R,J
-   5,R
-   1,R,J
-   3,R,K
-   1,R,J,G
+   6,R
+   3,R,J
+   1,R,K,G
   14,R,U,X
   32,R,J,G
   12,R,G
@@ -866,5 +859,5 @@ SaveAndQuitReenter
   14,R,U,X
 #5BG2
  135,R,D
-ChapterTime: 1:39.144(5832)
-FileTime: 1:42.986(6058)
+ChapterTime: 1:39.127(5831)
+FileTime: 1:42.969(6057)
