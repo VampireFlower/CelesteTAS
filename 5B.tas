@@ -660,50 +660,47 @@ SaveAndQuitReenter
    5,R,G
    1,J,G
    5,R,K,G
-   5,R,G
-   2,R
+   4,R,G
+   3,R
   13,R,U,X
    1,R,J,G
-  15,R
-   1
-   1,R
-   3
-  11,D
-   1
+   6,R
+   1,R,J
+  17,R,D
    1,D
+   1,R,D
+   9,D
    4,Z
    1,R,J
   13,G
    1,R,J,G
-   4,R,G
+   2,R,G
   40
 
 #lvl_d-02
-  11,R,G
-   8,R,J,G
-  12,R,G
+  13,R,G
+   7,R,J,G
+  10,R,G
    2,R,J,G
    5,R,G
    1,R
    8,R,U,Z
   13,G
-   1,R,G
-   4,R,J,G
-   6,J,G
-   1,D,J
+   4,R,G
+   7,R,J,G
+   1,R,D,J
   11,U,X
   13,G
    8,R,G
-  10,R
-   1,R,J
-   8,R
+  19,R
    9
-   3,R
-  17,R,D,X
-   1,R
    2,R
-   8
-   2,D
+   1
+  17,R,D,X
+   1,D
+   4
+   7,D
+   1,R
    9,R,D,X
   13,J,G
    5,R,J,G
@@ -726,8 +723,11 @@ SaveAndQuitReenter
    9
    1,R
   15,R,D,X
-   2
-   3,D
+   1
+   1,R
+   1
+   1,R
+   1
    4,Z
    7,L,J
    3,L
@@ -866,5 +866,5 @@ SaveAndQuitReenter
   14,R,U,X
 #5BG2
  135,R,D
-ChapterTime: 1:39.161(5833)
-FileTime: 1:43.003(6059)
+ChapterTime: 1:39.144(5832)
+FileTime: 1:42.986(6058)
