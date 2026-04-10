@@ -178,6 +178,7 @@ EndStunPause
 #[06] Spinner Cycle
    1
 #---------------
+#6HC0
   16,L,X
   15,L,C
   36,L
@@ -213,7 +214,7 @@ EndRepeat
    7,L,K
    1,L,K,G
    7,L,U,G
-#6HC0
+#6HC1
    1,J,G
   10,L,X
    2,L,J
@@ -247,7 +248,7 @@ AnalogMode,Ignore
    2,R,J
    1,J
    2,L,J
-#6HC1
+#6HC2
   14,U,X
   21,R,J
    1,K,G
