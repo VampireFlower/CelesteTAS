@@ -41,24 +41,7 @@ console load 6 -800 -336
 Read,../6HC,lvl_01,lvl_02
 
 #lvl_02
-Read,../6A,lvl_02,lvl_04
-
-#lvl_04
-   1,R,J,G
-   1,R,K,G
-   5,R
-   3,R,J
-   1,R
-#---------------
-#[06] Spinner Cycle
-   0,J
-#---------------
-   4,Z
-   1,R,J
-   7,R
-   2,R,K
-   5,R,J,G
-Read,../6A,6HC1,6AG
+Read,../6A,lvl_02,6AG
 
 #lvl_boss-19 (1)
    5,R,Z
