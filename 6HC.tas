@@ -124,7 +124,8 @@ EndStunPause
   40
 
 #lvl_02b
-Read,6A,lvl_02b,6HC0
+  11,L
+Read,6A,6HC0,6HC1
    1,J,G
   10,L,X
    2,L,J
@@ -378,9 +379,16 @@ Add 1
   12,R,Z
    2,R,J
    6,R,K,G
-Read,6A,6HC1,[b-03] Spinner Cycle
+  11,R,Z
+   1,R,J
+  17,R,K
+   2,J,G
+   2,R,J
+   1,L,J
+   1,R,J
+Read,6A,6HC2,[b-03] Spinner Cycle
 
-#lvl_11 (1)
+#lvl_11
 #---------------
 #Spinner Cycle 2
    2
