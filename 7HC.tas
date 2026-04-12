@@ -37,18 +37,12 @@ Read,7A,Start,lvl_a-06
    1,R
    1,K,G
    1
-   1,R
-   2,R
-   1,R
-   1,R
-   1,L
-   1,L
+   5,R
+   2,L
    5,L,Z
    1,R,J
    6,R
-   9,R,J
-   1,R,J
-   1,R,J
+  11,R,J
    4,R
   27,L,D,X
    7,L,U,C
@@ -307,26 +301,27 @@ Read,7A,lvl_b-06,lvl_c-04
    8,R
    1,R,J
   14,R,Z
-   4,R,J
-   1,L,J
-   4,L
-  10,R
-  47,R,Z
-  30,R,C
-   4,R,J
-   1,R,K
-   2,R
-  15,R,D,X
-   4,R
-   6
-   1,R,D
+   5,J
+  13
+   1,R
    1
+   1,R
+  15,R,Z
+  29,R
+  30,R,X
+   4,R,J
+   2,R,K
+  15,R,D,X
+   9,R,D
+   3,R
   21,L,D,X
    4,L,J
    4,L,K
-  24,L
+   5,L
+   2,L,K
+  17,L
   15,U,X
-  16,L,U,C
+  17,L,U,C
    4,L,J
    4,L,Z
    1,L,J
@@ -1053,4 +1048,4 @@ SaveAndQuitReenter
   15,R,J
    2,K,G
 Read,7A,7HC1
-FileTime: 7:46.208(27424)
+FileTime: 7:46.191(27423)
