@@ -1240,25 +1240,23 @@ console load 9
 #lvl_d-10b
    8,R
    2,R,J
-  27,R,D
+  26,R,D
    1,R
-   1,R,D
-   1,R
+   3,R,D
    2,G
    5,R,X
    1,R,J,G
    2,R,K,G
    1,R,J,G
    1,R,K,G
-  12,R,D
-  20,R,K
-   1,R
-   2,R,K
-   1,K
-  14,R,K
+  12,R
+  11,R,J
+   6,R
+  20,R,J
   14,R,U,X
    1,L,J,G
-   7,R
+   2
+   5,R
    1,R,J
    1,R
    1,R,J
@@ -1363,4 +1361,4 @@ AnalogMode,Ignore
   15,R,D,X
   14,R,J
  156,R,D,X
-ChapterTime: 2:47.501(9853)
+ChapterTime: 2:47.484(9852)
