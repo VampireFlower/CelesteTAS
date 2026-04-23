@@ -1570,22 +1570,25 @@ EndRepeat
    1,R,J
    2
   35,R,D,X
-   4,Z
+  10,R,Z
    1,R,J
-   8,R
-   5,R,J
-  14,R,Z
+   6,R
+   1,R,J
+   5,R
+   1,R,J
+   2,R
    1,R,J
   14,R,D,X
-   1,R,J
+   2,R,J
    1,R
-   1,R,J
+   2,R,J
    2,R
   14,R,J
   18,R,U,X
   15,R,U,C
   22,L
-  31,L,D
+  27,L,D
+   4,D
    1,R,J
    8,R
    2,J
@@ -1633,8 +1636,7 @@ EndRepeat
    1,R,J
    1,R
    2,R,J
-  10,R
-  38,R
+  48,R
   15,R,Z
   21,R,D
    2,D
@@ -1753,4 +1755,4 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 3:13.511(11383)
+ChapterTime: 3:13.494(11382)
