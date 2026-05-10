@@ -15,7 +15,164 @@ console load 2
   40
 
 #lvl_0 (0)
-Read,../2A,lvl_0 (0),lvl_12b
+Read,../2A,lvl_0 (0),lvl_d2
+
+#lvl_d2
+Read,../2S,lvl_d2 (0),lvl_d0 (1)
+
+#lvl_d0 (1)
+  14,L,J
+  41,L,X
+   4,R,K
+  20,R,U,X
+  14,U,Z
+   3,J
+   1,R,K,G
+   1,R,J,G
+   1,L,J
+   8,R,J
+   5,R
+   1
+   1,R
+   6,R,J
+   2,J
+  15,U,Z
+   2,R
+  19
+  13,R
+   1
+   1,R
+   1
+   2,R,J
+   9,U,X
+  40
+
+#lvl_1 (1)
+Read,../2A,lvl_1 (1),lvl_7
+
+#lvl_7
+  15,J
+   3,R,J
+   2,K,G
+   5,R,K
+   1,K
+   2,L,K
+  15,U,X
+   1,L
+   1,R,J
+   2,J
+   1,L,K,G
+   6,L,J,G
+   6,L
+   1
+   1,D
+#+0f berry
+  11,L,Z
+   1,R,J
+   3,R
+   4,Z
+   8,R,J
+   2,R
+   1,R,J
+  17,R,D
+   1,D
+  25,R,D
+   1,R,J,G
+  10,R,K,G
+   6,J,G
+   1,R
+   1
+   1,R
+   1
+   1,R
+   7
+   7,L,J
+   4,J
+   2
+   1,L
+  15,U,Z
+   5,R
+   1,R,J,G
+   1,R,K,G
+   5,R,J,G
+   2,R,K
+  14,U,X
+  40
+
+#lvl_8
+Read,../2S,lvl_8,lvl_10
+
+#lvl_10
+   3,L,D
+  50,L,X
+   4,R,G
+  14,R,D,X
+   4,R,J
+   1,R,K
+   1,R
+  15,R,D,X
+   9,D
+  16,L,D,X
+   5,L,J
+  10,D,X
+   1,J
+  20,D
+   5,L,X
+   1,R,J,G
+  27,L,D
+  21,R,D
+   9,D
+  19,R,D
+  31,L,D
+  15,R,D
+  14,R,D,X
+   8,R,J
+  19,R,X
+   4,R,J
+   3,R,K
+   1,K
+  12,R,D,X
+   1,L,J
+   7,L
+   5,L,J
+  24,L,D,X
+   4,L,J
+   4,Z
+   1,L,J
+   2,L
+   1,L,J
+  10,L
+   1,L,J
+   2,L
+  11,R,Z
+   1,R,J
+   3,R
+  24,R,D,X
+   4,R,K
+   4,R,J
+  15,R,D,X
+   4,D
+#+2f berries
+  15,R,X
+  15,L,C
+  15,L,X
+  11
+  13,L,Z
+   1,L,J
+   1
+  15,R,D,X
+   6,R,D
+  24,L,D
+   5,L
+   1,L,D
+  15,L,D,X
+   4,L
+   3,L,J
+  21,L,D,X
+  40
+
+#lvl_2
+Read,../2A,lvl_2,lvl_12b
 
 #lvl_12b (0)
 Read,../2S,lvl_12b (0),lvl_12c
@@ -74,4 +231,4 @@ Read,../2S,lvl_12b (0),lvl_12c
    1,U,J
    1,O
   31
-FileTime: 1:20.070(4710)
+FileTime: 1:27.482(5146)
