@@ -129,32 +129,29 @@ Read,6A,6HC0,6HC1
    1,J,G
   10,L,X
    2,L,J
-   2,K,G
-   2,R,K
-  15,L,K
-  13,U,X
-   7,R,J
-   1,R,K,G
-   7,R
-   2,R,J
+  12,K
+   3,R,K
+   1,K
   14,U,X
-  12,L,J
+   8,L,J
+   1,L,K,G
+   7,L
+   2,L,J
+  14,U,X
+   4,L,J
+   8,R,J
   40
 
 #lvl_04 (0)
-   1,J,G
-   2
-   2,J,G
-   1,R,J
-   5,R
-  15,U,X
-   1,L,J,G
+   4
+   4,J,G
+   8,R,J
+  14,L,U,X
+   6,L,J,G
    7,L
-   4,X
-   6,L,J
-   7,L
-  11,J
-   2
+   4,L,J
+   4,L,K,G
+   9,K
   14,L,U,X
    1,L,J,G
    9,L
@@ -388,7 +385,7 @@ Add 1
    1,R,J
 Read,6A,6HC2,[b-03] Spinner Cycle
 
-#lvl_11
+#lvl_11 (1)
 #---------------
 #Spinner Cycle 2
    2
@@ -407,4 +404,4 @@ Read,6A,6HC2,[b-03] Spinner Cycle
 
 #lvl_12a
 Read,6A,lvl_12a
-FileTime: 5:07.037(18061)
+FileTime: 5:07.003(18059)
