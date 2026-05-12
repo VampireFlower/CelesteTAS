@@ -157,19 +157,21 @@ EndStunPause
    1,L,J
    1,K
    1,J
-   8,R,J
-   8,R
-   8
+   7,R,J
+   9,R
+   5
+   2,K
+   2
    7,L,G
-   1,U,G
-   1
-   1,J
-  10,U,Z
-   1,S,N
-  10,O
-   5,U,Z
-  25,L
-  13,U,X
+   5,U,G
+   4,J,G
+StunPause
+   2,J
+EndStunPause
+   6,J
+   8,R
+  14,U,X
+  10,L,J
   40
 
 #lvl_02b
@@ -1815,4 +1817,4 @@ AnalogMode,Precise
    1,D,J
   18
 AnalogMode,Ignore
-ChapterTime: 4:29.722(15866)
+ChapterTime: 4:29.671(15863)
