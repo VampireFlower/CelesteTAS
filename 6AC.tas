@@ -1,0 +1,23 @@
+console load 6
+   1
+
+#Start
+Read,6HC,Start,lvl_04e
+
+#lvl_04e
+   5,J,G
+  16,L,D,X
+   3,L,D,J
+   4,L,K,G
+   5,L
+   4,L,J
+  11,L,U,X
+ 257
+   1,J
+# Return
+  62
+   1,S
+   1,U,J
+   1,O
+  31
+FileTime: 0:55.199(3247)
