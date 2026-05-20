@@ -71,8 +71,9 @@ Read,../2A,lvl_d3,lvl_d0 (1)
    3,R,K,G
    1,R
    9,R,U,Z
-   2,R,K,G
-   8,R
+   1,R,K,G
+   5,R
+   4,R,K
   40
 
 #lvl_d4 (0)
@@ -324,4 +325,4 @@ Read,../2A,lvl_end_0,lvl_end_4
 
 #lvl_end_4
 Read,../2S,lvl_end_4
-FileTime: 2:44.441(9673)
+FileTime: 2:44.407(9671)
