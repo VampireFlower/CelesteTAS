@@ -137,35 +137,41 @@ console rmx2 9
    7,R
    1,R,J
    1,R
-  11,R,J
-   8,R
-  16,R,D,X
+  10,R,J
+   9,R
+  18,R,D,X
+   1,R,D
    2,R,J
    5,R
   20,R,D,X
-  15,R,D,C
+  18,R,D,C
+   1,R
    1
-   1,R
-  12,R,J
-   7,R
-   2,R,J
+   3,R
+  11,R,J
    8,R
-  14,R,U,Z
-   4,R,J,G
-   5,R
    2,R,J
-   5,R
-  12,R,U,X
+   3,R
+   2
+  14,R,U,Z
    1,R,J,G
+   3,J
    5,R
-   6,R,J
-   1,R
-   9,R,K,G
-  19,R,D,X
    1,R,J
-   9,R
-  11,R,X
+   1,R
+   1,R,J
+   4,R
+  12,R,U,Z
+   4,R,J,G
+   3,R
+   5,R,J
+   1,L,K,G
+   4,R,K
+   3,R
+  19,R,D,X
+   6,R,J
+  12,R
+   4,X
 #8CG
-  19,R
- 121,R,U,C
-ChapterTime: 0:22.236(1308)
+ 135,U
+ChapterTime: 0:22.219(1307)
