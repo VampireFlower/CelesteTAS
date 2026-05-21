@@ -65,47 +65,64 @@ console rmx2 9
    6,R,J
    4,R
   10,R,D,X
-   4,R,J,G
+   5,R,J,G
    5,R
-   2,R,J
-  12,R
+   1,R,J
+   1,J
+  10,R,D,X
+   1,R,J,G
+   6,R
+   1,L
   40
 
 #lvl_01
-   4,R
-   5,R,D
    1,R,J
    1,R
-   1
-   1,R
-   4
-  15,R,D,X
-   6,D
-  15,R,Z
-  16,L
-   5
-   1,R
    2,R,J
-   3,J
-   7,R,J
-  13,R
-   4,R,J
-  13,R,D
-   9,D
-  15,L,G
-  15,U,G
+   5,R,D
+   1,L,J
+   1,R,J
+   2,R
+   1
+   2,R
+   1,R,J
+   2,J
+   1
+  17,R,D
+   5,R
+   1,R,D
+   1,R
+   3,R,D
+  15,R,Z
+   4,R
    2,G
-  35,R,J
-  25,R,Z
-  15,R,D,X
-   5,D
-  33,R
-   6,U,X
-  29,R
-  10,U,Z
-  48,R,D
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   6,R
+   1,R,J
+   1,J
+   1,R,J
+   1,R
+   1,D
+   1,R,J
+   5,R
+   2,R,J
+   6,R,U,Z
+   1,L,J,G
+  34,R,J
+  20,R,Z
+  18,R,U,X
+  23,R
+  12,R,D
+  34,R
+   7,U,Z
+  31,R
+   9,U,X
+  46,R,D
    3,L,D
-  13,R,D
+  14,R,D
    1,R,J
   10,R
   40
@@ -174,4 +191,4 @@ console rmx2 9
    4,X
 #8CG
  135,U
-ChapterTime: 0:22.219(1307)
+ChapterTime: 0:21.760(1280)
