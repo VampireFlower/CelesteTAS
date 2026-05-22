@@ -6,7 +6,6 @@ console rmx2 9
   61
 
 #lvl_intro
-#+158f XD
    4,D,X
   21,R,J
   14,R,X
@@ -79,60 +78,87 @@ console rmx2 9
   12,R,D,X
    8,R,J
   12,R
-   4,R,K
+   4,R,J
    5,R
    1,R,J
   40
 
 #lvl_01
-   9,R,J
-  15,R
-   5,R
-   8
-  10,R
-   4
-   2,D
-  13,R,J
+   7,J
+   1,R,J
+   8,J
+   9,L,D,J
+# manip +35f
+   1,L,D,J
+   2,J,G
    1,J
-  11,R,J
-  15,R,Z
-   1,R
-  14,L,D
-   4,D
+   2,L,J
+   1
+   1,G
+   1
+   1,G
+   2
+   1,G
+   2
+   1,L
+#
+   1,J
+   1,K
+   9,R
+   1,R,K
+   6,R
    2,G
-   8,D,G
-  17,G
-   5,U,G
-   9,R,J
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   5,R
+   4,R,K
+   1,R
+   1,S,N
+  10,J
+   5,R,D,J
+   1,R,K
+  20,R
+   4,R,D
+   1,R
+   1,R,D
+  15,R,Z
+   4
+   2,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
    6,R
    1,R,J
-   6,R
+   1,J
+   1,R,J
+   1,R
+   1,D
+   1,R,J
+   5,R
+   2,R,J
+   6,R,U,Z
+   1,L,J,G
+  32,R,J
+   2,J
   15,R,Z
-  19,R,D
-   9,L,D
-   1
+   9,R
+  18,R,U,X
+  26,R
+   4,R,D
+   1,R,D
+   2,D
    1
    1,D
-  13,L,G
-   9,L,U,G
-   3,G
-   5,U,G
-   2,G
-  29,R,J
-   9,R
-  18,R,U,Z
-  15,R,D,C
-   2,D
-   4,R,D
-   7,D
-  34,R
-   7,U,X
-  31,R
+  32,R
+   6,U,X
+  30,R
   10,U,X
-  46,R,D
-   2,R,D
+  47,R,D
    3,L,D
-  13,R,D
+  14,R,D
    1,R,J
   10,R
   40
@@ -143,4 +169,4 @@ Read,../8C,lvl_02,8CG
    1,U,J
    1,O
   31
-FileTime: 0:24.310(1430)
+FileTime: 0:23.426(1378)
