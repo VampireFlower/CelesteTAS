@@ -186,5 +186,38 @@ Read,../4SH0,lvl_c-06 (1),lvl_c-08
   40
 
 #lvl_c-10
-Read,../4SH0,lvl_c-10
-FileTime: 3:17.302(11606)
+   8,R
+   1,R,J
+   8,R,U,X
+   4,C
+   8,R,J
+   1,K
+   2,L,J,G
+   8,U,X
+   9,R,J
+  16,R,U,Z
+  14,U,V
+  17,R,J
+  15,R,D,X
+   6,R
+  15,U,X
+  14,R,J
+   4,L,J
+  12,L,K
+  12,R,J
+   2,R,K,G
+   1,K
+   4,L,K
+  11,L,J
+   1,L,K,G
+   3,L,J,G
+  16,L,X
+  16,L,C
+  15,L,X
+   1
+  10,L
+   1,L,J,G
+  22,L
+  10,U,X
+Read,../4SH0,Cliff Face
+FileTime: 3:16.877(11581)
