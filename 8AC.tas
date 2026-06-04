@@ -52,28 +52,32 @@ SaveAndQuitReenter
    1,R,J
   14,R,D,X
    1,R,J
-  10,R,D,X
+   1,R
+  14,R,D,X
    1,R,J
-  12,R
-  12,R,J
-  15,R,D,X
-  12,R,J
-  15,R,D,X
+   1,R
+  14,R,D,X
    1,R,J
+   8,R,D,X
+  13,R,J,G
   15,R,D,X
-  40,R,D,C
+   3,R,J
+  29,R,D,X
+  25,R,D,C
    7,R,J
   15,R,D,X
    2,R,J
-  15,R,D,X
-  81,R,D,C
+  21,R,D,X
+  75,R,D,C
+  14,R,D,X
    1,R,J
-  13,R,D,X
-   2,R,J
   16,R,D,X
-   4,R,J
-  22,R,D,X
-   1,R,J
-  49,R,D,C
- 152,R,D,X
-FileTime: 2:30.314(8842)
+   2,R,J
+  15,R,D,X
+   7,R
+  24,R,D,X
+  39,R,D,C
+   4,X
+ 135,L,U
+
+FileTime: 2:30.025(8825)
