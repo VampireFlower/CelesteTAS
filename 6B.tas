@@ -434,7 +434,7 @@ EndStunPause
    1
    2,R
 # c-04 Spinner Cycle
-   1
+   0
 #------------------
    7,R,Z
    2,R,J
@@ -577,39 +577,39 @@ EndStunPause
    1,R,K
    1,R,J
    1,R,K
-   2,R,J,G
-   6,R,K,G
+   1,R,J,G
+   7,R
+   1,R,J
   40
 
 #lvl_b-03
-   9,R,K
-  17,R,D,X
-   9,D
-   1,R,D
-  25,L,D
-   3,D
-  40,R,D
+  17,R
+   9,R,D
+   1,R
+   5,R,D
+  15,D,X
+  53,R,D
   16,L,D
   33,R,D
   15,R,X
-  16,D
-  24,R,D
-   2,R
-   2,R,D
-   3,R
-   3,D
-   4,R,D
-   1
-  24,L
-  15,L,D,X
-   1,L,D
-   1,R,D
-   1,L,D
-  17,R,D
+  15,D
+  26,R,D
    1,D
-   2,R,D
-   9,L,D
-   6,R,D
+   1,R,D
+   1
+   1,R
+   1,D
+   1,R
+   7
+  23,L
+  16,L,D,X
+   4,R,D
+   1,L,D
+  15,R,D
+   2,L,D
+   1,R,D
+   8,L,D
+   7,R,D
    1,R
    2,D
    5,L,Z
@@ -1119,22 +1119,22 @@ EndStunPause
   36,L
   18
 
-  13,D
-StunPause
-   1,D
-  17,R,D
-SkipInput,3,1
-   5,R,Z
-EndStunPause
-  10,R,Z
-
 #alternate cycle
-#   12,D
+#   13,D
 #StunPause
-#    2,D
+#    1,D
 #   17,R,D
+#SkipInput,3,1
+#    5,R,Z
 #EndStunPause
-#   15,R,Z
+#   10,R,Z
+
+  12,D
+StunPause
+   2,D
+  17,R,D
+EndStunPause
+  15,R,Z
 
   23,R,D
   44,R
@@ -1513,4 +1513,4 @@ AnalogMode,Ignore
 #6BG
   26
  109,R
-ChapterTime: 3:14.055(11415)
+ChapterTime: 3:13.970(11410)
