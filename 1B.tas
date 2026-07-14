@@ -543,21 +543,30 @@ EndRepeat
    2,R,K
   14,R
    1,R,K
-   5,R
-  21,D
-  15,R,Z
-  18,R,D
-   4
+   1
+  17,D
+   5,R,D
+   1,D
+  10,R,D
+  15,R,X
+  13,R,G
+   3
+   1,G
+   1,R,J,G
+   6
    1,R
-   5
-   3,L
-   5
-   7,R,G
+   1
+   1,L
+   5,R,G
    4,U,G
   10,R,Z
    1,R,J
-  14,R
-   5,L
+   6,R
+   1,R,K
+   1,R
+   1,R,K
+   5,R
+   6,L
   15,R,Z
    1,L
    5,J,G
@@ -696,4 +705,4 @@ EndRepeat
 #1BG2
   89,L
   46,L,D
-ChapterTime: 1:04.549(3797)
+ChapterTime: 1:04.515(3795)
