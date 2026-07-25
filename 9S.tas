@@ -1121,77 +1121,104 @@ EndRepeat
   12,R,G
    5,R,U,G
    5
-   6,R,X
-  10,J
-   1,L,J
-   5,R,X
-  13,G
-  33,R,U,J,G
-# +1f wait for jelly
-   8,R
-  15,L,X
-   4
-  13,L,X
+   6,R,Z
+  11,R,J,G
+   5,R
+   4,R,J
+   2,J
+  15,L,Z
+  14
+   3,D
+   7,R,D
+   1,D
    3,R
-  12,L,D,X
-   3,R,J
-  12,R,D,X
    1,R,J,G
-   2,R,K,G
-   1,R,J,G
-  11,R,U,X
-  13,G
-   8,R,G
+  13,R
+   1,R
+   3,R
+  24,L,X
+   7,L,U,C
+  39,L,G
+   1,G
+   1,L,G
+   1,D
    1,L
-   9,R
+   1,L
+   5
+   1,L
+   3
+   1,L
+   4,R,G
+   1,R,J,G
+   1,R,K,G
+   5,R
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+   8
+   1,L,G
+   1,L,J,G
+   2,R
+   3,R
+   1,R,J
+   1,J
+   1
+   7
+   9,L
+  14,L,Z
+   1,R,J
+   5,R,D,X
+  32,R,J,G
+   2,R,G
+   1,L
+   1,R,J
+   7,R,U,Z
+   3,R,J,G
   40
 
 #lvl_e-07
-   9,R,D,J
-   5,R
-   9,R,J
-   1,R
-  15,R,D,X
-  10,R,D
-   4,Z
+   3,R,J,G
 StunPause
-   8,R,Z
-   1,R,J,G
-   1,R,K,G
-   1,R
-   1,R,J,G
+   4,R,J
 EndStunPause
-   5,R,K,G
-   9,R
+   5,R,J
+  15,R,D,X
+  10,R,D,C
+StunPause
+   2,R,D
+EndStunPause
+   3,R
+   1,R,J
+   7,R,U,X
+   6,R,J,G
   40
 
 #lvl_e-08
-   2,R,K
-   2,R
+   2,R,J
 StunPause
-   2,R
-SkipInput,3,1
-  11,R,D,X
+   9,R,J
+   1,R
 EndStunPause
-   4,R,D
    1,R
-  21,R,D,C
-   1,R
-  12,R,V
-   3,R,K,G
-   8,K
-   1
-  19,R,D
-  33,R,U,X
-  10,R,D,C
-   5,R,J
-  15,R,U,X
-  14,R,U,C
+   2,R,J
+   2,J
+   4
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+  10,R,D
+   6,R,U,Z
+   1,L,J,G
+   8,L,J
+  24,R,U,X
    1,S
    1,D,J
   34
 
 #Event Horizon
+   2,R
    1,R,J
    4,Z
    1,R,J
@@ -4188,7 +4215,7 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 8:57.132(31596)
+ChapterTime: 8:56.571(31563)
 
 #Let moon berry sfx play
  100
