@@ -153,17 +153,18 @@ Read,3SH,lvl_s0,lvl_04-c (0)
    3,L
   13,L,J
   16,L,D,X
-   3,L,J
-   1,L
+   2,L,J
+   2,L
    9,L,U,Z
-   3,L,K,G
-   5,L
+   1,L,K,G
+   7,L
   40
 
 #lvl_01-c
-   5,L,J
+   2,L,K
+   4,L
+   2,L,J
    1,L
-   4,L,J
   14,L,Z
    3,L,J
    2,L
@@ -176,7 +177,6 @@ Read,3SH,lvl_s0,lvl_04-c (0)
    1,J
  257
    1,J
-#Return
  123
    7,L,D,X
    1,R,J
@@ -223,4 +223,4 @@ Read,3HC,lvl_04-d (1),lvl_00-d
 
 #lvl_00-d
 Read,3SH,lvl_00-d
-FileTime: 4:55.902(17406)
+FileTime: 4:55.885(17405)
