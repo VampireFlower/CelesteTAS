@@ -57,18 +57,19 @@ Read,../5B,5BG1,lvl_d-05
    5,R,G
    1,R,J,G
   29,R,G
-   7,R,J,G
+   6,R,J,G
    5,R,G
+   2,R,J,G
+   3,R,G
    1,R,J,G
-  10,R,G
-   1,R,J,G
-   1,R,G
+   4,R,G
    1,L
-  11,R
+   1,R,J
+  13,R
   14,R,U,X
 # Exit
    1,S
    1,U,J
    1,O
   31
-FileTime: 1:41.932(5996)
+FileTime: 1:41.915(5995)
