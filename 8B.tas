@@ -434,53 +434,53 @@ EndRepeat
 #lvl_b-04
    1,R
    1,R,J
-  14,R
-  20,R,K
    5,R
-  14,G
+   1,R,J
+  14,R,D
+  19,R,K
    1,J,G
-   1,L,J
-   2,L
-   5,R,Z
-  28,R,K,G
-   6,R
-#+2f fireball cycle
-  13,R
-   5,R,D
+   1,L
+   1,R
+  10,R,K,G
+   5,R
+   2,R,J,G
    1
-  14,R,X
-  56,R,J,G
-  15,R,X
+  11,R
+   9,R,J
    9,R
-   3
-   2,J,G
    1,R,J
+  10,R
+   1,R,D
+   1,R
+   1,R,D
+  14,R,Z
+   1,R,J,G
+   5,R
+   2,R,J
    1,J
-   1,R,J
-   1,L,J
-   1,R,J
-  15,R,K,G
+   6,R,J
+   4,R
+  42,R,K,G
+  48,R,U,X
+  14,R,C
    2,R,J,G
    1,J
-   4,R
-  12
-  13,L,G
-   1,R,J
-  12,R,K
-  11,R
-   7,R,J
-   4,R
-  15,R,U,X
-  20,R
-   1,R,J,G
+   1,K,G
+  23,R,K
+  24,R,U,X
+   2,R,J,G
+   1,J
+   1,L
    1,R,K,G
-   1,R
+   2,R
    1
-   7,R
+   4,R
+   1,R,J
+  15,R
    4,R,J
-   5,R
-   9,R,J
-   6,R
+   8,R
+   1,R,J
+   7,R
   40
 
 #lvl_b-05
@@ -899,4 +899,4 @@ EndRepeat
   14,R,U,C
 #8BG
  135,R
-ChapterTime: 2:02.621(7213)
+ChapterTime: 2:02.077(7181)
