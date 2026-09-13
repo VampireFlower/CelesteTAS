@@ -502,39 +502,39 @@ EndRepeat
    2,R
   18,R,U,X
   15,R,U,C
-  40,R,D
+   5,R
+  35,R,D
    2,D
   14,R,X
   27,R,J
   23,R,D
   14,R,X
   28,R,J
-  27,R,U,X
+  20,R,U,X
   15,R,C
-  36,R
-   1,R,D
-   3,R
+  31,R
+   9,R,J
   14,R,X
-   9,R
-   6
-   7,J
-  10,R,J
-   1,R,K,G
+   7,R,J
+   8,R
+   3,R,K
+  11,R
    1,R,J,G
-   9,R
-   1,R,K
-  13,R
+   1,R,K,G
+   1,R
+   1
+   7,R
+   6,R,J
+   5,R
   40
 
 #lvl_c-01
+   7,R
+   1,J
+   1,K
+   4,R,K
+   1,J
    1,R
-   6,R,J
-   1,K
-   1,J
-   4,R,J
-   1,J
-   1,K
-   1
   13,U,X
   19,R,J
   18,R,U,X
@@ -899,4 +899,4 @@ EndRepeat
   14,R,U,C
 #8BG
  135,R
-ChapterTime: 2:02.077(7181)
+ChapterTime: 2:01.839(7167)
