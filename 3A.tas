@@ -1716,31 +1716,34 @@ EndRepeat
    1,R,K,G
    8,R
    1,R,K
-   2,R
+   2
    1,R,K
    9,R,D,X
    1,R,K,G
-   1
-  11,R,D
-   6,R,J
-   4,R
-   3
-  15,R,D,X
-   2,R,D
-   1,D
-  20,R,D
-   5,R,J
-   5,R
    2
+   4,R
+   1,R,J
+   2,R
+   1,R
+   2,R
+  10,R,J
+   1,R
+   1,R
+  15,R,D,X
+   1,R,D
+  23,R,D
+   5,R,J
+   1,R
+   4,R
+   1,R
   13,R,U,Z
-   1,R,J,G
-   4
-   5,R
-   4,R,D
-  17,R,J
-   2,J
+   1,J,G
+   7,R
+   2,R
+   3,R,D
+  21,R,J
+   1,K,G
    1
-   3,K,G
   14,R,Z
    2,R,J
   19,R,D,X
@@ -1753,8 +1756,9 @@ EndRepeat
   15,R,K
   40
 
+
 #lvl_roof07
    1,S
    1,D,J
   18
-ChapterTime: 3:13.460(11380)
+ChapterTime: 3:13.426(11378)
