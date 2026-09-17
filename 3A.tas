@@ -1479,17 +1479,19 @@ EndRepeat
    2,R,D,J
    9,R,U,X
    1,R,J,G
-   3
-   2,R
-   4,R,K
-   3,R
-   7,R,J
-   9,R
-   1,R,K
-   1,R,D,J
    1,R
-  12,R,U,X
-   1,R,J,G
+   1
+   7,R
+   6,R,J
+   5,R
+   1,R,K
+   1,R
+   1,R,K
+   2,R
+   1,R,D,J
+   5,R
+  11,R,U,X
+   1,R,K,G
    3
   11,R,D
    6,R,J
@@ -1756,9 +1758,8 @@ EndRepeat
   15,R,K
   40
 
-
 #lvl_roof07
    1,S
    1,D,J
   18
-ChapterTime: 3:13.426(11378)
+ChapterTime: 3:13.409(11377)
