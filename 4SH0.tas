@@ -1433,13 +1433,13 @@ SaveAndQuitReenter
    9,L,K
    1,L
   10,J,G
-   2
+   1,L,J
+   1,R
    1,K
-  11,J,G
-   8,R,J
+   1,L,J,G
+  17,R,J
    4,L,K,G
-   2,L
-   5
+   7,L
   11,U,X
   40
 
@@ -1898,4 +1898,4 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
-FileTime: 3:24.102(12006)
+FileTime: 3:24.085(12005)
