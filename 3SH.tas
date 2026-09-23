@@ -2498,86 +2498,86 @@ SaveAndQuitReenter
 #lvl_roof06b
    1,R,J,G
   14,R
-  28,R,J
-  19,R,D,X
+  25,R,J
+  15,R,D,X
+   5,R
+   1
   18,R,U,C
   20,R,X
-  21,R,C
+  20,R,C
   14,R,Z
-   2,R,J
-   5,R
-  14,R,D,X
    3,R,J
-   1,J
+  17,R,D,X
+   3,R,J
+   2,R
    6,R,D,X
   40
 
 #lvl_roof06
    1,R,J,G
-   1
-  14,R
-   3,R,J
+   2
+  12,R
+   4,R,J
    7,R,D,X
   10,R,K,G
-   5,R
-   2,R,K
-  17,R
-  13,R,K
-   2
-   1,R
+  23,R,D
+  16,R,J
+   1,J
   13,U,X
    5,R,K
    4,K
    1,R,J,G
    1
   17,R
-  19,D
-   1,R
+  18,D
+   1
+   1,R,D
    1
    1,L
    1
    1,L
    1
    4,D,X
-   3,R,J
+   4,R,J
    1,R
+   5,R,K
+   2,R
+   2,R,K
+   3,R
    1,R,J
-   8,R
-   5,R,J
+   4,R
+   1,R,K,G
+   4,R
+  19,R,Z
    5,R
-   2,R,J
-   5,R
-  17,R,Z
-   5,R
-  13,R,Z
-   2,R,J
-  14,L,Z
+  16,R,Z
+  14,L,D,X
    1,R,J
    5,R,D,X
    1,R,J,G
-  16,R,D
-   1,D
-   4,R,J
+  17,R
+   5,R,D,J
    5,R
-   2,R,J
-   4,R
-  14,R,U,X
-   1,R,J,G
+   5,R,J
+   1,R
+  13,R,U,X
+  16,R,J,G
    1,J
-  11,R,J
-   5,J
-   2,R,K,G
-   1
+   1,K,G
+   1,R,K
+   3
    1,R
    3
-   1,J
-   1
+   2,K
+  11
+   7,D
+   1,L,D
+   2,R,D
    1,R
-  12
-   8,D
-   2
-   1,D
-  17,R
+   1,R,D
+   2,R
+   1
+  12,R
   28,R,U,Z
    5,R,V
    1,R,J
@@ -2586,41 +2586,52 @@ SaveAndQuitReenter
    6,R,K
    1,R
   15,R,D,X
-   3,R
-   1,R,D
+   1,R
    1,R,J
   15,R,Z
+   8,R
+   2
+   1,R
+   4
+   2,R
+   4,Z
+   1,R,J
   12,R
-   4,D,X
-   1,R,J
+   6,R,J
    6,R
-   1,R,J
-   5,R
-   3,R,D,K
-   1,K
-   9
-  34,R,U,X
-   7,R,V
-   1,R,K
-   3,R
-   1,R,J
-   3,R
-  24,R,D,K
-   1,J,G
-  14,R,Z
+   1
+   2,R
+  30,R,U,X
    2,R,J
-  19,R,D,X
+   1,J
+   1,R,K,G
+  14,R,D,X
+   3,R,J
+   1,R
+   2,R,K
+   2,R
+   1,R,K
+   1,R
+  12,R,U,X
+   1,R,J,G
+   1,R
+   1
+   7,R
    1,R,J
-   9,R,U,C
-   4,R,K,G
+  19,R,D,X
+   1,R
+   1,R,J
+   9,R,U,X
+   4,R,J,G
    6,R
    3,R,K
    8,R
-  15,R,K
+   8,R,J
+   7,R,K,G
   40
 
 #lvl_roof07
    1,S
    1,D,J
   18
-FileTime: 4:44.750(16750)
+FileTime: 4:44.665(16745)
