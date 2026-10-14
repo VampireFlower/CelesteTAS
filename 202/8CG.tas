@@ -78,35 +78,38 @@ console rmx2 9
   12,R,D,X
    8,R,J
   12,R
-   4,R,J
-   5,R
-   1,R,J
+   6,R,D,J
+   4,R
   40
 
 #lvl_01
-   7,J
+   1
+   1,J
    1,R,J
-   8,J
-   9,L,D,J
-# manip +35f
-   1,L,D,J
-   2,J,G
+   4
+   9,J
+# manip +32f
+   3,J
+   1,D,J
    1,J
-   2,L,J
-   1
-   1,G
-   1
-   1,G
-   2
-   1,G
-   2
+   6,L,D,J
+   1,J,G
+   1,J
+   1,J,G
+   1,J
+   1,J,G
+   1,J
+   1,J,G
+   1,J
+   1,L,J
    1,L
+   1,G
 #
-   1,J
-   1,K
-   9,R
+   1,R,J
    1,R,K
-   6,R
+   7,R
+   1,R,K
+   8,R
    2,G
    1,R,J,G
    1,R,K,G
@@ -146,19 +149,19 @@ console rmx2 9
   15,R,Z
    9,R
   18,R,U,X
-  26,R
-   4,R,D
-   1,R,D
-   2,D
-   1
+  28,R
+   3,R,D
+   1,D
+   2
    1,D
   32,R
    6,U,X
   30,R
-  10,U,X
-  47,R,D
-   3,L,D
-  14,R,D
+  10,U,Z
+  47,R
+   4,L
+   3,R
+  10,R,D
    1,R,J
   10,R
   40
@@ -169,4 +172,4 @@ Read,../8C,lvl_02,8CG
    1,U,J
    1,O
   31
-FileTime: 0:23.426(1378)
+FileTime: 0:23.375(1375)
