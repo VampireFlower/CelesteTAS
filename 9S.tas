@@ -2573,14 +2573,9 @@ EndStunPause
    1,R
    1
    5,R
-#i-00b cycle 0-2
-   1
-#--------------
    9,R,Z
-   3
-   3,R,J
+   6,R,J
    3,R
-   3
   15,R,D,X
    1,D
    1
@@ -2680,8 +2675,7 @@ AnalogMode,Precise
    7,L
    2,L,J
    3,L
-   6
-   2
+   8
    1,L,J
    2
   11,R,Z
@@ -2691,49 +2685,38 @@ AnalogMode,Precise
    1,R,J,G
    6,R,D,X
    1,R,J,G
-   4
-   3,R
+   7,R
    2,R,J
    7,R,D,X
    1,R,J,G
    2,R,K,G
    1,R,J,G
    1,R,K,G
-   5
+   5,R
    1,S
   10,J
    3,R,J
-   1,R
-  16,R,J
-  15,R,D,X
-   3,R
-   1,R,J
-   8,R,U,X
+   6,R
+  20,R,J
+   1,J
+   6
   40
 
 #lvl_i-00b
-   4,R
-   1,R,J,G
-   4,R
-   9,R,D,X
-StunPause
-   4,R
-EndStunPause
-   3,R
    5
+   8,D
+   2
+   3,R
+  19,R,Z
+  10,R,V
+  12
+   2,L
+  14,R,U,X
+   1,R,J,G
    1,R
-   7,U,Z
-StunPause
-   1
-   1,J
-EndStunPause
-  14,J
-   7,R,J
-   1,K,G
-   1
-   4,J,G
-   1,R,K,G
-   7,R
+   2,R,K,G
+   2,L
+   5,R
    4,R,Z
    1,R,J
    5,R
@@ -3451,7 +3434,7 @@ EndStunPause
 #---------------
 #Lightning cycle
 #0-14
-   3
+   1
 #end_lightning
    7,R,D,C
    1,L,J
@@ -4264,7 +4247,7 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 8:55.874(31522)
+ChapterTime: 8:55.313(31489)
 
 #Let moon berry sfx play
  100
