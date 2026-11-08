@@ -213,39 +213,52 @@ Read,../1D,lvl_6c,lvl_8b
    5,R,J
    5,R
    2,R,J
-  24,R,D
-  10,R,J
+   1,R
+  18,R,D
    5,R
-   2,R,K
-  19,R
-   2
-   1,G
-   1,R,J,G
-   1,R,K,G
-  20,R
-   1,J
    4,R,J
-   4,J
-  10,K
-  14
-  35,R,D
+   5,R
+   3,R,J
+   1,R,K
+  22,R,D
    1,D
-   1,R,D
+   2,R,D
+   4
+  16,R
+   2,D
+   2,R
+   4
+   1,R,D,J
    1,R,J
+   4,L,J
+   1,K,G
+   1,R,K
+   1,L,J,G
+   1,R,J
+   6,L,J
+   2,L
+   1,K
+  13,D
+   1,L,D
+   1,D
+   2,R,D
+   2,D
+  25,R,D
    8,R
   20
-   3,R
-   2,D
-   1,R,J
-   2,L,K,G
-   1,R,K
-   1,L,K
-   4,R,K
-   1,J
-   7,R,J
-   6,L,J
-   3,J
+   5,R
+   3,D
    1,L,J
+   1,R,J
+   1,L,J
+   2,R,J
+   1,L,J
+   1,K,G
+   1,R,K
+   1,L,J,G
+   2,R,J
+  12,L,J
+   2,J
   40
 
 #lvl_9
@@ -342,4 +355,4 @@ EndRepeat
    1,U,J
    1,O
   31
-FileTime: 1:18.353(4609)
+FileTime: 1:18.319(4607)
