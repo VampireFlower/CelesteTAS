@@ -6,10 +6,36 @@ console load 5
 #Start
  110
 
-#lvl_a-00b (0)
+#lvl_a-00b
 Read,../5S,lvl_a-00b (0),lvl_a-08 (0)
 
-#lvl_a-08 (0)
+#lvl_a-08
+### collect a-14 berry and not a-11 berry
+#Read,../5S,lvl_a-08 (0),lvl_a-08 (1)
+
+##lvl_a-08 (1)
+#   23,D
+#    1,R,D
+#    1,D
+#    1,R,D
+#   15,D,X
+#   10,R,Z
+#    8,R,J
+#   11,R
+#    9,R,D,X
+#    1,R,J
+#   40
+
+##lvl_a-12 (0)
+#    9,R,J
+#   29,R,X
+#   12,R,U,C
+#    1,L,J,G
+#    9,R
+#    1,R,J
+#   19,R,D
+#   15,D
+### collect a-11 berry and not a-14 berry
   35,U,C
    3,J
   10,R,Z
@@ -17,8 +43,76 @@ Read,../5S,lvl_a-00b (0),lvl_a-08 (0)
    2,J
   40
 
-#lvl_a-10 (0)
-Read,../5S,lvl_a-10 (0),Overworld
+#lvl_a-10
+Read,../5S,lvl_a-10 (0),5AG1
+###
+
+### collect a-15 berry
+#Read,../5S,5AG1,lvl_b-00 (0)
+### don't collect a-15 berry
+Read,../5A,5AG1,lvl_a-01 (1)
+
+#lvl_a-01
+   8,D
+   6,R,D
+   8,D
+   8,L,D
+   8,L
+  15,L,Z
+  59,L,C
+   6,J,G
+   1
+  10,K,G
+   2,R,K
+  32,R,J
+  10,K,G
+   2,L,K
+   1,J
+   8,L,J
+   4,L
+  30,R,D
+   1,R
+   1,R,D
+   3,R
+  19,R,X
+   1,G
+  10,R,J
+   8,R
+   1,D
+   9,R,J
+   1,R
+  13,R,J
+  18,R,D
+   1
+  14,R,D,C
+   1,R,J
+  15,R,D,X
+   4,D
+  43,R,D
+   4,D,X
+   2,R,J
+  58
+
+#lvl_a-13
+   8,R
+   1,R,J
+  12,R,D,X
+  10,R
+   7,U,G
+   1,G
+   1,U,G
+   2,D,G
+   2
+   1,G
+   2
+   2,G
+  30,L
+  57
+   4,Z
+Read,../5S,5AG2,lvl_b-00 (0)
+###
+
+Read,../5S,lvl_b-00 (0),Overworld
 
 #Overworld
 Read,../5SHC,Overworld,lvl_b-16
@@ -126,8 +220,15 @@ EndRepeat
 #lvl_d-19b (1)
 Read,../5S,lvl_d-19b (1),Spinner Cycle
 
-#lvl_e-00 (1)
-   1
-Read,../5S,-------------
+#lvl_e-00
+# can be adjusted by moving berries between 5AG and 5SHCG
+   0
 
-FileTime: 6:39.551(23503)
+### don't collect e-06 berry
+Read,../5S,-------------,lvl_e-06
+Read,../5A,lvl_e-06
+### collect e-06 berry
+#Read,../5S,-------------
+###
+
+FileTime: 6:24.982(22646)
