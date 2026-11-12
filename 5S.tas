@@ -368,6 +368,7 @@ console load 5
    9,J,G
   18
   22,L,D
+#5AG1
   15,L,X
   15,L,U,C
   21,R
@@ -546,6 +547,7 @@ EndRepeat
    3,R,D
    5,L,D
    8,L,D,X
+#5AG2
    1,R,J
    6,R
    1,R,J
