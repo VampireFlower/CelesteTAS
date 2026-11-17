@@ -5,28 +5,25 @@ console load 10 2776 -1640
   36
 
 # c-00 Spinner Cycle
-   0
+   1
 
 #lvl_a-00
-  11,R,J
-   2,R
-  15,U,X
-  31,R
-   1,R,D
-  19,R
-  18,R,U,X
+   5,L,D,J
+  13,J
+  15,R,U,X
+  43,R
+  21,R,U,X
   15,U,C
   15,R,X
-  21,R,D
-   2,D
-   1
-   1,R
-   3
+  20,R,D
    1,D
-   5
-   1,L
+   1,R,D
+   5,L,D
+   3,L
+   1,L,D
+   2,L
    5,L,Z
-   1,R,J
+   2,R,J
    2,R
    1,R,J
    1,R
@@ -150,8 +147,7 @@ Read,../9NMG,lvl_a-04,lvl_c-00
    2,J,G
    1,K,G
    1,J,G
-   3,L,J
-   7,L,J
+  10,L,J
    1,L
   15,R,D,X
    1,R,G
@@ -179,8 +175,7 @@ StunPause
    2,R,D,G
    2,R,U,G
 EndStunPause
-   8,R,U,G
-   2,R,U,G
+  10,R,U,G
   40
 
 #lvl_c-alt-00
@@ -227,10 +222,8 @@ EndStunPause
    6
    1,L
   23,L,D,G
-  59,D,G
-   2,D,G
-   1,G
-   2,G
+  61,D,G
+   3,G
    1,L,G
   20,L,D,G
    3,D,G
